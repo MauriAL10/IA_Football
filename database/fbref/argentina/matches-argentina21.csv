@@ -1,0 +1,603 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+7,2021-07-18,18:00,Primera Div,Matchweek 1,Sun,Home,L,1,2,Colón,,,74,,Javier Pinola,3-4-3,Darío Herrera,Match Report,,21,8,,,0,0,2021,River Plate
+9,2021-07-25,18:00,Primera Div,Matchweek 2,Sun,Home,W,4,0,CA Unión,,,75,,Franco Armani,4-4-2,Hernán Mastrángelo,Match Report,,15,5,,,0,0,2021,River Plate
+10,2021-07-28,21:00,Primera Div,Matchweek 3,Wed,Away,W,3,0,Lanús,,,62,,Franco Armani,4-1-3-2,Fernando Rapallini,Match Report,,18,6,,,0,0,2021,River Plate
+11,2021-08-01,18:00,Primera Div,Matchweek 4,Sun,Home,D,1,1,CA Huracán,,,74,,Franco Armani,4-2-3-1,Facundo Tello,Match Report,,18,6,,,0,0,2021,River Plate
+12,2021-08-07,20:15,Primera Div,Matchweek 5,Sat,Away,L,1,2,Godoy Cruz,,,57,,Javier Pinola,4-2-3-1,Ariel Penel,Match Report,,16,5,,,0,0,2021,River Plate
+14,2021-08-14,18:00,Primera Div,Matchweek 6,Sat,Home,W,2,0,Vélez Sarsf,,,47,,Franco Armani,4-3-3,Pablo Echavarría,Match Report,,11,5,,,1,1,2021,River Plate
+16,2021-08-22,20:15,Primera Div,Matchweek 7,Sun,Away,D,1,1,Gimnasia ELP,,,65,,Franco Armani,4-4-2,Pablo Dóvalo,Match Report,,12,3,,,0,0,2021,River Plate
+17,2021-08-26,21:00,Primera Div,Matchweek 8,Thu,Home,W,2,0,Aldosivi,,,69,,Franco Armani,3-4-3,Fernando Rapallini,Match Report,,14,7,,,0,1,2021,River Plate
+18,2021-08-30,19:00,Primera Div,Matchweek 9,Mon,Away,W,2,1,Sarmiento,,,70,,Enzo Pérez,3-5-2,Facundo Tello,Match Report,,12,5,,,0,0,2021,River Plate
+19,2021-09-05,21:15,Primera Div,Matchweek 10,Sun,Home,D,1,1,Independiente,,,55,,Enzo Pérez,4-3-3,Andrés Merlos,Match Report,,17,3,,,0,0,2021,River Plate
+20,2021-09-15,21:00,Primera Div,Matchweek 11,Wed,Away,W,4,1,Newell's OB,,,49,,Franco Armani,4-4-2,Pablo Echavarría,Match Report,,12,7,,,0,0,2021,River Plate
+21,2021-09-19,20:15,Primera Div,Matchweek 12,Sun,Home,W,1,0,Arsenal,,,78,,Franco Armani,4-1-2-1-2◆,Jorge Baliño,Match Report,,23,4,,,0,0,2021,River Plate
+22,2021-09-25,20:15,Primera Div,Matchweek 13,Sat,Away,W,3,1,CC Córdoba,,,63,,Franco Armani,4-3-3,Ariel Penel,Match Report,,15,7,,,0,0,2021,River Plate
+23,2021-10-03,17:00,Primera Div,Matchweek 14,Sun,Home,W,2,1,Boca Juniors,,,70,,Franco Armani,4-3-2-1,Fernando Rapallini,Match Report,,8,4,,,0,0,2021,River Plate
+24,2021-10-09,18:00,Primera Div,Matchweek 15,Sat,Away,W,1,0,Banfield,,,52,,Javier Pinola,4-4-2,Yael Falcón,Match Report,,18,8,,,0,0,2021,River Plate
+25,2021-10-17,20:15,Primera Div,Matchweek 16,Sun,Home,W,3,1,San Lorenzo,,,62,,Franco Armani,4-1-2-1-2◆,Facundo Tello,Match Report,,15,8,,,0,0,2021,River Plate
+26,2021-10-21,21:15,Primera Div,Matchweek 17,Thu,Away,W,2,0,Talleres,,,31,,Franco Armani,4-2-3-1,Darío Herrera,Match Report,,7,4,,,0,0,2021,River Plate
+27,2021-10-25,19:00,Primera Div,Matchweek 18,Mon,Home,W,3,0,Argentinos Jun,,,56,,Franco Armani,4-2-3-1,Patricio Loustau,Match Report,,15,5,,,0,0,2021,River Plate
+28,2021-10-31,20:15,Primera Div,Matchweek 19,Sun,Away,D,1,1,Estudiantes,,,77,,Franco Armani,4-3-3,Néstor Pitana,Match Report,,14,5,,,0,0,2021,River Plate
+29,2021-11-07,20:15,Primera Div,Matchweek 20,Sun,Home,W,5,0,Patronato,,,71,,Franco Armani,4-3-3,Mauro Vigliano,Match Report,,14,9,,,0,0,2021,River Plate
+30,2021-11-21,21:30,Primera Div,Matchweek 21,Sun,Away,W,1,0,Platense,,,57,,Franco Armani,4-1-2-1-2◆,Fernando Rapallini,Match Report,,18,6,,,0,0,2021,River Plate
+31,2021-11-25,21:30,Primera Div,Matchweek 22,Thu,Home,W,4,0,Racing Club,,,57,,Leonardo Ponzio,4-1-2-1-2◆,Silvio Trucco,Match Report,,28,10,,,0,0,2021,River Plate
+32,2021-11-28,17:00,Primera Div,Matchweek 23,Sun,Away,D,2,2,Rosario Cent,,,63,,Franco Armani,4-1-3-2,Pablo Echavarría,Match Report,,10,3,,,0,0,2021,River Plate
+33,2021-12-05,21:30,Primera Div,Matchweek 24,Sun,Home,L,2,3,Defensa y Just,,,64,,Franco Armani,4-1-3-2,Patricio Loustau,Match Report,,22,7,,,0,0,2021,River Plate
+34,2021-12-11,19:15,Primera Div,Matchweek 25,Sat,Away,D,1,1,Tucumán,,,68,,Javier Pinola,4-3-1-2,Hernán Mastrángelo,Match Report,,11,4,,,0,0,2021,River Plate
+7,2021-07-18,13:30,Primera Div,Matchweek 1,Sun,Away,L,1,2,CA Huracán,,,67,,Ezequiel Unsain,5-4-1,Ariel Penel,Match Report,,5,3,,,0,0,2021,Defensa y Just
+9,2021-07-25,13:30,Primera Div,Matchweek 2,Sun,Home,L,1,2,Godoy Cruz,,,51,,Ezequiel Unsain,4-4-2,Silvio Trucco,Match Report,,9,2,,,0,0,2021,Defensa y Just
+10,2021-07-28,16:30,Primera Div,Matchweek 3,Wed,Away,D,0,0,Vélez Sarsf,,,28,,Ezequiel Unsain,5-4-1,Leandro Rey Hilfer,Match Report,,9,2,,,0,0,2021,Defensa y Just
+11,2021-08-01,13:30,Primera Div,Matchweek 4,Sun,Home,W,3,2,Gimnasia ELP,,,63,,Ezequiel Unsain,4-4-2,Jorge Baliño,Match Report,,12,5,,,0,0,2021,Defensa y Just
+12,2021-08-09,18:00,Primera Div,Matchweek 5,Mon,Away,L,0,1,Aldosivi,,,39,,Ezequiel Unsain,4-4-2,Germán Delfino,Match Report,,13,6,,,0,0,2021,Defensa y Just
+13,2021-08-16,20:15,Primera Div,Matchweek 6,Mon,Home,W,4,2,Sarmiento,,,54,,Ezequiel Unsain,4-4-2,Hernán Mastrángelo,Match Report,,13,4,,,0,0,2021,Defensa y Just
+14,2021-08-20,21:15,Primera Div,Matchweek 7,Fri,Away,D,0,0,Independiente,,,48,,Ezequiel Unsain,4-4-2,Fernando Rapallini,Match Report,,9,3,,,0,0,2021,Defensa y Just
+15,2021-08-25,16:30,Primera Div,Matchweek 8,Wed,Home,W,2,0,Newell's OB,,,52,,Ezequiel Unsain,4-4-2,Darío Herrera,Match Report,,9,4,,,0,0,2021,Defensa y Just
+16,2021-08-29,13:30,Primera Div,Matchweek 9,Sun,Away,D,0,0,Arsenal,,,71,,Ezequiel Unsain,3-4-3,Fernando Espinoza,Match Report,,15,3,,,0,0,2021,Defensa y Just
+17,2021-09-03,19:00,Primera Div,Matchweek 10,Fri,Home,D,1,1,CC Córdoba,,,64,,Ezequiel Unsain,3-4-3,Pablo Echavarría,Match Report,,13,4,,,0,0,2021,Defensa y Just
+18,2021-09-14,21:00,Primera Div,Matchweek 11,Tue,Away,D,0,0,Boca Juniors,,,41,,Ezequiel Unsain,3-4-3,Ariel Penel,Match Report,,11,3,,,0,0,2021,Defensa y Just
+19,2021-09-20,20:15,Primera Div,Matchweek 12,Mon,Home,D,0,0,Banfield,,,53,,Ezequiel Unsain,3-4-3,Nicolás Lamolina,Match Report,,14,3,,,0,0,2021,Defensa y Just
+20,2021-09-26,15:45,Primera Div,Matchweek 13,Sun,Away,L,1,2,San Lorenzo,,,64,,Ezequiel Unsain,3-4-3,Fernando Espinoza,Match Report,,12,3,,,0,0,2021,Defensa y Just
+21,2021-10-04,18:00,Primera Div,Matchweek 14,Mon,Home,W,3,0,Talleres,,,50,,Ezequiel Unsain,3-4-3,Andrés Merlos,Match Report,,16,9,,,0,0,2021,Defensa y Just
+22,2021-10-09,13:30,Primera Div,Matchweek 15,Sat,Away,W,2,0,Argentinos Jun,,,36,,Ezequiel Unsain,4-4-2,Ariel Penel,Match Report,,13,5,,,0,0,2021,Defensa y Just
+23,2021-10-15,21:15,Primera Div,Matchweek 16,Fri,Home,W,2,1,Estudiantes,,,48,,Ezequiel Unsain,4-4-2,Silvio Trucco,Match Report,,15,5,,,0,0,2021,Defensa y Just
+24,2021-10-19,19:00,Primera Div,Matchweek 17,Tue,Away,D,3,3,Patronato,,,61,,Ezequiel Unsain,4-2-3-1,Yael Falcón,Match Report,,10,5,,,0,0,2021,Defensa y Just
+25,2021-10-23,18:00,Primera Div,Matchweek 18,Sat,Home,W,2,1,Platense,,,56,,Ezequiel Unsain,4-2-3-1,Fernando Espinoza,Match Report,,14,5,,,0,0,2021,Defensa y Just
+26,2021-10-29,19:00,Primera Div,Matchweek 19,Fri,Away,W,2,1,Racing Club,,,37,,Ezequiel Unsain,4-2-3-1,Germán Delfino,Match Report,,9,4,,,0,0,2021,Defensa y Just
+27,2021-11-05,19:00,Primera Div,Matchweek 20,Fri,Home,W,3,0,Rosario Cent,,,48,,Ezequiel Unsain,4-1-4-1,Fernando Rapallini,Match Report,,11,7,,,0,0,2021,Defensa y Just
+28,2021-11-18,17:00,Primera Div,Matchweek 21,Thu,Away,W,3,2,CA Unión,,,50,,Ezequiel Unsain,4-1-4-1,Silvio Trucco,Match Report,,6,3,,,0,0,2021,Defensa y Just
+29,2021-11-24,19:15,Primera Div,Matchweek 22,Wed,Away,W,4,0,Tucumán,,,54,,Ezequiel Unsain,4-4-1-1,Carlos Gareano,Match Report,,13,7,,,1,1,2021,Defensa y Just
+30,2021-11-28,19:15,Primera Div,Matchweek 23,Sun,Home,D,1,1,Colón,,,53,,Ezequiel Unsain,4-4-1-1,Fernando Espinoza,Match Report,,18,4,,,0,1,2021,Defensa y Just
+31,2021-12-05,21:30,Primera Div,Matchweek 24,Sun,Away,W,3,2,River Plate,,,36,,Ezequiel Unsain,4-4-1-1,Patricio Loustau,Match Report,,6,5,,,0,0,2021,Defensa y Just
+32,2021-12-12,19:15,Primera Div,Matchweek 25,Sun,Home,W,2,1,Lanús,,,44,,Ezequiel Unsain,4-4-1-1,Adrián Franklin,Match Report,,10,3,,,0,0,2021,Defensa y Just
+0,2019-07-28,20:00,Primera Div,Matchweek 1,Sun,Home,D,0,0,CA Huracán,,,66,,Carlos Tevez,4-4-2,Diego Abal,Match Report,,17,5,,,0,0,2021,Boca Juniors
+1,2019-08-04,20:00,Primera Div,Matchweek 2,Sun,Away,W,2,0,Patronato,,,67,,Carlos Tevez,4-4-1-1,Fernando Rapallini,Match Report,,6,4,,,0,0,2021,Boca Juniors
+2,2019-08-18,20:00,Primera Div,Matchweek 3,Sun,Home,W,2,0,Aldosivi,,,43,,Carlos Tevez,4-4-1-1,Mauro Vigliano,Match Report,,14,5,,,0,0,2021,Boca Juniors
+3,2019-08-25,20:00,Primera Div,Matchweek 4,Sun,Away,W,1,0,Banfield,,,33,,Paolo Goltz,4-4-2,Fernando Echenique,Match Report,,3,1,,,0,0,2021,Boca Juniors
+4,2019-09-01,17:00,Primera Div,Matchweek 5,Sun,Away,D,0,0,River Plate,,,37,,Carlos Izquierdoz,4-1-4-1,Fernando Rapallini,Match Report,,5,4,,,0,0,2021,Boca Juniors
+5,2019-09-15,20:00,Primera Div,Matchweek 6,Sun,Home,W,1,0,Estudiantes,,,41,,Carlos Izquierdoz,4-2-3-1,Facundo Tello,Match Report,,19,7,,,0,0,2021,Boca Juniors
+6,2019-09-21,17:45,Primera Div,Matchweek 7,Sat,Away,W,2,0,San Lorenzo,,,41,,Carlos Izquierdoz,4-1-4-1,Mauro Vigliano,Match Report,,8,6,,,0,0,2021,Boca Juniors
+7,2019-09-28,20:00,Primera Div,Matchweek 8,Sat,Home,D,1,1,Newell's OB,,,48,,Carlos Izquierdoz,4-4-1-1,Darío Herrera,Match Report,,11,4,,,0,0,2021,Boca Juniors
+8,2019-10-06,20:00,Primera Div,Matchweek 9,Sun,Away,W,1,0,Defensa y Just,,,39,,Carlos Izquierdoz,4-2-3-1,Pablo Echavarría,Match Report,,7,4,,,0,0,2021,Boca Juniors
+9,2019-10-18,21:10,Primera Div,Matchweek 10,Fri,Home,L,0,1,Racing Club,,,54,,Paolo Goltz,4-1-4-1,Fernando Echenique,Match Report,,15,2,,,0,0,2021,Boca Juniors
+10,2019-10-31,21:20,Primera Div,Matchweek 11,Thu,Away,L,1,2,Lanús,,,58,,Carlos Izquierdoz,4-4-1-1,Fernando Rapallini,Match Report,,19,9,,,0,0,2021,Boca Juniors
+11,2019-11-03,11:00,Primera Div,Matchweek 12,Sun,Home,W,5,1,Arsenal,,,50,,Carlos Tevez,4-4-1-1,Pablo Echavarría,Match Report,,19,8,,,0,0,2021,Boca Juniors
+12,2019-11-10,20:00,Primera Div,Matchweek 13,Sun,Away,D,0,0,Vélez Sarsf,,,37,,Carlos Izquierdoz,4-4-1-1,Patricio Loustau,Match Report,,12,7,,,0,0,2021,Boca Juniors
+13,2019-11-24,17:10,Primera Div,Matchweek 14,Sun,Home,W,2,0,CA Unión,,,59,,Ramón Ábila,4-2-3-1,Facundo Tello,Match Report,,23,10,,,0,0,2021,Boca Juniors
+14,2019-11-30,19:40,Primera Div,Matchweek 15,Sat,Home,D,1,1,Argentinos Jun,,,55,,Ramón Ábila,4-1-4-1,Andrés Merlos,Match Report,,4,2,,,0,0,2021,Boca Juniors
+15,2019-12-08,19:40,Primera Div,Matchweek 16,Sun,Away,L,0,1,Rosario Cent,,,59,,Carlos Izquierdoz,4-4-1-1,Diego Abal,Match Report,,17,5,,,0,0,2021,Boca Juniors
+16,2020-01-26,21:45,Primera Div,Matchweek 17,Sun,Home,D,0,0,Independiente,,,49,,Carlos Tevez,4-1-3-2,Fernando Echenique,Match Report,,8,2,,,0,0,2021,Boca Juniors
+17,2020-02-02,21:45,Primera Div,Matchweek 18,Sun,Away,W,2,1,Talleres,,,47,,Carlos Tevez,4-1-3-2,Fernando Rapallini,Match Report,,9,5,,,0,0,2021,Boca Juniors
+18,2020-02-08,21:45,Primera Div,Matchweek 19,Sat,Home,W,2,0,Tucumán,,,59,,Carlos Tevez,4-1-3-2,Mauro Vigliano,Match Report,,13,5,,,1,1,2021,Boca Juniors
+19,2020-02-16,21:50,Primera Div,Matchweek 20,Sun,Away,W,4,0,CC Córdoba,,,55,,Carlos Tevez,4-1-3-2,Facundo Tello,Match Report,,12,7,,,0,2,2021,Boca Juniors
+20,2020-02-23,19:40,Primera Div,Matchweek 21,Sun,Home,W,3,0,Godoy Cruz,,,66,,Carlos Tevez,4-1-3-2,Nicolás Lamolina,Match Report,,13,6,,,0,0,2021,Boca Juniors
+21,2020-02-28,21:10,Primera Div,Matchweek 22,Fri,Away,W,4,0,Colón,,,62,,Carlos Tevez,4-1-3-2,Diego Abal,Match Report,,13,5,,,0,0,2021,Boca Juniors
+22,2020-03-07,21:00,Primera Div,Matchweek 23,Sat,Home,W,1,0,Gimnasia ELP,,,63,,Carlos Tevez,4-1-3-2,Facundo Tello,Match Report,,16,6,,,0,0,2021,Boca Juniors
+0,2019-07-27,20:00,Primera Div,Matchweek 1,Sat,Away,D,1,1,Argentinos Jun,,,56,,Franco Armani,4-4-2,Fernando Rapallini,Match Report,,10,6,,,0,0,2021,River Plate
+1,2019-08-04,17:45,Primera Div,Matchweek 2,Sun,Home,W,3,0,Lanús,,,55,,Franco Armani,4-4-2,Germán Delfino,Match Report,,25,12,,,1,2,2021,River Plate
+2,2019-08-17,20:00,Primera Div,Matchweek 3,Sat,Away,W,6,1,Racing Club,,,59,,Franco Armani,4-2-2-2,Patricio Loustau,Match Report,,19,11,,,1,1,2021,River Plate
+3,2019-08-25,17:45,Primera Div,Matchweek 4,Sun,Home,L,0,1,Talleres,,,53,,Javier Pinola,4-2-2-2,Néstor Pitana,Match Report,,10,2,,,0,0,2021,River Plate
+4,2019-09-01,17:00,Primera Div,Matchweek 5,Sun,Home,D,0,0,Boca Juniors,,,63,,Franco Armani,4-4-2,Fernando Rapallini,Match Report,,17,5,,,0,0,2021,River Plate
+5,2019-09-14,20:00,Primera Div,Matchweek 6,Sat,Away,W,4,0,CA Huracán,,,71,,Franco Armani,4-1-3-2,Nicolás Lamolina,Match Report,,20,9,,,1,1,2021,River Plate
+6,2019-09-22,20:00,Primera Div,Matchweek 7,Sun,Home,L,1,2,Vélez Sarsf,,,63,,Franco Armani,4-3-3,Andrés Merlos,Match Report,,26,7,,,0,0,2021,River Plate
+7,2019-09-28,17:45,Primera Div,Matchweek 8,Sat,Away,W,2,0,Gimnasia ELP,,,51,,Ignacio Scocco,4-4-2,Patricio Loustau,Match Report,,18,3,,,0,0,2021,River Plate
+8,2019-10-06,17:45,Primera Div,Matchweek 9,Sun,Home,W,2,0,Patronato,,,78,,Franco Armani,4-1-3-2,Fernando Echenique,Match Report,,21,8,,,0,0,2021,River Plate
+9,2019-10-18,19:00,Primera Div,Matchweek 10,Fri,Away,D,3,3,Arsenal,,,49,,Ignacio Scocco,4-3-3,Facundo Tello,Match Report,,19,6,,,0,0,2021,River Plate
+10,2019-10-29,21:20,Primera Div,Matchweek 11,Tue,Home,W,2,1,Colón,,,64,,Javier Pinola,4-1-3-2,Nicolás Lamolina,Match Report,,17,4,,,0,0,2021,River Plate
+11,2019-11-02,20:00,Primera Div,Matchweek 12,Sat,Away,W,2,1,Aldosivi,,,57,,Leonardo Ponzio,4-3-3,Fernando Rapallini,Match Report,,19,6,,,0,0,2021,River Plate
+12,2019-11-10,11:00,Primera Div,Matchweek 13,Sun,Home,L,0,1,Rosario Cent,,,69,,Javier Pinola,4-1-3-2,Fernando Echenique,Match Report,,17,2,,,0,0,2021,River Plate
+13,2019-11-30,21:45,Primera Div,Matchweek 15,Sat,Away,W,3,2,Newell's OB,,,60,,Leonardo Ponzio,4-3-3,Néstor Pitana,Match Report,,15,6,,,0,0,2021,River Plate
+14,2019-12-08,21:45,Primera Div,Matchweek 16,Sun,Home,L,0,1,San Lorenzo,,,76,,Javier Pinola,4-1-3-2,Patricio Loustau,Match Report,,23,6,,,0,2,2021,River Plate
+15,2020-01-19,19:10,Primera Div,Matchweek 14,Sun,Away,W,2,1,Independiente,,,49,,Leonardo Ponzio,3-5-2,Fernando Rapallini,Match Report,,9,4,,,0,0,2021,River Plate
+16,2020-01-25,21:45,Primera Div,Matchweek 17,Sat,Away,W,1,0,Godoy Cruz,,,67,,Franco Armani,3-5-2,Mauro Vigliano,Match Report,,22,4,,,0,0,2021,River Plate
+17,2020-02-02,17:35,Primera Div,Matchweek 18,Sun,Home,W,2,0,CC Córdoba,,,46,,Franco Armani,5-3-2,Néstor Pitana,Match Report,,14,4,,,0,0,2021,River Plate
+18,2020-02-09,21:45,Primera Div,Matchweek 19,Sun,Away,W,2,1,CA Unión,,,66,,Javier Pinola,5-3-2,Facundo Tello,Match Report,,13,4,,,0,0,2021,River Plate
+19,2020-02-16,19:40,Primera Div,Matchweek 20,Sun,Home,W,1,0,Banfield,,,58,,Javier Pinola,5-3-2,Fernando Rapallini,Match Report,,17,9,,,0,1,2021,River Plate
+20,2020-02-23,21:45,Primera Div,Matchweek 21,Sun,Away,W,2,0,Estudiantes,,,56,,Javier Pinola,5-3-2,Darío Herrera,Match Report,,9,5,,,0,0,2021,River Plate
+21,2020-02-29,19:40,Primera Div,Matchweek 22,Sat,Home,D,1,1,Defensa y Just,,,50,,Javier Pinola,5-3-2,Fernando Echenique,Match Report,,15,7,,,1,1,2021,River Plate
+22,2020-03-07,21:00,Primera Div,Matchweek 23,Sat,Away,D,1,1,Tucumán,,,67,,Javier Pinola,3-5-2,Patricio Loustau,Match Report,,16,1,,,0,0,2021,River Plate
+0,2019-07-28,15:30,Primera Div,Matchweek 1,Sun,Away,L,0,1,Talleres,,,68,,Gastón Giménez,4-2-3-1,Ariel Penel,Match Report,,8,1,,,0,0,2021,Velez Sarsf
+1,2019-08-03,20:00,Primera Div,Matchweek 2,Sat,Home,D,2,2,Racing Club,,,54,,Lautaro Gianetti,4-3-3,Néstor Pitana,Match Report,,8,4,,,0,0,2021,Velez Sarsf
+2,2019-08-18,17:45,Primera Div,Matchweek 3,Sun,Away,L,1,3,Lanús,,,72,,Lautaro Gianetti,4-3-3,Facundo Tello,Match Report,,5,2,,,0,0,2021,Velez Sarsf
+3,2019-08-24,15:30,Primera Div,Matchweek 4,Sat,Home,W,3,1,Newell's OB,,,63,,Lautaro Gianetti,4-3-3,Germán Delfino,Match Report,,8,4,,,0,0,2021,Velez Sarsf
+4,2019-08-30,21:10,Primera Div,Matchweek 5,Fri,Away,W,1,0,Estudiantes,,,40,,Lautaro Gianetti,4-3-3,Patricio Loustau,Match Report,,6,1,,,0,0,2021,Velez Sarsf
+5,2019-09-16,21:10,Primera Div,Matchweek 6,Mon,Home,W,1,0,Tucumán,,,61,,Lautaro Gianetti,4-3-3,Darío Herrera,Match Report,,14,3,,,0,0,2021,Velez Sarsf
+6,2019-09-22,20:00,Primera Div,Matchweek 7,Sun,Away,W,2,1,River Plate,,,37,,Lautaro Gianetti,4-3-3,Andrés Merlos,Match Report,,8,4,,,1,1,2021,Velez Sarsf
+7,2019-09-29,15:30,Primera Div,Matchweek 8,Sun,Home,L,0,1,Defensa y Just,,,62,,Lautaro Gianetti,4-3-3,Nicolás Lamolina,Match Report,,23,7,,,0,0,2021,Velez Sarsf
+8,2019-10-06,11:00,Primera Div,Matchweek 9,Sun,Home,W,2,0,Independiente,,,52,,Lautaro Gianetti,4-3-3,Germán Delfino,Match Report,,8,3,,,0,0,2021,Velez Sarsf
+9,2019-10-20,17:45,Primera Div,Matchweek 10,Sun,Away,W,1,0,Rosario Cent,,,54,,Lautaro Gianetti,4-1-4-1,Ariel Penel,Match Report,,15,7,,,0,0,2021,Velez Sarsf
+10,2019-10-31,19:10,Primera Div,Matchweek 11,Thu,Home,D,0,0,CA Huracán,,,75,,Lautaro Gianetti,4-3-3,Néstor Pitana,Match Report,,9,2,,,0,0,2021,Velez Sarsf
+11,2019-11-04,21:10,Primera Div,Matchweek 12,Mon,Away,D,0,0,CC Córdoba,,,68,,Lautaro Gianetti,3-3-3-1,Silvio Trucco,Match Report,,14,3,,,0,0,2021,Velez Sarsf
+12,2019-11-10,20:00,Primera Div,Matchweek 13,Sun,Home,D,0,0,Boca Juniors,,,63,,Lautaro Gianetti,4-2-3-1,Patricio Loustau,Match Report,,13,6,,,0,0,2021,Velez Sarsf
+13,2019-11-24,19:40,Primera Div,Matchweek 14,Sun,Away,L,0,1,Banfield,,,74,,Lautaro Gianetti,4-2-3-1,Hernán Mastrángelo,Match Report,,10,2,,,0,0,2021,Velez Sarsf
+14,2019-12-01,19:40,Primera Div,Matchweek 15,Sun,Home,W,3,1,Colón,,,62,,Lautaro Gianetti,4-3-3,Ariel Penel,Match Report,,17,8,,,0,0,2021,Velez Sarsf
+15,2019-12-09,19:00,Primera Div,Matchweek 16,Mon,Away,W,1,0,Patronato,,,55,,Lautaro Gianetti,4-1-4-1,Germán Delfino,Match Report,,14,4,,,0,0,2021,Velez Sarsf
+16,2020-01-24,19:40,Primera Div,Matchweek 17,Fri,Away,D,0,0,Gimnasia ELP,,,61,,Lautaro Gianetti,4-1-4-1,Patricio Loustau,Match Report,,9,3,,,0,0,2021,Velez Sarsf
+17,2020-01-30,21:10,Primera Div,Matchweek 18,Thu,Home,D,1,1,Aldosivi,,,51,,Lautaro Gianetti,4-2-3-1,Hernán Mastrángelo,Match Report,,10,5,,,0,0,2021,Velez Sarsf
+18,2020-02-09,17:35,Primera Div,Matchweek 19,Sun,Away,L,0,1,San Lorenzo,,,69,,Lautaro Gianetti,3-3-3-1,Nicolás Lamolina,Match Report,,19,6,,,0,0,2021,Velez Sarsf
+19,2020-02-23,17:35,Primera Div,Matchweek 21,Sun,Away,W,4,0,Arsenal,,,50,,Gastón Giménez,3-5-2,Mauro Vigliano,Match Report,,15,7,,,0,0,2021,Velez Sarsf
+20,2020-03-01,21:50,Primera Div,Matchweek 22,Sun,Home,W,2,0,Argentinos Jun,,,55,,Gastón Giménez,4-3-3,Néstor Pitana,Match Report,,13,5,,,0,0,2021,Velez Sarsf
+21,2020-03-04,19:00,Primera Div,Matchweek 20,Wed,Home,L,0,1,Godoy Cruz,,,77,,Gastón Giménez,4-3-3,Ariel Penel,Match Report,,20,2,,,0,0,2021,Velez Sarsf
+22,2020-03-09,19:00,Primera Div,Matchweek 23,Mon,Away,W,3,0,CA Unión,,,51,,Lucas Hoyos,3-4-3,Silvio Trucco,Match Report,,15,6,,,0,0,2021,Velez Sarsf
+0,2019-07-26,21:00,Primera Div,Matchweek 1,Fri,Home,D,0,0,CA Unión,,,73,,Lisandro López,4-1-3-2,Nicolás Lamolina,Match Report,,15,4,,,0,0,2021,Racing Club
+1,2019-08-03,20:00,Primera Div,Matchweek 2,Sat,Away,D,2,2,Vélez Sarsf,,,46,,Lisandro López,4-1-3-2,Néstor Pitana,Match Report,,10,4,,,0,0,2021,Racing Club
+2,2019-08-17,20:00,Primera Div,Matchweek 3,Sat,Home,L,1,6,River Plate,,,41,,Lisandro López,4-1-3-2,Patricio Loustau,Match Report,,9,4,,,0,0,2021,Racing Club
+3,2019-08-25,15:30,Primera Div,Matchweek 4,Sun,Away,D,0,0,CC Córdoba,,,63,,Lisandro López,4-1-3-2,Mauro Vigliano,Match Report,,9,1,,,0,0,2021,Racing Club
+4,2019-08-31,20:00,Primera Div,Matchweek 5,Sat,Home,W,3,1,Godoy Cruz,,,81,,Lisandro López,4-1-3-2,Germán Delfino,Match Report,,13,4,,,1,1,2021,Racing Club
+5,2019-09-15,11:00,Primera Div,Matchweek 6,Sun,Away,W,2,1,Gimnasia ELP,,,60,,Lisandro López,4-1-3-2,Diego Abal,Match Report,,12,3,,,0,0,2021,Racing Club
+6,2019-09-22,17:45,Primera Div,Matchweek 7,Sun,Home,W,2,1,Arsenal,,,52,,Lisandro López,4-1-3-2,Patricio Loustau,Match Report,,18,8,,,0,0,2021,Racing Club
+7,2019-09-29,17:45,Primera Div,Matchweek 8,Sun,Away,D,1,1,Rosario Cent,,,50,,Lisandro López,4-1-3-2,Jorge Baliño,Match Report,,5,1,,,0,0,2021,Racing Club
+8,2019-10-05,20:00,Primera Div,Matchweek 9,Sat,Home,W,2,0,Aldosivi,,,66,,Lisandro López,4-1-3-2,Mauro Vigliano,Match Report,,13,3,,,1,1,2021,Racing Club
+9,2019-10-18,21:10,Primera Div,Matchweek 10,Fri,Away,W,1,0,Boca Juniors,,,46,,Lisandro López,4-1-3-2,Fernando Echenique,Match Report,,9,3,,,0,0,2021,Racing Club
+10,2019-10-30,21:20,Primera Div,Matchweek 11,Wed,Home,D,0,0,Banfield,,,71,,Lisandro López,4-1-3-2,Diego Abal,Match Report,,23,7,,,0,0,2021,Racing Club
+11,2019-11-03,17:45,Primera Div,Matchweek 12,Sun,Away,D,1,1,Patronato,,,68,,Iván Pillud,4-1-3-2,Facundo Tello,Match Report,,19,6,,,0,0,2021,Racing Club
+12,2019-11-10,17:45,Primera Div,Matchweek 13,Sun,Home,W,1,0,CA Huracán,,,73,,Lisandro López,4-1-3-2,Fernando Rapallini,Match Report,,13,2,,,0,0,2021,Racing Club
+13,2019-11-24,21:45,Primera Div,Matchweek 14,Sun,Away,D,3,3,Talleres,,,55,,Lisandro López,4-1-3-2,Néstor Pitana,Match Report,,15,6,,,0,0,2021,Racing Club
+14,2019-11-29,21:10,Primera Div,Matchweek 15,Fri,Home,D,1,1,Defensa y Just,,,51,,Iván Pillud,4-1-3-2,Patricio Loustau,Match Report,,13,4,,,1,1,2021,Racing Club
+15,2019-12-07,21:45,Primera Div,Matchweek 16,Sat,Away,L,0,1,Lanús,,,55,,Iván Pillud,4-1-3-2,Darío Herrera,Match Report,,4,2,,,0,0,2021,Racing Club
+16,2020-01-26,19:40,Primera Div,Matchweek 17,Sun,Home,D,1,1,Tucumán,,,68,,Lisandro López,4-3-3,Néstor Pitana,Match Report,,10,4,,,0,0,2021,Racing Club
+17,2020-02-01,21:45,Primera Div,Matchweek 18,Sat,Away,D,1,1,Argentinos Jun,,,66,,Lisandro López,4-4-2,Fernando Echenique,Match Report,,7,3,,,0,0,2021,Racing Club
+18,2020-02-09,19:40,Primera Div,Matchweek 19,Sun,Home,W,1,0,Independiente,,,47,,Lisandro López,4-3-3,Patricio Loustau,Match Report,,11,5,,,0,0,2021,Racing Club
+19,2020-02-14,21:10,Primera Div,Matchweek 20,Fri,Away,D,1,1,Colón,,,67,,Lisandro López,4-2-3-1,Hernán Mastrángelo,Match Report,,10,5,,,0,0,2021,Racing Club
+20,2020-02-22,17:35,Primera Div,Matchweek 21,Sat,Away,W,1,0,San Lorenzo,,,60,,Iván Pillud,4-1-4-1,Silvio Trucco,Match Report,,13,3,,,0,0,2021,Racing Club
+21,2020-02-28,19:00,Primera Div,Matchweek 22,Fri,Home,D,1,1,Newell's OB,,,60,,Lisandro López,4-1-4-1,Facundo Tello,Match Report,,8,6,,,0,0,2021,Racing Club
+22,2020-03-09,21:10,Primera Div,Matchweek 23,Mon,Away,W,2,1,Estudiantes,,,60,,Iván Pillud,4-1-4-1,Néstor Pitana,Match Report,,6,2,,,0,0,2021,Racing Club
+0,2019-07-27,20:00,Primera Div,Matchweek 1,Sat,Home,D,1,1,River Plate,,,44,,Miguel Ángel Torrén,4-2-3-1,Fernando Rapallini,Match Report,,10,2,,,0,0,2021,Argentinos Jun
+1,2019-08-03,13:15,Primera Div,Matchweek 2,Sat,Away,D,0,0,Aldosivi,,,44,,Miguel Ángel Torrén,4-2-3-1,Diego Abal,Match Report,,14,4,,,0,0,2021,Argentinos Jun
+2,2019-08-16,19:00,Primera Div,Matchweek 3,Fri,Home,W,3,2,Banfield,,,43,,Miguel Ángel Torrén,4-2-3-1,Andrés Merlos,Match Report,,9,4,,,0,0,2021,Argentinos Jun
+3,2019-08-26,21:10,Primera Div,Matchweek 4,Mon,Away,D,0,0,CA Huracán,,,53,,Miguel Ángel Torrén,4-2-3-1,Patricio Loustau,Match Report,,9,3,,,0,0,2021,Argentinos Jun
+4,2019-08-31,13:15,Primera Div,Matchweek 5,Sat,Home,W,1,0,Gimnasia ELP,,,57,,Miguel Ángel Torrén,4-3-3,Facundo Tello,Match Report,,17,6,,,0,0,2021,Argentinos Jun
+5,2019-09-14,15:30,Primera Div,Matchweek 6,Sat,Away,W,1,0,Godoy Cruz,,,57,,Miguel Ángel Torrén,4-2-3-1,Néstor Pitana,Match Report,,18,3,,,0,0,2021,Argentinos Jun
+6,2019-09-20,21:10,Primera Div,Matchweek 7,Fri,Home,W,3,1,CC Córdoba,,,55,,Miguel Ángel Torrén,4-2-3-1,Fernando Echenique,Match Report,,17,5,,,0,0,2021,Argentinos Jun
+7,2019-09-30,21:10,Primera Div,Matchweek 8,Mon,Away,L,0,1,Colón,,,65,,Miguel Ángel Torrén,4-1-4-1,Yael Falcón,Match Report,,10,1,,,0,0,2021,Argentinos Jun
+8,2019-10-05,13:15,Primera Div,Matchweek 9,Sat,Home,W,2,1,Arsenal,,,46,,Gabriel Hauche,4-2-3-1,Fernando Espinoza,Match Report,,20,6,,,0,0,2021,Argentinos Jun
+9,2019-10-19,15:30,Primera Div,Matchweek 10,Sat,Away,W,1,0,Independiente,,,39,,Miguel Ángel Torrén,4-3-3,Nicolás Lamolina,Match Report,,14,5,,,0,0,2021,Argentinos Jun
+10,2019-10-30,15:00,Primera Div,Matchweek 11,Wed,Home,W,1,0,Talleres,,,49,,Miguel Ángel Torrén,4-3-3,Andrés Merlos,Match Report,,7,3,,,0,0,2021,Argentinos Jun
+11,2019-11-04,19:00,Primera Div,Matchweek 12,Mon,Away,D,0,0,Defensa y Just,,,45,,Miguel Ángel Torrén,4-2-3-1,Mauro Vigliano,Match Report,,8,0,,,0,0,2021,Argentinos Jun
+12,2019-11-09,17:45,Primera Div,Matchweek 13,Sat,Away,L,0,3,San Lorenzo,,,67,,Miguel Ángel Torrén,4-3-3,Nicolás Lamolina,Match Report,,14,0,,,0,0,2021,Argentinos Jun
+13,2019-11-25,21:10,Primera Div,Matchweek 14,Mon,Home,W,1,0,Newell's OB,,,42,,Miguel Ángel Torrén,4-3-3,Silvio Trucco,Match Report,,9,4,,,0,0,2021,Argentinos Jun
+14,2019-11-30,19:40,Primera Div,Matchweek 15,Sat,Away,D,1,1,Boca Juniors,,,45,,Miguel Ángel Torrén,4-2-3-1,Andrés Merlos,Match Report,,7,2,,,0,0,2021,Argentinos Jun
+15,2019-12-09,21:10,Primera Div,Matchweek 16,Mon,Home,D,1,1,Estudiantes,,,44,,Miguel Ángel Torrén,4-2-3-1,Facundo Tello,Match Report,,14,3,,,1,1,2021,Argentinos Jun
+16,2020-01-24,21:45,Primera Div,Matchweek 17,Fri,Away,L,0,1,CA Unión,,,58,,Miguel Ángel Torrén,4-2-3-1,Andrés Merlos,Match Report,,8,3,,,0,0,2021,Argentinos Jun
+17,2020-02-01,21:45,Primera Div,Matchweek 18,Sat,Home,D,1,1,Racing Club,,,34,,Miguel Ángel Torrén,4-3-1-2,Fernando Echenique,Match Report,,10,3,,,0,0,2021,Argentinos Jun
+18,2020-02-07,21:10,Primera Div,Matchweek 19,Fri,Home,D,0,0,Lanús,,,50,,Miguel Ángel Torrén,4-3-1-2,Fernando Rapallini,Match Report,,17,9,,,0,1,2021,Argentinos Jun
+19,2020-02-15,19:40,Primera Div,Matchweek 20,Sat,Away,W,2,0,Tucumán,,,57,,Miguel Ángel Torrén,4-3-3,Germán Delfino,Match Report,,6,2,,,1,1,2021,Argentinos Jun
+20,2020-02-21,21:10,Primera Div,Matchweek 21,Fri,Home,D,1,1,Patronato,,,66,,Miguel Ángel Torrén,4-3-3,Patricio Loustau,Match Report,,22,10,,,0,0,2021,Argentinos Jun
+21,2020-03-01,21:50,Primera Div,Matchweek 22,Sun,Away,L,0,2,Vélez Sarsf,,,46,,Miguel Ángel Torrén,4-3-3,Néstor Pitana,Match Report,,13,2,,,0,0,2021,Argentinos Jun
+22,2020-03-06,21:10,Primera Div,Matchweek 23,Fri,Home,W,2,1,Rosario Cent,,,52,,Miguel Ángel Torrén,4-3-3,Ariel Penel,Match Report,,11,4,,,0,0,2021,Argentinos Jun
+0,2019-07-28,17:45,Primera Div,Matchweek 1,Sun,Home,L,0,1,Independiente,,,52,,Ezequiel Unsain,3-4-1-2,Patricio Loustau,Match Report,,3,1,,,0,0,2021,Defensa y Just
+1,2019-08-04,11:00,Primera Div,Matchweek 2,Sun,Away,L,1,2,CA Unión,,,67,,Ezequiel Unsain,3-1-4-2,Darío Herrera,Match Report,,11,2,,,0,0,2021,Defensa y Just
+2,2019-08-18,15:30,Primera Div,Matchweek 3,Sun,Home,L,0,3,Arsenal,,,59,,Ezequiel Unsain,3-5-2,Fernando Espinoza,Match Report,,11,2,,,0,0,2021,Defensa y Just
+3,2019-08-24,13:15,Primera Div,Matchweek 4,Sat,Away,W,1,0,Gimnasia ELP,,,56,,Ezequiel Unsain,4-2-3-1,Andrés Merlos,Match Report,,14,3,,,0,0,2021,Defensa y Just
+4,2019-08-30,21:10,Primera Div,Matchweek 5,Fri,Home,D,0,0,Banfield,,,43,,Ezequiel Unsain,4-2-3-1,Darío Herrera,Match Report,,4,1,,,0,0,2021,Defensa y Just
+5,2019-09-14,15:30,Primera Div,Matchweek 6,Sat,Away,W,2,1,CC Córdoba,,,60,,Ezequiel Unsain,4-2-3-1,Fernando Espinoza,Match Report,,11,4,,,0,0,2021,Defensa y Just
+6,2019-09-21,15:30,Primera Div,Matchweek 7,Sat,Home,L,0,1,CA Huracán,,,76,,Ezequiel Unsain,4-2-3-1,Silvio Trucco,Match Report,,11,2,,,0,0,2021,Defensa y Just
+7,2019-09-29,15:30,Primera Div,Matchweek 8,Sun,Away,W,1,0,Vélez Sarsf,,,38,,Ezequiel Unsain,4-4-2,Nicolás Lamolina,Match Report,,7,3,,,0,0,2021,Defensa y Just
+8,2019-10-06,20:00,Primera Div,Matchweek 9,Sun,Home,L,0,1,Boca Juniors,,,61,,Ezequiel Unsain,4-4-2,Pablo Echavarría,Match Report,,16,2,,,0,0,2021,Defensa y Just
+9,2019-10-20,11:00,Primera Div,Matchweek 10,Sun,Away,L,0,1,Aldosivi,,,68,,Ezequiel Unsain,4-4-2,Hernán Mastrángelo,Match Report,,7,0,,,0,0,2021,Defensa y Just
+10,2019-10-30,17:00,Primera Div,Matchweek 11,Wed,Away,W,3,1,San Lorenzo,,,45,,Ezequiel Unsain,4-4-2,Darío Herrera,Match Report,,12,6,,,0,0,2021,Defensa y Just
+11,2019-11-04,19:00,Primera Div,Matchweek 12,Mon,Home,D,0,0,Argentinos Jun,,,55,,Ezequiel Unsain,4-4-2,Mauro Vigliano,Match Report,,8,3,,,0,0,2021,Defensa y Just
+12,2019-11-10,15:30,Primera Div,Matchweek 13,Sun,Away,L,0,2,Newell's OB,,,66,,Ezequiel Unsain,4-4-2,Diego Abal,Match Report,,11,3,,,0,0,2021,Defensa y Just
+13,2019-11-23,19:40,Primera Div,Matchweek 14,Sat,Home,W,2,0,Lanús,,,46,,Ezequiel Unsain,4-4-1-1,Fernando Espinoza,Match Report,,23,9,,,0,0,2021,Defensa y Just
+14,2019-11-29,21:10,Primera Div,Matchweek 15,Fri,Away,D,1,1,Racing Club,,,49,,Ezequiel Unsain,4-4-1-1,Patricio Loustau,Match Report,,11,4,,,0,0,2021,Defensa y Just
+15,2019-12-08,17:35,Primera Div,Matchweek 16,Sun,Home,W,2,0,Godoy Cruz,,,63,,Ezequiel Unsain,4-4-2,Lucas Comesaña,Match Report,,15,3,,,0,0,2021,Defensa y Just
+16,2020-01-26,17:35,Primera Div,Matchweek 17,Sun,Home,W,4,1,Talleres,,,52,,Ezequiel Unsain,4-4-2,Nazareno Arasa,Match Report,,9,6,,,0,0,2021,Defensa y Just
+17,2020-02-01,19:40,Primera Div,Matchweek 18,Sat,Away,D,1,1,Tucumán,,,70,,Ezequiel Unsain,4-4-2,Jorge Baliño,Match Report,,10,5,,,0,0,2021,Defensa y Just
+18,2020-02-08,17:35,Primera Div,Matchweek 19,Sat,Home,D,0,0,Colón,,,72,,Ezequiel Unsain,4-1-3-2,Pablo Echavarría,Match Report,,14,3,,,0,0,2021,Defensa y Just
+19,2020-02-17,19:00,Primera Div,Matchweek 20,Mon,Away,W,2,1,Estudiantes,,,42,,Ezequiel Unsain,4-2-3-1,Leandro Rey Hilfer,Match Report,,11,8,,,0,0,2021,Defensa y Just
+20,2020-02-24,19:40,Primera Div,Matchweek 21,Mon,Home,W,3,0,Rosario Cent,,,52,,Ezequiel Unsain,4-2-3-1,Hernán Mastrángelo,Match Report,,10,8,,,0,0,2021,Defensa y Just
+21,2020-02-29,19:40,Primera Div,Matchweek 22,Sat,Away,D,1,1,River Plate,,,50,,Ezequiel Unsain,3-4-3,Fernando Echenique,Match Report,,9,1,,,0,0,2021,Defensa y Just
+22,2020-03-07,18:00,Primera Div,Matchweek 23,Sat,Home,W,2,0,Patronato,,,64,,Ezequiel Unsain,4-3-3,Nicolás Lamolina,Match Report,,20,5,,,1,1,2021,Defensa y Just
+0,2019-07-27,17:45,Primera Div,Matchweek 1,Sat,Home,D,1,1,Gimnasia ELP,,,57,,Lautaro Acosta,4-3-3,Darío Herrera,Match Report,,19,3,,,0,0,2021,Lanus
+1,2019-08-04,17:45,Primera Div,Matchweek 2,Sun,Away,L,0,3,River Plate,,,45,,José Sand,4-3-3,Germán Delfino,Match Report,,4,3,,,0,0,2021,Lanus
+2,2019-08-18,17:45,Primera Div,Matchweek 3,Sun,Home,W,3,1,Vélez Sarsf,,,28,,Lautaro Acosta,4-3-3,Facundo Tello,Match Report,,9,5,,,1,1,2021,Lanus
+3,2019-08-25,13:15,Primera Div,Matchweek 4,Sun,Away,W,2,1,CA Unión,,,48,,Lautaro Acosta,4-3-3,Fernando Espinoza,Match Report,,12,4,,,0,0,2021,Lanus
+4,2019-08-30,19:00,Primera Div,Matchweek 5,Fri,Home,W,1,0,CC Córdoba,,,54,,Nicolás Pasquini,4-3-3,Hernán Mastrángelo,Match Report,,9,4,,,0,0,2021,Lanus
+5,2019-09-15,17:45,Primera Div,Matchweek 6,Sun,Away,D,2,2,Independiente,,,50,,Lautaro Acosta,4-3-3,Mauro Vigliano,Match Report,,9,6,,,0,0,2021,Lanus
+6,2019-09-22,15:30,Primera Div,Matchweek 7,Sun,Home,W,3,2,Colón,,,54,,Lautaro Acosta,4-3-3,Darío Herrera,Match Report,,16,4,,,1,1,2021,Lanus
+7,2019-09-27,21:10,Primera Div,Matchweek 8,Fri,Away,D,1,1,Patronato,,,62,,Lautaro Acosta,4-3-3,Damián Espinoza,Match Report,,14,7,,,0,0,2021,Lanus
+8,2019-10-06,13:15,Primera Div,Matchweek 9,Sun,Home,D,1,1,Rosario Cent,,,48,,Lautaro Acosta,4-3-3,Diego Abal,Match Report,,19,5,,,0,0,2021,Lanus
+9,2019-10-19,20:00,Primera Div,Matchweek 10,Sat,Away,W,4,2,Talleres,,,39,,Nicolás Pasquini,4-5-1,Mauro Vigliano,Match Report,,6,3,,,1,1,2021,Lanus
+10,2019-10-31,21:20,Primera Div,Matchweek 11,Thu,Home,W,2,1,Boca Juniors,,,42,,Nicolás Pasquini,4-3-3,Fernando Rapallini,Match Report,,9,3,,,0,0,2021,Lanus
+11,2019-11-04,21:10,Primera Div,Matchweek 12,Mon,Away,W,1,0,CA Huracán,,,62,,Nicolás Pasquini,4-3-3,Nicolás Lamolina,Match Report,,7,4,,,0,0,2021,Lanus
+12,2019-11-09,15:30,Primera Div,Matchweek 13,Sat,Home,L,0,1,Banfield,,,65,,Lautaro Acosta,4-1-4-1,Facundo Tello,Match Report,,18,1,,,0,0,2021,Lanus
+13,2019-11-23,19:40,Primera Div,Matchweek 14,Sat,Away,L,0,2,Defensa y Just,,,54,,Nicolás Pasquini,4-3-3,Fernando Espinoza,Match Report,,19,4,,,0,0,2021,Lanus
+14,2019-12-02,19:00,Primera Div,Matchweek 15,Mon,Away,D,1,1,Arsenal,,,48,,Lautaro Acosta,4-3-3,Jorge Baliño,Match Report,,10,2,,,0,0,2021,Lanus
+15,2019-12-07,21:45,Primera Div,Matchweek 16,Sat,Home,W,1,0,Racing Club,,,45,,Lautaro Acosta,4-2-3-1,Darío Herrera,Match Report,,10,0,,,0,0,2021,Lanus
+16,2020-01-24,17:35,Primera Div,Matchweek 17,Fri,Away,L,0,2,Aldosivi,,,54,,Lautaro Acosta,4-2-3-1,Pablo Echavarría,Match Report,,8,2,,,0,0,2021,Lanus
+17,2020-02-02,19:40,Primera Div,Matchweek 18,Sun,Home,W,2,0,Godoy Cruz,,,62,,Lautaro Acosta,4-3-3,Diego Abal,Match Report,,21,6,,,1,1,2021,Lanus
+18,2020-02-07,21:10,Primera Div,Matchweek 19,Fri,Away,D,0,0,Argentinos Jun,,,50,,Lautaro Acosta,4-3-3,Fernando Rapallini,Match Report,,4,1,,,0,0,2021,Lanus
+19,2020-02-16,19:40,Primera Div,Matchweek 20,Sun,Home,D,1,1,Newell's OB,,,52,,Lautaro Acosta,4-3-3,Darío Herrera,Match Report,,10,1,,,1,1,2021,Lanus
+20,2020-02-22,21:50,Primera Div,Matchweek 21,Sat,Away,D,2,2,Tucumán,,,63,,Lautaro Acosta,4-2-3-1,Fernando Espinoza,Match Report,,14,6,,,0,0,2021,Lanus
+21,2020-03-01,19:40,Primera Div,Matchweek 22,Sun,Home,D,1,1,Estudiantes,,,54,,Lautaro Acosta,4-3-3,Patricio Loustau,Match Report,,14,5,,,0,0,2021,Lanus
+22,2020-03-08,17:35,Primera Div,Matchweek 23,Sun,Away,L,3,4,San Lorenzo,,,59,,Lautaro Acosta,4-3-3,Fernando Rapallini,Match Report,,20,7,,,1,1,2021,Lanus
+0,2019-07-27,15:30,Primera Div,Matchweek 1,Sat,Home,W,3,2,Godoy Cruz,,,74,,Nicolás Navarro,4-2-3-1,Andrés Merlos,Match Report,,25,6,,,1,1,2021,San Lorenzo
+1,2019-08-04,13:15,Primera Div,Matchweek 2,Sun,Away,W,1,0,Gimnasia ELP,,,49,,Fabricio Coloccini,4-2-3-1,Fernando Espinoza,Match Report,,8,3,,,0,0,2021,San Lorenzo
+2,2019-08-17,17:45,Primera Div,Matchweek 3,Sat,Home,D,2,2,Rosario Cent,,,66,,Fabricio Coloccini,4-1-4-1,Fernando Rapallini,Match Report,,26,6,,,0,1,2021,San Lorenzo
+3,2019-08-23,21:00,Primera Div,Matchweek 4,Fri,Away,W,2,0,Arsenal,,,51,,Nicolás Blandi,4-1-4-1,Facundo Tello,Match Report,,9,4,,,0,0,2021,San Lorenzo
+4,2019-08-31,15:30,Primera Div,Matchweek 5,Sat,Home,W,2,1,CA Unión,,,58,,Nicolás Blandi,4-1-4-1,Nicolás Lamolina,Match Report,,11,3,,,0,0,2021,San Lorenzo
+5,2019-09-14,17:45,Primera Div,Matchweek 6,Sat,Away,L,1,2,Colón,,,70,,Fernando Belluschi,4-3-1-2,Fernando Echenique,Match Report,,15,4,,,0,0,2021,San Lorenzo
+6,2019-09-21,17:45,Primera Div,Matchweek 7,Sat,Home,L,0,2,Boca Juniors,,,59,,Fernando Belluschi,4-2-3-1,Mauro Vigliano,Match Report,,11,5,,,0,0,2021,San Lorenzo
+7,2019-09-29,11:00,Primera Div,Matchweek 8,Sun,Away,W,1,0,Banfield,,,41,,Fernando Belluschi,4-2-3-1,Facundo Tello,Match Report,,11,3,,,0,0,2021,San Lorenzo
+8,2019-10-05,15:30,Primera Div,Matchweek 9,Sat,Home,L,1,4,CC Córdoba,,,61,,Nicolás Blandi,4-3-3,Néstor Pitana,Match Report,,14,2,,,0,0,2021,San Lorenzo
+9,2019-10-20,15:30,Primera Div,Matchweek 10,Sun,Away,L,0,2,CA Huracán,,,73,,Fabricio Coloccini,4-2-3-1,Fernando Espinoza,Match Report,,6,3,,,0,0,2021,San Lorenzo
+10,2019-10-30,17:00,Primera Div,Matchweek 11,Wed,Home,L,1,3,Defensa y Just,,,55,,Fabricio Coloccini,4-1-4-1,Darío Herrera,Match Report,,17,2,,,0,0,2021,San Lorenzo
+11,2019-11-03,20:00,Primera Div,Matchweek 12,Sun,Away,L,1,2,Independiente,,,54,,Sebastián Torrico,5-4-1,Patricio Loustau,Match Report,,13,3,,,0,0,2021,San Lorenzo
+12,2019-11-09,17:45,Primera Div,Matchweek 13,Sat,Home,W,3,0,Argentinos Jun,,,33,,Sebastián Torrico,3-4-3,Nicolás Lamolina,Match Report,,8,5,,,1,1,2021,San Lorenzo
+13,2019-11-23,21:45,Primera Div,Matchweek 14,Sat,Away,D,2,2,Tucumán,,,53,,Sebastián Torrico,3-1-4-2,Yael Falcón,Match Report,,8,5,,,0,0,2021,San Lorenzo
+14,2019-12-01,17:10,Primera Div,Matchweek 15,Sun,Home,W,2,0,Patronato,,,54,,Sebastián Torrico,3-1-4-2,Pablo Echavarría,Match Report,,12,5,,,0,0,2021,San Lorenzo
+15,2019-12-08,21:45,Primera Div,Matchweek 16,Sun,Away,W,1,0,River Plate,,,24,,Sebastián Torrico,3-1-4-2,Patricio Loustau,Match Report,,8,2,,,0,0,2021,San Lorenzo
+16,2020-01-25,19:40,Primera Div,Matchweek 17,Sat,Home,D,1,1,Estudiantes,,,55,,Sebastián Torrico,4-4-2,Pablo Dóvalo,Match Report,,9,3,,,0,0,2021,San Lorenzo
+17,2020-02-03,21:10,Primera Div,Matchweek 18,Mon,Away,L,0,1,Newell's OB,,,59,,Sebastián Torrico,4-4-2,Pablo Echavarría,Match Report,,5,1,,,0,0,2021,San Lorenzo
+18,2020-02-09,17:35,Primera Div,Matchweek 19,Sun,Home,W,1,0,Vélez Sarsf,,,31,,Sebastián Torrico,4-3-1-2,Nicolás Lamolina,Match Report,,7,3,,,0,0,2021,San Lorenzo
+19,2020-02-15,21:50,Primera Div,Matchweek 20,Sat,Away,L,0,1,Talleres,,,34,,Sebastián Torrico,4-3-1-2,Ariel Penel,Match Report,,6,2,,,0,0,2021,San Lorenzo
+20,2020-02-22,17:35,Primera Div,Matchweek 21,Sat,Home,L,0,1,Racing Club,,,40,,Sebastián Torrico,5-3-2,Silvio Trucco,Match Report,,7,1,,,0,0,2021,San Lorenzo
+21,2020-03-01,17:35,Primera Div,Matchweek 22,Sun,Away,W,3,1,Aldosivi,,,37,,Sebastián Torrico,4-4-2,Andrés Merlos,Match Report,,9,8,,,0,0,2021,San Lorenzo
+22,2020-03-08,17:35,Primera Div,Matchweek 23,Sun,Home,W,4,3,Lanús,,,41,,Sebastián Torrico,4-4-2,Fernando Rapallini,Match Report,,13,6,,,0,0,2021,San Lorenzo
+0,2019-07-29,21:10,Primera Div,Matchweek 1,Mon,Away,W,2,1,Tucumán,,,45,,Jeremías Ledesma,4-4-1-1,Néstor Pitana,Match Report,,9,3,,,0,0,2021,Rosario Cent
+1,2019-08-03,15:30,Primera Div,Matchweek 2,Sat,Home,W,1,0,Talleres,,,46,,Jeremías Ledesma,4-4-1-1,Facundo Tello,Match Report,,9,5,,,0,0,2021,Rosario Cent
+2,2019-08-17,17:45,Primera Div,Matchweek 3,Sat,Away,D,2,2,San Lorenzo,,,35,,Jeremías Ledesma,4-4-2,Fernando Rapallini,Match Report,,9,3,,,0,0,2021,Rosario Cent
+3,2019-08-24,17:45,Primera Div,Matchweek 4,Sat,Home,D,1,1,Patronato,,,67,,Jeremías Ledesma,4-4-1-1,Hernán Mastrángelo,Match Report,,23,10,,,0,0,2021,Rosario Cent
+4,2019-09-01,11:00,Primera Div,Matchweek 5,Sun,Away,D,1,1,Colón,,,57,,Jeremías Ledesma,4-4-1-1,Fernando Espinoza,Match Report,,17,3,,,0,0,2021,Rosario Cent
+5,2019-09-15,15:30,Primera Div,Matchweek 6,Sun,Home,D,1,1,Newell's OB,,,54,,Jeremías Ledesma,4-4-2,Andrés Merlos,Match Report,,7,3,,,0,0,2021,Rosario Cent
+6,2019-09-20,19:00,Primera Div,Matchweek 7,Fri,Away,D,0,0,CA Unión,,,65,,Jeremías Ledesma,4-4-2,Pablo Echavarría,Match Report,,11,1,,,0,0,2021,Rosario Cent
+7,2019-09-29,17:45,Primera Div,Matchweek 8,Sun,Home,D,1,1,Racing Club,,,50,,Jeremías Ledesma,4-4-2,Jorge Baliño,Match Report,,22,7,,,0,0,2021,Rosario Cent
+8,2019-10-06,13:15,Primera Div,Matchweek 9,Sun,Away,D,1,1,Lanús,,,52,,Jeremías Ledesma,4-4-2,Diego Abal,Match Report,,8,2,,,0,0,2021,Rosario Cent
+9,2019-10-20,17:45,Primera Div,Matchweek 10,Sun,Home,L,0,1,Vélez Sarsf,,,46,,Jeremías Ledesma,4-4-2,Ariel Penel,Match Report,,15,3,,,0,0,2021,Rosario Cent
+10,2019-10-29,17:00,Primera Div,Matchweek 11,Tue,Away,L,0,3,Estudiantes,,,53,,Jeremías Ledesma,4-4-2,Patricio Loustau,Match Report,,11,4,,,0,0,2021,Rosario Cent
+11,2019-11-02,17:45,Primera Div,Matchweek 12,Sat,Home,W,5,2,Godoy Cruz,,,51,,Jeremías Ledesma,4-3-3,Hernán Mastrángelo,Match Report,,18,6,,,0,0,2021,Rosario Cent
+12,2019-11-10,11:00,Primera Div,Matchweek 13,Sun,Away,W,1,0,River Plate,,,31,,Jeremías Ledesma,4-5-1,Fernando Echenique,Match Report,,8,3,,,0,0,2021,Rosario Cent
+13,2019-11-25,21:10,Primera Div,Matchweek 14,Mon,Home,W,5,1,Aldosivi,,,43,,Jeremías Ledesma,4-4-2,Patricio Loustau,Match Report,,16,8,,,1,1,2021,Rosario Cent
+14,2019-12-01,21:45,Primera Div,Matchweek 15,Sun,Away,D,1,1,CC Córdoba,,,53,,Jeremías Ledesma,4-2-3-1,Fernando Rapallini,Match Report,,11,6,,,0,0,2021,Rosario Cent
+15,2019-12-08,19:40,Primera Div,Matchweek 16,Sun,Home,W,1,0,Boca Juniors,,,41,,Jeremías Ledesma,4-2-3-1,Diego Abal,Match Report,,20,7,,,0,0,2021,Rosario Cent
+16,2020-01-24,21:45,Primera Div,Matchweek 17,Fri,Home,W,2,1,CA Huracán,,,60,,Jeremías Ledesma,4-2-3-1,Nicolás Lamolina,Match Report,,14,2,,,0,0,2021,Rosario Cent
+17,2020-02-01,17:35,Primera Div,Matchweek 18,Sat,Away,L,0,5,Independiente,,,49,,Jeremías Ledesma,4-4-2,Mauro Vigliano,Match Report,,17,5,,,0,0,2021,Rosario Cent
+18,2020-02-08,19:40,Primera Div,Matchweek 19,Sat,Away,D,1,1,Banfield,,,63,,Jeremías Ledesma,4-4-2,Andrés Merlos,Match Report,,12,2,,,0,0,2021,Rosario Cent
+19,2020-02-15,19:45,Primera Div,Matchweek 20,Sat,Home,W,1,0,Gimnasia ELP,,,42,,Jeremías Ledesma,4-4-2,Diego Abal,Match Report,,8,4,,,0,0,2021,Rosario Cent
+20,2020-02-24,19:40,Primera Div,Matchweek 21,Mon,Away,L,0,3,Defensa y Just,,,48,,Jeremías Ledesma,4-4-2,Hernán Mastrángelo,Match Report,,12,4,,,0,0,2021,Rosario Cent
+21,2020-03-01,19:45,Primera Div,Matchweek 22,Sun,Home,W,3,1,Arsenal,,,52,,Jeremías Ledesma,4-2-3-1,Fernando Espinoza,Match Report,,29,10,,,1,1,2021,Rosario Cent
+22,2020-03-06,21:10,Primera Div,Matchweek 23,Fri,Away,L,1,2,Argentinos Jun,,,48,,Jeremías Ledesma,4-3-3,Ariel Penel,Match Report,,8,4,,,0,0,2021,Rosario Cent
+0,2019-07-28,13:15,Primera Div,Matchweek 1,Sun,Home,W,2,0,CC Córdoba,,,64,,Maxi Rodríguez,4-2-3-1,Facundo Tello,Match Report,,14,5,,,0,0,2021,Newells OB
+1,2019-08-17,15:30,Primera Div,Matchweek 3,Sat,Home,W,2,0,CA Unión,,,60,,Maxi Rodríguez,4-3-3,Ariel Penel,Match Report,,19,4,,,0,0,2021,Newells OB
+2,2019-08-24,15:30,Primera Div,Matchweek 4,Sat,Away,L,1,3,Vélez Sarsf,,,37,,Maxi Rodríguez,4-3-3,Germán Delfino,Match Report,,7,2,,,0,1,2021,Newells OB
+3,2019-09-01,13:15,Primera Div,Matchweek 5,Sun,Home,W,4,1,CA Huracán,,,51,,Maxi Rodríguez,4-3-3,Néstor Pitana,Match Report,,20,6,,,1,1,2021,Newells OB
+4,2019-09-15,15:30,Primera Div,Matchweek 6,Sun,Away,D,1,1,Rosario Cent,,,46,,Maxi Rodríguez,4-3-3,Andrés Merlos,Match Report,,8,2,,,0,0,2021,Newells OB
+5,2019-09-22,11:00,Primera Div,Matchweek 7,Sun,Home,W,2,0,Aldosivi,,,48,,Maxi Rodríguez,4-3-3,Facundo Tello,Match Report,,20,7,,,0,0,2021,Newells OB
+6,2019-09-28,20:00,Primera Div,Matchweek 8,Sat,Away,D,1,1,Boca Juniors,,,52,,Maxi Rodríguez,4-3-3,Darío Herrera,Match Report,,8,2,,,0,0,2021,Newells OB
+7,2019-10-04,19:00,Primera Div,Matchweek 9,Fri,Home,D,0,0,Banfield,,,61,,Maxi Rodríguez,4-3-3,Nicolás Lamolina,Match Report,,12,2,,,0,0,2021,Newells OB
+8,2019-10-19,17:45,Primera Div,Matchweek 10,Sat,Away,W,3,1,Patronato,,,51,,Maxi Rodríguez,4-3-3,Fernando Rapallini,Match Report,,7,3,,,0,0,2021,Newells OB
+9,2019-10-29,19:10,Primera Div,Matchweek 11,Tue,Home,L,0,4,Gimnasia ELP,,,68,,Maxi Rodríguez,4-3-3,Fernando Echenique,Match Report,,19,5,,,0,0,2021,Newells OB
+10,2019-11-03,15:30,Primera Div,Matchweek 12,Sun,Away,L,0,1,Talleres,,,50,,Maxi Rodríguez,4-1-4-1,Ariel Penel,Match Report,,5,1,,,0,0,2021,Newells OB
+11,2019-11-10,15:30,Primera Div,Matchweek 13,Sun,Home,W,2,0,Defensa y Just,,,35,,Maxi Rodríguez,4-3-3,Diego Abal,Match Report,,11,3,,,1,1,2021,Newells OB
+12,2019-11-25,21:10,Primera Div,Matchweek 14,Mon,Away,L,0,1,Argentinos Jun,,,58,,Maxi Rodríguez,4-3-3,Silvio Trucco,Match Report,,13,2,,,0,0,2021,Newells OB
+13,2019-11-30,21:45,Primera Div,Matchweek 15,Sat,Home,L,2,3,River Plate,,,40,,Maxi Rodríguez,4-1-4-1,Néstor Pitana,Match Report,,20,6,,,0,0,2021,Newells OB
+14,2019-12-07,19:40,Primera Div,Matchweek 16,Sat,Away,D,2,2,Tucumán,,,49,,Maxi Rodríguez,4-3-3,Pablo Echavarría,Match Report,,10,3,,,1,1,2021,Newells OB
+15,2019-12-13,17:10,Primera Div,Matchweek 2,Fri,Away,W,3,2,Independiente,,,50,,Maxi Rodríguez,4-3-3,Mauro Vigliano,Match Report,,11,6,,,0,0,2021,Newells OB
+16,2020-01-25,17:35,Primera Div,Matchweek 17,Sat,Away,D,1,1,Arsenal,,,46,,Maxi Rodríguez,4-3-3,Ariel Penel,Match Report,,13,5,,,1,1,2021,Newells OB
+17,2020-02-03,21:10,Primera Div,Matchweek 18,Mon,Home,W,1,0,San Lorenzo,,,41,,Maxi Rodríguez,4-3-3,Pablo Echavarría,Match Report,,14,4,,,0,0,2021,Newells OB
+18,2020-02-08,19:40,Primera Div,Matchweek 19,Sat,Home,D,0,0,Estudiantes,,,53,,Maxi Rodríguez,4-3-3,Diego Abal,Match Report,,8,0,,,0,0,2021,Newells OB
+19,2020-02-16,19:40,Primera Div,Matchweek 20,Sun,Away,D,1,1,Lanús,,,48,,Maxi Rodríguez,4-3-3,Darío Herrera,Match Report,,11,2,,,0,0,2021,Newells OB
+20,2020-02-22,21:45,Primera Div,Matchweek 21,Sat,Home,W,4,0,Colón,,,73,,Maxi Rodríguez,4-3-3,Pablo Dóvalo,Match Report,,15,8,,,0,0,2021,Newells OB
+21,2020-02-28,19:00,Primera Div,Matchweek 22,Fri,Away,D,1,1,Racing Club,,,41,,Maxi Rodríguez,4-3-3,Facundo Tello,Match Report,,11,2,,,0,0,2021,Newells OB
+22,2020-03-08,21:45,Primera Div,Matchweek 23,Sun,Home,L,0,2,Godoy Cruz,,,76,,Maxi Rodríguez,4-3-3,Andrés Merlos,Match Report,,29,6,,,0,0,2021,Newells OB
+0,2019-07-29,19:00,Primera Div,Matchweek 1,Mon,Home,W,1,0,Banfield,,,37,,Maximiliano Gagliardo,4-3-2-1,Hernán Mastrángelo,Match Report,,9,2,,,1,1,2021,Arsenal
+1,2019-08-05,21:10,Primera Div,Matchweek 2,Mon,Away,W,2,0,Godoy Cruz,,,46,,Maximiliano Gagliardo,4-1-3-2,Patricio Loustau,Match Report,,20,9,,,0,0,2021,Arsenal
+2,2019-08-18,15:30,Primera Div,Matchweek 3,Sun,Away,W,3,0,Defensa y Just,,,41,,Maximiliano Gagliardo,4-1-2-1-2◆,Fernando Espinoza,Match Report,,16,6,,,0,0,2021,Arsenal
+3,2019-08-23,21:00,Primera Div,Matchweek 4,Fri,Home,L,0,2,San Lorenzo,,,49,,Maximiliano Gagliardo,4-3-1-2,Facundo Tello,Match Report,,6,3,,,0,0,2021,Arsenal
+4,2019-09-01,11:00,Primera Div,Matchweek 5,Sun,Away,L,0,1,Tucumán,,,63,,Maximiliano Gagliardo,4-2-3-1,Ariel Penel,Match Report,,18,7,,,0,0,2021,Arsenal
+5,2019-09-14,13:15,Primera Div,Matchweek 6,Sat,Home,W,4,1,CA Unión,,,50,,Maximiliano Gagliardo,4-1-2-1-2◆,Jorge Baliño,Match Report,,16,6,,,0,0,2021,Arsenal
+6,2019-09-22,17:45,Primera Div,Matchweek 7,Sun,Away,L,1,2,Racing Club,,,48,,Maximiliano Gagliardo,4-1-3-2,Patricio Loustau,Match Report,,11,2,,,0,0,2021,Arsenal
+7,2019-09-28,15:30,Primera Div,Matchweek 8,Sat,Home,W,3,0,Estudiantes,,,44,,Maximiliano Gagliardo,4-3-1-2,Leandro Rey Hilfer,Match Report,,15,4,,,1,1,2021,Arsenal
+8,2019-10-05,13:15,Primera Div,Matchweek 9,Sat,Away,L,1,2,Argentinos Jun,,,54,,Maximiliano Gagliardo,4-1-3-2,Fernando Espinoza,Match Report,,14,4,,,0,0,2021,Arsenal
+9,2019-10-18,19:00,Primera Div,Matchweek 10,Fri,Home,D,3,3,River Plate,,,51,,Maximiliano Gagliardo,4-1-3-2,Facundo Tello,Match Report,,16,5,,,0,0,2021,Arsenal
+10,2019-10-31,17:00,Primera Div,Matchweek 11,Thu,Home,D,2,2,CC Córdoba,,,69,,Maximiliano Gagliardo,4-1-3-2,Mauro Vigliano,Match Report,,13,5,,,0,0,2021,Arsenal
+11,2019-11-03,11:00,Primera Div,Matchweek 12,Sun,Away,L,1,5,Boca Juniors,,,50,,Maximiliano Gagliardo,4-3-1-2,Pablo Echavarría,Match Report,,17,6,,,0,0,2021,Arsenal
+12,2019-11-24,19:40,Primera Div,Matchweek 14,Sun,Away,W,1,0,Gimnasia ELP,,,38,,Emiliano Papa,4-3-1-2,Fernando Echenique,Match Report,,9,3,,,0,0,2021,Arsenal
+13,2019-12-02,19:00,Primera Div,Matchweek 15,Mon,Home,D,1,1,Lanús,,,52,,Emiliano Papa,4-1-2-1-2◆,Jorge Baliño,Match Report,,23,8,,,0,0,2021,Arsenal
+14,2019-12-07,17:35,Primera Div,Matchweek 16,Sat,Away,W,2,0,CA Huracán,,,50,,Emiliano Papa,4-3-1-2,Néstor Pitana,Match Report,,14,5,,,0,0,2021,Arsenal
+15,2019-12-12,21:00,Primera Div,Matchweek 13,Thu,Home,W,2,1,Colón,,,63,,Emiliano Papa,4-3-1-2,Andrés Merlos,Match Report,,17,5,,,0,0,2021,Arsenal
+16,2020-01-25,17:35,Primera Div,Matchweek 17,Sat,Home,D,1,1,Newell's OB,,,54,,Emiliano Papa,4-3-1-2,Ariel Penel,Match Report,,11,4,,,0,0,2021,Arsenal
+17,2020-02-03,19:00,Primera Div,Matchweek 18,Mon,Away,D,2,2,Patronato,,,51,,Emiliano Papa,4-1-2-1-2◆,Fernando Espinoza,Match Report,,16,6,,,0,0,2021,Arsenal
+18,2020-02-10,19:00,Primera Div,Matchweek 19,Mon,Home,D,1,1,Talleres,,,63,,Emiliano Papa,4-3-1-2,Darío Herrera,Match Report,,14,4,,,0,1,2021,Arsenal
+19,2020-02-17,21:10,Primera Div,Matchweek 20,Mon,Away,D,1,1,Independiente,,,40,,Emiliano Papa,4-3-1-2,Nazareno Arasa,Match Report,,8,4,,,0,0,2021,Arsenal
+20,2020-02-23,17:35,Primera Div,Matchweek 21,Sun,Home,L,0,4,Vélez Sarsf,,,50,,Emiliano Papa,4-3-2-1,Mauro Vigliano,Match Report,,12,1,,,0,0,2021,Arsenal
+21,2020-03-01,19:45,Primera Div,Matchweek 22,Sun,Away,L,1,3,Rosario Cent,,,48,,Emiliano Papa,4-3-1-2,Fernando Espinoza,Match Report,,13,5,,,0,0,2021,Arsenal
+22,2020-03-06,19:00,Primera Div,Matchweek 23,Fri,Home,W,4,0,Aldosivi,,,42,,Emiliano Papa,4-3-1-2,Pablo Echavarría,Match Report,,18,9,,,0,0,2021,Arsenal
+0,2019-07-28,15:30,Primera Div,Matchweek 1,Sun,Home,W,1,0,Vélez Sarsf,,,32,,Juan Cruz Komar,4-3-3,Ariel Penel,Match Report,,5,2,,,0,0,2021,Talleres
+1,2019-08-03,15:30,Primera Div,Matchweek 2,Sat,Away,L,0,1,Rosario Cent,,,54,,Juan Cruz Komar,4-3-3,Facundo Tello,Match Report,,6,0,,,0,0,2021,Talleres
+2,2019-08-16,21:10,Primera Div,Matchweek 3,Fri,Home,D,1,1,CC Córdoba,,,73,,Juan Cruz Komar,4-3-3,Nicolás Lamolina,Match Report,,18,6,,,0,0,2021,Talleres
+3,2019-08-25,17:45,Primera Div,Matchweek 4,Sun,Away,W,1,0,River Plate,,,48,,Juan Cruz Komar,3-1-4-2,Néstor Pitana,Match Report,,16,5,,,0,0,2021,Talleres
+4,2019-09-01,13:15,Primera Div,Matchweek 5,Sun,Home,W,2,1,Aldosivi,,,47,,Juan Cruz Komar,4-1-4-1,Andrés Merlos,Match Report,,13,5,,,0,0,2021,Talleres
+5,2019-09-15,13:15,Primera Div,Matchweek 6,Sun,Away,W,1,0,Banfield,,,59,,Juan Cruz Komar,3-5-2,Ariel Penel,Match Report,,5,1,,,0,0,2021,Talleres
+6,2019-09-23,21:00,Primera Div,Matchweek 7,Mon,Home,W,2,1,Gimnasia ELP,,,57,,Guido Herrera,4-4-2,Hernán Mastrángelo,Match Report,,11,4,,,1,2,2021,Talleres
+7,2019-09-29,20:00,Primera Div,Matchweek 8,Sun,Away,L,2,3,Independiente,,,48,,Guido Herrera,4-4-2,Diego Abal,Match Report,,13,5,,,0,0,2021,Talleres
+8,2019-10-04,21:10,Primera Div,Matchweek 9,Fri,Away,L,1,2,Tucumán,,,64,,Juan Cruz Komar,3-4-3,Nazareno Arasa,Match Report,,7,2,,,0,0,2021,Talleres
+9,2019-10-19,20:00,Primera Div,Matchweek 10,Sat,Home,L,2,4,Lanús,,,61,,Juan Cruz Komar,4-2-3-1,Mauro Vigliano,Match Report,,22,7,,,0,0,2021,Talleres
+10,2019-10-30,15:00,Primera Div,Matchweek 11,Wed,Away,L,0,1,Argentinos Jun,,,51,,Guido Herrera,4-2-3-1,Andrés Merlos,Match Report,,8,1,,,0,0,2021,Talleres
+11,2019-11-03,15:30,Primera Div,Matchweek 12,Sun,Home,W,1,0,Newell's OB,,,50,,Juan Cruz Komar,4-2-3-1,Ariel Penel,Match Report,,11,3,,,0,1,2021,Talleres
+12,2019-11-08,19:00,Primera Div,Matchweek 13,Fri,Away,L,0,1,Estudiantes,,,63,,Juan Cruz Komar,4-4-2,Fernando Espinoza,Match Report,,9,2,,,0,0,2021,Talleres
+13,2019-11-24,21:45,Primera Div,Matchweek 14,Sun,Home,D,3,3,Racing Club,,,45,,Juan Cruz Komar,4-2-3-1,Néstor Pitana,Match Report,,21,6,,,0,0,2021,Talleres
+14,2019-12-01,19:40,Primera Div,Matchweek 15,Sun,Away,W,5,0,Godoy Cruz,,,59,,Juan Cruz Komar,4-4-1-1,Darío Herrera,Match Report,,21,14,,,0,0,2021,Talleres
+15,2019-12-07,19:40,Primera Div,Matchweek 16,Sat,Home,D,0,0,CA Unión,,,64,,Juan Cruz Komar,4-4-1-1,Nazareno Arasa,Match Report,,13,1,,,0,0,2021,Talleres
+16,2020-01-26,17:35,Primera Div,Matchweek 17,Sun,Away,L,1,4,Defensa y Just,,,48,,Juan Cruz Komar,4-4-2,Nazareno Arasa,Match Report,,14,1,,,0,0,2021,Talleres
+17,2020-02-02,21:45,Primera Div,Matchweek 18,Sun,Home,L,1,2,Boca Juniors,,,53,,Juan Cruz Komar,3-4-3,Fernando Rapallini,Match Report,,20,7,,,0,0,2021,Talleres
+18,2020-02-10,19:00,Primera Div,Matchweek 19,Mon,Away,D,1,1,Arsenal,,,37,,Juan Cruz Komar,4-2-3-1,Darío Herrera,Match Report,,11,2,,,0,1,2021,Talleres
+19,2020-02-15,21:50,Primera Div,Matchweek 20,Sat,Home,W,1,0,San Lorenzo,,,66,,Guido Herrera,4-2-3-1,Ariel Penel,Match Report,,22,8,,,0,0,2021,Talleres
+20,2020-02-24,21:50,Primera Div,Matchweek 21,Mon,Home,W,4,2,CA Huracán,,,65,,Mauricio Caranta,4-2-3-1,Facundo Tello,Match Report,,24,9,,,0,0,2021,Talleres
+21,2020-03-02,19:00,Primera Div,Matchweek 22,Mon,Away,L,2,3,Patronato,,,62,,Mauricio Caranta,4-2-3-1,Mauro Vigliano,Match Report,,18,5,,,0,0,2021,Talleres
+22,2020-03-08,21:50,Primera Div,Matchweek 23,Sun,Home,W,2,0,Colón,,,59,,Andrés Cubas,4-2-3-1,Darío Herrera,Match Report,,21,7,,,0,0,2021,Talleres
+0,2019-07-28,11:00,Primera Div,Matchweek 1,Sun,Home,W,1,0,Aldosivi,,,52,,Mariano Andújar,4-3-3,Fernando Espinoza,Match Report,,11,5,,,0,0,2021,Estudiantes
+1,2019-08-04,15:30,Primera Div,Matchweek 2,Sun,Away,L,0,1,Banfield,,,56,,Mariano Andújar,4-3-3,Nazareno Arasa,Match Report,,13,3,,,0,0,2021,Estudiantes
+2,2019-08-19,20:00,Primera Div,Matchweek 3,Mon,Home,W,3,0,Independiente,,,38,,Mariano Andújar,4-4-2,Néstor Pitana,Match Report,,7,4,,,0,0,2021,Estudiantes
+3,2019-08-25,11:00,Primera Div,Matchweek 4,Sun,Away,L,1,2,Godoy Cruz,,,75,,Mariano Andújar,3-1-4-2,Pablo Echavarría,Match Report,,20,6,,,0,0,2021,Estudiantes
+4,2019-08-30,21:10,Primera Div,Matchweek 5,Fri,Home,L,0,1,Vélez Sarsf,,,60,,Mariano Andújar,3-4-1-2,Patricio Loustau,Match Report,,18,4,,,0,0,2021,Estudiantes
+5,2019-09-15,20:00,Primera Div,Matchweek 6,Sun,Away,L,0,1,Boca Juniors,,,59,,Mariano Andújar,3-1-4-2,Facundo Tello,Match Report,,6,1,,,0,0,2021,Estudiantes
+6,2019-09-21,13:15,Primera Div,Matchweek 7,Sat,Home,W,1,0,Patronato,,,55,,Mariano Andújar,4-2-3-1,Germán Delfino,Match Report,,17,8,,,0,0,2021,Estudiantes
+7,2019-09-28,15:30,Primera Div,Matchweek 8,Sat,Away,L,0,3,Arsenal,,,57,,Mariano Andújar,4-2-3-1,Leandro Rey Hilfer,Match Report,,19,7,,,0,0,2021,Estudiantes
+8,2019-10-05,17:45,Primera Div,Matchweek 9,Sat,Home,D,0,0,CA Huracán,,,63,,Mariano Andújar,3-4-3,Facundo Tello,Match Report,,13,2,,,0,0,2021,Estudiantes
+9,2019-10-21,19:00,Primera Div,Matchweek 10,Mon,Away,W,1,0,CC Córdoba,,,58,,Mariano Andújar,4-1-4-1,Darío Herrera,Match Report,,10,5,,,0,0,2021,Estudiantes
+10,2019-10-29,17:00,Primera Div,Matchweek 11,Tue,Home,W,3,0,Rosario Cent,,,47,,Mariano Andújar,4-1-4-1,Patricio Loustau,Match Report,,18,7,,,0,0,2021,Estudiantes
+11,2019-11-02,15:30,Primera Div,Matchweek 12,Sat,Away,W,1,0,Gimnasia ELP,,,44,,Mariano Andújar,4-2-3-1,Néstor Pitana,Match Report,,5,2,,,0,0,2021,Estudiantes
+12,2019-11-08,19:00,Primera Div,Matchweek 13,Fri,Home,W,1,0,Talleres,,,37,,Mariano Andújar,4-2-3-1,Fernando Espinoza,Match Report,,4,1,,,0,0,2021,Estudiantes
+13,2019-11-25,19:00,Primera Div,Matchweek 14,Mon,Away,L,2,3,Colón,,,65,,Mariano Andújar,4-2-3-1,Germán Delfino,Match Report,,10,3,,,0,0,2021,Estudiantes
+14,2019-11-30,17:35,Primera Div,Matchweek 15,Sat,Home,D,1,1,Tucumán,,,61,,Mariano Andújar,4-2-3-1,Diego Abal,Match Report,,10,5,,,0,0,2021,Estudiantes
+15,2019-12-09,21:10,Primera Div,Matchweek 16,Mon,Away,D,1,1,Argentinos Jun,,,56,,Mariano Andújar,4-3-3,Facundo Tello,Match Report,,13,5,,,0,0,2021,Estudiantes
+16,2020-01-25,19:40,Primera Div,Matchweek 17,Sat,Away,D,1,1,San Lorenzo,,,45,,Mariano Andújar,4-1-4-1,Pablo Dóvalo,Match Report,,5,1,,,0,0,2021,Estudiantes
+17,2020-02-01,19:40,Primera Div,Matchweek 18,Sat,Home,W,3,1,CA Unión,,,60,,Mariano Andújar,4-1-4-1,Germán Delfino,Match Report,,10,7,,,1,1,2021,Estudiantes
+18,2020-02-08,19:40,Primera Div,Matchweek 19,Sat,Away,D,0,0,Newell's OB,,,48,,Mariano Andújar,4-1-4-1,Diego Abal,Match Report,,5,1,,,0,0,2021,Estudiantes
+19,2020-02-17,19:00,Primera Div,Matchweek 20,Mon,Home,L,1,2,Defensa y Just,,,58,,Mariano Andújar,3-1-4-2,Leandro Rey Hilfer,Match Report,,10,3,,,0,1,2021,Estudiantes
+20,2020-02-23,21:45,Primera Div,Matchweek 21,Sun,Home,L,0,2,River Plate,,,45,,Mariano Andújar,4-3-1-2,Darío Herrera,Match Report,,12,1,,,0,0,2021,Estudiantes
+21,2020-03-01,19:40,Primera Div,Matchweek 22,Sun,Away,D,1,1,Lanús,,,46,,Mariano Andújar,4-1-4-1,Patricio Loustau,Match Report,,15,3,,,0,0,2021,Estudiantes
+22,2020-03-09,21:10,Primera Div,Matchweek 23,Mon,Home,L,1,2,Racing Club,,,40,,Mariano Andújar,4-4-2,Néstor Pitana,Match Report,,11,3,,,0,0,2021,Estudiantes
+0,2019-07-28,17:45,Primera Div,Matchweek 1,Sun,Away,W,1,0,Defensa y Just,,,48,,Martín Campaña,4-4-1-1,Patricio Loustau,Match Report,,13,3,,,0,0,2021,Independiente
+1,2019-08-19,20:00,Primera Div,Matchweek 3,Mon,Away,L,0,3,Estudiantes,,,62,,Martín Campaña,4-4-2,Néstor Pitana,Match Report,,7,1,,,0,0,2021,Independiente
+2,2019-08-24,20:00,Primera Div,Matchweek 4,Sat,Home,W,2,0,Colón,,,60,,Martín Campaña,4-2-2-2,Diego Abal,Match Report,,19,6,,,0,0,2021,Independiente
+3,2019-08-31,17:45,Primera Div,Matchweek 5,Sat,Away,L,0,1,Patronato,,,66,,Martín Campaña,4-3-3,Silvio Trucco,Match Report,,9,3,,,0,0,2021,Independiente
+4,2019-09-15,17:45,Primera Div,Matchweek 6,Sun,Home,D,2,2,Lanús,,,50,,Martín Campaña,4-1-4-1,Mauro Vigliano,Match Report,,10,4,,,0,0,2021,Independiente
+5,2019-09-21,20:00,Primera Div,Matchweek 7,Sat,Away,W,1,0,Tucumán,,,45,,Martín Campaña,5-3-2,Néstor Pitana,Match Report,,7,1,,,0,0,2021,Independiente
+6,2019-09-29,20:00,Primera Div,Matchweek 8,Sun,Home,W,3,2,Talleres,,,52,,Martín Campaña,4-1-4-1,Diego Abal,Match Report,,17,10,,,0,0,2021,Independiente
+7,2019-10-06,11:00,Primera Div,Matchweek 9,Sun,Away,L,0,2,Vélez Sarsf,,,48,,Martín Campaña,4-1-4-1,Germán Delfino,Match Report,,8,3,,,0,0,2021,Independiente
+8,2019-10-19,15:30,Primera Div,Matchweek 10,Sat,Home,L,0,1,Argentinos Jun,,,61,,Martín Campaña,4-1-4-1,Nicolás Lamolina,Match Report,,8,2,,,0,0,2021,Independiente
+9,2019-10-30,19:10,Primera Div,Matchweek 11,Wed,Away,D,2,2,CA Unión,,,36,,Martín Campaña,4-3-3,Pablo Echavarría,Match Report,,6,4,,,1,1,2021,Independiente
+10,2019-11-03,20:00,Primera Div,Matchweek 12,Sun,Home,W,2,1,San Lorenzo,,,46,,Martín Campaña,4-1-4-1,Patricio Loustau,Match Report,,16,7,,,1,1,2021,Independiente
+11,2019-11-09,20:00,Primera Div,Matchweek 13,Sat,Away,W,2,1,Godoy Cruz,,,69,,Martín Campaña,4-2-3-1,Ariel Penel,Match Report,,20,9,,,1,1,2021,Independiente
+12,2019-12-01,21:45,Primera Div,Matchweek 15,Sun,Away,D,0,0,Aldosivi,,,66,,Martín Campaña,4-1-4-1,Fernando Echenique,Match Report,,7,1,,,0,0,2021,Independiente
+13,2019-12-06,21:10,Primera Div,Matchweek 16,Fri,Home,L,0,1,Banfield,,,69,,Martín Campaña,4-1-4-1,Pablo Dóvalo,Match Report,,12,1,,,0,0,2021,Independiente
+14,2019-12-13,17:10,Primera Div,Matchweek 2,Fri,Home,L,2,3,Newell's OB,,,50,,Martín Campaña,4-2-3-1,Mauro Vigliano,Match Report,,15,10,,,1,1,2021,Independiente
+15,2020-01-19,19:10,Primera Div,Matchweek 14,Sun,Home,L,1,2,River Plate,,,51,,Silvio Romero,4-4-2,Fernando Rapallini,Match Report,,13,6,,,0,0,2021,Independiente
+16,2020-01-26,21:45,Primera Div,Matchweek 17,Sun,Away,D,0,0,Boca Juniors,,,51,,Silvio Romero,4-4-2,Fernando Echenique,Match Report,,13,6,,,0,0,2021,Independiente
+17,2020-02-01,17:35,Primera Div,Matchweek 18,Sat,Home,W,5,0,Rosario Cent,,,51,,Silvio Romero,4-4-2,Mauro Vigliano,Match Report,,15,9,,,0,0,2021,Independiente
+18,2020-02-09,19:40,Primera Div,Matchweek 19,Sun,Away,L,0,1,Racing Club,,,53,,Martín Campaña,4-4-2,Patricio Loustau,Match Report,,16,4,,,0,0,2021,Independiente
+19,2020-02-17,21:10,Primera Div,Matchweek 20,Mon,Home,D,1,1,Arsenal,,,60,,Silvio Romero,4-2-3-1,Nazareno Arasa,Match Report,,13,2,,,0,0,2021,Independiente
+20,2020-02-22,19:40,Primera Div,Matchweek 21,Sat,Home,L,0,1,Gimnasia ELP,,,60,,Silvio Romero,4-1-4-1,Fernando Echenique,Match Report,,12,5,,,0,0,2021,Independiente
+21,2020-03-02,21:10,Primera Div,Matchweek 22,Mon,Away,L,0,1,CA Huracán,,,72,,Silvio Romero,4-3-1-2,Nicolás Lamolina,Match Report,,14,1,,,0,0,2021,Independiente
+22,2020-03-08,19:40,Primera Div,Matchweek 23,Sun,Home,W,3,0,CC Córdoba,,,64,,Silvio Romero,4-1-4-1,Hernán Mastrángelo,Match Report,,20,7,,,0,0,2021,Independiente
+0,2019-07-29,21:10,Primera Div,Matchweek 1,Mon,Home,L,1,2,Rosario Cent,,,55,,Cristian Lucchetti,4-4-2,Néstor Pitana,Match Report,,17,4,,,0,0,2021,Tucuman
+1,2019-08-03,17:45,Primera Div,Matchweek 2,Sat,Away,L,0,1,CC Córdoba,,,59,,Cristian Lucchetti,4-3-1-2,Pablo Echavarría,Match Report,,3,1,,,0,0,2021,Tucuman
+2,2019-08-19,15:30,Primera Div,Matchweek 3,Mon,Home,W,1,0,Godoy Cruz,,,65,,Cristian Lucchetti,4-1-3-2,Darío Herrera,Match Report,,18,3,,,0,0,2021,Tucuman
+3,2019-08-26,19:00,Primera Div,Matchweek 4,Mon,Away,L,0,3,Aldosivi,,,53,,Cristian Lucchetti,4-4-1-1,Silvio Trucco,Match Report,,18,3,,,0,0,2021,Tucuman
+4,2019-09-01,11:00,Primera Div,Matchweek 5,Sun,Home,W,1,0,Arsenal,,,37,,Bruno Bianchi,4-1-3-2,Ariel Penel,Match Report,,13,3,,,0,0,2021,Tucuman
+5,2019-09-16,21:10,Primera Div,Matchweek 6,Mon,Away,L,0,1,Vélez Sarsf,,,39,,Bruno Bianchi,4-2-3-1,Darío Herrera,Match Report,,12,2,,,0,0,2021,Tucuman
+6,2019-09-21,20:00,Primera Div,Matchweek 7,Sat,Home,L,0,1,Independiente,,,55,,Bruno Bianchi,4-4-2,Néstor Pitana,Match Report,,13,4,,,0,0,2021,Tucuman
+7,2019-09-29,13:15,Primera Div,Matchweek 8,Sun,Away,D,0,0,CA Huracán,,,49,,Bruno Bianchi,4-4-2,Ariel Penel,Match Report,,4,3,,,0,0,2021,Tucuman
+8,2019-10-04,21:10,Primera Div,Matchweek 9,Fri,Home,W,2,1,Talleres,,,36,,Bruno Bianchi,4-4-2,Nazareno Arasa,Match Report,,19,6,,,0,0,2021,Tucuman
+9,2019-10-19,13:15,Primera Div,Matchweek 10,Sat,Away,W,2,1,Banfield,,,49,,Bruno Bianchi,4-4-2,Pablo Echavarría,Match Report,,13,6,,,0,0,2021,Tucuman
+10,2019-10-29,19:10,Primera Div,Matchweek 11,Tue,Home,W,2,0,Patronato,,,57,,Bruno Bianchi,4-4-2,Fernando Espinoza,Match Report,,11,7,,,0,0,2021,Tucuman
+11,2019-11-02,13:15,Primera Div,Matchweek 12,Sat,Away,W,2,0,Colón,,,50,,Cristian Lucchetti,4-4-2,Jorge Baliño,Match Report,,13,4,,,0,0,2021,Tucuman
+12,2019-11-08,21:10,Primera Div,Matchweek 13,Fri,Away,W,1,0,CA Unión,,,37,,Cristian Lucchetti,4-1-3-2,Néstor Pitana,Match Report,,7,2,,,0,0,2021,Tucuman
+13,2019-11-23,21:45,Primera Div,Matchweek 14,Sat,Home,D,2,2,San Lorenzo,,,47,,Cristian Lucchetti,4-3-1-2,Yael Falcón,Match Report,,16,4,,,0,0,2021,Tucuman
+14,2019-11-30,17:35,Primera Div,Matchweek 15,Sat,Away,D,1,1,Estudiantes,,,39,,Cristian Lucchetti,4-1-3-2,Diego Abal,Match Report,,16,3,,,0,0,2021,Tucuman
+15,2019-12-07,19:40,Primera Div,Matchweek 16,Sat,Home,D,2,2,Newell's OB,,,51,,Cristian Lucchetti,4-1-2-1-2◆,Pablo Echavarría,Match Report,,9,3,,,0,0,2021,Tucuman
+16,2020-01-26,19:40,Primera Div,Matchweek 17,Sun,Away,D,1,1,Racing Club,,,32,,Cristian Lucchetti,4-4-2,Néstor Pitana,Match Report,,12,3,,,0,0,2021,Tucuman
+17,2020-02-01,19:40,Primera Div,Matchweek 18,Sat,Home,D,1,1,Defensa y Just,,,30,,Cristian Lucchetti,4-4-2,Jorge Baliño,Match Report,,11,1,,,0,0,2021,Tucuman
+18,2020-02-08,21:45,Primera Div,Matchweek 19,Sat,Away,L,0,2,Boca Juniors,,,41,,Cristian Lucchetti,4-4-2,Mauro Vigliano,Match Report,,12,2,,,0,0,2021,Tucuman
+19,2020-02-15,19:40,Primera Div,Matchweek 20,Sat,Home,L,0,2,Argentinos Jun,,,43,,Leandro Díaz,4-4-2,Germán Delfino,Match Report,,5,3,,,0,0,2021,Tucuman
+20,2020-02-22,21:50,Primera Div,Matchweek 21,Sat,Home,D,2,2,Lanús,,,37,,Yonathan Cabral,4-4-2,Fernando Espinoza,Match Report,,14,2,,,0,0,2021,Tucuman
+21,2020-02-29,17:30,Primera Div,Matchweek 22,Sat,Away,L,0,1,Gimnasia ELP,,,59,,Cristian Lucchetti,4-4-2,Darío Herrera,Match Report,,10,1,,,0,0,2021,Tucuman
+22,2020-03-07,21:00,Primera Div,Matchweek 23,Sat,Home,D,1,1,River Plate,,,33,,Cristian Lucchetti,4-4-2,Patricio Loustau,Match Report,,12,5,,,0,0,2021,Tucuman
+0,2019-07-26,21:00,Primera Div,Matchweek 1,Fri,Away,D,0,0,Racing Club,,,27,,Jonathan Bottinelli,5-3-2,Nicolás Lamolina,Match Report,,5,1,,,0,0,2021,CA Union
+1,2019-08-04,11:00,Primera Div,Matchweek 2,Sun,Home,W,2,1,Defensa y Just,,,33,,Jonathan Bottinelli,4-4-2,Darío Herrera,Match Report,,22,3,,,0,0,2021,CA Union
+2,2019-08-17,15:30,Primera Div,Matchweek 3,Sat,Away,L,0,2,Newell's OB,,,40,,Jonathan Bottinelli,4-4-2,Ariel Penel,Match Report,,7,3,,,0,0,2021,CA Union
+3,2019-08-25,13:15,Primera Div,Matchweek 4,Sun,Home,L,1,2,Lanús,,,53,,Jonathan Bottinelli,4-4-2,Fernando Espinoza,Match Report,,14,5,,,0,0,2021,CA Union
+4,2019-08-31,15:30,Primera Div,Matchweek 5,Sat,Away,L,1,2,San Lorenzo,,,42,,Jonathan Bottinelli,4-5-1,Nicolás Lamolina,Match Report,,12,7,,,0,0,2021,CA Union
+5,2019-09-14,13:15,Primera Div,Matchweek 6,Sat,Away,L,1,4,Arsenal,,,50,,Claudio Corvalán,4-1-4-1,Jorge Baliño,Match Report,,13,5,,,0,0,2021,CA Union
+6,2019-09-20,19:00,Primera Div,Matchweek 7,Fri,Home,D,0,0,Rosario Cent,,,35,,Claudio Corvalán,4-4-2,Pablo Echavarría,Match Report,,18,4,,,0,0,2021,CA Union
+7,2019-09-27,19:00,Primera Div,Matchweek 8,Fri,Away,W,2,1,Aldosivi,,,42,,Claudio Corvalán,4-4-2,Néstor Pitana,Match Report,,10,4,,,0,0,2021,CA Union
+8,2019-10-06,15:30,Primera Div,Matchweek 9,Sun,Home,W,1,0,Colón,,,45,,Claudio Corvalán,4-4-2,Patricio Loustau,Match Report,,15,4,,,0,0,2021,CA Union
+9,2019-10-20,13:15,Primera Div,Matchweek 10,Sun,Away,W,1,0,Gimnasia ELP,,,52,,Claudio Corvalán,4-4-2,Andrés Merlos,Match Report,,12,2,,,0,0,2021,CA Union
+10,2019-10-30,19:10,Primera Div,Matchweek 11,Wed,Home,D,2,2,Independiente,,,64,,Claudio Corvalán,4-4-2,Pablo Echavarría,Match Report,,26,5,,,1,1,2021,CA Union
+11,2019-11-03,13:15,Primera Div,Matchweek 12,Sun,Away,D,3,3,Banfield,,,49,,Claudio Corvalán,4-4-1-1,Darío Herrera,Match Report,,15,6,,,1,1,2021,CA Union
+12,2019-11-08,21:10,Primera Div,Matchweek 13,Fri,Home,L,0,1,Tucumán,,,64,,Jonathan Bottinelli,4-4-2,Néstor Pitana,Match Report,,8,0,,,0,0,2021,CA Union
+13,2019-11-24,17:10,Primera Div,Matchweek 14,Sun,Away,L,0,2,Boca Juniors,,,41,,Claudio Corvalán,4-4-1-1,Facundo Tello,Match Report,,4,3,,,0,0,2021,CA Union
+14,2019-12-02,21:10,Primera Div,Matchweek 15,Mon,Home,W,1,0,CA Huracán,,,41,,Claudio Corvalán,4-4-2,Mauro Vigliano,Match Report,,13,7,,,0,0,2021,CA Union
+15,2019-12-07,19:40,Primera Div,Matchweek 16,Sat,Away,D,0,0,Talleres,,,36,,Yeimar Gómez Andrade,5-4-1,Nazareno Arasa,Match Report,,9,3,,,0,0,2021,CA Union
+16,2020-01-24,21:45,Primera Div,Matchweek 17,Fri,Home,W,1,0,Argentinos Jun,,,42,,Jonathan Bottinelli,4-4-2,Andrés Merlos,Match Report,,7,2,,,0,0,2021,CA Union
+17,2020-02-01,19:40,Primera Div,Matchweek 18,Sat,Away,L,1,3,Estudiantes,,,40,,Jonathan Bottinelli,4-4-2,Germán Delfino,Match Report,,8,2,,,0,0,2021,CA Union
+18,2020-02-09,21:45,Primera Div,Matchweek 19,Sun,Home,L,1,2,River Plate,,,34,,Claudio Corvalán,5-4-1,Facundo Tello,Match Report,,11,4,,,0,0,2021,CA Union
+19,2020-02-14,19:00,Primera Div,Matchweek 20,Fri,Away,L,0,1,Patronato,,,44,,Claudio Corvalán,4-4-2,Silvio Trucco,Match Report,,6,2,,,0,0,2021,CA Union
+20,2020-02-24,21:45,Primera Div,Matchweek 21,Mon,Home,D,0,0,CC Córdoba,,,60,,Sebastián Moyano,4-4-2,Pablo Echavarría,Match Report,,14,5,,,0,0,2021,CA Union
+21,2020-02-29,21:50,Primera Div,Matchweek 22,Sat,Away,W,3,1,Godoy Cruz,,,57,,Sebastián Moyano,4-4-2,Germán Delfino,Match Report,,11,5,,,1,1,2021,CA Union
+22,2020-03-09,19:00,Primera Div,Matchweek 23,Mon,Home,L,0,3,Vélez Sarsf,,,49,,Jonathan Bottinelli,4-4-2,Silvio Trucco,Match Report,,22,4,,,0,0,2021,CA Union
+0,2019-07-29,19:00,Primera Div,Matchweek 1,Mon,Away,L,0,1,Arsenal,,,63,,Renato Civelli,5-4-1,Hernán Mastrángelo,Match Report,,15,3,,,0,0,2021,Banfield
+1,2019-08-04,15:30,Primera Div,Matchweek 2,Sun,Home,W,1,0,Estudiantes,,,45,,Renato Civelli,5-4-1,Nazareno Arasa,Match Report,,10,2,,,1,2,2021,Banfield
+2,2019-08-16,19:00,Primera Div,Matchweek 3,Fri,Away,L,2,3,Argentinos Jun,,,57,,Renato Civelli,3-4-3,Andrés Merlos,Match Report,,12,3,,,0,0,2021,Banfield
+3,2019-08-25,20:00,Primera Div,Matchweek 4,Sun,Home,L,0,1,Boca Juniors,,,67,,Renato Civelli,4-3-3,Fernando Echenique,Match Report,,23,4,,,0,0,2021,Banfield
+4,2019-08-30,21:10,Primera Div,Matchweek 5,Fri,Away,D,0,0,Defensa y Just,,,57,,Renato Civelli,4-1-4-1,Darío Herrera,Match Report,,8,2,,,0,0,2021,Banfield
+5,2019-09-15,13:15,Primera Div,Matchweek 6,Sun,Home,L,0,1,Talleres,,,41,,Renato Civelli,4-1-4-1,Ariel Penel,Match Report,,16,4,,,0,1,2021,Banfield
+6,2019-09-22,13:15,Primera Div,Matchweek 7,Sun,Away,W,2,0,Godoy Cruz,,,49,,Renato Civelli,4-4-2,Pablo Dóvalo,Match Report,,16,6,,,1,1,2021,Banfield
+7,2019-09-29,11:00,Primera Div,Matchweek 8,Sun,Home,L,0,1,San Lorenzo,,,59,,Renato Civelli,4-4-2,Facundo Tello,Match Report,,22,9,,,0,0,2021,Banfield
+8,2019-10-04,19:00,Primera Div,Matchweek 9,Fri,Away,D,0,0,Newell's OB,,,39,,Sergio Vittor,4-4-2,Nicolás Lamolina,Match Report,,11,3,,,0,0,2021,Banfield
+9,2019-10-19,13:15,Primera Div,Matchweek 10,Sat,Home,L,1,2,Tucumán,,,51,,Renato Civelli,4-4-2,Pablo Echavarría,Match Report,,12,3,,,0,0,2021,Banfield
+10,2019-10-30,21:20,Primera Div,Matchweek 11,Wed,Away,D,0,0,Racing Club,,,29,,Renato Civelli,4-4-2,Diego Abal,Match Report,,10,1,,,0,0,2021,Banfield
+11,2019-11-03,13:15,Primera Div,Matchweek 12,Sun,Home,D,3,3,CA Unión,,,51,,Renato Civelli,4-2-3-1,Darío Herrera,Match Report,,11,6,,,0,0,2021,Banfield
+12,2019-11-09,15:30,Primera Div,Matchweek 13,Sat,Away,W,1,0,Lanús,,,35,,Renato Civelli,4-4-1-1,Facundo Tello,Match Report,,10,3,,,0,0,2021,Banfield
+13,2019-11-24,19:40,Primera Div,Matchweek 14,Sun,Home,W,1,0,Vélez Sarsf,,,26,,Jesús Dátolo,4-4-1-1,Hernán Mastrángelo,Match Report,,12,6,,,0,0,2021,Banfield
+14,2019-11-29,19:00,Primera Div,Matchweek 15,Fri,Home,D,1,1,Gimnasia ELP,,,63,,Jesús Dátolo,4-4-1-1,Fernando Espinoza,Match Report,,11,2,,,1,1,2021,Banfield
+15,2019-12-06,21:10,Primera Div,Matchweek 16,Fri,Away,W,1,0,Independiente,,,31,,Jesús Dátolo,4-2-3-1,Pablo Dóvalo,Match Report,,16,4,,,0,0,2021,Banfield
+16,2020-01-26,17:35,Primera Div,Matchweek 17,Sun,Home,D,3,3,Patronato,,,44,,Jesús Dátolo,4-2-3-1,Fernando Rapallini,Match Report,,7,4,,,0,0,2021,Banfield
+17,2020-02-02,19:40,Primera Div,Matchweek 18,Sun,Away,W,1,0,Colón,,,42,,Jesús Dátolo,4-2-3-1,Ariel Penel,Match Report,,5,2,,,0,0,2021,Banfield
+18,2020-02-08,19:40,Primera Div,Matchweek 19,Sat,Home,D,1,1,Rosario Cent,,,37,,Jesús Dátolo,4-2-3-1,Andrés Merlos,Match Report,,10,4,,,0,0,2021,Banfield
+19,2020-02-16,19:40,Primera Div,Matchweek 20,Sun,Away,L,0,1,River Plate,,,42,,Jesús Dátolo,4-2-3-1,Fernando Rapallini,Match Report,,9,0,,,0,0,2021,Banfield
+20,2020-02-21,19:00,Primera Div,Matchweek 21,Fri,Home,L,0,1,Aldosivi,,,51,,Renato Civelli,4-4-1-1,Leandro Rey Hilfer,Match Report,,11,1,,,0,0,2021,Banfield
+21,2020-02-29,21:50,Primera Div,Matchweek 22,Sat,Away,D,1,1,CC Córdoba,,,31,,Iván Arboleda,4-5-1,Silvio Trucco,Match Report,,9,4,,,0,0,2021,Banfield
+22,2020-03-07,18:00,Primera Div,Matchweek 23,Sat,Home,L,0,3,CA Huracán,,,62,,Jorge Agustín Rodríguez,4-4-2,Germán Delfino,Match Report,,10,1,,,0,0,2021,Banfield
+0,2019-07-28,13:15,Primera Div,Matchweek 1,Sun,Away,L,0,2,Newell's OB,,,37,,Cristian Vega,4-1-4-1,Facundo Tello,Match Report,,7,3,,,0,0,2021,CC Cordoba
+1,2019-08-03,17:45,Primera Div,Matchweek 2,Sat,Home,W,1,0,Tucumán,,,41,,Cristian Vega,4-1-4-1,Pablo Echavarría,Match Report,,14,6,,,0,0,2021,CC Cordoba
+2,2019-08-16,21:10,Primera Div,Matchweek 3,Fri,Away,D,1,1,Talleres,,,27,,Cristian Vega,4-1-4-1,Nicolás Lamolina,Match Report,,7,2,,,0,0,2021,CC Cordoba
+3,2019-08-25,15:30,Primera Div,Matchweek 4,Sun,Home,D,0,0,Racing Club,,,37,,Cristian Vega,4-4-2,Mauro Vigliano,Match Report,,16,4,,,0,0,2021,CC Cordoba
+4,2019-08-30,19:00,Primera Div,Matchweek 5,Fri,Away,L,0,1,Lanús,,,46,,Cristian Vega,4-3-1-2,Hernán Mastrángelo,Match Report,,11,5,,,0,0,2021,CC Cordoba
+5,2019-09-14,15:30,Primera Div,Matchweek 6,Sat,Home,L,1,2,Defensa y Just,,,40,,Cristian Vega,4-1-4-1,Fernando Espinoza,Match Report,,14,1,,,0,0,2021,CC Cordoba
+6,2019-09-20,21:10,Primera Div,Matchweek 7,Fri,Away,L,1,3,Argentinos Jun,,,45,,Cristian Vega,4-2-3-1,Fernando Echenique,Match Report,,15,4,,,0,0,2021,CC Cordoba
+7,2019-09-30,19:00,Primera Div,Matchweek 8,Mon,Home,W,1,0,Godoy Cruz,,,62,,Cristian Vega,4-4-2,Pablo Echavarría,Match Report,,22,8,,,0,1,2021,CC Cordoba
+8,2019-10-05,15:30,Primera Div,Matchweek 9,Sat,Away,W,4,1,San Lorenzo,,,39,,Cristian Vega,4-4-2,Néstor Pitana,Match Report,,13,8,,,0,0,2021,CC Cordoba
+9,2019-10-21,19:00,Primera Div,Matchweek 10,Mon,Home,L,0,1,Estudiantes,,,42,,Cristian Vega,4-4-1-1,Darío Herrera,Match Report,,12,1,,,0,0,2021,CC Cordoba
+10,2019-10-31,17:00,Primera Div,Matchweek 11,Thu,Away,D,2,2,Arsenal,,,31,,Cristian Vega,4-4-1-1,Mauro Vigliano,Match Report,,11,5,,,0,0,2021,CC Cordoba
+11,2019-11-04,21:10,Primera Div,Matchweek 12,Mon,Home,D,0,0,Vélez Sarsf,,,32,,Cristian Vega,4-3-1-2,Silvio Trucco,Match Report,,14,1,,,0,0,2021,CC Cordoba
+12,2019-11-09,21:10,Primera Div,Matchweek 13,Sat,Home,W,3,2,Patronato,,,60,,Cristian Vega,4-1-3-2,Andrés Merlos,Match Report,,19,5,,,2,2,2021,CC Cordoba
+13,2019-11-23,19:40,Primera Div,Matchweek 14,Sat,Away,D,1,1,CA Huracán,,,41,,Cristian Vega,4-3-1-2,Darío Herrera,Match Report,,10,1,,,0,0,2021,CC Cordoba
+14,2019-12-01,21:45,Primera Div,Matchweek 15,Sun,Home,D,1,1,Rosario Cent,,,47,,Ismael Quílez,5-3-2,Fernando Rapallini,Match Report,,17,6,,,0,0,2021,CC Cordoba
+15,2019-12-08,17:35,Primera Div,Matchweek 16,Sun,Away,L,1,2,Gimnasia ELP,,,47,,Maximiliano Cavallotti,4-4-2,Ariel Penel,Match Report,,10,1,,,0,0,2021,CC Cordoba
+16,2020-01-25,19:40,Primera Div,Matchweek 17,Sat,Home,W,1,0,Colón,,,61,,Cristian Vega,4-4-1-1,Silvio Trucco,Match Report,,25,4,,,1,1,2021,CC Cordoba
+17,2020-02-02,17:35,Primera Div,Matchweek 18,Sun,Away,L,0,2,River Plate,,,54,,Cristian Vega,4-3-3,Néstor Pitana,Match Report,,10,1,,,0,0,2021,CC Cordoba
+18,2020-02-07,19:00,Primera Div,Matchweek 19,Fri,Away,W,2,0,Aldosivi,,,27,,Cristian Vega,4-4-2,Fernando Echenique,Match Report,,6,3,,,0,0,2021,CC Cordoba
+19,2020-02-16,21:50,Primera Div,Matchweek 20,Sun,Home,L,0,4,Boca Juniors,,,45,,Cristian Vega,4-4-2,Facundo Tello,Match Report,,15,2,,,0,0,2021,CC Cordoba
+20,2020-02-24,21:45,Primera Div,Matchweek 21,Mon,Away,D,0,0,CA Unión,,,41,,Cristian Vega,4-4-2,Pablo Echavarría,Match Report,,10,2,,,0,0,2021,CC Cordoba
+21,2020-02-29,21:50,Primera Div,Matchweek 22,Sat,Home,D,1,1,Banfield,,,69,,Cristian Vega,4-3-3,Silvio Trucco,Match Report,,15,5,,,0,0,2021,CC Cordoba
+22,2020-03-08,19:40,Primera Div,Matchweek 23,Sun,Away,L,0,3,Independiente,,,36,,Ismael Quílez,4-4-2,Hernán Mastrángelo,Match Report,,5,1,,,0,0,2021,CC Cordoba
+0,2019-07-27,17:45,Primera Div,Matchweek 1,Sat,Away,D,1,1,Lanús,,,43,,Franco Mussis,4-3-1-2,Darío Herrera,Match Report,,12,4,,,0,0,2021,Gimnasia ELP
+1,2019-08-04,13:15,Primera Div,Matchweek 2,Sun,Home,L,0,1,San Lorenzo,,,51,,Franco Mussis,4-3-1-2,Fernando Espinoza,Match Report,,16,6,,,0,0,2021,Gimnasia ELP
+2,2019-08-19,17:45,Primera Div,Matchweek 3,Mon,Away,L,1,2,Colón,,,52,,Matías García,4-1-3-2,Jorge Baliño,Match Report,,13,5,,,0,0,2021,Gimnasia ELP
+3,2019-08-24,13:15,Primera Div,Matchweek 4,Sat,Home,L,0,1,Defensa y Just,,,44,,Lucas Licht,4-1-3-2,Andrés Merlos,Match Report,,16,4,,,0,0,2021,Gimnasia ELP
+4,2019-08-31,13:15,Primera Div,Matchweek 5,Sat,Away,L,0,1,Argentinos Jun,,,43,,Lucas Licht,4-2-2-2,Facundo Tello,Match Report,,15,4,,,0,0,2021,Gimnasia ELP
+5,2019-09-15,11:00,Primera Div,Matchweek 6,Sun,Home,L,1,2,Racing Club,,,40,,Lucas Licht,4-4-2,Diego Abal,Match Report,,15,5,,,0,0,2021,Gimnasia ELP
+6,2019-09-23,21:00,Primera Div,Matchweek 7,Mon,Away,L,1,2,Talleres,,,43,,Lucas Licht,4-4-2,Hernán Mastrángelo,Match Report,,9,3,,,0,0,2021,Gimnasia ELP
+7,2019-09-28,17:45,Primera Div,Matchweek 8,Sat,Home,L,0,2,River Plate,,,49,,Alexis Martin Arias,4-2-3-1,Patricio Loustau,Match Report,,24,7,,,0,0,2021,Gimnasia ELP
+8,2019-10-05,13:15,Primera Div,Matchweek 9,Sat,Away,W,4,2,Godoy Cruz,,,49,,Alexis Martin Arias,4-1-3-2,Darío Herrera,Match Report,,10,6,,,0,0,2021,Gimnasia ELP
+9,2019-10-20,13:15,Primera Div,Matchweek 10,Sun,Home,L,0,1,CA Unión,,,48,,Lucas Licht,4-1-2-1-2◆,Andrés Merlos,Match Report,,20,4,,,0,0,2021,Gimnasia ELP
+10,2019-10-29,19:10,Primera Div,Matchweek 11,Tue,Away,W,4,0,Newell's OB,,,32,,Lucas Licht,4-3-1-2,Fernando Echenique,Match Report,,15,7,,,0,0,2021,Gimnasia ELP
+11,2019-11-02,15:30,Primera Div,Matchweek 12,Sat,Home,L,0,1,Estudiantes,,,57,,Lucas Licht,4-2-3-1,Néstor Pitana,Match Report,,14,2,,,0,0,2021,Gimnasia ELP
+12,2019-11-10,13:15,Primera Div,Matchweek 13,Sun,Away,W,3,0,Aldosivi,,,39,,Víctor Ayala,4-2-3-1,Darío Herrera,Match Report,,14,7,,,1,1,2021,Gimnasia ELP
+13,2019-11-24,19:40,Primera Div,Matchweek 14,Sun,Home,L,0,1,Arsenal,,,62,,Maximiliano Coronel,4-2-3-1,Fernando Echenique,Match Report,,15,1,,,0,0,2021,Gimnasia ELP
+14,2019-11-29,19:00,Primera Div,Matchweek 15,Fri,Away,D,1,1,Banfield,,,37,,Matías García,4-1-4-1,Fernando Espinoza,Match Report,,14,4,,,0,0,2021,Gimnasia ELP
+15,2019-12-08,17:35,Primera Div,Matchweek 16,Sun,Home,W,2,1,CC Córdoba,,,53,,Matías García,4-1-4-1,Ariel Penel,Match Report,,20,9,,,0,0,2021,Gimnasia ELP
+16,2020-01-24,19:40,Primera Div,Matchweek 17,Fri,Home,D,0,0,Vélez Sarsf,,,40,,Paolo Goltz,4-1-3-2,Patricio Loustau,Match Report,,11,0,,,0,0,2021,Gimnasia ELP
+17,2020-01-31,21:10,Primera Div,Matchweek 18,Fri,Away,D,1,1,CA Huracán,,,48,,Paolo Goltz,4-1-3-2,Silvio Trucco,Match Report,,5,1,,,0,0,2021,Gimnasia ELP
+18,2020-02-08,17:35,Primera Div,Matchweek 19,Sat,Home,D,1,1,Patronato,,,44,,Paolo Goltz,4-2-3-1,Néstor Pitana,Match Report,,10,2,,,0,1,2021,Gimnasia ELP
+19,2020-02-15,19:45,Primera Div,Matchweek 20,Sat,Away,L,0,1,Rosario Cent,,,58,,Paolo Goltz,4-1-4-1,Diego Abal,Match Report,,8,2,,,0,0,2021,Gimnasia ELP
+20,2020-02-22,19:40,Primera Div,Matchweek 21,Sat,Away,W,1,0,Independiente,,,40,,Paolo Goltz,4-4-1-1,Fernando Echenique,Match Report,,10,2,,,0,0,2021,Gimnasia ELP
+21,2020-02-29,17:30,Primera Div,Matchweek 22,Sat,Home,W,1,0,Tucumán,,,41,,Paolo Goltz,4-4-1-1,Darío Herrera,Match Report,,13,3,,,0,0,2021,Gimnasia ELP
+22,2020-03-07,21:00,Primera Div,Matchweek 23,Sat,Away,L,0,1,Boca Juniors,,,37,,Lucas Licht,4-4-1-1,Facundo Tello,Match Report,,10,2,,,0,0,2021,Gimnasia ELP
+0,2019-07-27,13:15,Primera Div,Matchweek 1,Sat,Away,W,1,0,Colón,,,31,,Federico Mancinelli,4-4-2,Silvio Trucco,Match Report,,11,4,,,0,0,2021,Patronato
+1,2019-08-04,20:00,Primera Div,Matchweek 2,Sun,Home,L,0,2,Boca Juniors,,,33,,Federico Mancinelli,4-4-2,Fernando Rapallini,Match Report,,9,3,,,0,0,2021,Patronato
+2,2019-08-18,11:00,Primera Div,Matchweek 3,Sun,Home,W,2,1,CA Huracán,,,35,,Federico Mancinelli,4-4-2,Germán Delfino,Match Report,,12,4,,,0,0,2021,Patronato
+3,2019-08-24,17:45,Primera Div,Matchweek 4,Sat,Away,D,1,1,Rosario Cent,,,33,,Federico Mancinelli,4-4-2,Hernán Mastrángelo,Match Report,,6,2,,,0,0,2021,Patronato
+4,2019-08-31,17:45,Primera Div,Matchweek 5,Sat,Home,W,1,0,Independiente,,,35,,Federico Mancinelli,4-4-2,Silvio Trucco,Match Report,,17,2,,,0,0,2021,Patronato
+5,2019-09-16,19:00,Primera Div,Matchweek 6,Mon,Away,D,1,1,Aldosivi,,,48,,Federico Mancinelli,4-4-2,Patricio Loustau,Match Report,,12,4,,,0,0,2021,Patronato
+6,2019-09-21,13:15,Primera Div,Matchweek 7,Sat,Away,L,0,1,Estudiantes,,,45,,Federico Mancinelli,4-1-4-1,Germán Delfino,Match Report,,11,2,,,0,0,2021,Patronato
+7,2019-09-27,21:10,Primera Div,Matchweek 8,Fri,Home,D,1,1,Lanús,,,39,,Federico Mancinelli,4-4-2,Damián Espinoza,Match Report,,10,4,,,0,0,2021,Patronato
+8,2019-10-06,17:45,Primera Div,Matchweek 9,Sun,Away,L,0,2,River Plate,,,22,,Federico Mancinelli,4-4-2,Fernando Echenique,Match Report,,11,5,,,0,0,2021,Patronato
+9,2019-10-19,17:45,Primera Div,Matchweek 10,Sat,Home,L,1,3,Newell's OB,,,49,,Federico Mancinelli,4-4-2,Fernando Rapallini,Match Report,,15,3,,,0,0,2021,Patronato
+10,2019-10-29,19:10,Primera Div,Matchweek 11,Tue,Away,L,0,2,Tucumán,,,43,,Federico Mancinelli,5-3-2,Fernando Espinoza,Match Report,,22,5,,,0,0,2021,Patronato
+11,2019-11-03,17:45,Primera Div,Matchweek 12,Sun,Home,D,1,1,Racing Club,,,32,,Federico Mancinelli,4-4-2,Facundo Tello,Match Report,,8,1,,,0,0,2021,Patronato
+12,2019-11-09,21:10,Primera Div,Matchweek 13,Sat,Away,L,2,3,CC Córdoba,,,40,,Federico Mancinelli,4-4-2,Andrés Merlos,Match Report,,10,4,,,0,0,2021,Patronato
+13,2019-11-25,19:00,Primera Div,Matchweek 14,Mon,Home,L,0,2,Godoy Cruz,,,53,,Federico Mancinelli,4-4-2,Fernando Rapallini,Match Report,,23,6,,,0,0,2021,Patronato
+14,2019-12-01,17:10,Primera Div,Matchweek 15,Sun,Away,L,0,2,San Lorenzo,,,46,,Federico Mancinelli,4-4-2,Pablo Echavarría,Match Report,,24,7,,,0,0,2021,Patronato
+15,2019-12-09,19:00,Primera Div,Matchweek 16,Mon,Home,L,0,1,Vélez Sarsf,,,45,,Federico Mancinelli,4-1-4-1,Germán Delfino,Match Report,,7,0,,,0,0,2021,Patronato
+16,2020-01-26,17:35,Primera Div,Matchweek 17,Sun,Away,D,3,3,Banfield,,,56,,Federico Mancinelli,4-3-3,Fernando Rapallini,Match Report,,11,6,,,1,1,2021,Patronato
+17,2020-02-03,19:00,Primera Div,Matchweek 18,Mon,Home,D,2,2,Arsenal,,,49,,Federico Mancinelli,4-3-3,Fernando Espinoza,Match Report,,15,6,,,0,0,2021,Patronato
+18,2020-02-08,17:35,Primera Div,Matchweek 19,Sat,Away,D,1,1,Gimnasia ELP,,,56,,Bruno Urribarri,4-2-3-1,Néstor Pitana,Match Report,,8,1,,,0,0,2021,Patronato
+19,2020-02-14,19:00,Primera Div,Matchweek 20,Fri,Home,W,1,0,CA Unión,,,56,,Bruno Urribarri,4-1-4-1,Silvio Trucco,Match Report,,23,8,,,0,0,2021,Patronato
+20,2020-02-21,21:10,Primera Div,Matchweek 21,Fri,Away,D,1,1,Argentinos Jun,,,34,,Bruno Urribarri,4-4-1-1,Patricio Loustau,Match Report,,17,5,,,0,0,2021,Patronato
+21,2020-03-02,19:00,Primera Div,Matchweek 22,Mon,Home,W,3,2,Talleres,,,38,,Bruno Urribarri,4-4-2,Mauro Vigliano,Match Report,,8,5,,,0,0,2021,Patronato
+22,2020-03-07,18:00,Primera Div,Matchweek 23,Sat,Away,L,0,2,Defensa y Just,,,36,,Bruno Urribarri,4-4-1-1,Nicolás Lamolina,Match Report,,12,1,,,0,1,2021,Patronato
+0,2019-07-28,20:00,Primera Div,Matchweek 1,Sun,Away,D,0,0,Boca Juniors,,,34,,Adrián Calello,4-1-4-1,Diego Abal,Match Report,,8,3,,,0,0,2021,CA Huracan
+1,2019-08-02,21:00,Primera Div,Matchweek 2,Fri,Home,W,2,0,Colón,,,51,,Adrián Calello,4-1-4-1,Hernán Mastrángelo,Match Report,,10,5,,,1,1,2021,CA Huracan
+2,2019-08-18,11:00,Primera Div,Matchweek 3,Sun,Away,L,1,2,Patronato,,,65,,Adrián Calello,4-1-4-1,Germán Delfino,Match Report,,13,5,,,0,0,2021,CA Huracan
+3,2019-08-26,21:10,Primera Div,Matchweek 4,Mon,Home,D,0,0,Argentinos Jun,,,48,,Adrián Calello,4-1-4-1,Patricio Loustau,Match Report,,7,2,,,0,0,2021,CA Huracan
+4,2019-09-01,13:15,Primera Div,Matchweek 5,Sun,Away,L,1,4,Newell's OB,,,49,,Adrián Calello,4-1-2-1-2◆,Néstor Pitana,Match Report,,7,2,,,0,0,2021,CA Huracan
+5,2019-09-14,20:00,Primera Div,Matchweek 6,Sat,Home,L,0,4,River Plate,,,29,,Carlos Araujo,4-3-3,Nicolás Lamolina,Match Report,,7,0,,,0,0,2021,CA Huracan
+6,2019-09-21,15:30,Primera Div,Matchweek 7,Sat,Away,W,1,0,Defensa y Just,,,24,,Carlos Araujo,4-4-1-1,Silvio Trucco,Match Report,,7,2,,,0,0,2021,CA Huracan
+7,2019-09-29,13:15,Primera Div,Matchweek 8,Sun,Home,D,0,0,Tucumán,,,51,,Mauro Bogado,4-4-1-1,Ariel Penel,Match Report,,12,4,,,0,0,2021,CA Huracan
+8,2019-10-05,17:45,Primera Div,Matchweek 9,Sat,Away,D,0,0,Estudiantes,,,37,,Mauro Bogado,4-4-1-1,Facundo Tello,Match Report,,8,1,,,0,0,2021,CA Huracan
+9,2019-10-20,15:30,Primera Div,Matchweek 10,Sun,Home,W,2,0,San Lorenzo,,,27,,Mauro Bogado,4-4-1-1,Fernando Espinoza,Match Report,,13,2,,,0,0,2021,CA Huracan
+10,2019-10-31,19:10,Primera Div,Matchweek 11,Thu,Away,D,0,0,Vélez Sarsf,,,25,,Carlos Araujo,4-4-1-1,Néstor Pitana,Match Report,,2,0,,,0,0,2021,CA Huracan
+11,2019-11-04,21:10,Primera Div,Matchweek 12,Mon,Home,L,0,1,Lanús,,,38,,Carlos Araujo,4-4-1-1,Nicolás Lamolina,Match Report,,8,1,,,0,0,2021,CA Huracan
+12,2019-11-10,17:45,Primera Div,Matchweek 13,Sun,Away,L,0,1,Racing Club,,,27,,Carlos Araujo,4-2-2-2,Fernando Rapallini,Match Report,,6,4,,,0,0,2021,CA Huracan
+13,2019-11-23,19:40,Primera Div,Matchweek 14,Sat,Home,D,1,1,CC Córdoba,,,59,,Adrián Calello,4-2-3-1,Darío Herrera,Match Report,,8,5,,,0,0,2021,CA Huracan
+14,2019-12-02,21:10,Primera Div,Matchweek 15,Mon,Away,L,0,1,CA Unión,,,59,,Mauro Bogado,4-4-1-1,Mauro Vigliano,Match Report,,13,3,,,0,0,2021,CA Huracan
+15,2019-12-07,17:35,Primera Div,Matchweek 16,Sat,Home,L,0,2,Arsenal,,,50,,Mauro Bogado,4-2-3-1,Néstor Pitana,Match Report,,16,4,,,0,0,2021,CA Huracan
+16,2020-01-24,21:45,Primera Div,Matchweek 17,Fri,Away,L,1,2,Rosario Cent,,,41,,Mauro Bogado,4-2-3-1,Nicolás Lamolina,Match Report,,15,5,,,0,0,2021,CA Huracan
+17,2020-01-31,21:10,Primera Div,Matchweek 18,Fri,Home,D,1,1,Gimnasia ELP,,,53,,Mauro Bogado,4-2-3-1,Silvio Trucco,Match Report,,13,3,,,0,0,2021,CA Huracan
+18,2020-02-10,21:10,Primera Div,Matchweek 19,Mon,Away,L,1,2,Godoy Cruz,,,62,,Mauro Bogado,5-3-2,Nazareno Arasa,Match Report,,20,2,,,0,0,2021,CA Huracan
+19,2020-02-15,17:35,Primera Div,Matchweek 20,Sat,Home,L,0,2,Aldosivi,,,57,,Carlos Araujo,4-2-3-1,Mauro Vigliano,Match Report,,14,5,,,0,0,2021,CA Huracan
+20,2020-02-24,21:50,Primera Div,Matchweek 21,Mon,Away,L,2,4,Talleres,,,35,,Mauro Bogado,3-4-1-2,Facundo Tello,Match Report,,8,3,,,1,1,2021,CA Huracan
+21,2020-03-02,21:10,Primera Div,Matchweek 22,Mon,Home,W,1,0,Independiente,,,28,,Fernando Pellegrino,4-4-1-1,Nicolás Lamolina,Match Report,,9,5,,,0,0,2021,CA Huracan
+22,2020-03-07,18:00,Primera Div,Matchweek 23,Sat,Away,W,3,0,Banfield,,,38,,Fernando Pellegrino,4-4-2,Germán Delfino,Match Report,,11,4,,,0,0,2021,CA Huracan
+0,2019-07-28,11:00,Primera Div,Matchweek 1,Sun,Away,L,0,1,Estudiantes,,,48,,Luciano Pocrnjic,4-1-4-1,Fernando Espinoza,Match Report,,11,3,,,0,0,2021,Aldosivi
+1,2019-08-03,13:15,Primera Div,Matchweek 2,Sat,Home,D,0,0,Argentinos Jun,,,56,,Luciano Pocrnjic,4-3-3,Diego Abal,Match Report,,4,3,,,0,0,2021,Aldosivi
+2,2019-08-18,20:00,Primera Div,Matchweek 3,Sun,Away,L,0,2,Boca Juniors,,,57,,Luciano Pocrnjic,4-3-3,Mauro Vigliano,Match Report,,11,4,,,0,0,2021,Aldosivi
+3,2019-08-26,19:00,Primera Div,Matchweek 4,Mon,Home,W,3,0,Tucumán,,,48,,Luciano Pocrnjic,4-3-3,Silvio Trucco,Match Report,,6,4,,,1,1,2021,Aldosivi
+4,2019-09-01,13:15,Primera Div,Matchweek 5,Sun,Away,L,1,2,Talleres,,,53,,Luciano Pocrnjic,4-2-3-1,Andrés Merlos,Match Report,,10,3,,,0,0,2021,Aldosivi
+5,2019-09-16,19:00,Primera Div,Matchweek 6,Mon,Home,D,1,1,Patronato,,,52,,Luciano Pocrnjic,4-3-3,Patricio Loustau,Match Report,,6,1,,,0,0,2021,Aldosivi
+6,2019-09-22,11:00,Primera Div,Matchweek 7,Sun,Away,L,0,2,Newell's OB,,,52,,Luciano Pocrnjic,4-3-3,Facundo Tello,Match Report,,4,1,,,0,0,2021,Aldosivi
+7,2019-09-27,19:00,Primera Div,Matchweek 8,Fri,Home,L,1,2,CA Unión,,,58,,Luciano Pocrnjic,4-4-2,Néstor Pitana,Match Report,,5,1,,,0,0,2021,Aldosivi
+8,2019-10-05,20:00,Primera Div,Matchweek 9,Sat,Away,L,0,2,Racing Club,,,34,,Luciano Pocrnjic,5-3-2,Mauro Vigliano,Match Report,,5,3,,,0,0,2021,Aldosivi
+9,2019-10-20,11:00,Primera Div,Matchweek 10,Sun,Home,W,1,0,Defensa y Just,,,32,,Luciano Pocrnjic,4-3-3,Hernán Mastrángelo,Match Report,,9,3,,,0,0,2021,Aldosivi
+10,2019-10-29,15:00,Primera Div,Matchweek 11,Tue,Away,L,2,3,Godoy Cruz,,,49,,Luciano Pocrnjic,4-3-3,Facundo Tello,Match Report,,15,3,,,0,0,2021,Aldosivi
+11,2019-11-02,20:00,Primera Div,Matchweek 12,Sat,Home,L,1,2,River Plate,,,43,,Luciano Pocrnjic,4-3-3,Fernando Rapallini,Match Report,,6,2,,,0,0,2021,Aldosivi
+12,2019-11-10,13:15,Primera Div,Matchweek 13,Sun,Home,L,0,3,Gimnasia ELP,,,61,,Luciano Pocrnjic,4-1-4-1,Darío Herrera,Match Report,,5,2,,,0,0,2021,Aldosivi
+13,2019-11-25,21:10,Primera Div,Matchweek 14,Mon,Away,L,1,5,Rosario Cent,,,57,,Luciano Pocrnjic,4-3-1-2,Patricio Loustau,Match Report,,13,3,,,0,0,2021,Aldosivi
+14,2019-12-01,21:45,Primera Div,Matchweek 15,Sun,Home,D,0,0,Independiente,,,34,,Luciano Pocrnjic,4-1-4-1,Fernando Echenique,Match Report,,4,0,,,0,0,2021,Aldosivi
+15,2019-12-06,19:00,Primera Div,Matchweek 16,Fri,Away,W,2,0,Colón,,,42,,Luciano Pocrnjic,4-1-4-1,Mauro Vigliano,Match Report,,17,7,,,1,1,2021,Aldosivi
+16,2020-01-24,17:35,Primera Div,Matchweek 17,Fri,Home,W,2,0,Lanús,,,46,,Fabián Assmann,4-5-1,Pablo Echavarría,Match Report,,8,4,,,0,0,2021,Aldosivi
+17,2020-01-30,21:10,Primera Div,Matchweek 18,Thu,Away,D,1,1,Vélez Sarsf,,,49,,Luciano Pocrnjic,4-3-3,Hernán Mastrángelo,Match Report,,5,1,,,0,0,2021,Aldosivi
+18,2020-02-07,19:00,Primera Div,Matchweek 19,Fri,Home,L,0,2,CC Córdoba,,,73,,Luciano Pocrnjic,4-3-3,Fernando Echenique,Match Report,,11,1,,,0,0,2021,Aldosivi
+19,2020-02-15,17:35,Primera Div,Matchweek 20,Sat,Away,W,2,0,CA Huracán,,,43,,Luciano Pocrnjic,4-3-3,Mauro Vigliano,Match Report,,6,2,,,0,0,2021,Aldosivi
+20,2020-02-21,19:00,Primera Div,Matchweek 21,Fri,Away,W,1,0,Banfield,,,49,,Luciano Pocrnjic,4-3-3,Leandro Rey Hilfer,Match Report,,9,3,,,0,0,2021,Aldosivi
+21,2020-03-01,17:35,Primera Div,Matchweek 22,Sun,Home,L,1,3,San Lorenzo,,,63,,Luciano Pocrnjic,4-3-3,Andrés Merlos,Match Report,,13,2,,,0,0,2021,Aldosivi
+22,2020-03-06,19:00,Primera Div,Matchweek 23,Fri,Away,L,0,4,Arsenal,,,58,,Luciano Pocrnjic,4-3-3,Pablo Echavarría,Match Report,,9,6,,,0,0,2021,Aldosivi
+0,2019-07-27,13:15,Primera Div,Matchweek 1,Sat,Home,L,0,1,Patronato,,,69,,Matías Fritzler,4-3-3,Silvio Trucco,Match Report,,17,3,,,0,0,2021,Colon
+1,2019-08-02,21:00,Primera Div,Matchweek 2,Fri,Away,L,0,2,CA Huracán,,,49,,Luis Miguel Rodríguez,4-4-2,Hernán Mastrángelo,Match Report,,8,3,,,0,0,2021,Colon
+2,2019-08-19,17:45,Primera Div,Matchweek 3,Mon,Home,W,2,1,Gimnasia ELP,,,48,,Matías Fritzler,4-1-4-1,Jorge Baliño,Match Report,,18,8,,,0,0,2021,Colon
+3,2019-08-24,20:00,Primera Div,Matchweek 4,Sat,Away,L,0,2,Independiente,,,40,,Luis Miguel Rodríguez,4-4-2,Diego Abal,Match Report,,5,0,,,0,0,2021,Colon
+4,2019-09-01,11:00,Primera Div,Matchweek 5,Sun,Home,D,1,1,Rosario Cent,,,43,,Luis Miguel Rodríguez,4-4-2,Fernando Espinoza,Match Report,,12,6,,,0,0,2021,Colon
+5,2019-09-14,17:45,Primera Div,Matchweek 6,Sat,Home,W,2,1,San Lorenzo,,,30,,Luis Miguel Rodríguez,4-4-1-1,Fernando Echenique,Match Report,,7,3,,,1,1,2021,Colon
+6,2019-09-22,15:30,Primera Div,Matchweek 7,Sun,Away,L,2,3,Lanús,,,46,,Matías Fritzler,4-3-1-2,Darío Herrera,Match Report,,12,5,,,1,1,2021,Colon
+7,2019-09-30,21:10,Primera Div,Matchweek 8,Mon,Home,W,1,0,Argentinos Jun,,,35,,Luis Miguel Rodríguez,4-4-2,Yael Falcón,Match Report,,9,4,,,0,0,2021,Colon
+8,2019-10-06,15:30,Primera Div,Matchweek 9,Sun,Away,L,0,1,CA Unión,,,55,,Luis Miguel Rodríguez,4-4-2,Patricio Loustau,Match Report,,6,1,,,0,0,2021,Colon
+9,2019-10-21,21:20,Primera Div,Matchweek 10,Mon,Home,W,2,1,Godoy Cruz,,,46,,Luis Miguel Rodríguez,4-1-3-2,Lucas Comesaña,Match Report,,14,6,,,0,0,2021,Colon
+10,2019-10-29,21:20,Primera Div,Matchweek 11,Tue,Away,L,1,2,River Plate,,,36,,Leonardo Burián,4-1-4-1,Nicolás Lamolina,Match Report,,4,1,,,0,0,2021,Colon
+11,2019-11-02,13:15,Primera Div,Matchweek 12,Sat,Home,L,0,2,Tucumán,,,50,,Matías Fritzler,4-1-4-1,Jorge Baliño,Match Report,,14,2,,,0,0,2021,Colon
+12,2019-11-25,19:00,Primera Div,Matchweek 14,Mon,Home,W,3,2,Estudiantes,,,35,,Luis Miguel Rodríguez,4-3-1-2,Germán Delfino,Match Report,,11,6,,,0,0,2021,Colon
+13,2019-12-01,19:40,Primera Div,Matchweek 15,Sun,Away,L,1,3,Vélez Sarsf,,,38,,Luis Miguel Rodríguez,4-4-1-1,Ariel Penel,Match Report,,7,3,,,0,0,2021,Colon
+14,2019-12-06,19:00,Primera Div,Matchweek 16,Fri,Home,L,0,2,Aldosivi,,,58,,Luis Miguel Rodríguez,4-4-1-1,Mauro Vigliano,Match Report,,7,0,,,0,0,2021,Colon
+15,2019-12-12,21:00,Primera Div,Matchweek 13,Thu,Away,L,1,2,Arsenal,,,38,,Leonardo Burián,4-1-4-1,Andrés Merlos,Match Report,,13,5,,,0,0,2021,Colon
+16,2020-01-25,19:40,Primera Div,Matchweek 17,Sat,Away,L,0,1,CC Córdoba,,,39,,Luis Miguel Rodríguez,4-3-3,Silvio Trucco,Match Report,,2,1,,,0,0,2021,Colon
+17,2020-02-02,19:40,Primera Div,Matchweek 18,Sun,Home,L,0,1,Banfield,,,58,,Luis Miguel Rodríguez,4-4-2,Ariel Penel,Match Report,,22,4,,,0,0,2021,Colon
+18,2020-02-08,17:35,Primera Div,Matchweek 19,Sat,Away,D,0,0,Defensa y Just,,,28,,Luis Miguel Rodríguez,4-4-2,Pablo Echavarría,Match Report,,6,4,,,0,0,2021,Colon
+19,2020-02-14,21:10,Primera Div,Matchweek 20,Fri,Home,D,1,1,Racing Club,,,33,,Luis Miguel Rodríguez,4-4-2,Hernán Mastrángelo,Match Report,,13,3,,,0,0,2021,Colon
+20,2020-02-22,21:45,Primera Div,Matchweek 21,Sat,Away,L,0,4,Newell's OB,,,27,,Matías Fritzler,4-2-3-1,Pablo Dóvalo,Match Report,,7,2,,,0,0,2021,Colon
+21,2020-02-28,21:10,Primera Div,Matchweek 22,Fri,Home,L,0,4,Boca Juniors,,,38,,Leonardo Burián,4-1-4-1,Diego Abal,Match Report,,10,3,,,0,0,2021,Colon
+22,2020-03-08,21:50,Primera Div,Matchweek 23,Sun,Away,L,0,2,Talleres,,,41,,Leonardo Burián,4-1-4-1,Darío Herrera,Match Report,,6,3,,,0,0,2021,Colon
+0,2019-07-27,15:30,Primera Div,Matchweek 1,Sat,Away,L,2,3,San Lorenzo,,,26,,Tomás Cardona,4-4-1-1,Andrés Merlos,Match Report,,8,4,,,0,0,2021,Godoy Cruz
+1,2019-08-05,21:10,Primera Div,Matchweek 2,Mon,Home,L,0,2,Arsenal,,,54,,Tomás Cardona,3-5-2,Patricio Loustau,Match Report,,10,1,,,0,0,2021,Godoy Cruz
+2,2019-08-19,15:30,Primera Div,Matchweek 3,Mon,Away,L,0,1,Tucumán,,,35,,Tomás Cardona,4-3-3,Darío Herrera,Match Report,,8,3,,,0,0,2021,Godoy Cruz
+3,2019-08-25,11:00,Primera Div,Matchweek 4,Sun,Home,W,2,1,Estudiantes,,,25,,Tomás Cardona,4-4-2,Pablo Echavarría,Match Report,,15,5,,,0,0,2021,Godoy Cruz
+4,2019-08-31,20:00,Primera Div,Matchweek 5,Sat,Away,L,1,3,Racing Club,,,19,,Tomás Cardona,4-4-2,Germán Delfino,Match Report,,7,2,,,0,0,2021,Godoy Cruz
+5,2019-09-14,15:30,Primera Div,Matchweek 6,Sat,Home,L,0,1,Argentinos Jun,,,43,,Tomás Cardona,4-4-2,Néstor Pitana,Match Report,,9,2,,,0,0,2021,Godoy Cruz
+6,2019-09-22,13:15,Primera Div,Matchweek 7,Sun,Home,L,0,2,Banfield,,,51,,Tomás Cardona,4-1-4-1,Pablo Dóvalo,Match Report,,15,3,,,0,0,2021,Godoy Cruz
+7,2019-09-30,19:00,Primera Div,Matchweek 8,Mon,Away,L,0,1,CC Córdoba,,,38,,Tomás Cardona,5-4-1,Pablo Echavarría,Match Report,,12,4,,,0,0,2021,Godoy Cruz
+8,2019-10-05,13:15,Primera Div,Matchweek 9,Sat,Home,L,2,4,Gimnasia ELP,,,51,,Tomás Cardona,5-4-1,Darío Herrera,Match Report,,8,3,,,0,0,2021,Godoy Cruz
+9,2019-10-21,21:20,Primera Div,Matchweek 10,Mon,Away,L,1,2,Colón,,,54,,Tomás Cardona,4-4-1-1,Lucas Comesaña,Match Report,,17,6,,,0,0,2021,Godoy Cruz
+10,2019-10-29,15:00,Primera Div,Matchweek 11,Tue,Home,W,3,2,Aldosivi,,,51,,Tomás Cardona,4-4-2,Facundo Tello,Match Report,,13,6,,,0,0,2021,Godoy Cruz
+11,2019-11-02,17:45,Primera Div,Matchweek 12,Sat,Away,L,2,5,Rosario Cent,,,49,,Tomás Cardona,4-1-4-1,Hernán Mastrángelo,Match Report,,13,6,,,0,0,2021,Godoy Cruz
+12,2019-11-09,20:00,Primera Div,Matchweek 13,Sat,Home,L,1,2,Independiente,,,31,,Tomás Cardona,4-1-4-1,Ariel Penel,Match Report,,9,2,,,0,0,2021,Godoy Cruz
+13,2019-11-25,19:00,Primera Div,Matchweek 14,Mon,Away,W,2,0,Patronato,,,47,,Juan Andrada,4-4-1-1,Fernando Rapallini,Match Report,,16,5,,,0,0,2021,Godoy Cruz
+14,2019-12-01,19:40,Primera Div,Matchweek 15,Sun,Home,L,0,5,Talleres,,,41,,Juan Andrada,4-4-1-1,Darío Herrera,Match Report,,8,2,,,0,0,2021,Godoy Cruz
+15,2019-12-08,17:35,Primera Div,Matchweek 16,Sun,Away,L,0,2,Defensa y Just,,,37,,Juan Andrada,5-4-1,Lucas Comesaña,Match Report,,8,1,,,0,0,2021,Godoy Cruz
+16,2020-01-25,21:45,Primera Div,Matchweek 17,Sat,Home,L,0,1,River Plate,,,33,,Rodrigo Rey,4-4-2,Mauro Vigliano,Match Report,,10,3,,,0,0,2021,Godoy Cruz
+17,2020-02-02,19:40,Primera Div,Matchweek 18,Sun,Away,L,0,2,Lanús,,,38,,Santiago García,4-4-2,Diego Abal,Match Report,,6,1,,,0,0,2021,Godoy Cruz
+18,2020-02-10,21:10,Primera Div,Matchweek 19,Mon,Home,W,2,1,CA Huracán,,,38,,Santiago García,4-4-2,Nazareno Arasa,Match Report,,9,5,,,0,0,2021,Godoy Cruz
+19,2020-02-23,19:40,Primera Div,Matchweek 21,Sun,Away,L,0,3,Boca Juniors,,,34,,Santiago García,4-1-4-1,Nicolás Lamolina,Match Report,,7,1,,,0,0,2021,Godoy Cruz
+20,2020-02-29,21:50,Primera Div,Matchweek 22,Sat,Home,L,1,3,CA Unión,,,43,,Santiago García,4-1-4-1,Germán Delfino,Match Report,,15,1,,,0,0,2021,Godoy Cruz
+21,2020-03-04,19:00,Primera Div,Matchweek 20,Wed,Away,W,1,0,Vélez Sarsf,,,23,,Rodrigo Rey,4-4-2,Ariel Penel,Match Report,,7,3,,,1,1,2021,Godoy Cruz
+22,2020-03-08,21:45,Primera Div,Matchweek 23,Sun,Away,W,2,0,Newell's OB,,,24,,Rodrigo Rey,4-4-2,Andrés Merlos,Match Report,,12,4,,,0,0,2021,Godoy Cruz

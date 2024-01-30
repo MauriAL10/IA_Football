@@ -1,0 +1,761 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+6,2021-05-30,11:00,Série A,Matchweek 1,Sun,Home,L,1,2,Fortaleza,1.7,0.9,54,,Júnior Alonso,4-2-3-1,Caio Max Augusto Vieira,Match Report,,12,3,25.0,2.0,1,1,2021,Atletico Mineiro
+7,2021-06-06,20:30,Série A,Matchweek 2,Sun,Away,W,1,0,Sport Recife,0.8,0.5,52,,Réver,4-2-3-1,Raphael Claus,Match Report,,10,1,19.2,1.0,0,0,2021,Atletico Mineiro
+8,2021-06-13,16:00,Série A,Matchweek 3,Sun,Home,W,1,0,São Paulo,1.3,0.2,42,,Réver,4-2-3-1,Anderson Daronco,Match Report,,9,2,20.7,0.0,0,0,2021,Atletico Mineiro
+9,2021-06-16,19:00,Série A,Matchweek 4,Wed,Away,W,1,0,Internacional,1.0,1.1,42,,Réver,4-1-4-1,Luiz Flávio de Oliveira,Match Report,,6,2,19.9,0.0,0,0,2021,Atletico Mineiro
+10,2021-06-21,20:00,Série A,Matchweek 5,Mon,Home,D,1,1,Chapecoense,1.1,1.6,67,,Réver,4-3-3,Rodolpho Toski Marques,Match Report,,14,2,18.3,0.0,0,0,2021,Atletico Mineiro
+11,2021-06-24,19:00,Série A,Matchweek 6,Thu,Away,L,1,2,Ceará,1.1,1.4,66,,Keno,4-1-4-1,Leandro Pedro Vuaden,Match Report,,16,6,20.2,1.0,0,0,2021,Atletico Mineiro
+12,2021-06-27,20:30,Série A,Matchweek 7,Sun,Away,L,0,2,Santos,0.7,1.3,51,,Réver,4-1-4-1,Bruno Arleu de Araujo,Match Report,,11,3,25.4,1.0,0,0,2021,Atletico Mineiro
+13,2021-07-01,19:00,Série A,Matchweek 8,Thu,Home,W,4,1,Atl Goianiense,2.2,0.8,47,,Réver,4-3-3,Flavio Rodrigues De Souza,Match Report,,19,9,22.3,1.0,0,0,2021,Atletico Mineiro
+14,2021-07-04,17:15,Série A,Matchweek 9,Sun,Away,W,1,0,Cuiabá,1.0,0.7,41,,Réver,4-2-3-1,Savio Pereira,Match Report,,4,1,19.7,0.0,0,0,2021,Atletico Mineiro
+15,2021-07-07,19:00,Série A,Matchweek 10,Wed,Home,W,2,1,Flamengo,1.8,1.2,50,,Réver,3-1-4-2,Paulo Roberto Alves Júnior,Match Report,,12,6,17.4,0.0,0,0,2021,Atletico Mineiro
+16,2021-07-10,19:00,Série A,Matchweek 11,Sat,Away,W,1,0,América (MG),2.4,0.5,49,,Júnior Alonso,4-3-3,Anderson Daronco,Match Report,,13,5,19.4,1.0,0,0,2021,Atletico Mineiro
+18,2021-07-17,19:00,Série A,Matchweek 12,Sat,Away,W,2,1,Corinthians,0.7,1.6,62,,Júnior Alonso,4-2-3-1,Jean Pierre Goncalves Lima,Match Report,,13,8,21.7,1.0,0,0,2021,Atletico Mineiro
+20,2021-07-25,11:00,Série A,Matchweek 13,Sun,Home,W,3,0,Bahia,2.2,0.9,60,,Júnior Alonso,4-2-3-1,Antonio Dib Moraes de Sousa,Match Report,,11,4,17.8,2.0,1,1,2021,Atletico Mineiro
+21,2021-08-01,16:00,Série A,Matchweek 14,Sun,Home,W,2,0,Ath Paranaense,1.3,0.7,60,,Júnior Alonso,4-2-3-1,Braulio da Silva Machado,Match Report,,10,2,18.8,0.0,1,1,2021,Atletico Mineiro
+22,2021-08-08,16:00,Série A,Matchweek 15,Sun,Away,W,2,1,Juventude,2.0,0.4,64,,Hulk,4-2-3-1,André Luiz de Freitas Castro,Match Report,,20,4,21.8,3.0,0,0,2021,Atletico Mineiro
+24,2021-08-14,19:00,Série A,Matchweek 16,Sat,Home,W,2,0,Palmeiras,1.8,0.1,67,,Hulk,4-2-3-1,Bruno Arleu de Araujo,Match Report,,15,6,18.2,1.0,0,0,2021,Atletico Mineiro
+26,2021-08-23,20:00,Série A,Matchweek 17,Mon,Away,D,1,1,Fluminense,1.3,1.6,66,,Júnior Alonso,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,19,7,21.8,1.0,0,0,2021,Atletico Mineiro
+27,2021-08-29,20:30,Série A,Matchweek 18,Sun,Away,D,1,1,Bragantino,2.3,0.4,66,,Júnior Alonso,4-2-3-1,Ramon Abatti Abel,Match Report,,26,7,18.9,1.0,0,0,2021,Atletico Mineiro
+28,2021-09-12,16:00,Série A,Matchweek 20,Sun,Away,W,2,0,Fortaleza,1.0,0.6,52,,Júnior Alonso,4-2-3-1,Braulio da Silva Machado,Match Report,,11,4,18.3,0.0,0,0,2021,Atletico Mineiro
+29,2021-09-18,19:00,Série A,Matchweek 21,Sat,Home,W,3,0,Sport Recife,2.4,0.3,59,,Júnior Alonso,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,21,8,22.8,2.0,1,1,2021,Atletico Mineiro
+31,2021-09-25,21:00,Série A,Matchweek 22,Sat,Away,D,0,0,São Paulo,0.4,0.5,51,,Réver,3-5-2,Wilton Sampaio,Match Report,,11,4,22.9,0.0,0,0,2021,Atletico Mineiro
+33,2021-10-02,21:00,Série A,Matchweek 23,Sat,Home,W,1,0,Internacional,1.4,0.5,57,,Júnior Alonso,4-4-2,Luiz Flávio de Oliveira,Match Report,,10,3,14.8,0.0,0,0,2021,Atletico Mineiro
+34,2021-10-06,19:00,Série A,Matchweek 24,Wed,Away,D,2,2,Chapecoense,0.8,1.4,65,733.0,Hulk,4-2-3-1,André Luiz de Freitas Castro,Match Report,,16,5,22.8,2.0,0,0,2021,Atletico Mineiro
+35,2021-10-09,16:30,Série A,Matchweek 25,Sat,Home,W,3,1,Ceará,2.7,1.4,54,10265.0,Réver,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,11,3,21.7,0.0,1,1,2021,Atletico Mineiro
+36,2021-10-13,19:00,Série A,Matchweek 26,Wed,Home,W,3,1,Santos,2.8,0.2,59,16514.0,Réver,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,12,4,16.9,0.0,1,2,2021,Atletico Mineiro
+37,2021-10-17,18:15,Série A,Matchweek 27,Sun,Away,L,1,2,Atl Goianiense,1.3,0.6,64,2963.0,Hulk,4-2-3-1,Raphael Claus,Match Report,,22,3,20.3,1.0,0,0,2021,Atletico Mineiro
+38,2021-10-24,16:00,Série A,Matchweek 28,Sun,Home,W,2,1,Cuiabá,2.5,0.4,54,30501.0,Júnior Alonso,4-2-3-1,Savio Pereira,Match Report,,21,9,17.5,1.0,0,0,2021,Atletico Mineiro
+39,2021-10-30,19:00,Série A,Matchweek 29,Sat,Away,L,0,1,Flamengo,0.7,0.9,62,20000.0,Júnior Alonso,4-2-3-1,Anderson Daronco,Match Report,,16,2,22.4,1.0,0,0,2021,Atletico Mineiro
+40,2021-11-03,21:00,Série A,Matchweek 19,Wed,Home,W,2,1,Grêmio,1.6,1.7,53,55624.0,Réver,4-4-2,Luiz Flávio de Oliveira,Match Report,,14,3,26.1,2.0,1,1,2021,Atletico Mineiro
+41,2021-11-07,16:00,Série A,Matchweek 30,Sun,Home,W,1,0,América (MG),2.0,0.6,56,60142.0,Júnior Alonso,4-2-3-1,Wilton Sampaio,Match Report,,18,7,16.5,1.0,0,0,2021,Atletico Mineiro
+42,2021-11-10,19:00,Série A,Matchweek 31,Wed,Home,W,3,0,Corinthians,1.0,1.0,47,58714.0,Réver,4-2-3-1,Braulio da Silva Machado,Match Report,,11,5,20.3,1.0,0,0,2021,Atletico Mineiro
+43,2021-11-16,16:00,Série A,Matchweek 33,Tue,Away,W,1,0,Ath Paranaense,0.7,0.4,55,6233.0,Réver,4-2-2-2,Savio Pereira,Match Report,,9,2,14.9,1.0,0,0,2021,Atletico Mineiro
+44,2021-11-20,19:00,Série A,Matchweek 34,Sat,Home,W,2,0,Juventude,2.4,0.1,61,61476.0,Réver,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,17,4,21.4,0.0,1,1,2021,Atletico Mineiro
+45,2021-11-23,21:30,Série A,Matchweek 35,Tue,Away,D,2,2,Palmeiras,1.4,1.8,57,17744.0,Júnior Alonso,4-2-2-2,Anderson Daronco,Match Report,,15,5,19.6,0.0,0,0,2021,Atletico Mineiro
+46,2021-11-28,16:00,Série A,Matchweek 36,Sun,Home,W,2,1,Fluminense,1.8,0.3,48,59900.0,Júnior Alonso,4-2-2-2,Marielson Alves Silva,Match Report,,8,3,16.0,1.0,1,1,2021,Atletico Mineiro
+47,2021-12-02,18:00,Série A,Matchweek 32,Thu,Away,W,3,2,Bahia,1.7,1.0,52,29415.0,Júnior Alonso,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,18,8,25.9,1.0,1,1,2021,Atletico Mineiro
+48,2021-12-05,16:00,Série A,Matchweek 37,Sun,Home,W,4,3,Bragantino,1.6,2.5,61,61573.0,Júnior Alonso,4-2-3-1,Rodolpho Toski Marques,Match Report,,13,6,18.3,0.0,0,0,2021,Atletico Mineiro
+49,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,3,4,Grêmio,1.0,2.1,62,33577.0,Nathan Silva,4-2-3-1,Raphael Claus,Match Report,,13,7,20.7,1.0,0,0,2021,Atletico Mineiro
+6,2021-05-30,16:00,Série A,Matchweek 1,Sun,Home,W,1,0,Palmeiras,2.5,0.9,62,,Diego,4-2-3-1,Anderson Daronco,Match Report,,14,9,14.3,1.0,0,0,2021,Flamengo
+7,2021-06-13,16:00,Série A,Matchweek 3,Sun,Home,W,2,0,América (MG),1.9,0.6,64,,Diego,4-2-3-1,Ramon Abatti Abel,Match Report,,20,6,18.6,0.0,0,0,2021,Flamengo
+8,2021-06-19,21:00,Série A,Matchweek 5,Sat,Home,L,2,3,Bragantino,2.6,0.8,68,,Diego,4-2-3-1,Braulio da Silva Machado,Match Report,,20,9,17.0,1.0,0,0,2021,Flamengo
+9,2021-06-23,19:00,Série A,Matchweek 6,Wed,Home,W,2,1,Fortaleza,2.1,0.9,63,,Diego,4-4-2,Anderson Daronco,Match Report,,19,6,19.7,0.0,0,0,2021,Flamengo
+10,2021-06-27,11:00,Série A,Matchweek 7,Sun,Away,L,0,1,Juventude,0.8,0.4,64,,Diego,4-4-2,Thiago Luis Scarascati,Match Report,,13,2,17.0,0.0,0,0,2021,Flamengo
+11,2021-07-01,19:00,Série A,Matchweek 8,Thu,Away,W,2,0,Cuiabá,1.5,0.3,56,,Diego,4-4-2,Rodolpho Toski Marques,Match Report,,12,5,20.4,0.0,0,0,2021,Flamengo
+12,2021-07-04,16:00,Série A,Matchweek 9,Sun,Home,L,0,1,Fluminense,1.3,2.1,66,,Diego Alves,4-4-2,Luiz Flávio de Oliveira,Match Report,,21,4,21.9,0.0,0,0,2021,Flamengo
+13,2021-07-07,19:00,Série A,Matchweek 10,Wed,Away,L,1,2,Atlético Mineiro,1.2,1.8,50,,Diego Alves,4-1-2-1-2◆,Paulo Roberto Alves Júnior,Match Report,,16,6,19.3,0.0,0,0,2021,Flamengo
+14,2021-07-11,18:15,Série A,Matchweek 11,Sun,Home,W,2,1,Chapecoense,2.1,2.0,70,,Everton Ribeiro,4-2-2-2,Paulo Cesar Zanovelli da Silva,Match Report,,24,7,19.4,0.0,0,0,2021,Flamengo
+16,2021-07-18,18:15,Série A,Matchweek 12,Sun,Away,W,5,0,Bahia,2.9,1.0,64,,Diego,4-2-3-1,Wilton Sampaio,Match Report,,15,9,17.9,1.0,1,1,2021,Flamengo
+18,2021-07-25,16:00,Série A,Matchweek 13,Sun,Home,W,5,1,São Paulo,2.3,1.9,57,,Diego,4-2-3-1,Felipe Fernandes de Lima,Match Report,,12,8,15.8,1.0,0,0,2021,Flamengo
+19,2021-08-01,16:00,Série A,Matchweek 14,Sun,Away,W,3,1,Corinthians,1.3,1.0,64,,Diego,4-2-3-1,Leandro Pedro Vuaden,Match Report,,17,7,18.1,0.0,0,0,2021,Flamengo
+20,2021-08-08,18:15,Série A,Matchweek 15,Sun,Home,L,0,4,Internacional,1.5,1.7,63,,Diego,4-2-2-2,Paulo Roberto Alves Júnior,Match Report,,11,7,18.3,0.0,0,0,2021,Flamengo
+22,2021-08-15,16:00,Série A,Matchweek 16,Sun,Home,W,2,0,Sport Recife,2.0,0.1,64,,Everton Ribeiro,4-4-2,Raphael Claus,Match Report,,17,9,17.7,0.0,0,0,2021,Flamengo
+24,2021-08-22,16:00,Série A,Matchweek 17,Sun,Away,D,1,1,Ceará,1.9,1.5,62,,Diego,4-2-3-1,Leandro Pedro Vuaden,Match Report,,18,5,19.4,0.0,0,0,2021,Flamengo
+25,2021-08-28,19:00,Série A,Matchweek 18,Sat,Away,W,4,0,Santos,4.5,0.4,50,,Diego,4-2-3-1,Braulio da Silva Machado,Match Report,,17,10,16.4,2.0,1,1,2021,Flamengo
+26,2021-09-12,16:00,Série A,Matchweek 20,Sun,Away,W,3,1,Palmeiras,0.7,0.6,42,,Everton Ribeiro,4-2-3-1,Wilton Pereira Sampaio,Match Report,,11,4,18.9,0.0,0,0,2021,Flamengo
+27,2021-09-19,20:30,Série A,Matchweek 21,Sun,Home,L,0,1,Grêmio,0.7,1.4,62,,Everton Ribeiro,4-2-3-1,Marielson Alves Silva,Match Report,,9,1,18.6,0.0,0,0,2021,Flamengo
+29,2021-09-26,11:00,Série A,Matchweek 22,Sun,Away,D,1,1,América (MG),1.0,1.0,57,,Diego,4-3-3,Anderson Daronco,Match Report,,9,5,20.6,1.0,0,0,2021,Flamengo
+31,2021-10-03,16:00,Série A,Matchweek 23,Sun,Home,W,3,0,Ath Paranaense,2.1,0.6,71,,Everton Ribeiro,4-4-2,Savio Pereira,Match Report,,11,4,18.1,0.0,0,0,2021,Flamengo
+32,2021-10-06,20:30,Série A,Matchweek 24,Wed,Away,D,1,1,Bragantino,1.2,1.0,56,2708.0,Willian Arão,4-2-3-1,Ramon Abatti Abel,Match Report,,11,3,20.6,0.0,0,0,2021,Flamengo
+33,2021-10-09,19:00,Série A,Matchweek 25,Sat,Away,W,3,0,Fortaleza,1.6,0.8,60,4052.0,Willian Arão,4-2-3-1,Felipe Fernandes de Lima,Match Report,,13,6,21.8,1.0,0,0,2021,Flamengo
+34,2021-10-13,19:00,Série A,Matchweek 26,Wed,Home,W,3,1,Juventude,1.7,0.6,63,8197.0,Diego Alves,4-2-3-1,André Luiz de Freitas Castro,Match Report,,14,6,21.1,2.0,0,0,2021,Flamengo
+35,2021-10-17,20:30,Série A,Matchweek 27,Sun,Home,D,0,0,Cuiabá,1.0,0.2,69,9437.0,Everton Ribeiro,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,16,4,14.9,1.0,0,0,2021,Flamengo
+36,2021-10-23,19:00,Série A,Matchweek 28,Sat,Away,L,1,3,Fluminense,1.0,2.1,71,10029.0,Diego,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,16,3,23.7,3.0,0,0,2021,Flamengo
+37,2021-10-30,19:00,Série A,Matchweek 29,Sat,Home,W,1,0,Atlético Mineiro,0.9,0.7,38,20000.0,Everton Ribeiro,4-2-3-1,Anderson Daronco,Match Report,,8,3,20.6,0.0,0,0,2021,Flamengo
+38,2021-11-02,16:00,Série A,Matchweek 4,Tue,Away,D,2,2,Ath Paranaense,1.5,1.9,42,,Everton Ribeiro,4-4-2,Marielson Alves Silva,Match Report,,13,6,19.4,1.0,0,0,2021,Flamengo
+39,2021-11-05,21:30,Série A,Matchweek 19,Fri,Home,W,2,0,Atl Goianiense,1.4,0.6,52,18527.0,Everton Ribeiro,4-4-2,Rodolpho Toski Marques,Match Report,,23,7,17.9,0.0,0,0,2021,Flamengo
+40,2021-11-08,20:00,Série A,Matchweek 30,Mon,Away,D,2,2,Chapecoense,2.5,1.3,59,3834.0,Everton Ribeiro,4-4-2,Denis Ribeiro Serafim,Match Report,,21,9,19.1,3.0,0,0,2021,Flamengo
+41,2021-11-11,19:00,Série A,Matchweek 31,Thu,Home,W,3,0,Bahia,2.4,0.2,68,3488.0,Diego,4-2-3-1,André Luiz de Freitas Castro,Match Report,,16,5,21.3,2.0,1,1,2021,Flamengo
+42,2021-11-14,16:00,Série A,Matchweek 32,Sun,Away,W,4,0,São Paulo,2.5,0.3,59,47855.0,Everton Ribeiro,4-4-2,Leandro Pedro Vuaden,Match Report,,15,7,18.6,0.0,0,0,2021,Flamengo
+43,2021-11-17,21:30,Série A,Matchweek 33,Wed,Home,W,1,0,Corinthians,1.7,0.3,57,49897.0,Diego,4-3-3,Anderson Daronco,Match Report,,22,6,20.1,1.0,0,0,2021,Flamengo
+44,2021-11-20,21:30,Série A,Matchweek 34,Sat,Away,W,2,1,Internacional,1.4,2.3,48,22000.0,Everton Ribeiro,4-2-3-1,Savio Pereira,Match Report,,15,8,16.9,0.0,0,0,2021,Flamengo
+45,2021-11-23,21:00,Série A,Matchweek 2,Tue,Away,D,2,2,Grêmio,1.5,2.0,49,,Diego,4-2-3-1,Braulio da Silva Machado,Match Report,,12,6,17.7,1.0,0,0,2021,Flamengo
+47,2021-11-30,20:00,Série A,Matchweek 36,Tue,Home,W,2,1,Ceará,2.1,1.4,51,46481.0,Diego,4-2-3-1,Caio Max Augusto Vieira,Match Report,,15,5,18.5,1.0,0,0,2021,Flamengo
+48,2021-12-03,20:00,Série A,Matchweek 35,Fri,Away,D,1,1,Sport Recife,2.5,1.5,52,10733.0,Diego,4-2-2-2,Leandro Pedro Vuaden,Match Report,,22,7,19.2,0.0,0,0,2021,Flamengo
+49,2021-12-06,20:00,Série A,Matchweek 37,Mon,Home,L,0,1,Santos,1.5,0.9,63,41930.0,Everton Ribeiro,4-4-2,Anderson Daronco,Match Report,,8,4,22.9,0.0,0,1,2021,Flamengo
+50,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,0,2,Atl Goianiense,1.3,1.2,48,11728.0,Renê,3-4-3,Paulo Roberto Alves Júnior,Match Report,,12,6,20.5,1.0,0,0,2021,Flamengo
+6,2021-05-30,16:00,Série A,Matchweek 1,Sun,Away,L,0,1,Flamengo,0.9,2.5,38,,Felipe Melo,3-5-2,Anderson Daronco,Match Report,,12,5,22.9,1.0,0,0,2021,Palmeiras
+7,2021-06-06,18:15,Série A,Matchweek 2,Sun,Home,W,3,1,Chapecoense,2.7,0.6,65,,Luiz Adriano,4-3-3,Leo Simão Holanda,Match Report,,17,4,15.6,1.0,0,0,2021,Palmeiras
+8,2021-06-12,19:00,Série A,Matchweek 3,Sat,Home,D,1,1,Corinthians,0.9,0.7,52,,Felipe Melo,4-3-3,Flavio Rodrigues De Souza,Match Report,,12,3,22.0,0.0,0,0,2021,Palmeiras
+9,2021-06-16,21:30,Série A,Matchweek 4,Wed,Away,W,3,0,Juventude,1.0,0.7,57,,Felipe Melo,4-1-4-1,Marielson Alves Silva,Match Report,,13,5,19.5,0.0,0,0,2021,Palmeiras
+10,2021-06-20,11:00,Série A,Matchweek 5,Sun,Home,W,2,1,América (MG),1.4,1.5,57,,Felipe Melo,4-1-4-1,Jefferson Ferreira de Moraes,Match Report,,15,6,17.4,0.0,0,0,2021,Palmeiras
+11,2021-06-23,19:00,Série A,Matchweek 6,Wed,Away,L,1,3,Bragantino,1.0,2.8,53,,Felipe Melo,3-5-2,Luiz Flávio de Oliveira,Match Report,,17,5,20.5,0.0,0,0,2021,Palmeiras
+12,2021-06-27,20:00,Série A,Matchweek 7,Sun,Home,W,3,2,Bahia,1.4,2.0,57,,Luiz Adriano,4-2-3-1,Denis Ribeiro Serafim,Match Report,,19,8,20.1,3.0,0,0,2021,Palmeiras
+13,2021-06-30,19:00,Série A,Matchweek 8,Wed,Away,W,2,1,Internacional,2.6,1.9,34,,Jailson,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,14,6,13.9,0.0,0,0,2021,Palmeiras
+14,2021-07-04,16:00,Série A,Matchweek 9,Sun,Away,W,1,0,Sport Recife,1.6,1.0,51,,Felipe Melo,4-2-3-1,Caio Max Augusto Vieira,Match Report,,14,5,21.3,2.0,0,0,2021,Palmeiras
+15,2021-07-07,19:00,Série A,Matchweek 10,Wed,Home,W,2,0,Grêmio,2.1,0.8,47,,Gustavo Gómez,4-2-3-1,Felipe Fernandes de Lima,Match Report,,18,6,18.2,1.0,0,0,2021,Palmeiras
+16,2021-07-10,16:30,Série A,Matchweek 11,Sat,Home,W,3,2,Santos,2.0,1.9,36,,Felipe Melo,4-2-2-2,Braulio da Silva Machado,Match Report,,14,7,19.0,1.0,0,0,2021,Palmeiras
+18,2021-07-18,16:00,Série A,Matchweek 12,Sun,Away,W,3,0,Atl Goianiense,1.6,0.8,42,,Felipe Melo,4-2-3-1,Denis Ribeiro Serafim,Match Report,,15,6,17.0,0.0,0,0,2021,Palmeiras
+20,2021-07-24,19:00,Série A,Matchweek 13,Sat,Home,W,1,0,Fluminense,0.7,1.2,50,,Felipe Melo,4-2-3-1,Savio Pereira,Match Report,,10,1,22.7,0.0,0,0,2021,Palmeiras
+21,2021-07-31,19:00,Série A,Matchweek 14,Sat,Away,D,0,0,São Paulo,0.4,0.7,47,,Felipe Melo,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,7,3,22.1,0.0,0,0,2021,Palmeiras
+22,2021-08-07,21:00,Série A,Matchweek 15,Sat,Home,L,2,3,Fortaleza,2.0,2.0,62,,Willian,4-2-3-1,Wilton Sampaio,Match Report,,20,2,18.8,0.0,0,0,2021,Palmeiras
+24,2021-08-14,19:00,Série A,Matchweek 16,Sat,Away,L,0,2,Atlético Mineiro,0.1,1.8,33,,Felipe Melo,4-2-3-1,Bruno Arleu de Araujo,Match Report,,1,1,21.4,0.0,0,0,2021,Palmeiras
+26,2021-08-22,11:00,Série A,Matchweek 17,Sun,Home,L,0,2,Cuiabá,3.7,0.9,65,,Wéverton,4-2-3-1,Anderson Daronco,Match Report,,31,7,16.1,1.0,0,0,2021,Palmeiras
+27,2021-08-28,21:00,Série A,Matchweek 18,Sat,Home,W,2,1,Ath Paranaense,0.9,0.4,49,,Gustavo Gómez,4-2-3-1,Leandro Pedro Vuaden,Match Report,,16,3,23.8,1.0,0,0,2021,Palmeiras
+28,2021-09-12,16:00,Série A,Matchweek 20,Sun,Home,L,1,3,Flamengo,0.6,0.7,58,,Gustavo Gómez,4-2-3-1,Wilton Pereira Sampaio,Match Report,,12,5,24.0,3.0,0,0,2021,Palmeiras
+29,2021-09-18,17:00,Série A,Matchweek 21,Sat,Away,W,2,0,Chapecoense,1.7,0.5,47,,Felipe Melo,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,13,7,17.7,0.0,0,0,2021,Palmeiras
+31,2021-09-25,19:00,Série A,Matchweek 22,Sat,Away,L,1,2,Corinthians,1.2,0.8,51,,Gustavo Gómez,4-2-3-1,Raphael Claus,Match Report,,16,5,17.3,1.0,0,0,2021,Palmeiras
+33,2021-10-03,18:15,Série A,Matchweek 23,Sun,Home,D,1,1,Juventude,1.6,0.8,72,,Gustavo Gómez,4-1-4-1,Marcelo de Lima Henrique,Match Report,,15,3,18.3,1.0,0,0,2021,Palmeiras
+34,2021-10-06,21:30,Série A,Matchweek 24,Wed,Away,L,1,2,América (MG),1.3,3.1,39,854.0,Felipe Melo,3-4-3,Leandro Pedro Vuaden,Match Report,,14,5,18.6,0.0,0,0,2021,Palmeiras
+35,2021-10-09,21:00,Série A,Matchweek 25,Sat,Home,L,2,4,Bragantino,1.7,0.8,55,8884.0,Jailson,3-5-2,Rafael Traci,Match Report,,19,5,17.5,0.0,1,1,2021,Palmeiras
+36,2021-10-12,21:30,Série A,Matchweek 26,Tue,Away,D,0,0,Bahia,0.4,1.2,48,4509.0,Felipe Melo,4-4-2,Ramon Abatti Abel,Match Report,,9,2,25.1,0.0,0,0,2021,Palmeiras
+37,2021-10-17,16:00,Série A,Matchweek 27,Sun,Home,W,1,0,Internacional,1.8,1.2,52,11111.0,Felipe Melo,4-4-2,Braulio da Silva Machado,Match Report,,15,2,20.7,2.0,1,1,2021,Palmeiras
+38,2021-10-20,19:00,Série A,Matchweek 19,Wed,Away,W,2,1,Ceará,1.3,0.9,53,6204.0,Felipe Melo,4-2-3-1,André Luiz de Freitas Castro,Match Report,,12,5,16.2,1.0,0,0,2021,Palmeiras
+39,2021-10-25,21:30,Série A,Matchweek 28,Mon,Home,W,2,1,Sport Recife,3.3,0.6,65,13367.0,Felipe Melo,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,37,15,18.8,1.0,0,0,2021,Palmeiras
+40,2021-10-31,16:00,Série A,Matchweek 29,Sun,Away,W,3,1,Grêmio,1.5,0.8,50,13799.0,Felipe Melo,4-2-3-1,Savio Pereira,Match Report,,10,4,23.3,4.0,1,1,2021,Palmeiras
+41,2021-11-07,16:00,Série A,Matchweek 30,Sun,Away,W,2,0,Santos,1.8,0.9,51,13465.0,Gustavo Gómez,4-2-3-1,Raphael Claus,Match Report,,15,6,24.8,1.0,0,0,2021,Palmeiras
+42,2021-11-10,20:30,Série A,Matchweek 31,Wed,Home,W,4,0,Atl Goianiense,2.3,0.6,50,19165.0,Marcos Rocha,4-2-3-1,Anderson Daronco,Match Report,,13,6,19.4,0.0,1,1,2021,Palmeiras
+43,2021-11-14,18:15,Série A,Matchweek 32,Sun,Away,L,1,2,Fluminense,1.0,0.9,48,7969.0,Felipe Melo,4-2-3-1,Caio Max Augusto Vieira,Match Report,,11,4,21.7,1.0,0,0,2021,Palmeiras
+44,2021-11-17,20:30,Série A,Matchweek 33,Wed,Home,L,0,2,São Paulo,1.1,1.2,56,35572.0,Willian,4-1-4-1,Marcelo de Lima Henrique,Match Report,,16,4,16.1,1.0,0,0,2021,Palmeiras
+45,2021-11-20,19:00,Série A,Matchweek 34,Sat,Away,L,0,1,Fortaleza,0.8,1.0,66,18139.0,Gustavo Gómez,4-1-4-1,Ramon Abatti Abel,Match Report,,13,3,18.9,1.0,0,0,2021,Palmeiras
+46,2021-11-23,21:30,Série A,Matchweek 35,Tue,Home,D,2,2,Atlético Mineiro,1.8,1.4,43,17744.0,Marcos Rocha,3-4-3,Anderson Daronco,Match Report,,10,6,25.8,1.0,0,1,2021,Palmeiras
+48,2021-11-30,21:00,Série A,Matchweek 36,Tue,Away,W,3,1,Cuiabá,1.8,1.9,41,26612.0,Gabriel Menino,3-4-3,Paulo Roberto Alves Júnior,Match Report,,13,5,16.9,0.0,0,0,2021,Palmeiras
+49,2021-12-06,19:00,Série A,Matchweek 37,Mon,Away,D,0,0,Ath Paranaense,0.2,1.8,29,18232.0,Vinicius Silvestre,3-4-3,Wagner do Nascimento Magalhaes,Match Report,,4,0,15.8,0.0,0,0,2021,Palmeiras
+50,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,1,0,Ceará,2.0,3.2,33,5304.0,Vinicius Silvestre,3-4-1-2,Savio Pereira,Match Report,,12,2,17.4,0.0,0,0,2021,Palmeiras
+0,2021-05-30,11:00,Série A,Matchweek 1,Sun,Away,W,2,1,Atlético Mineiro,0.9,1.7,46,,Wellington Paulista,3-5-2,Caio Max Augusto Vieira,Match Report,,18,5,23.0,1.0,0,0,2021,Fortaleza
+1,2021-06-06,16:00,Série A,Matchweek 2,Sun,Home,W,5,1,Internacional,2.9,0.5,51,,Guilherme Tinga,3-4-1-2,Paulo Roberto Alves Júnior,Match Report,,14,8,16.5,1.0,0,0,2021,Fortaleza
+2,2021-06-13,20:30,Série A,Matchweek 3,Sun,Home,W,1,0,Sport Recife,1.7,0.3,58,,Guilherme Tinga,3-4-1-2,Braulio da Silva Machado,Match Report,,12,6,25.7,0.0,1,1,2021,Fortaleza
+3,2021-06-17,19:00,Série A,Matchweek 4,Thu,Away,D,0,0,Atl Goianiense,0.2,0.6,45,,Wellington Paulista,3-4-1-2,Douglas Schwengber da Silva,Match Report,,5,1,25.1,2.0,0,0,2021,Fortaleza
+4,2021-06-20,18:15,Série A,Matchweek 5,Sun,Home,D,1,1,Fluminense,1.8,0.8,62,,Guilherme Tinga,3-4-1-2,Flavio Rodrigues De Souza,Match Report,,16,2,20.3,0.0,0,0,2021,Fortaleza
+5,2021-06-23,19:00,Série A,Matchweek 6,Wed,Away,L,1,2,Flamengo,0.9,2.1,37,,Wellington Paulista,3-4-1-2,Anderson Daronco,Match Report,,10,5,19.2,0.0,0,0,2021,Fortaleza
+6,2021-06-27,20:00,Série A,Matchweek 7,Sun,Away,D,0,0,Grêmio,2.4,1.5,43,,Guilherme Tinga,3-4-1-2,Marcelo de Lima Henrique,Match Report,,14,4,19.1,1.0,0,1,2021,Fortaleza
+7,2021-06-30,16:00,Série A,Matchweek 8,Wed,Home,W,3,2,Chapecoense,1.4,1.7,63,,Titi,3-4-1-2,Antonio Dib Moraes de Sousa,Match Report,,22,10,21.7,2.0,0,0,2021,Fortaleza
+8,2021-07-03,19:00,Série A,Matchweek 9,Sat,Away,L,1,2,Ath Paranaense,1.5,2.2,59,,Guilherme Tinga,3-4-3,Paulo Cesar Zanovelli da Silva,Match Report,,15,4,18.8,1.0,0,0,2021,Fortaleza
+9,2021-07-07,18:00,Série A,Matchweek 10,Wed,Home,W,4,0,América (MG),1.9,0.6,55,,Guilherme Tinga,3-4-1-2,Thiago Luis Scarascati,Match Report,,16,5,22.5,1.0,0,0,2021,Fortaleza
+10,2021-07-11,20:30,Série A,Matchweek 11,Sun,Home,W,1,0,Corinthians,1.0,0.4,44,,Guilherme Tinga,3-4-1-2,Caio Max Augusto Vieira,Match Report,,16,4,22.9,0.0,0,0,2021,Fortaleza
+11,2021-07-17,17:00,Série A,Matchweek 12,Sat,Away,W,1,0,São Paulo,0.7,0.6,42,,Guilherme Tinga,3-4-1-2,Savio Pereira,Match Report,,9,4,23.0,0.0,0,0,2021,Fortaleza
+12,2021-07-25,16:00,Série A,Matchweek 13,Sun,Home,W,1,0,Bragantino,0.6,1.1,36,,Guilherme Tinga,3-4-1-2,Bruno Arleu de Araujo,Match Report,,14,4,23.6,0.0,0,0,2021,Fortaleza
+13,2021-08-01,20:30,Série A,Matchweek 14,Sun,Away,L,1,3,Ceará,1.8,1.5,52,,Guilherme Tinga,3-4-1-2,Denis Ribeiro Serafim,Match Report,,28,8,22.9,0.0,0,0,2021,Fortaleza
+14,2021-08-07,21:00,Série A,Matchweek 15,Sat,Away,W,3,2,Palmeiras,2.0,2.0,38,,Guilherme Tinga,3-5-2,Wilton Sampaio,Match Report,,15,6,19.1,1.0,0,0,2021,Fortaleza
+15,2021-08-15,18:15,Série A,Matchweek 16,Sun,Home,D,1,1,Santos,2.1,0.8,46,,Guilherme Tinga,3-4-1-2,André Luiz de Freitas Castro,Match Report,,11,1,25.0,0.0,0,1,2021,Fortaleza
+16,2021-08-21,21:00,Série A,Matchweek 17,Sat,Away,D,1,1,Juventude,1.5,1.3,44,,Guilherme Tinga,3-4-1-2,Raphael Claus,Match Report,,15,4,23.8,0.0,0,1,2021,Fortaleza
+17,2021-08-30,21:30,Série A,Matchweek 18,Mon,Home,D,0,0,Cuiabá,1.3,0.9,64,,Guilherme Tinga,3-4-1-2,Paulo Cesar Zanovelli da Silva,Match Report,,19,4,18.8,2.0,0,0,2021,Fortaleza
+18,2021-09-04,21:00,Série A,Matchweek 19,Sat,Away,L,2,4,Bahia,1.5,2.9,59,,Guilherme Tinga,3-4-3,Luiz Flávio de Oliveira,Match Report,,18,5,24.4,1.0,0,0,2021,Fortaleza
+19,2021-09-12,16:00,Série A,Matchweek 20,Sun,Home,L,0,2,Atlético Mineiro,0.6,1.0,48,,Guilherme Tinga,3-4-1-2,Braulio da Silva Machado,Match Report,,14,4,25.6,1.0,0,0,2021,Fortaleza
+20,2021-09-19,11:00,Série A,Matchweek 21,Sun,Away,L,0,1,Internacional,1.4,1.5,42,,Titi,3-4-1-2,Edina Alves Batista,Match Report,,11,4,17.8,1.0,0,0,2021,Fortaleza
+21,2021-09-26,18:15,Série A,Matchweek 22,Sun,Away,W,1,0,Sport Recife,1.3,1.1,43,,Guilherme Tinga,3-4-1-2,Wagner do Nascimento Magalhaes,Match Report,,15,7,21.9,2.0,0,0,2021,Fortaleza
+22,2021-10-02,17:00,Série A,Matchweek 23,Sat,Home,L,0,3,Atl Goianiense,1.0,0.5,67,,Guilherme Tinga,3-4-1-2,Alisson Sidnei Furtado,Match Report,,14,4,17.7,1.0,0,0,2021,Fortaleza
+23,2021-10-06,21:30,Série A,Matchweek 24,Wed,Away,W,2,0,Fluminense,0.8,0.5,47,4448.0,Guilherme Tinga,3-4-3,Paulo Roberto Alves Júnior,Match Report,,10,4,18.7,0.0,0,0,2021,Fortaleza
+24,2021-10-09,19:00,Série A,Matchweek 25,Sat,Home,L,0,3,Flamengo,0.8,1.6,40,4052.0,Guilherme Tinga,5-4-1,Felipe Fernandes de Lima,Match Report,,6,2,21.2,1.0,0,0,2021,Fortaleza
+25,2021-10-13,20:30,Série A,Matchweek 26,Wed,Home,W,1,0,Grêmio,2.5,0.7,48,3499.0,Guilherme Tinga,3-4-1-2,Vinicius Gonçalves Dias Araujo,Match Report,,22,8,20.3,2.0,0,0,2021,Fortaleza
+26,2021-10-16,19:00,Série A,Matchweek 27,Sat,Away,W,2,1,Chapecoense,1.6,0.7,62,1027.0,Guilherme Tinga,3-4-1-2,Zandick Gondim Alves Junior,Match Report,,13,4,19.4,1.0,1,1,2021,Fortaleza
+27,2021-10-23,19:15,Série A,Matchweek 28,Sat,Home,W,3,0,Ath Paranaense,1.1,0.9,54,7011.0,Titi,3-4-1-2,Denis Ribeiro Serafim,Match Report,,16,7,20.6,2.0,0,0,2021,Fortaleza
+28,2021-10-30,22:00,Série A,Matchweek 29,Sat,Away,L,1,2,América (MG),1.8,3.1,54,1034.0,Guilherme Tinga,3-4-1-2,Flavio Rodrigues De Souza,Match Report,,12,7,14.7,0.0,0,0,2021,Fortaleza
+29,2021-11-06,17:00,Série A,Matchweek 30,Sat,Away,L,0,1,Corinthians,0.3,1.2,42,36059.0,Guilherme Tinga,3-4-1-2,Ramon Abatti Abel,Match Report,,9,2,21.7,0.0,0,0,2021,Fortaleza
+30,2021-11-10,21:30,Série A,Matchweek 31,Wed,Home,D,1,1,São Paulo,1.1,0.5,41,16261.0,Guilherme Tinga,3-4-1-2,Paulo Roberto Alves Júnior,Match Report,,15,3,22.5,0.0,0,0,2021,Fortaleza
+31,2021-11-13,19:00,Série A,Matchweek 32,Sat,Away,L,0,3,Bragantino,1.1,1.5,56,931.0,Guilherme Tinga,3-4-1-2,Rafael Traci,Match Report,,13,2,15.0,0.0,0,0,2021,Fortaleza
+32,2021-11-17,20:00,Série A,Matchweek 33,Wed,Home,L,0,4,Ceará,1.0,3.1,63,28037.0,Guilherme Tinga,3-4-1-2,Raphael Claus,Match Report,,17,8,20.0,0.0,0,0,2021,Fortaleza
+33,2021-11-20,19:00,Série A,Matchweek 34,Sat,Home,W,1,0,Palmeiras,1.0,0.8,34,18139.0,Guilherme Tinga,3-4-1-2,Ramon Abatti Abel,Match Report,,8,3,16.4,0.0,0,0,2021,Fortaleza
+34,2021-11-25,19:00,Série A,Matchweek 35,Thu,Away,L,0,2,Santos,0.6,2.4,45,9000.0,Guilherme Tinga,3-4-1-2,Wagner do Nascimento Magalhaes,Match Report,,11,2,20.6,0.0,0,0,2021,Fortaleza
+35,2021-12-03,21:00,Série A,Matchweek 36,Fri,Home,W,1,0,Juventude,1.7,1.1,53,45398.0,Guilherme Tinga,3-5-2,Bruno Arleu de Araujo,Match Report,,15,4,23.5,0.0,0,0,2021,Fortaleza
+36,2021-12-06,19:00,Série A,Matchweek 37,Mon,Away,L,0,1,Cuiabá,0.8,1.2,64,15923.0,Wellington Paulista,3-4-1-2,Heber Roberto Lopes,Match Report,,13,3,19.8,0.0,0,0,2021,Fortaleza
+37,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,2,1,Bahia,2.1,1.3,51,51125.0,Guilherme Tinga,3-4-1-2,Flavio Rodrigues De Souza,Match Report,,12,4,26.3,1.0,2,2,2021,Fortaleza
+6,2021-05-30,18:15,Série A,Matchweek 1,Sun,Home,L,0,1,Atl Goianiense,1.6,0.4,60,,Cássio,4-2-3-1,Felipe Fernandes de Lima,Match Report,,14,5,21.1,0.0,0,1,2021,Corinthians
+7,2021-06-06,16:00,Série A,Matchweek 2,Sun,Away,W,1,0,América (MG),1.1,0.6,44,,Cássio,4-1-4-1,Marcelo de Lima Henrique,Match Report,,5,3,20.7,1.0,1,1,2021,Corinthians
+8,2021-06-12,19:00,Série A,Matchweek 3,Sat,Away,D,1,1,Palmeiras,0.7,0.9,48,,Cássio,4-1-4-1,Flavio Rodrigues De Souza,Match Report,,9,4,21.5,1.0,0,0,2021,Corinthians
+9,2021-06-16,20:30,Série A,Matchweek 4,Wed,Home,L,1,2,Bragantino,0.5,1.9,42,,Cássio,4-2-3-1,Thiago Luis Scarascati,Match Report,,5,2,17.3,0.0,0,0,2021,Corinthians
+10,2021-06-20,16:00,Série A,Matchweek 5,Sun,Away,D,0,0,Bahia,0.5,0.8,49,,Cássio,4-1-4-1,Bruno Arleu de Araujo,Match Report,,10,3,20.5,0.0,0,0,2021,Corinthians
+11,2021-06-24,19:00,Série A,Matchweek 6,Thu,Home,W,2,1,Sport Recife,2.7,1.0,51,,Cássio,4-3-3,Paulo Roberto Alves Júnior,Match Report,,16,3,18.1,1.0,0,0,2021,Corinthians
+12,2021-06-27,16:00,Série A,Matchweek 7,Sun,Away,D,1,1,Fluminense,1.4,1.6,54,,Cássio,4-2-3-1,Savio Pereira,Match Report,,9,3,19.0,0.0,1,1,2021,Corinthians
+13,2021-06-30,21:30,Série A,Matchweek 8,Wed,Home,D,0,0,São Paulo,0.7,0.6,41,,Cássio,4-2-3-1,Leandro Pedro Vuaden,Match Report,,10,3,20.1,1.0,0,0,2021,Corinthians
+14,2021-07-03,21:00,Série A,Matchweek 9,Sat,Home,D,1,1,Internacional,1.9,1.0,57,,Cássio,4-2-3-1,Marcelo de Lima Henrique,Match Report,,20,9,18.9,2.0,0,0,2021,Corinthians
+15,2021-07-08,21:00,Série A,Matchweek 10,Thu,Away,W,1,0,Chapecoense,1.4,1.0,58,,Cássio,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,12,5,17.1,1.0,0,0,2021,Corinthians
+16,2021-07-11,20:30,Série A,Matchweek 11,Sun,Away,L,0,1,Fortaleza,0.4,1.0,56,,Cássio,4-2-3-1,Caio Max Augusto Vieira,Match Report,,7,1,21.3,0.0,0,0,2021,Corinthians
+17,2021-07-17,19:00,Série A,Matchweek 12,Sat,Home,L,1,2,Atlético Mineiro,1.6,0.7,38,,Cássio,4-3-3,Jean Pierre Goncalves Lima,Match Report,,12,2,15.8,2.0,0,0,2021,Corinthians
+18,2021-07-26,19:00,Série A,Matchweek 13,Mon,Away,W,2,1,Cuiabá,0.4,0.9,48,,Cássio,4-3-3,Ramon Abatti Abel,Match Report,,4,2,17.1,0.0,0,0,2021,Corinthians
+19,2021-08-01,16:00,Série A,Matchweek 14,Sun,Home,L,1,3,Flamengo,1.0,1.3,36,,Cássio,4-1-4-1,Leandro Pedro Vuaden,Match Report,,9,3,18.0,0.0,0,0,2021,Corinthians
+20,2021-08-08,16:00,Série A,Matchweek 15,Sun,Away,D,0,0,Santos,0.9,0.6,43,,Cássio,4-1-4-1,Flavio Rodrigues De Souza,Match Report,,9,5,18.1,0.0,0,0,2021,Corinthians
+21,2021-08-15,16:00,Série A,Matchweek 16,Sun,Home,W,3,1,Ceará,0.7,1.4,60,,Cássio,4-3-3,Rodolpho Toski Marques,Match Report,,7,3,17.5,0.0,0,0,2021,Corinthians
+22,2021-08-22,16:00,Série A,Matchweek 17,Sun,Away,W,1,0,Ath Paranaense,0.7,1.0,55,,Cássio,4-2-3-1,Wilton Sampaio,Match Report,,8,2,21.1,0.0,0,0,2021,Corinthians
+23,2021-08-28,21:00,Série A,Matchweek 18,Sat,Away,W,1,0,Grêmio,0.8,0.9,55,,Cássio,4-5-1,Ricardo Marques Ribeiro,Match Report,,6,1,17.2,0.0,0,0,2021,Corinthians
+24,2021-09-07,21:30,Série A,Matchweek 19,Tue,Home,D,1,1,Juventude,0.6,0.6,58,,Cássio,4-5-1,Ramon Abatti Abel,Match Report,,11,2,24.1,2.0,0,0,2021,Corinthians
+25,2021-09-12,18:15,Série A,Matchweek 20,Sun,Away,D,1,1,Atl Goianiense,0.6,0.9,49,,Cássio,4-5-1,Antonio Dib Moraes de Sousa,Match Report,,8,2,15.1,0.0,0,0,2021,Corinthians
+26,2021-09-19,18:15,Série A,Matchweek 21,Sun,Home,D,1,1,América (MG),2.1,1.6,65,,Cássio,4-3-3,Savio Pereira,Match Report,,15,8,13.2,0.0,0,0,2021,Corinthians
+27,2021-09-25,19:00,Série A,Matchweek 22,Sat,Home,W,2,1,Palmeiras,0.8,1.2,49,,Cássio,4-3-3,Raphael Claus,Match Report,,8,3,16.5,0.0,0,0,2021,Corinthians
+28,2021-10-02,19:00,Série A,Matchweek 23,Sat,Away,D,2,2,Bragantino,0.8,1.5,61,,Cássio,4-1-4-1,Flavio Rodrigues De Souza,Match Report,,11,7,16.9,1.0,0,0,2021,Corinthians
+29,2021-10-05,21:30,Série A,Matchweek 24,Tue,Home,W,3,1,Bahia,2.6,0.9,71,10470.0,Cássio,4-1-4-1,Denis Ribeiro Serafim,Match Report,,20,10,19.8,1.0,1,1,2021,Corinthians
+30,2021-10-09,16:30,Série A,Matchweek 25,Sat,Away,L,0,1,Sport Recife,0.4,0.7,66,2697.0,Cássio,4-1-4-1,Savio Pereira,Match Report,,9,3,23.3,0.0,0,0,2021,Corinthians
+31,2021-10-13,21:00,Série A,Matchweek 26,Wed,Home,W,1,0,Fluminense,0.6,1.0,54,11892.0,Cássio,4-1-4-1,Marielson Alves Silva,Match Report,,8,1,16.5,0.0,0,0,2021,Corinthians
+32,2021-10-18,20:00,Série A,Matchweek 27,Mon,Away,L,0,1,São Paulo,0.5,0.6,54,23874.0,Cássio,4-1-4-1,Leandro Pedro Vuaden,Match Report,,10,2,20.3,0.0,0,0,2021,Corinthians
+33,2021-10-24,16:00,Série A,Matchweek 28,Sun,Away,D,2,2,Internacional,2.5,1.5,51,11437.0,Cássio,4-3-3,Bruno Arleu de Araujo,Match Report,,12,1,21.3,0.0,1,1,2021,Corinthians
+34,2021-11-01,21:30,Série A,Matchweek 29,Mon,Home,W,1,0,Chapecoense,1.1,0.2,79,39897.0,Gil,4-3-3,Paulo Cesar Zanovelli da Silva,Match Report,,18,5,16.8,1.0,0,0,2021,Corinthians
+35,2021-11-06,17:00,Série A,Matchweek 30,Sat,Home,W,1,0,Fortaleza,1.2,0.3,58,36059.0,Cássio,4-2-3-1,Ramon Abatti Abel,Match Report,,14,6,17.0,1.0,0,0,2021,Corinthians
+36,2021-11-10,19:00,Série A,Matchweek 31,Wed,Away,L,0,3,Atlético Mineiro,1.0,1.0,53,58714.0,Cássio,4-1-4-1,Braulio da Silva Machado,Match Report,,7,0,15.7,0.0,0,0,2021,Corinthians
+37,2021-11-13,21:00,Série A,Matchweek 32,Sat,Home,W,3,2,Cuiabá,1.0,0.7,53,38474.0,Cássio,4-5-1,Rodolpho Toski Marques,Match Report,,12,4,17.3,0.0,0,0,2021,Corinthians
+38,2021-11-17,21:30,Série A,Matchweek 33,Wed,Away,L,0,1,Flamengo,0.3,1.7,43,49897.0,Cássio,4-3-3,Anderson Daronco,Match Report,,6,1,18.5,0.0,0,0,2021,Corinthians
+39,2021-11-21,16:00,Série A,Matchweek 34,Sun,Home,W,2,0,Santos,1.5,0.4,64,43381.0,Cássio,4-3-3,Leandro Pedro Vuaden,Match Report,,23,11,18.4,1.0,0,0,2021,Corinthians
+40,2021-11-25,20:00,Série A,Matchweek 35,Thu,Away,L,1,2,Ceará,1.2,1.0,62,35693.0,Cássio,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,15,6,18.4,2.0,0,0,2021,Corinthians
+41,2021-11-28,16:00,Série A,Matchweek 36,Sun,Home,W,1,0,Ath Paranaense,1.5,0.7,66,37309.0,Cássio,4-3-3,Paulo Cesar Zanovelli da Silva,Match Report,,15,4,23.1,1.0,1,1,2021,Corinthians
+42,2021-12-05,16:00,Série A,Matchweek 37,Sun,Home,D,1,1,Grêmio,0.9,0.7,70,44187.0,Cássio,4-1-4-1,Bruno Arleu de Araujo,Match Report,,11,3,18.8,0.0,0,0,2021,Corinthians
+43,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,0,1,Juventude,0.0,2.2,55,17056.0,Cássio,4-3-3,Rodolpho Toski Marques,Match Report,,1,1,14.9,0.0,0,0,2021,Corinthians
+6,2021-05-30,18:15,Série A,Matchweek 1,Sun,Away,W,3,0,Chapecoense,2.1,0.7,56,,Claudinho,4-2-3-1,Marielson Alves Silva,Match Report,,18,8,17.9,1.0,0,0,2021,Bragantino
+7,2021-06-05,21:00,Série A,Matchweek 2,Sat,Home,D,3,3,Bahia,1.8,0.5,60,,Júlio César,4-4-2,Vinicius Gomes do Amaral,Match Report,,24,6,18.7,2.0,0,0,2021,Bragantino
+8,2021-06-13,20:30,Série A,Matchweek 3,Sun,Home,D,2,2,Fluminense,2.0,2.0,47,,Claudinho,4-2-3-1,Leandro Pedro Vuaden,Match Report,,16,5,20.4,0.0,0,0,2021,Bragantino
+9,2021-06-16,20:30,Série A,Matchweek 4,Wed,Away,W,2,1,Corinthians,1.9,0.5,58,,Raul,4-2-3-1,Thiago Luis Scarascati,Match Report,,21,5,19.3,2.0,0,0,2021,Bragantino
+10,2021-06-19,21:00,Série A,Matchweek 5,Sat,Away,W,3,2,Flamengo,0.8,2.6,32,,Raul,4-2-3-1,Braulio da Silva Machado,Match Report,,9,4,16.0,0.0,0,0,2021,Bragantino
+11,2021-06-23,19:00,Série A,Matchweek 6,Wed,Home,W,3,1,Palmeiras,2.8,1.0,47,,Raul,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,12,6,15.9,0.0,0,0,2021,Bragantino
+12,2021-06-28,20:00,Série A,Matchweek 7,Mon,Away,W,1,0,Atl Goianiense,1.0,1.5,57,,Claudinho,4-2-3-1,Ramon Abatti Abel,Match Report,,12,5,16.4,0.0,0,0,2021,Bragantino
+13,2021-07-01,16:00,Série A,Matchweek 8,Thu,Home,D,0,0,Ceará,1.5,0.5,64,,Claudinho,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,13,2,19.5,0.0,0,0,2021,Bragantino
+14,2021-07-04,18:15,Série A,Matchweek 9,Sun,Away,W,2,1,São Paulo,1.3,0.6,51,,Claudinho,4-2-3-1,Anderson Daronco,Match Report,,12,5,21.1,0.0,0,0,2021,Bragantino
+15,2021-07-07,18:00,Série A,Matchweek 10,Wed,Home,D,1,1,Cuiabá,0.6,0.9,53,,Raul,4-2-3-1,Douglas Schwengber da Silva,Match Report,,10,1,17.9,0.0,0,0,2021,Bragantino
+16,2021-07-10,17:00,Série A,Matchweek 11,Sat,Away,D,2,2,Ath Paranaense,1.0,1.3,46,,Lucas Evangelista,4-2-3-1,Leandro Pedro Vuaden,Match Report,,16,4,19.3,2.0,0,0,2021,Bragantino
+18,2021-07-18,20:30,Série A,Matchweek 12,Sun,Home,D,2,2,Santos,2.0,2.0,40,,Leo Ortiz,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,11,5,19.3,0.0,0,0,2021,Bragantino
+20,2021-07-25,16:00,Série A,Matchweek 13,Sun,Away,L,0,1,Fortaleza,1.1,0.6,64,,Leo Ortiz,4-2-3-1,Bruno Arleu de Araujo,Match Report,,13,4,18.9,0.0,0,0,2021,Bragantino
+21,2021-07-31,21:00,Série A,Matchweek 14,Sat,Home,W,1,0,Grêmio,0.6,0.2,52,,Leo Ortiz,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,12,3,28.8,2.0,0,0,2021,Bragantino
+22,2021-08-06,19:00,Série A,Matchweek 15,Fri,Away,D,0,0,Sport Recife,0.8,1.4,61,,Raul,4-1-4-1,Wagner do Nascimento Magalhaes,Match Report,,13,4,20.5,0.0,0,0,2021,Bragantino
+24,2021-08-14,17:00,Série A,Matchweek 16,Sat,Home,L,1,2,Juventude,0.4,1.3,54,,Júlio César,4-3-3,Denis Ribeiro Serafim,Match Report,,5,1,19.5,1.0,0,0,2021,Bragantino
+26,2021-08-23,20:00,Série A,Matchweek 17,Mon,Away,W,2,0,América (MG),0.7,0.9,49,,Fabrício Bruno,4-2-3-1,Rafael Traci,Match Report,,10,3,20.1,1.0,0,0,2021,Bragantino
+27,2021-08-29,20:30,Série A,Matchweek 18,Sun,Home,D,1,1,Atlético Mineiro,0.4,2.3,34,,Leo Ortiz,4-2-3-1,Ramon Abatti Abel,Match Report,,5,0,18.9,0.0,0,0,2021,Bragantino
+28,2021-09-11,19:00,Série A,Matchweek 20,Sat,Home,L,1,2,Chapecoense,1.5,2.1,55,,Leo Ortiz,4-2-3-1,Marcelo de Lima Henrique,Match Report,,11,4,22.5,1.0,1,1,2021,Bragantino
+29,2021-09-18,21:00,Série A,Matchweek 21,Sat,Away,D,1,1,Bahia,1.3,0.7,57,,Leo Ortiz,4-2-3-1,Wilton Sampaio,Match Report,,15,5,20.2,2.0,0,0,2021,Bragantino
+31,2021-09-26,16:00,Série A,Matchweek 22,Sun,Away,L,1,2,Fluminense,0.4,2.2,55,,Júlio César,4-2-3-1,Leandro Pedro Vuaden,Match Report,,7,4,22.7,0.0,0,0,2021,Bragantino
+33,2021-10-02,19:00,Série A,Matchweek 23,Sat,Home,D,2,2,Corinthians,1.5,0.8,39,,Cleiton Schwengber,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,15,5,20.8,0.0,0,0,2021,Bragantino
+34,2021-10-06,20:30,Série A,Matchweek 24,Wed,Home,D,1,1,Flamengo,1.0,1.2,44,2708.0,Leo Ortiz,4-2-3-1,Ramon Abatti Abel,Match Report,,13,4,19.7,0.0,0,0,2021,Bragantino
+35,2021-10-09,21:00,Série A,Matchweek 25,Sat,Away,W,4,2,Palmeiras,0.8,1.7,45,8884.0,Cleiton Schwengber,4-2-3-1,Rafael Traci,Match Report,,12,6,20.1,0.0,0,0,2021,Bragantino
+36,2021-10-12,19:00,Série A,Matchweek 26,Tue,Home,W,1,0,Atl Goianiense,1.5,0.2,40,971.0,Leo Ortiz,4-2-3-1,Savio Pereira,Match Report,,10,2,22.9,0.0,0,1,2021,Bragantino
+37,2021-10-17,18:15,Série A,Matchweek 27,Sun,Away,D,2,2,Ceará,1.4,1.5,41,4573.0,Fabrício Bruno,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,19,6,24.5,2.0,0,0,2021,Bragantino
+38,2021-10-21,20:00,Série A,Matchweek 19,Thu,Away,D,1,1,Internacional,1.5,0.6,58,11026.0,Leo Ortiz,4-4-2,Marielson Alves Silva,Match Report,,15,6,20.8,1.0,0,0,2021,Bragantino
+39,2021-10-24,18:15,Série A,Matchweek 28,Sun,Home,W,1,0,São Paulo,1.0,1.6,44,4345.0,Leo Ortiz,4-2-3-1,Felipe Fernandes de Lima,Match Report,,16,5,20.0,0.0,0,0,2021,Bragantino
+40,2021-10-28,19:00,Série A,Matchweek 34,Thu,Home,W,3,0,Sport Recife,1.3,2.2,45,931.0,Leo Ortiz,4-4-2,Bruno Arleu de Araujo,Match Report,,16,3,19.9,0.0,0,0,2021,Bragantino
+41,2021-11-01,19:00,Série A,Matchweek 29,Mon,Away,L,0,1,Cuiabá,2.1,2.1,43,6428.0,Leo Ortiz,4-4-2,Jefferson Ferreira de Moraes,Match Report,,12,8,18.2,0.0,0,1,2021,Bragantino
+42,2021-11-07,16:00,Série A,Matchweek 30,Sun,Home,L,0,2,Ath Paranaense,0.7,0.8,58,1701.0,Fabrício Bruno,4-2-3-1,Anderson Daronco,Match Report,,11,3,24.2,1.0,0,0,2021,Bragantino
+43,2021-11-10,19:00,Série A,Matchweek 31,Wed,Away,L,0,2,Santos,1.1,1.7,58,9443.0,Fabrício Bruno,4-2-3-1,Leandro Pedro Vuaden,Match Report,,14,3,18.5,0.0,0,0,2021,Bragantino
+44,2021-11-13,19:00,Série A,Matchweek 32,Sat,Home,W,3,0,Fortaleza,1.5,1.1,44,931.0,Leo Ortiz,4-2-3-1,Rafael Traci,Match Report,,10,4,19.6,0.0,1,1,2021,Bragantino
+45,2021-11-16,18:00,Série A,Matchweek 33,Tue,Away,L,0,3,Grêmio,0.6,2.7,48,,Júlio César,4-2-3-1,Caio Max Augusto Vieira,Match Report,,7,1,21.6,1.0,0,0,2021,Bragantino
+47,2021-11-27,19:30,Série A,Matchweek 36,Sat,Home,D,1,1,América (MG),0.5,1.0,50,2673.0,Leo Ortiz,4-2-3-1,Anderson Daronco,Match Report,,11,5,23.6,2.0,0,0,2021,Bragantino
+48,2021-11-30,19:00,Série A,Matchweek 35,Tue,Away,L,0,1,Juventude,0.8,1.7,53,18413.0,Leo Ortiz,4-2-3-1,Felipe Fernandes de Lima,Match Report,,13,0,21.1,2.0,0,0,2021,Bragantino
+49,2021-12-05,16:00,Série A,Matchweek 37,Sun,Away,L,3,4,Atlético Mineiro,2.5,1.6,39,61573.0,Fabrício Bruno,4-2-3-1,Rodolpho Toski Marques,Match Report,,18,11,20.6,1.0,0,0,2021,Bragantino
+50,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,1,0,Internacional,1.4,0.3,45,5339.0,Leo Ortiz,4-2-3-1,Braulio da Silva Machado,Match Report,,23,4,20.5,0.0,0,0,2021,Bragantino
+6,2021-05-29,21:00,Série A,Matchweek 1,Sat,Away,D,0,0,São Paulo,1.9,0.8,30,,Nenê,4-2-3-1,Rodolpho Toski Marques,Match Report,,10,4,18.6,0.0,0,1,2021,Fluminense
+7,2021-06-06,11:00,Série A,Matchweek 2,Sun,Home,W,1,0,Cuiabá,0.8,0.8,45,,Fred,4-1-4-1,Edina Alves Batista,Match Report,,8,3,23.8,0.0,0,0,2021,Fluminense
+8,2021-06-13,20:30,Série A,Matchweek 3,Sun,Away,D,2,2,Bragantino,2.0,2.0,53,,Nino,4-2-3-1,Leandro Pedro Vuaden,Match Report,,14,3,18.7,1.0,1,1,2021,Fluminense
+9,2021-06-17,19:00,Série A,Matchweek 4,Thu,Home,W,1,0,Santos,1.0,1.1,30,,Fred,4-3-3,Paulo Roberto Alves Júnior,Match Report,,9,4,17.1,0.0,0,0,2021,Fluminense
+10,2021-06-20,18:15,Série A,Matchweek 5,Sun,Away,D,1,1,Fortaleza,0.8,1.8,38,,Fred,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,4,3,20.0,1.0,0,0,2021,Fluminense
+11,2021-06-23,19:00,Série A,Matchweek 6,Wed,Away,L,0,1,Atl Goianiense,0.4,1.5,51,,Fred,4-2-3-1,Paulo Cesar Zanovelli da Silva,Match Report,,3,2,16.0,0.0,0,0,2021,Fluminense
+12,2021-06-27,16:00,Série A,Matchweek 7,Sun,Home,D,1,1,Corinthians,1.6,1.4,46,,Nino,4-2-3-1,Savio Pereira,Match Report,,15,5,19.0,0.0,0,0,2021,Fluminense
+13,2021-06-30,16:00,Série A,Matchweek 8,Wed,Home,L,1,4,Ath Paranaense,0.8,1.8,55,,Fred,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,12,4,18.2,0.0,0,0,2021,Fluminense
+14,2021-07-04,16:00,Série A,Matchweek 9,Sun,Away,W,1,0,Flamengo,2.1,1.3,34,,Fred,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,11,5,14.4,0.0,0,0,2021,Fluminense
+15,2021-07-07,21:30,Série A,Matchweek 10,Wed,Home,D,0,0,Ceará,1.2,0.3,62,,Fred,4-2-3-1,Ramon Abatti Abel,Match Report,,16,5,19.6,2.0,0,0,2021,Fluminense
+16,2021-07-10,19:00,Série A,Matchweek 11,Sat,Away,W,2,1,Sport Recife,1.4,1.6,50,,Nenê,4-2-3-1,Antonio Dib Moraes de Sousa,Match Report,,13,9,19.0,0.0,0,0,2021,Fluminense
+18,2021-07-17,21:00,Série A,Matchweek 12,Sat,Home,L,0,1,Grêmio,0.8,1.2,56,,Egídio Pereira Júnior,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,10,2,21.1,0.0,0,0,2021,Fluminense
+19,2021-07-24,19:00,Série A,Matchweek 13,Sat,Away,L,0,1,Palmeiras,1.2,0.7,50,,Fred,4-2-3-1,Savio Pereira,Match Report,,9,2,16.4,0.0,0,0,2021,Fluminense
+21,2021-08-08,16:00,Série A,Matchweek 15,Sun,Away,L,0,1,América (MG),0.6,1.9,56,,Fred,4-2-3-1,Marielson Alves Silva,Match Report,,7,2,16.0,0.0,0,0,2021,Fluminense
+23,2021-08-15,20:30,Série A,Matchweek 16,Sun,Away,L,2,4,Internacional,1.5,2.4,64,,Nino,4-3-1-2,Luiz Flávio de Oliveira,Match Report,,10,5,13.5,0.0,0,0,2021,Fluminense
+25,2021-08-23,20:00,Série A,Matchweek 17,Mon,Home,D,1,1,Atlético Mineiro,1.6,1.3,34,,Fred,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,8,2,22.3,1.0,1,1,2021,Fluminense
+26,2021-08-30,19:00,Série A,Matchweek 18,Mon,Home,W,2,0,Bahia,0.6,0.8,47,,Fred,4-3-3,Edina Alves Batista,Match Report,,6,4,20.5,2.0,0,0,2021,Fluminense
+27,2021-09-02,19:00,Série A,Matchweek 14,Thu,Home,D,1,1,Juventude,1.0,0.7,64,,Fred,4-3-3,Heber Roberto Lopes,Match Report,,12,6,21.8,0.0,0,0,2021,Fluminense
+28,2021-09-07,21:30,Série A,Matchweek 19,Tue,Away,W,2,1,Chapecoense,0.9,1.9,45,,Nino,4-3-3,Savio Pereira,Match Report,,9,2,15.9,0.0,0,0,2021,Fluminense
+29,2021-09-12,20:30,Série A,Matchweek 20,Sun,Home,W,2,1,São Paulo,1.2,1.1,42,,Fred,4-3-3,Jefferson Ferreira de Moraes,Match Report,,8,5,20.7,4.0,0,0,2021,Fluminense
+30,2021-09-20,19:00,Série A,Matchweek 21,Mon,Away,D,2,2,Cuiabá,0.8,1.4,42,,Nino,4-3-3,Ramon Abatti Abel,Match Report,,12,5,19.9,1.0,0,0,2021,Fluminense
+31,2021-09-26,16:00,Série A,Matchweek 22,Sun,Home,W,2,1,Bragantino,2.2,0.4,45,,Fred,4-3-3,Leandro Pedro Vuaden,Match Report,,16,6,17.6,0.0,0,0,2021,Fluminense
+32,2021-10-06,21:30,Série A,Matchweek 24,Wed,Home,L,0,2,Fortaleza,0.5,0.8,53,4448.0,Fred,4-3-3,Paulo Roberto Alves Júnior,Match Report,,8,3,16.6,1.0,0,0,2021,Fluminense
+33,2021-10-09,16:30,Série A,Matchweek 25,Sat,Home,D,0,0,Atl Goianiense,1.5,0.9,53,,Fred,4-3-3,Edina Alves Batista,Match Report,,14,1,16.4,0.0,0,0,2021,Fluminense
+34,2021-10-13,21:00,Série A,Matchweek 26,Wed,Away,L,0,1,Corinthians,1.0,0.6,46,11892.0,Nino,4-3-3,Marielson Alves Silva,Match Report,,13,4,21.7,0.0,0,0,2021,Fluminense
+35,2021-10-17,16:00,Série A,Matchweek 27,Sun,Away,W,1,0,Ath Paranaense,0.6,1.1,49,1486.0,Nino,4-2-3-1,Felipe Fernandes de Lima,Match Report,,6,2,18.8,0.0,0,0,2021,Fluminense
+36,2021-10-23,19:00,Série A,Matchweek 28,Sat,Home,W,3,1,Flamengo,2.1,1.0,29,10029.0,Yago,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,11,6,17.0,1.0,0,0,2021,Fluminense
+37,2021-10-27,19:00,Série A,Matchweek 23,Wed,Away,L,0,2,Santos,1.1,1.6,55,,Yago,4-2-3-1,Wilton Sampaio,Match Report,,17,4,21.2,1.0,0,0,2021,Fluminense
+38,2021-10-31,16:00,Série A,Matchweek 29,Sun,Away,L,0,1,Ceará,1.1,1.1,72,8095.0,Nino,4-2-3-1,Raphael Claus,Match Report,,17,0,18.0,0.0,0,0,2021,Fluminense
+39,2021-11-06,21:00,Série A,Matchweek 30,Sat,Home,W,1,0,Sport Recife,1.6,0.5,61,3870.0,Fred,4-2-2-2,Jefferson Ferreira de Moraes,Match Report,,21,3,19.6,0.0,0,0,2021,Fluminense
+40,2021-11-09,21:30,Série A,Matchweek 31,Tue,Away,L,0,1,Grêmio,0.7,2.4,53,,Nino,4-4-2,Vinicius Gonçalves Dias Araujo,Match Report,,11,5,23.1,1.0,0,0,2021,Fluminense
+41,2021-11-14,18:15,Série A,Matchweek 32,Sun,Home,W,2,1,Palmeiras,0.9,1.0,52,7969.0,Fred,4-2-3-1,Caio Max Augusto Vieira,Match Report,,9,3,16.7,1.0,0,0,2021,Fluminense
+42,2021-11-17,20:30,Série A,Matchweek 33,Wed,Away,L,0,1,Juventude,0.6,1.8,66,6000.0,Nino,4-3-3,Ricardo Marques Ribeiro,Match Report,,7,1,19.1,0.0,0,0,2021,Fluminense
+43,2021-11-21,17:00,Série A,Matchweek 34,Sun,Home,W,2,0,América (MG),2.1,0.4,48,14168.0,Fred,4-3-3,Heber Roberto Lopes,Match Report,,10,4,21.0,2.0,1,1,2021,Fluminense
+44,2021-11-24,21:30,Série A,Matchweek 35,Wed,Home,W,1,0,Internacional,1.4,1.1,31,18617.0,Fred,4-3-3,Felipe Fernandes de Lima,Match Report,,8,0,16.5,0.0,1,1,2021,Fluminense
+45,2021-11-28,16:00,Série A,Matchweek 36,Sun,Away,L,1,2,Atlético Mineiro,0.3,1.8,52,59900.0,Fred,4-3-3,Marielson Alves Silva,Match Report,,6,4,26.9,0.0,0,0,2021,Fluminense
+46,2021-12-05,16:00,Série A,Matchweek 37,Sun,Away,L,0,2,Bahia,0.6,2.2,63,26048.0,Fred,4-3-3,Luiz Flávio de Oliveira,Match Report,,9,1,18.3,0.0,0,0,2021,Fluminense
+47,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,3,0,Chapecoense,1.9,0.1,67,48198.0,David Braz,4-2-3-1,Leandro Pedro Vuaden,Match Report,,22,8,19.7,2.0,0,0,2021,Fluminense
+0,2021-05-30,18:15,Série A,Matchweek 1,Sun,Away,L,0,1,Ath Paranaense,0.7,0.9,44,,Juninho,4-1-4-1,Jefferson Ferreira de Moraes,Match Report,,14,4,20.9,2.0,0,0,2021,America MG
+1,2021-06-06,16:00,Série A,Matchweek 2,Sun,Home,L,0,1,Corinthians,0.6,1.1,56,,Juninho,4-4-1-1,Marcelo de Lima Henrique,Match Report,,10,4,20.0,2.0,0,0,2021,America MG
+2,2021-06-13,16:00,Série A,Matchweek 3,Sun,Away,L,0,2,Flamengo,0.6,1.9,36,,Juninho,4-1-4-1,Ramon Abatti Abel,Match Report,,9,1,19.8,0.0,0,0,2021,America MG
+3,2021-06-17,16:00,Série A,Matchweek 4,Thu,Home,D,0,0,Cuiabá,1.7,0.5,57,,Juninho,4-1-4-1,Antonio Dib Moraes de Sousa,Match Report,,20,6,17.4,0.0,0,0,2021,America MG
+4,2021-06-20,11:00,Série A,Matchweek 5,Sun,Away,L,1,2,Palmeiras,1.5,1.4,43,,Juninho,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,11,4,19.2,0.0,0,1,2021,America MG
+5,2021-06-24,16:00,Série A,Matchweek 6,Thu,Home,D,1,1,Juventude,1.6,1.1,54,,Juninho,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,11,1,17.3,0.0,1,1,2021,America MG
+6,2021-06-27,20:30,Série A,Matchweek 7,Sun,Home,D,1,1,Internacional,1.7,0.7,40,,Felipe Azevedo,4-1-4-1,Braulio da Silva Machado,Match Report,,13,6,19.4,2.0,0,0,2021,America MG
+7,2021-06-30,19:00,Série A,Matchweek 8,Wed,Away,W,4,3,Bahia,2.9,2.7,29,,Marcelo Toscano,4-2-3-1,Leo Simão Holanda,Match Report,,16,8,17.2,0.0,0,0,2021,America MG
+8,2021-07-03,19:00,Série A,Matchweek 9,Sat,Home,W,2,0,Santos,1.2,1.4,28,,Juninho,4-2-2-2,Denis Ribeiro Serafim,Match Report,,8,4,20.5,0.0,0,0,2021,America MG
+9,2021-07-07,18:00,Série A,Matchweek 10,Wed,Away,L,0,4,Fortaleza,0.6,1.9,45,,Eduardo,4-2-3-1,Thiago Luis Scarascati,Match Report,,11,3,18.3,0.0,0,0,2021,America MG
+10,2021-07-10,19:00,Série A,Matchweek 11,Sat,Home,L,0,1,Atlético Mineiro,0.5,2.4,51,,Juninho,3-4-1-2,Anderson Daronco,Match Report,,12,2,19.4,0.0,0,0,2021,America MG
+11,2021-07-19,20:00,Série A,Matchweek 12,Mon,Home,L,0,1,Sport Recife,1.1,0.5,63,,Ricardo Silva,3-4-1-2,Vinicius Gomes do Amaral,Match Report,,16,3,19.8,0.0,0,0,2021,America MG
+12,2021-07-24,17:00,Série A,Matchweek 13,Sat,Away,D,1,1,Grêmio,1.2,1.3,48,,Matheus Cavichioli,3-4-1-2,Alisson Sidnei Furtado,Match Report,,18,7,21.9,1.0,0,0,2021,America MG
+13,2021-08-01,20:30,Série A,Matchweek 14,Sun,Away,D,1,1,Atl Goianiense,1.8,0.8,48,,Ricardo Silva,3-4-3,Douglas Marques das Flores,Match Report,,16,5,19.5,1.0,0,0,2021,America MG
+14,2021-08-08,16:00,Série A,Matchweek 15,Sun,Home,W,1,0,Fluminense,1.9,0.6,44,,Ale,4-2-3-1,Marielson Alves Silva,Match Report,,15,7,18.6,0.0,0,0,2021,America MG
+15,2021-08-16,20:00,Série A,Matchweek 16,Mon,Away,D,1,1,Chapecoense,2.1,1.5,59,,Ale,4-2-3-1,Douglas Schwengber da Silva,Match Report,,18,6,19.3,0.0,0,0,2021,America MG
+16,2021-08-23,20:00,Série A,Matchweek 17,Mon,Home,L,0,2,Bragantino,0.9,0.7,51,,Felipe Azevedo,4-2-3-1,Rafael Traci,Match Report,,14,3,21.6,0.0,0,0,2021,America MG
+17,2021-08-29,11:00,Série A,Matchweek 18,Sun,Home,W,2,0,Ceará,2.0,0.2,38,,Juninho,4-2-3-1,Raphael Claus,Match Report,,18,3,20.3,1.0,0,1,2021,America MG
+18,2021-09-11,16:00,Série A,Matchweek 20,Sat,Home,W,2,0,Ath Paranaense,1.6,0.3,56,,Juninho,3-4-1-2,Marielson Alves Silva,Match Report,,27,6,21.8,0.0,0,0,2021,America MG
+19,2021-09-19,18:15,Série A,Matchweek 21,Sun,Away,D,1,1,Corinthians,1.6,2.1,35,,Juninho,4-2-3-1,Savio Pereira,Match Report,,16,7,21.1,0.0,0,0,2021,America MG
+20,2021-09-22,20:30,Série A,Matchweek 19,Wed,Away,D,0,0,São Paulo,0.9,0.9,41,,Juninho,4-1-3-2,Braulio da Silva Machado,Match Report,,9,4,23.9,0.0,0,0,2021,America MG
+21,2021-09-26,11:00,Série A,Matchweek 22,Sun,Home,D,1,1,Flamengo,1.0,1.0,43,,Juninho,4-2-3-1,Anderson Daronco,Match Report,,15,2,18.9,0.0,0,0,2021,America MG
+22,2021-10-02,16:00,Série A,Matchweek 23,Sat,Away,W,2,0,Cuiabá,1.6,1.0,47,,Ale,4-2-3-1,Rafael Traci,Match Report,,9,2,18.1,1.0,0,0,2021,America MG
+23,2021-10-06,21:30,Série A,Matchweek 24,Wed,Home,W,2,1,Palmeiras,3.1,1.3,61,854.0,Juninho,4-2-3-1,Leandro Pedro Vuaden,Match Report,,25,5,24.4,0.0,1,2,2021,America MG
+24,2021-10-09,21:00,Série A,Matchweek 25,Sat,Away,D,1,1,Juventude,0.7,1.1,41,1457.0,Juninho,4-2-3-1,Alexandre Vargas Tavares de Jesus,Match Report,,10,2,15.4,0.0,0,0,2021,America MG
+25,2021-10-13,21:30,Série A,Matchweek 26,Wed,Away,L,1,3,Internacional,1.0,1.7,50,9182.0,Juninho,4-2-3-1,Caio Max Augusto Vieira,Match Report,,10,2,22.9,1.0,0,0,2021,America MG
+26,2021-10-16,21:00,Série A,Matchweek 27,Sat,Home,D,0,0,Bahia,1.3,1.3,54,746.0,Juninho,4-2-3-1,Alisson Sidnei Furtado,Match Report,,15,5,19.7,1.0,0,0,2021,America MG
+27,2021-10-23,17:00,Série A,Matchweek 28,Sat,Away,W,2,0,Santos,1.9,0.7,51,6921.0,Juninho,4-2-3-1,Marcelo de Lima Henrique,Match Report,,15,3,24.9,1.0,1,1,2021,America MG
+28,2021-10-30,22:00,Série A,Matchweek 29,Sat,Home,W,2,1,Fortaleza,3.1,1.8,46,1034.0,Juninho,4-1-3-2,Flavio Rodrigues De Souza,Match Report,,22,6,19.4,0.0,1,1,2021,America MG
+29,2021-11-07,16:00,Série A,Matchweek 30,Sun,Away,L,0,1,Atlético Mineiro,0.6,2.0,44,60142.0,Juninho,4-3-3,Wilton Sampaio,Match Report,,16,4,26.4,0.0,0,0,2021,America MG
+30,2021-11-10,21:30,Série A,Matchweek 31,Wed,Away,W,3,2,Sport Recife,1.2,1.4,58,5441.0,Juninho,4-1-4-1,Raphael Claus,Match Report,,14,6,20.8,0.0,0,0,2021,America MG
+31,2021-11-13,18:30,Série A,Matchweek 32,Sat,Home,W,3,1,Grêmio,2.0,2.2,41,3157.0,Juninho,4-1-4-1,Flavio Rodrigues De Souza,Match Report,,11,5,19.0,0.0,1,1,2021,America MG
+32,2021-11-17,19:00,Série A,Matchweek 33,Wed,Home,D,0,0,Atl Goianiense,1.6,0.7,58,2955.0,Juninho,4-1-4-1,Leandro Pedro Vuaden,Match Report,,23,4,20.3,2.0,0,0,2021,America MG
+33,2021-11-21,17:00,Série A,Matchweek 34,Sun,Away,L,0,2,Fluminense,0.4,2.1,52,14168.0,Juninho,4-1-4-1,Heber Roberto Lopes,Match Report,,9,3,20.4,0.0,0,0,2021,America MG
+34,2021-11-27,19:30,Série A,Matchweek 36,Sat,Away,D,1,1,Bragantino,1.0,0.5,50,2673.0,Juninho,4-1-4-1,Anderson Daronco,Match Report,,13,3,21.6,0.0,0,0,2021,America MG
+35,2021-11-30,21:00,Série A,Matchweek 35,Tue,Home,W,3,0,Chapecoense,2.7,1.2,52,5000.0,Juninho,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,23,6,18.8,1.0,1,1,2021,America MG
+36,2021-12-05,19:00,Série A,Matchweek 37,Sun,Away,D,0,0,Ceará,1.8,1.1,47,51123.0,Juninho,4-2-3-1,Raphael Claus,Match Report,,18,1,21.2,0.0,0,0,2021,America MG
+37,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,2,0,São Paulo,2.6,0.7,46,9484.0,Juninho,4-2-3-1,Caio Max Augusto Vieira,Match Report,,19,4,19.7,1.0,0,0,2021,America MG
+6,2021-05-30,18:15,Série A,Matchweek 1,Sun,Away,W,1,0,Corinthians,0.4,1.6,40,,Fernando Miguel,4-2-3-1,Felipe Fernandes de Lima,Match Report,,7,2,26.2,1.0,0,0,2021,Atletico Goianiense
+7,2021-06-05,19:00,Série A,Matchweek 2,Sat,Home,W,2,0,São Paulo,1.2,0.9,39,,Fernando Miguel,4-2-3-1,Diego Pombo Lopez,Match Report,,9,4,20.5,1.0,0,0,2021,Atletico Goianiense
+8,2021-06-17,19:00,Série A,Matchweek 4,Thu,Home,D,0,0,Fortaleza,0.6,0.2,55,,Fernando Miguel,4-2-3-1,Douglas Schwengber da Silva,Match Report,,9,1,17.8,1.0,0,0,2021,Atletico Goianiense
+9,2021-06-20,18:15,Série A,Matchweek 5,Sun,Away,L,1,2,Ath Paranaense,1.1,1.4,50,,Fernando Miguel,4-2-3-1,Felipe Fernandes de Lima,Match Report,,10,3,19.3,0.0,0,0,2021,Atletico Goianiense
+10,2021-06-23,19:00,Série A,Matchweek 6,Wed,Home,W,1,0,Fluminense,1.5,0.4,49,,Fernando Miguel,4-2-3-1,Paulo Cesar Zanovelli da Silva,Match Report,,9,2,17.7,0.0,0,0,2021,Atletico Goianiense
+11,2021-06-28,20:00,Série A,Matchweek 7,Mon,Home,L,0,1,Bragantino,1.5,1.0,43,,Fernando Miguel,4-2-3-1,Ramon Abatti Abel,Match Report,,12,2,17.9,1.0,0,0,2021,Atletico Goianiense
+12,2021-07-01,19:00,Série A,Matchweek 8,Thu,Away,L,1,4,Atlético Mineiro,0.8,2.2,53,,Fernando Miguel,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,7,3,18.2,0.0,0,0,2021,Atletico Goianiense
+13,2021-07-04,20:30,Série A,Matchweek 9,Sun,Away,W,1,0,Grêmio,1.0,1.6,38,,Fernando Miguel,4-2-3-1,Marielson Alves Silva,Match Report,,10,5,22.2,1.0,0,0,2021,Atletico Goianiense
+14,2021-07-07,19:15,Série A,Matchweek 10,Wed,Home,D,1,1,Sport Recife,0.5,1.3,56,,Fernando Miguel,4-3-3,Leo Simão Holanda,Match Report,,13,4,19.7,0.0,0,0,2021,Atletico Goianiense
+15,2021-07-11,11:00,Série A,Matchweek 11,Sun,Away,D,1,1,Juventude,0.7,1.6,49,,Fernando Miguel,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,8,4,19.7,2.0,0,0,2021,Atletico Goianiense
+16,2021-07-18,16:00,Série A,Matchweek 12,Sun,Home,L,0,3,Palmeiras,0.8,1.6,58,,Fernando Miguel,4-2-3-1,Denis Ribeiro Serafim,Match Report,,11,1,18.7,3.0,0,0,2021,Atletico Goianiense
+17,2021-07-21,18:00,Série A,Matchweek 3,Wed,Away,L,1,2,Cuiabá,0.4,2.9,44,,Fernando Miguel,4-2-3-1,Dyorgines José Padovani Andrade,Match Report,,9,3,22.3,0.0,0,0,2021,Atletico Goianiense
+18,2021-07-25,18:15,Série A,Matchweek 13,Sun,Away,W,1,0,Santos,1.9,2.4,26,,Fernando Miguel,4-2-3-1,Leandro Pedro Vuaden,Match Report,,6,1,14.1,0.0,1,1,2021,Atletico Goianiense
+19,2021-08-01,20:30,Série A,Matchweek 14,Sun,Home,D,1,1,América (MG),0.8,1.8,52,,Eder,4-2-3-1,Douglas Marques das Flores,Match Report,,7,2,17.8,0.0,0,0,2021,Atletico Goianiense
+20,2021-08-08,18:15,Série A,Matchweek 15,Sun,Away,D,0,0,Ceará,0.4,1.2,59,,Fernando Miguel,4-2-3-1,Rafael Traci,Match Report,,7,2,22.5,0.0,0,0,2021,Atletico Goianiense
+21,2021-08-15,18:15,Série A,Matchweek 16,Sun,Away,W,2,1,Bahia,1.1,1.2,46,,Fernando Miguel,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,12,3,21.2,1.0,0,0,2021,Atletico Goianiense
+22,2021-08-21,17:00,Série A,Matchweek 17,Sat,Home,D,1,1,Chapecoense,1.9,1.2,69,,Fernando Miguel,4-4-2,Adriano Barros Carneiro,Match Report,,15,1,19.6,3.0,1,1,2021,Atletico Goianiense
+23,2021-08-29,18:15,Série A,Matchweek 18,Sun,Home,D,0,0,Internacional,0.9,0.5,51,,Fernando Miguel,4-4-2,Marielson Alves Silva,Match Report,,8,2,19.2,0.0,0,0,2021,Atletico Goianiense
+24,2021-09-12,18:15,Série A,Matchweek 20,Sun,Home,D,1,1,Corinthians,0.9,0.6,51,,Fernando Miguel,4-4-2,Antonio Dib Moraes de Sousa,Match Report,,11,4,21.3,1.0,0,0,2021,Atletico Goianiense
+25,2021-09-19,16:00,Série A,Matchweek 21,Sun,Away,L,1,2,São Paulo,1.3,2.0,48,,Fernando Miguel,4-4-2,Caio Max Augusto Vieira,Match Report,,11,4,17.9,0.0,0,0,2021,Atletico Goianiense
+26,2021-09-26,20:30,Série A,Matchweek 22,Sun,Home,D,0,0,Cuiabá,1.5,0.5,56,,Fernando Miguel,4-2-3-1,Marielson Alves Silva,Match Report,,16,3,18.0,0.0,0,0,2021,Atletico Goianiense
+27,2021-10-02,17:00,Série A,Matchweek 23,Sat,Away,W,3,0,Fortaleza,0.5,1.0,33,,Fernando Miguel,4-2-3-1,Alisson Sidnei Furtado,Match Report,,6,5,15.5,0.0,0,0,2021,Atletico Goianiense
+28,2021-10-06,19:00,Série A,Matchweek 24,Wed,Home,L,0,2,Ath Paranaense,0.7,1.2,60,1500.0,Fernando Miguel,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,15,3,22.2,0.0,0,0,2021,Atletico Goianiense
+29,2021-10-09,16:30,Série A,Matchweek 25,Sat,Away,D,0,0,Fluminense,0.9,1.5,47,,Fernando Miguel,4-4-2,Edina Alves Batista,Match Report,,11,2,16.3,1.0,0,0,2021,Atletico Goianiense
+30,2021-10-12,19:00,Série A,Matchweek 26,Tue,Away,L,0,1,Bragantino,0.2,1.5,60,971.0,Fernando Miguel,4-2-3-1,Savio Pereira,Match Report,,5,3,18.9,0.0,0,0,2021,Atletico Goianiense
+31,2021-10-17,18:15,Série A,Matchweek 27,Sun,Home,W,2,1,Atlético Mineiro,0.6,1.3,36,2963.0,Fernando Miguel,4-2-3-1,Raphael Claus,Match Report,,9,4,22.9,0.0,0,0,2021,Atletico Goianiense
+32,2021-10-25,20:00,Série A,Matchweek 28,Mon,Home,W,2,0,Grêmio,1.3,1.5,47,3852.0,Fernando Miguel,4-2-3-1,Caio Max Augusto Vieira,Match Report,,10,5,20.9,0.0,1,1,2021,Atletico Goianiense
+33,2021-10-31,20:30,Série A,Matchweek 29,Sun,Away,L,0,2,Sport Recife,0.8,2.8,51,3685.0,Fernando Miguel,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,16,3,27.4,0.0,0,0,2021,Atletico Goianiense
+34,2021-11-05,21:30,Série A,Matchweek 19,Fri,Away,L,0,2,Flamengo,0.6,1.4,48,18527.0,Fernando Miguel,4-2-3-1,Rodolpho Toski Marques,Match Report,,10,2,22.3,0.0,0,0,2021,Atletico Goianiense
+35,2021-11-10,20:30,Série A,Matchweek 31,Wed,Away,L,0,4,Palmeiras,0.6,2.3,50,19165.0,Fernando Miguel,4-1-4-1,Anderson Daronco,Match Report,,10,0,19.6,0.0,0,0,2021,Atletico Goianiense
+36,2021-11-13,17:00,Série A,Matchweek 32,Sat,Home,D,0,0,Santos,0.9,0.2,64,5015.0,Fernando Miguel,4-2-3-1,Felipe Fernandes de Lima,Match Report,,9,2,16.7,1.0,0,0,2021,Atletico Goianiense
+37,2021-11-17,19:00,Série A,Matchweek 33,Wed,Away,D,0,0,América (MG),0.7,1.6,42,2955.0,Fernando Miguel,4-2-3-1,Leandro Pedro Vuaden,Match Report,,14,1,21.1,0.0,0,0,2021,Atletico Goianiense
+38,2021-11-20,21:00,Série A,Matchweek 34,Sat,Home,D,1,1,Ceará,1.5,0.2,60,2801.0,Fernando Miguel,4-2-3-1,Braulio da Silva Machado,Match Report,,20,4,14.5,0.0,0,0,2021,Atletico Goianiense
+39,2021-11-23,19:00,Série A,Matchweek 30,Tue,Home,D,1,1,Juventude,1.5,1.1,51,9051.0,Fernando Miguel,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,15,8,19.1,0.0,0,0,2021,Atletico Goianiense
+40,2021-11-29,19:00,Série A,Matchweek 35,Mon,Home,W,2,1,Bahia,1.5,1.0,49,10704.0,Fernando Miguel,4-2-3-1,Ramon Abatti Abel,Match Report,,11,2,18.4,1.0,1,1,2021,Atletico Goianiense
+41,2021-12-03,20:00,Série A,Matchweek 36,Fri,Away,W,1,0,Chapecoense,0.4,0.4,56,1134.0,Fernando Miguel,4-2-3-1,Caio Max Augusto Vieira,Match Report,,9,1,24.5,1.0,0,0,2021,Atletico Goianiense
+42,2021-12-06,20:00,Série A,Matchweek 37,Mon,Away,W,2,1,Internacional,1.6,2.2,39,17143.0,Fernando Miguel,4-5-1,Flavio Rodrigues De Souza,Match Report,,11,4,19.0,0.0,0,0,2021,Atletico Goianiense
+43,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,2,0,Flamengo,1.2,1.3,52,11728.0,Fernando Miguel,4-3-3,Paulo Roberto Alves Júnior,Match Report,,13,3,18.3,0.0,0,0,2021,Atletico Goianiense
+10,2021-05-29,20:00,Série A,Matchweek 1,Sat,Away,L,0,3,Bahia,0.5,1.1,65,,Alison,4-3-3,Bruno Arleu de Araujo,Match Report,,12,4,24.2,2.0,0,0,2021,Santos
+11,2021-06-05,21:00,Série A,Matchweek 2,Sat,Home,W,3,1,Ceará,1.9,1.0,57,,Alison,4-2-3-1,Jean Pierre Goncalves Lima,Match Report,,14,5,22.0,0.0,0,1,2021,Santos
+12,2021-06-12,19:00,Série A,Matchweek 3,Sat,Home,D,0,0,Juventude,0.9,0.1,74,,Alison,4-3-3,Alexandre Vargas Tavares de Jesus,Match Report,,18,2,18.7,2.0,0,0,2021,Santos
+13,2021-06-17,19:00,Série A,Matchweek 4,Thu,Away,L,0,1,Fluminense,1.1,1.0,70,,Alison,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,18,8,24.0,3.0,0,0,2021,Santos
+14,2021-06-20,18:15,Série A,Matchweek 5,Sun,Home,W,2,0,São Paulo,2.0,0.4,39,,Pará,4-2-3-1,Savio Pereira,Match Report,,11,5,21.9,3.0,0,0,2021,Santos
+15,2021-06-24,21:30,Série A,Matchweek 6,Thu,Away,D,2,2,Grêmio,0.9,2.2,53,,Alison,4-2-3-1,Caio Max Augusto Vieira,Match Report,,6,3,23.3,1.0,0,0,2021,Santos
+16,2021-06-27,20:30,Série A,Matchweek 7,Sun,Home,W,2,0,Atlético Mineiro,1.3,0.7,49,,Pará,4-3-3,Bruno Arleu de Araujo,Match Report,,11,6,22.3,1.0,0,0,2021,Santos
+17,2021-06-30,20:30,Série A,Matchweek 8,Wed,Home,D,0,0,Sport Recife,0.8,0.7,67,,Pará,4-3-3,Douglas Schwengber da Silva,Match Report,,13,1,19.1,0.0,0,0,2021,Santos
+18,2021-07-03,19:00,Série A,Matchweek 9,Sat,Away,L,0,2,América (MG),1.4,1.2,72,,Pará,4-2-3-1,Denis Ribeiro Serafim,Match Report,,21,8,23.3,1.0,0,0,2021,Santos
+19,2021-07-06,19:30,Série A,Matchweek 10,Tue,Home,W,2,1,Ath Paranaense,2.5,1.8,54,,Marinho,4-1-4-1,Vinicius Gomes do Amaral,Match Report,,18,8,19.7,0.0,0,0,2021,Santos
+20,2021-07-10,16:30,Série A,Matchweek 11,Sat,Away,L,2,3,Palmeiras,1.9,2.0,64,,Pará,4-2-3-1,Braulio da Silva Machado,Match Report,,10,0,25.3,2.0,2,2,2021,Santos
+22,2021-07-18,20:30,Série A,Matchweek 12,Sun,Away,D,2,2,Bragantino,2.0,2.0,60,,Carlos Sánchez,4-3-3,Luiz Flávio de Oliveira,Match Report,,16,5,16.8,2.0,0,0,2021,Santos
+24,2021-07-25,18:15,Série A,Matchweek 13,Sun,Home,L,0,1,Atl Goianiense,2.4,1.9,74,,Carlos Sánchez,4-2-3-1,Leandro Pedro Vuaden,Match Report,,29,2,16.8,0.0,0,0,2021,Santos
+25,2021-08-01,18:15,Série A,Matchweek 14,Sun,Away,W,1,0,Chapecoense,1.4,1.1,55,,Carlos Sánchez,4-1-4-1,Rodolpho Toski Marques,Match Report,,10,4,24.7,1.0,1,1,2021,Santos
+26,2021-08-08,16:00,Série A,Matchweek 15,Sun,Home,D,0,0,Corinthians,0.6,0.9,57,,Carlos Sánchez,4-3-3,Flavio Rodrigues De Souza,Match Report,,11,5,21.2,1.0,0,0,2021,Santos
+28,2021-08-15,18:15,Série A,Matchweek 16,Sun,Away,D,1,1,Fortaleza,0.8,2.1,54,,Carlos Sánchez,4-2-3-1,André Luiz de Freitas Castro,Match Report,,8,2,22.7,1.0,0,0,2021,Santos
+30,2021-08-22,18:15,Série A,Matchweek 17,Sun,Home,D,2,2,Internacional,1.1,2.0,50,,Carlos Sánchez,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,10,4,15.1,0.0,0,0,2021,Santos
+31,2021-08-28,19:00,Série A,Matchweek 18,Sat,Home,L,0,4,Flamengo,0.4,4.5,50,,Carlos Sánchez,4-2-3-1,Braulio da Silva Machado,Match Report,,11,2,23.6,1.0,0,0,2021,Santos
+32,2021-09-04,20:00,Série A,Matchweek 19,Sat,Away,L,1,2,Cuiabá,1.2,0.9,64,,Carlos Sánchez,4-3-3,Bruno Arleu de Araujo,Match Report,,18,5,22.2,0.0,0,0,2021,Santos
+33,2021-09-11,21:00,Série A,Matchweek 20,Sat,Home,D,0,0,Bahia,0.7,1.1,64,,Carlos Sánchez,4-1-4-1,Paulo Cesar Zanovelli da Silva,Match Report,,10,1,20.4,1.0,0,0,2021,Santos
+34,2021-09-18,21:00,Série A,Matchweek 21,Sat,Away,D,0,0,Ceará,1.1,0.6,50,,Pará,3-4-3,Anderson Daronco,Match Report,,6,1,25.6,1.0,0,1,2021,Santos
+35,2021-09-26,16:00,Série A,Matchweek 22,Sun,Away,L,0,3,Juventude,1.2,0.7,62,,Carlos Sánchez,3-4-1-2,Jefferson Ferreira de Moraes,Match Report,,19,3,18.3,1.0,0,0,2021,Santos
+36,2021-10-07,18:30,Série A,Matchweek 24,Thu,Away,D,1,1,São Paulo,0.4,1.9,41,5529.0,Carlos Sánchez,3-5-2,Raphael Claus,Match Report,,6,3,27.2,1.0,0,0,2021,Santos
+37,2021-10-10,16:00,Série A,Matchweek 25,Sun,Home,W,1,0,Grêmio,1.3,0.7,59,4165.0,Carlos Sánchez,3-4-1-2,Bruno Arleu de Araujo,Match Report,,13,5,23.5,3.0,0,0,2021,Santos
+38,2021-10-13,19:00,Série A,Matchweek 26,Wed,Away,L,1,3,Atlético Mineiro,0.2,2.8,41,16514.0,Marinho,3-4-1-2,Paulo Roberto Alves Júnior,Match Report,,5,1,26.5,0.0,0,0,2021,Santos
+39,2021-10-17,20:30,Série A,Matchweek 27,Sun,Away,D,0,0,Sport Recife,0.7,1.0,53,5272.0,Carlos Sánchez,3-4-1-2,Anderson Daronco,Match Report,,10,2,20.7,1.0,0,0,2021,Santos
+40,2021-10-23,17:00,Série A,Matchweek 28,Sat,Home,L,0,2,América (MG),0.7,1.9,49,6921.0,Carlos Sánchez,4-2-3-1,Marcelo de Lima Henrique,Match Report,,14,6,22.3,1.0,0,0,2021,Santos
+41,2021-10-27,19:00,Série A,Matchweek 23,Wed,Home,W,2,0,Fluminense,1.6,1.1,45,,Marinho,3-4-3,Wilton Sampaio,Match Report,,11,5,20.9,1.0,0,0,2021,Santos
+42,2021-10-30,17:00,Série A,Matchweek 29,Sat,Away,W,1,0,Ath Paranaense,0.9,2.2,34,7196.0,João Paulo,3-4-3,Leandro Pedro Vuaden,Match Report,,10,2,19.7,0.0,0,0,2021,Santos
+43,2021-11-07,16:00,Série A,Matchweek 30,Sun,Home,L,0,2,Palmeiras,0.9,1.8,49,13465.0,Marinho,5-4-1,Raphael Claus,Match Report,,12,4,20.4,2.0,0,0,2021,Santos
+44,2021-11-10,19:00,Série A,Matchweek 31,Wed,Home,W,2,0,Bragantino,1.7,1.1,42,9443.0,Marinho,3-4-1-2,Leandro Pedro Vuaden,Match Report,,10,4,21.3,0.0,1,1,2021,Santos
+45,2021-11-13,17:00,Série A,Matchweek 32,Sat,Away,D,0,0,Atl Goianiense,0.2,0.9,36,5015.0,João Paulo,3-4-1-2,Felipe Fernandes de Lima,Match Report,,6,0,17.9,0.0,0,0,2021,Santos
+46,2021-11-17,19:00,Série A,Matchweek 33,Wed,Home,W,2,0,Chapecoense,1.9,0.6,43,11574.0,Marinho,3-4-1-2,Paulo Cesar Zanovelli da Silva,Match Report,,8,2,22.4,0.0,1,1,2021,Santos
+47,2021-11-21,16:00,Série A,Matchweek 34,Sun,Away,L,0,2,Corinthians,0.4,1.5,36,43381.0,João Paulo,3-4-3,Leandro Pedro Vuaden,Match Report,,9,1,22.7,1.0,0,0,2021,Santos
+48,2021-11-25,19:00,Série A,Matchweek 35,Thu,Home,W,2,0,Fortaleza,2.4,0.6,55,9000.0,Marinho,3-4-3,Wagner do Nascimento Magalhaes,Match Report,,14,4,20.8,0.0,1,1,2021,Santos
+49,2021-11-28,19:00,Série A,Matchweek 36,Sun,Away,D,1,1,Internacional,1.6,0.9,46,11432.0,João Paulo,3-4-3,Braulio da Silva Machado,Match Report,,13,5,19.5,0.0,0,0,2021,Santos
+50,2021-12-06,20:00,Série A,Matchweek 37,Mon,Away,W,1,0,Flamengo,0.9,1.5,37,41930.0,Marinho,3-4-3,Anderson Daronco,Match Report,,9,4,18.7,1.0,0,0,2021,Santos
+51,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,D,1,1,Cuiabá,0.8,0.4,61,12444.0,Marinho,3-4-3,Wagner do Nascimento Magalhaes,Match Report,,12,4,17.9,0.0,0,0,2021,Santos
+6,2021-05-30,16:00,Série A,Matchweek 1,Sun,Home,W,3,2,Grêmio,1.3,1.1,36,,Messias,4-2-3-1,Savio Pereira,Match Report,,12,6,17.9,1.0,0,0,2021,Ceara
+7,2021-06-05,21:00,Série A,Matchweek 2,Sat,Away,L,1,3,Santos,1.0,1.9,43,,Messias,4-4-2,Jean Pierre Goncalves Lima,Match Report,,5,2,23.3,1.0,1,1,2021,Ceara
+8,2021-06-13,20:30,Série A,Matchweek 3,Sun,Away,D,0,0,Chapecoense,1.1,0.8,62,,Messias,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,14,6,19.2,1.0,0,0,2021,Ceara
+9,2021-06-17,16:00,Série A,Matchweek 4,Thu,Home,L,1,2,Bahia,1.4,1.4,61,,Messias,4-2-3-1,Marcelo de Lima Henrique,Match Report,,13,3,16.4,0.0,0,0,2021,Ceara
+10,2021-06-20,16:00,Série A,Matchweek 5,Sun,Away,D,1,1,Internacional,1.6,1.6,40,,Messias,4-2-3-1,Diego Pombo Lopez,Match Report,,14,2,17.6,1.0,0,0,2021,Ceara
+11,2021-06-24,19:00,Série A,Matchweek 6,Thu,Home,W,2,1,Atlético Mineiro,1.4,1.1,34,,Messias,4-2-3-1,Leandro Pedro Vuaden,Match Report,,16,8,21.2,2.0,0,0,2021,Ceara
+12,2021-06-27,20:30,Série A,Matchweek 7,Sun,Home,D,1,1,São Paulo,1.6,2.0,37,,Messias,4-2-3-1,Felipe Fernandes de Lima,Match Report,,18,7,18.7,0.0,0,0,2021,Ceara
+13,2021-07-01,16:00,Série A,Matchweek 8,Thu,Away,D,0,0,Bragantino,0.5,1.5,36,,Messias,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,8,3,20.8,2.0,0,0,2021,Ceara
+14,2021-07-04,18:15,Série A,Matchweek 9,Sun,Home,W,2,0,Juventude,1.0,0.2,62,,Messias,4-2-3-1,Alisson Sidnei Furtado,Match Report,,12,5,19.4,2.0,0,0,2021,Ceara
+15,2021-07-07,21:30,Série A,Matchweek 10,Wed,Away,D,0,0,Fluminense,0.3,1.2,38,,Messias,4-2-3-1,Ramon Abatti Abel,Match Report,,7,2,26.8,0.0,0,0,2021,Ceara
+16,2021-07-11,17:15,Série A,Matchweek 11,Sun,Away,D,2,2,Cuiabá,1.6,1.0,59,,Messias,4-2-3-1,Edina Alves Batista,Match Report,,20,7,17.7,2.0,0,0,2021,Ceara
+17,2021-07-17,17:00,Série A,Matchweek 12,Sat,Home,W,1,0,Ath Paranaense,1.4,0.4,53,,Messias,4-2-3-1,Marielson Alves Silva,Match Report,,21,4,21.3,2.0,0,0,2021,Ceara
+18,2021-07-25,20:30,Série A,Matchweek 13,Sun,Away,D,0,0,Sport Recife,1.2,0.6,47,,Messias,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,14,0,19.0,0.0,0,0,2021,Ceara
+19,2021-08-01,20:30,Série A,Matchweek 14,Sun,Home,W,3,1,Fortaleza,1.5,1.8,48,,Messias,4-3-3,Denis Ribeiro Serafim,Match Report,,12,4,15.2,1.0,0,0,2021,Ceara
+20,2021-08-08,18:15,Série A,Matchweek 15,Sun,Home,D,0,0,Atl Goianiense,1.2,0.4,41,,Luiz Otávio,4-2-3-1,Rafael Traci,Match Report,,19,5,20.7,1.0,0,0,2021,Ceara
+21,2021-08-15,16:00,Série A,Matchweek 16,Sun,Away,L,1,3,Corinthians,1.4,0.7,40,,Luiz Otávio,4-2-3-1,Rodolpho Toski Marques,Match Report,,15,6,17.9,0.0,0,0,2021,Ceara
+22,2021-08-22,16:00,Série A,Matchweek 17,Sun,Home,D,1,1,Flamengo,1.5,1.9,38,,Luiz Otávio,4-2-3-1,Leandro Pedro Vuaden,Match Report,,12,4,19.5,0.0,0,0,2021,Ceara
+23,2021-08-29,11:00,Série A,Matchweek 18,Sun,Away,L,0,2,América (MG),0.2,2.0,62,,Luiz Otávio,4-2-3-1,Raphael Claus,Match Report,,6,2,25.5,1.0,0,0,2021,Ceara
+24,2021-09-12,11:00,Série A,Matchweek 20,Sun,Away,L,0,2,Grêmio,0.3,1.0,58,,Fábio Gonçalves,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,8,1,20.5,1.0,0,0,2021,Ceara
+25,2021-09-18,21:00,Série A,Matchweek 21,Sat,Home,D,0,0,Santos,0.6,1.1,50,,Luiz Otávio,4-2-3-1,Anderson Daronco,Match Report,,10,4,19.3,0.0,0,0,2021,Ceara
+26,2021-09-25,17:00,Série A,Matchweek 22,Sat,Home,W,1,0,Chapecoense,3.5,0.8,59,,Luiz Otávio,4-2-3-1,Caio Max Augusto Vieira,Match Report,,23,7,21.3,2.0,1,1,2021,Ceara
+27,2021-10-06,19:00,Série A,Matchweek 24,Wed,Home,D,0,0,Internacional,1.9,0.7,49,2810.0,Luiz Otávio,4-2-3-1,Rodolpho Toski Marques,Match Report,,16,5,15.6,0.0,0,0,2021,Ceara
+28,2021-10-09,16:30,Série A,Matchweek 25,Sat,Away,L,1,3,Atlético Mineiro,1.4,2.7,46,10265.0,Luiz Otávio,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,11,5,14.8,0.0,0,0,2021,Ceara
+29,2021-10-14,19:00,Série A,Matchweek 26,Thu,Away,D,1,1,São Paulo,1.0,2.6,37,9271.0,Messias,4-2-3-1,Paulo Cesar Zanovelli da Silva,Match Report,,12,7,16.3,1.0,0,0,2021,Ceara
+30,2021-10-17,18:15,Série A,Matchweek 27,Sun,Home,D,2,2,Bragantino,1.5,1.4,59,4573.0,Bruno Pacheco,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,23,8,19.3,1.0,0,0,2021,Ceara
+31,2021-10-20,19:00,Série A,Matchweek 19,Wed,Home,L,1,2,Palmeiras,0.9,1.3,47,6204.0,Luiz Otávio,4-2-3-1,André Luiz de Freitas Castro,Match Report,,14,5,20.2,0.0,0,0,2021,Ceara
+32,2021-10-23,17:00,Série A,Matchweek 28,Sat,Away,D,0,0,Juventude,0.4,2.0,37,2108.0,Luiz Otávio,4-2-3-1,Rodolpho Toski Marques,Match Report,,4,2,15.0,0.0,0,0,2021,Ceara
+33,2021-10-27,19:00,Série A,Matchweek 23,Wed,Away,D,1,1,Bahia,0.5,1.0,46,11446.0,Luiz Otávio,4-4-2,Antonio Dib Moraes de Sousa,Match Report,,9,4,21.9,1.0,0,0,2021,Ceara
+34,2021-10-31,16:00,Série A,Matchweek 29,Sun,Home,W,1,0,Fluminense,1.1,1.1,28,8095.0,Luiz Otávio,4-2-3-1,Raphael Claus,Match Report,,7,1,24.9,0.0,1,1,2021,Ceara
+35,2021-11-07,20:30,Série A,Matchweek 30,Sun,Home,W,1,0,Cuiabá,2.1,0.3,49,21735.0,Luiz Otávio,4-2-3-1,Heber Roberto Lopes,Match Report,,15,3,16.0,0.0,0,1,2021,Ceara
+36,2021-11-10,18:30,Série A,Matchweek 31,Wed,Away,L,1,2,Ath Paranaense,1.0,1.3,48,9943.0,Vinícius,4-2-3-1,Wilton Sampaio,Match Report,,14,4,23.0,0.0,0,0,2021,Ceara
+37,2021-11-14,19:00,Série A,Matchweek 32,Sun,Home,W,2,1,Sport Recife,0.7,1.7,38,20362.0,Luiz Otávio,4-2-3-1,Marcelo de Lima Henrique,Match Report,,12,3,22.9,0.0,0,0,2021,Ceara
+38,2021-11-17,20:00,Série A,Matchweek 33,Wed,Away,W,4,0,Fortaleza,3.1,1.0,37,28037.0,Luiz Otávio,4-2-3-1,Raphael Claus,Match Report,,13,5,17.8,1.0,0,0,2021,Ceara
+39,2021-11-20,21:00,Série A,Matchweek 34,Sat,Away,D,1,1,Atl Goianiense,0.2,1.5,40,2801.0,Vinícius,4-2-3-1,Braulio da Silva Machado,Match Report,,5,2,28.2,0.0,0,0,2021,Ceara
+40,2021-11-25,20:00,Série A,Matchweek 35,Thu,Home,W,2,1,Corinthians,1.0,1.2,38,35693.0,Luiz Otávio,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,15,5,19.1,0.0,0,0,2021,Ceara
+41,2021-11-30,20:00,Série A,Matchweek 36,Tue,Away,L,1,2,Flamengo,1.4,2.1,49,46481.0,Luiz Otávio,4-2-3-1,Caio Max Augusto Vieira,Match Report,,12,4,18.9,0.0,0,0,2021,Ceara
+42,2021-12-05,19:00,Série A,Matchweek 37,Sun,Home,D,0,0,América (MG),1.1,1.8,53,51123.0,Luiz Otávio,4-2-3-1,Raphael Claus,Match Report,,15,2,19.2,1.0,0,0,2021,Ceara
+43,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,0,1,Palmeiras,3.2,2.0,67,5304.0,Messias,4-2-3-1,Savio Pereira,Match Report,,31,8,16.3,0.0,0,0,2021,Ceara
+6,2021-05-30,20:30,Série A,Matchweek 1,Sun,Home,D,2,2,Sport Recife,1.5,1.6,57,,Taison,4-3-3,Vinicius Gonçalves Dias Araujo,Match Report,,10,3,19.5,1.0,1,1,2021,Internacional
+7,2021-06-06,16:00,Série A,Matchweek 2,Sun,Away,L,1,5,Fortaleza,0.5,2.9,49,,Marcelo Lomba,4-3-3,Paulo Roberto Alves Júnior,Match Report,,5,3,21.8,1.0,0,0,2021,Internacional
+8,2021-06-13,20:30,Série A,Matchweek 3,Sun,Away,W,1,0,Bahia,1.7,1.2,34,,Edenílson,4-3-3,Wagner do Nascimento Magalhaes,Match Report,,5,3,15.6,0.0,1,1,2021,Internacional
+9,2021-06-16,19:00,Série A,Matchweek 4,Wed,Home,L,0,1,Atlético Mineiro,1.1,1.0,58,,Edenílson,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,11,1,19.7,0.0,0,0,2021,Internacional
+10,2021-06-20,16:00,Série A,Matchweek 5,Sun,Home,D,1,1,Ceará,1.6,1.6,60,,Edenílson,4-4-2,Diego Pombo Lopez,Match Report,,9,1,24.1,0.0,1,1,2021,Internacional
+11,2021-06-24,19:00,Série A,Matchweek 6,Thu,Away,W,2,1,Chapecoense,2.8,1.6,47,,Edenílson,4-2-3-1,Alexandre Vargas Tavares de Jesus,Match Report,,25,10,22.8,1.0,0,0,2021,Internacional
+12,2021-06-27,20:30,Série A,Matchweek 7,Sun,Away,D,1,1,América (MG),0.7,1.7,60,,Rodrigo Dourado,4-3-3,Braulio da Silva Machado,Match Report,,10,3,18.8,0.0,0,0,2021,Internacional
+13,2021-06-30,19:00,Série A,Matchweek 8,Wed,Home,L,1,2,Palmeiras,1.9,2.6,66,,Edenílson,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,15,4,18.9,0.0,1,1,2021,Internacional
+14,2021-07-03,21:00,Série A,Matchweek 9,Sat,Away,D,1,1,Corinthians,1.0,1.9,43,,Edenílson,4-2-3-1,Marcelo de Lima Henrique,Match Report,,6,2,26.5,1.0,1,1,2021,Internacional
+15,2021-07-07,21:30,Série A,Matchweek 10,Wed,Home,L,0,2,São Paulo,1.2,1.8,51,,Rodrigo Dourado,4-1-4-1,Bruno Arleu de Araujo,Match Report,,9,2,21.6,1.0,0,0,2021,Internacional
+16,2021-07-10,16:30,Série A,Matchweek 11,Sat,Away,D,0,0,Grêmio,1.2,0.7,50,,Taison,4-1-4-1,Flavio Rodrigues De Souza,Match Report,,16,8,19.1,0.0,0,0,2021,Internacional
+18,2021-07-18,20:30,Série A,Matchweek 12,Sun,Home,W,1,0,Juventude,1.2,0.6,50,,Taison,4-3-3,Rodolpho Toski Marques,Match Report,,13,5,19.1,1.0,0,0,2021,Internacional
+20,2021-07-25,18:15,Série A,Matchweek 13,Sun,Away,L,1,2,Ath Paranaense,1.9,0.7,48,,Edenílson,4-1-4-1,Thiago Luis Scarascati,Match Report,,12,2,19.0,0.0,1,1,2021,Internacional
+21,2021-07-31,20:00,Série A,Matchweek 14,Sat,Home,D,0,0,Cuiabá,0.7,1.1,58,,Taison,4-4-2,Paulo Cesar Zanovelli da Silva,Match Report,,12,3,18.0,0.0,0,0,2021,Internacional
+22,2021-08-08,18:15,Série A,Matchweek 15,Sun,Away,W,4,0,Flamengo,1.7,1.5,37,,Rodrigo Dourado,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,9,5,14.2,0.0,0,0,2021,Internacional
+23,2021-08-15,20:30,Série A,Matchweek 16,Sun,Home,W,4,2,Fluminense,2.4,1.5,36,,Rodrigo Dourado,4-4-2,Luiz Flávio de Oliveira,Match Report,,17,6,19.3,0.0,0,0,2021,Internacional
+24,2021-08-22,18:15,Série A,Matchweek 17,Sun,Away,D,2,2,Santos,2.0,1.1,50,,Taison,4-4-2,Wagner do Nascimento Magalhaes,Match Report,,13,4,17.1,1.0,0,0,2021,Internacional
+25,2021-08-29,18:15,Série A,Matchweek 18,Sun,Away,D,0,0,Atl Goianiense,0.5,0.9,49,,Taison,4-2-3-1,Marielson Alves Silva,Match Report,,7,3,19.3,0.0,0,0,2021,Internacional
+26,2021-09-13,20:00,Série A,Matchweek 20,Mon,Away,W,1,0,Sport Recife,1.7,0.8,50,,Edenílson,4-2-3-1,André Luiz de Freitas Castro,Match Report,,11,4,19.4,1.0,0,0,2021,Internacional
+27,2021-09-19,11:00,Série A,Matchweek 21,Sun,Home,W,1,0,Fortaleza,1.5,1.4,58,,Edenílson,4-2-3-1,Edina Alves Batista,Match Report,,18,5,21.4,1.0,0,0,2021,Internacional
+28,2021-09-26,16:00,Série A,Matchweek 22,Sun,Home,W,2,0,Bahia,0.8,1.1,57,,Taison,4-2-3-1,Bruno Arleu de Araujo,Match Report,,12,7,16.2,1.0,0,0,2021,Internacional
+29,2021-10-02,21:00,Série A,Matchweek 23,Sat,Away,L,0,1,Atlético Mineiro,0.5,1.4,43,,Taison,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,6,4,19.1,0.0,0,0,2021,Internacional
+30,2021-10-06,19:00,Série A,Matchweek 24,Wed,Away,D,0,0,Ceará,0.7,1.9,51,2810.0,Rodrigo Dourado,4-2-3-1,Rodolpho Toski Marques,Match Report,,9,1,18.7,0.0,0,0,2021,Internacional
+31,2021-10-10,11:00,Série A,Matchweek 25,Sun,Home,W,5,2,Chapecoense,2.8,0.7,50,11976.0,Taison,4-2-3-1,Alisson Sidnei Furtado,Match Report,,15,11,13.4,2.0,0,0,2021,Internacional
+32,2021-10-13,21:30,Série A,Matchweek 26,Wed,Home,W,3,1,América (MG),1.7,1.0,50,9182.0,Taison,4-2-3-1,Caio Max Augusto Vieira,Match Report,,10,6,15.2,0.0,0,0,2021,Internacional
+33,2021-10-17,16:00,Série A,Matchweek 27,Sun,Away,L,0,1,Palmeiras,1.2,1.8,48,11111.0,Taison,4-2-3-1,Braulio da Silva Machado,Match Report,,14,4,22.1,1.0,0,0,2021,Internacional
+34,2021-10-21,20:00,Série A,Matchweek 19,Thu,Home,D,1,1,Bragantino,0.6,1.5,42,11026.0,Taison,4-2-3-1,Marielson Alves Silva,Match Report,,9,4,19.8,0.0,0,0,2021,Internacional
+35,2021-10-24,16:00,Série A,Matchweek 28,Sun,Home,D,2,2,Corinthians,1.5,2.5,49,11437.0,Taison,4-2-3-1,Bruno Arleu de Araujo,Match Report,,11,6,20.1,0.0,0,0,2021,Internacional
+36,2021-10-31,18:15,Série A,Matchweek 29,Sun,Away,L,0,1,São Paulo,0.4,1.7,47,19867.0,Edenílson,4-3-3,André Luiz de Freitas Castro,Match Report,,9,3,25.4,0.0,0,0,2021,Internacional
+37,2021-11-06,19:00,Série A,Matchweek 30,Sat,Home,W,1,0,Grêmio,1.2,0.8,40,23015.0,Taison,4-2-3-1,Marcelo de Lima Henrique,Match Report,,9,2,17.3,1.0,0,0,2021,Internacional
+38,2021-11-10,21:30,Série A,Matchweek 31,Wed,Away,L,1,2,Juventude,1.5,1.2,53,3816.0,Edenílson,4-2-3-1,Bruno Arleu de Araujo,Match Report,,14,2,16.9,0.0,0,0,2021,Internacional
+39,2021-11-13,19:00,Série A,Matchweek 32,Sat,Home,W,2,1,Ath Paranaense,1.5,1.1,48,8623.0,Edenílson,4-2-3-1,Ramon Abatti Abel,Match Report,,16,4,19.3,1.0,0,0,2021,Internacional
+40,2021-11-17,18:00,Série A,Matchweek 33,Wed,Away,L,0,1,Cuiabá,0.6,2.5,51,7750.0,Marcelo Lomba,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,11,4,16.4,0.0,0,0,2021,Internacional
+41,2021-11-20,21:30,Série A,Matchweek 34,Sat,Home,L,1,2,Flamengo,2.3,1.4,52,22000.0,Taison,4-2-3-1,Savio Pereira,Match Report,,22,8,20.3,1.0,0,0,2021,Internacional
+42,2021-11-24,21:30,Série A,Matchweek 35,Wed,Away,L,0,1,Fluminense,1.1,1.4,69,18617.0,Taison,4-2-3-1,Felipe Fernandes de Lima,Match Report,,14,4,18.3,1.0,0,0,2021,Internacional
+43,2021-11-28,19:00,Série A,Matchweek 36,Sun,Home,D,1,1,Santos,0.9,1.6,54,11432.0,Taison,4-2-3-1,Braulio da Silva Machado,Match Report,,17,6,22.3,1.0,0,0,2021,Internacional
+44,2021-12-06,20:00,Série A,Matchweek 37,Mon,Home,L,1,2,Atl Goianiense,2.2,1.6,61,17143.0,Taison,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,23,6,16.4,0.0,0,0,2021,Internacional
+45,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,0,1,Bragantino,0.3,1.4,55,5339.0,Marcelo Lomba,3-4-3,Braulio da Silva Machado,Match Report,,4,1,22.0,2.0,0,0,2021,Internacional
+6,2021-05-29,21:00,Série A,Matchweek 1,Sat,Home,D,0,0,Fluminense,0.8,1.9,70,,Miranda,3-5-2,Rodolpho Toski Marques,Match Report,,7,3,14.0,0.0,0,0,2021,Sao Paulo
+7,2021-06-05,19:00,Série A,Matchweek 2,Sat,Away,L,0,2,Atl Goianiense,0.9,1.2,61,,Miranda,3-5-2,Diego Pombo Lopez,Match Report,,14,3,17.8,1.0,0,0,2021,Sao Paulo
+8,2021-06-13,16:00,Série A,Matchweek 3,Sun,Away,L,0,1,Atlético Mineiro,0.2,1.3,58,,Miranda,3-5-2,Anderson Daronco,Match Report,,5,0,25.4,0.0,0,0,2021,Sao Paulo
+9,2021-06-16,19:00,Série A,Matchweek 4,Wed,Home,D,1,1,Chapecoense,1.7,1.8,51,,Reinaldo,4-2-3-1,Dyorgines José Padovani Andrade,Match Report,,13,3,12.8,0.0,0,0,2021,Sao Paulo
+10,2021-06-20,18:15,Série A,Matchweek 5,Sun,Away,L,0,2,Santos,0.4,2.0,61,,Reinaldo,3-1-4-2,Savio Pereira,Match Report,,8,1,23.2,2.0,0,0,2021,Sao Paulo
+11,2021-06-23,19:00,Série A,Matchweek 6,Wed,Home,D,2,2,Cuiabá,1.7,0.2,65,,Tiago Volpi,3-5-2,Ricardo Marques Ribeiro,Match Report,,17,7,18.4,0.0,0,0,2021,Sao Paulo
+12,2021-06-27,20:30,Série A,Matchweek 7,Sun,Away,D,1,1,Ceará,2.0,1.6,63,,Dani Alves,3-1-4-2,Felipe Fernandes de Lima,Match Report,,11,2,12.4,0.0,0,0,2021,Sao Paulo
+13,2021-06-30,21:30,Série A,Matchweek 8,Wed,Away,D,0,0,Corinthians,0.6,0.7,59,,Miranda,3-1-4-2,Leandro Pedro Vuaden,Match Report,,8,3,15.3,0.0,0,0,2021,Sao Paulo
+14,2021-07-04,18:15,Série A,Matchweek 9,Sun,Home,L,1,2,Bragantino,0.6,1.3,49,,Miranda,3-4-1-2,Anderson Daronco,Match Report,,9,6,24.2,0.0,0,0,2021,Sao Paulo
+15,2021-07-07,21:30,Série A,Matchweek 10,Wed,Away,W,2,0,Internacional,1.8,1.2,49,,Dani Alves,3-1-4-2,Bruno Arleu de Araujo,Match Report,,11,5,16.0,0.0,0,0,2021,Sao Paulo
+16,2021-07-10,19:00,Série A,Matchweek 11,Sat,Home,W,1,0,Bahia,1.8,0.3,62,,Reinaldo,3-1-4-2,Marcelo de Lima Henrique,Match Report,,15,6,18.9,0.0,0,0,2021,Sao Paulo
+18,2021-07-17,17:00,Série A,Matchweek 12,Sat,Home,L,0,1,Fortaleza,0.6,0.7,58,,Reinaldo,3-1-4-2,Savio Pereira,Match Report,,10,3,19.0,2.0,0,0,2021,Sao Paulo
+20,2021-07-25,16:00,Série A,Matchweek 13,Sun,Away,L,1,5,Flamengo,1.9,2.3,43,,Miranda,3-5-1-1,Felipe Fernandes de Lima,Match Report,,18,6,15.2,0.0,0,0,2021,Sao Paulo
+21,2021-07-31,19:00,Série A,Matchweek 14,Sat,Home,D,0,0,Palmeiras,0.7,0.4,53,,Miranda,4-4-2,Luiz Flávio de Oliveira,Match Report,,12,3,23.6,0.0,0,0,2021,Sao Paulo
+22,2021-08-07,18:00,Série A,Matchweek 15,Sat,Away,W,2,1,Ath Paranaense,2.8,0.9,49,,Miranda,4-2-3-1,Jean Pierre Goncalves Lima,Match Report,,10,3,15.6,0.0,1,1,2021,Sao Paulo
+24,2021-08-14,21:00,Série A,Matchweek 16,Sat,Home,W,2,1,Grêmio,1.9,0.4,64,,Miranda,3-4-1-2,Braulio da Silva Machado,Match Report,,12,6,18.5,1.0,0,0,2021,Sao Paulo
+26,2021-08-22,20:30,Série A,Matchweek 17,Sun,Away,W,1,0,Sport Recife,1.2,1.4,51,,Miranda,4-3-3,Paulo Roberto Alves Júnior,Match Report,,12,3,18.6,0.0,0,0,2021,Sao Paulo
+27,2021-08-29,16:00,Série A,Matchweek 18,Sun,Away,D,1,1,Juventude,1.2,0.5,61,,Miranda,3-4-1-2,Antonio Dib Moraes de Sousa,Match Report,,6,3,18.0,0.0,1,1,2021,Sao Paulo
+28,2021-09-12,20:30,Série A,Matchweek 20,Sun,Away,L,1,2,Fluminense,1.1,1.2,58,,Miranda,3-4-1-2,Jefferson Ferreira de Moraes,Match Report,,7,6,22.8,1.0,1,1,2021,Sao Paulo
+29,2021-09-19,16:00,Série A,Matchweek 21,Sun,Home,W,2,1,Atl Goianiense,2.0,1.3,52,,Reinaldo,4-3-3,Caio Max Augusto Vieira,Match Report,,12,5,16.0,0.0,0,0,2021,Sao Paulo
+30,2021-09-22,20:30,Série A,Matchweek 19,Wed,Home,D,0,0,América (MG),0.9,0.9,59,,Miranda,4-3-1-2,Braulio da Silva Machado,Match Report,,6,2,15.0,0.0,0,0,2021,Sao Paulo
+31,2021-09-25,21:00,Série A,Matchweek 22,Sat,Home,D,0,0,Atlético Mineiro,0.5,0.4,49,,Miranda,3-4-1-2,Wilton Sampaio,Match Report,,7,0,22.1,1.0,0,0,2021,Sao Paulo
+32,2021-10-03,16:00,Série A,Matchweek 23,Sun,Away,D,1,1,Chapecoense,2.3,1.0,62,,Miranda,3-4-1-2,Marielson Alves Silva,Match Report,,17,8,16.9,0.0,0,0,2021,Sao Paulo
+33,2021-10-07,18:30,Série A,Matchweek 24,Thu,Home,D,1,1,Santos,1.9,0.4,59,5529.0,Miranda,4-2-3-1,Raphael Claus,Match Report,,13,2,20.9,0.0,1,1,2021,Sao Paulo
+34,2021-10-11,19:00,Série A,Matchweek 25,Mon,Away,D,0,0,Cuiabá,0.5,0.9,65,13007.0,Miranda,4-2-3-1,Anderson Daronco,Match Report,,9,2,21.2,1.0,0,0,2021,Sao Paulo
+35,2021-10-14,19:00,Série A,Matchweek 26,Thu,Home,D,1,1,Ceará,2.6,1.0,63,9271.0,Miranda,4-1-3-2,Paulo Cesar Zanovelli da Silva,Match Report,,23,8,18.1,0.0,0,0,2021,Sao Paulo
+36,2021-10-18,20:00,Série A,Matchweek 27,Mon,Home,W,1,0,Corinthians,0.6,0.5,46,23874.0,Tiago Volpi,4-1-3-2,Leandro Pedro Vuaden,Match Report,,8,2,19.9,0.0,0,0,2021,Sao Paulo
+37,2021-10-24,18:15,Série A,Matchweek 28,Sun,Away,L,0,1,Bragantino,1.6,1.0,56,4345.0,Miranda,4-1-2-1-2◆,Felipe Fernandes de Lima,Match Report,,15,4,20.3,1.0,0,0,2021,Sao Paulo
+38,2021-10-31,18:15,Série A,Matchweek 29,Sun,Home,W,1,0,Internacional,1.7,0.4,53,19867.0,Miranda,5-3-2,André Luiz de Freitas Castro,Match Report,,21,8,17.9,2.0,0,0,2021,Sao Paulo
+39,2021-11-07,18:15,Série A,Matchweek 30,Sun,Away,L,0,1,Bahia,0.5,1.1,57,18178.0,Miranda,3-5-2,Savio Pereira,Match Report,,8,3,20.9,0.0,0,0,2021,Sao Paulo
+40,2021-11-10,21:30,Série A,Matchweek 31,Wed,Away,D,1,1,Fortaleza,0.5,1.1,59,16261.0,Miranda,3-1-4-2,Paulo Roberto Alves Júnior,Match Report,,11,3,23.2,1.0,0,0,2021,Sao Paulo
+41,2021-11-14,16:00,Série A,Matchweek 32,Sun,Home,L,0,4,Flamengo,0.3,2.5,41,47855.0,Miranda,4-3-1-2,Leandro Pedro Vuaden,Match Report,,6,3,24.3,0.0,0,0,2021,Sao Paulo
+42,2021-11-17,20:30,Série A,Matchweek 33,Wed,Away,W,2,0,Palmeiras,1.2,1.1,44,35572.0,Miranda,4-4-2,Marcelo de Lima Henrique,Match Report,,16,6,18.6,0.0,0,0,2021,Sao Paulo
+43,2021-11-24,21:30,Série A,Matchweek 34,Wed,Home,D,0,0,Ath Paranaense,1.2,0.1,71,43391.0,Miranda,4-4-2,Leandro Pedro Vuaden,Match Report,,20,2,19.9,0.0,0,0,2021,Sao Paulo
+44,2021-11-27,21:30,Série A,Matchweek 36,Sat,Home,W,2,0,Sport Recife,1.7,0.4,49,35679.0,Miranda,4-4-2,Heber Roberto Lopes,Match Report,,20,9,15.3,0.0,0,0,2021,Sao Paulo
+45,2021-12-02,20:00,Série A,Matchweek 35,Thu,Away,L,0,3,Grêmio,0.1,2.8,55,8517.0,Miranda,4-5-1,Savio Pereira,Match Report,,5,1,27.3,0.0,0,0,2021,Sao Paulo
+46,2021-12-06,19:00,Série A,Matchweek 37,Mon,Home,W,3,1,Juventude,1.0,0.9,54,40442.0,Miranda,4-3-3,Braulio da Silva Machado,Match Report,,13,6,22.7,2.0,0,0,2021,Sao Paulo
+47,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,0,2,América (MG),0.7,2.6,54,9484.0,Reinaldo,3-4-1-2,Caio Max Augusto Vieira,Match Report,,11,2,21.4,1.0,0,0,2021,Sao Paulo
+6,2021-05-30,18:15,Série A,Matchweek 1,Sun,Home,W,1,0,América (MG),0.9,0.7,56,,Thiago Heleno,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,11,5,20.0,0.0,0,0,2021,Athletico Paranaense
+7,2021-06-06,18:15,Série A,Matchweek 2,Sun,Away,W,3,0,Juventude,0.8,0.9,42,,Thiago Heleno,4-4-2,Paulo Cesar Zanovelli da Silva,Match Report,,11,5,20.5,1.0,0,0,2021,Athletico Paranaense
+8,2021-06-13,16:00,Série A,Matchweek 3,Sun,Away,W,1,0,Grêmio,1.1,0.6,36,,Thiago Heleno,5-4-1,Ricardo Marques Ribeiro,Match Report,,9,4,19.2,1.0,0,0,2021,Athletico Paranaense
+9,2021-06-20,18:15,Série A,Matchweek 5,Sun,Home,W,2,1,Atl Goianiense,1.4,1.1,50,,Thiago Heleno,3-4-3,Felipe Fernandes de Lima,Match Report,,12,3,16.7,1.0,0,0,2021,Athletico Paranaense
+10,2021-06-24,21:30,Série A,Matchweek 6,Thu,Away,L,1,2,Bahia,0.5,1.5,31,,Thiago Heleno,5-4-1,Antonio Dib Moraes de Sousa,Match Report,,9,4,21.6,0.0,0,0,2021,Athletico Paranaense
+11,2021-06-27,20:00,Série A,Matchweek 7,Sun,Home,D,2,2,Chapecoense,1.4,1.2,60,,Thiago Heleno,5-4-1,Vinicius Gomes do Amaral,Match Report,,18,5,16.1,1.0,0,0,2021,Athletico Paranaense
+12,2021-06-30,16:00,Série A,Matchweek 8,Wed,Away,W,4,1,Fluminense,1.8,0.8,45,,Thiago Heleno,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,10,4,18.9,1.0,1,1,2021,Athletico Paranaense
+13,2021-07-03,19:00,Série A,Matchweek 9,Sat,Home,W,2,1,Fortaleza,2.2,1.5,41,,Thiago Heleno,4-2-3-1,Paulo Cesar Zanovelli da Silva,Match Report,,16,8,24.0,1.0,0,0,2021,Athletico Paranaense
+14,2021-07-06,19:30,Série A,Matchweek 10,Tue,Away,L,1,2,Santos,1.8,2.5,46,,Thiago Heleno,3-4-3,Vinicius Gomes do Amaral,Match Report,,11,2,19.2,0.0,0,0,2021,Athletico Paranaense
+15,2021-07-10,17:00,Série A,Matchweek 11,Sat,Home,D,2,2,Bragantino,1.3,1.0,54,,Thiago Heleno,4-2-3-1,Leandro Pedro Vuaden,Match Report,,22,6,21.3,1.0,0,0,2021,Athletico Paranaense
+17,2021-07-17,17:00,Série A,Matchweek 12,Sat,Away,L,0,1,Ceará,0.4,1.4,47,,Jádson,4-2-3-1,Marielson Alves Silva,Match Report,,9,1,20.0,1.0,0,0,2021,Athletico Paranaense
+19,2021-07-25,18:15,Série A,Matchweek 13,Sun,Home,W,2,1,Internacional,0.7,1.9,52,,Thiago Heleno,4-2-3-1,Thiago Luis Scarascati,Match Report,,11,4,18.0,1.0,0,0,2021,Athletico Paranaense
+20,2021-08-01,16:00,Série A,Matchweek 14,Sun,Away,L,0,2,Atlético Mineiro,0.7,1.3,40,,Thiago Heleno,4-2-3-1,Braulio da Silva Machado,Match Report,,8,1,22.0,1.0,0,0,2021,Athletico Paranaense
+21,2021-08-07,18:00,Série A,Matchweek 15,Sat,Home,L,1,2,São Paulo,0.9,2.8,51,,Thiago Heleno,4-2-3-1,Jean Pierre Goncalves Lima,Match Report,,15,6,21.3,0.0,0,0,2021,Athletico Paranaense
+23,2021-08-15,17:15,Série A,Matchweek 16,Sun,Away,L,0,1,Cuiabá,0.7,0.6,61,,Santos,4-2-3-1,Alisson Sidnei Furtado,Match Report,,9,1,17.9,1.0,0,0,2021,Athletico Paranaense
+25,2021-08-22,16:00,Série A,Matchweek 17,Sun,Home,L,0,1,Corinthians,1.0,0.7,45,,,4-2-3-1,Wilton Sampaio,Match Report,,16,4,21.9,0.0,0,0,2021,Athletico Paranaense
+26,2021-08-28,21:00,Série A,Matchweek 18,Sat,Away,L,1,2,Palmeiras,0.4,0.9,51,,Santos,4-2-3-1,Leandro Pedro Vuaden,Match Report,,11,4,24.9,0.0,0,0,2021,Athletico Paranaense
+27,2021-09-05,18:15,Série A,Matchweek 19,Sun,Home,D,0,0,Sport Recife,0.9,0.6,58,,Thiago Heleno,4-2-3-1,Denis Ribeiro Serafim,Match Report,,16,3,20.1,1.0,0,0,2021,Athletico Paranaense
+28,2021-09-11,16:00,Série A,Matchweek 20,Sat,Away,L,0,2,América (MG),0.3,1.6,44,,Santos,4-4-2,Marielson Alves Silva,Match Report,,7,1,23.9,0.0,0,0,2021,Athletico Paranaense
+29,2021-09-18,18:45,Série A,Matchweek 21,Sat,Home,W,2,1,Juventude,2.3,1.7,59,,Santos,3-4-3,Leo Simão Holanda,Match Report,,26,5,21.3,1.0,1,1,2021,Athletico Paranaense
+31,2021-09-26,18:15,Série A,Matchweek 22,Sun,Home,W,4,2,Grêmio,1.6,0.8,54,,Thiago Heleno,3-4-3,Luiz Flávio de Oliveira,Match Report,,16,5,18.8,3.0,0,0,2021,Athletico Paranaense
+33,2021-10-03,16:00,Série A,Matchweek 23,Sun,Away,L,0,3,Flamengo,0.6,2.1,29,,Santos,3-4-3,Savio Pereira,Match Report,,9,2,19.3,1.0,0,0,2021,Athletico Paranaense
+34,2021-10-06,19:00,Série A,Matchweek 24,Wed,Away,W,2,0,Atl Goianiense,1.2,0.7,40,1500.0,Santos,3-4-3,Wagner do Nascimento Magalhaes,Match Report,,13,4,19.3,0.0,0,0,2021,Athletico Paranaense
+35,2021-10-09,19:00,Série A,Matchweek 25,Sat,Home,L,0,2,Bahia,1.3,1.1,59,3270.0,Thiago Heleno,3-4-3,Marcelo de Lima Henrique,Match Report,,16,3,19.7,1.0,0,0,2021,Athletico Paranaense
+36,2021-10-13,19:00,Série A,Matchweek 26,Wed,Away,D,1,1,Chapecoense,1.2,1.7,62,935.0,Thiago Heleno,3-4-3,Luiz Flávio de Oliveira,Match Report,,14,3,20.7,1.0,0,0,2021,Athletico Paranaense
+37,2021-10-17,16:00,Série A,Matchweek 27,Sun,Home,L,0,1,Fluminense,1.1,0.6,51,1486.0,Santos,3-4-3,Felipe Fernandes de Lima,Match Report,,16,6,19.1,0.0,0,0,2021,Athletico Paranaense
+38,2021-10-23,19:15,Série A,Matchweek 28,Sat,Away,L,0,3,Fortaleza,0.9,1.1,46,7011.0,Zé Ivaldo,4-2-3-1,Denis Ribeiro Serafim,Match Report,,13,4,20.4,3.0,0,0,2021,Athletico Paranaense
+39,2021-10-30,17:00,Série A,Matchweek 29,Sat,Home,L,0,1,Santos,2.2,0.9,66,7196.0,Thiago Heleno,3-4-3,Leandro Pedro Vuaden,Match Report,,29,6,19.5,0.0,0,0,2021,Athletico Paranaense
+40,2021-11-02,16:00,Série A,Matchweek 4,Tue,Home,D,2,2,Flamengo,1.9,1.5,58,,Thiago Heleno,3-4-3,Marielson Alves Silva,Match Report,,21,5,22.1,2.0,0,0,2021,Athletico Paranaense
+41,2021-11-07,16:00,Série A,Matchweek 30,Sun,Away,W,2,0,Bragantino,0.8,0.7,42,1701.0,Thiago Heleno,3-4-3,Anderson Daronco,Match Report,,8,5,20.1,2.0,0,0,2021,Athletico Paranaense
+42,2021-11-10,18:30,Série A,Matchweek 31,Wed,Home,W,2,1,Ceará,1.3,1.0,52,9943.0,Thiago Heleno,3-4-3,Wilton Sampaio,Match Report,,13,4,15.2,1.0,0,0,2021,Athletico Paranaense
+43,2021-11-13,19:00,Série A,Matchweek 32,Sat,Away,L,1,2,Internacional,1.1,1.5,52,8623.0,Thiago Heleno,3-4-3,Ramon Abatti Abel,Match Report,,10,1,18.1,0.0,0,0,2021,Athletico Paranaense
+44,2021-11-16,16:00,Série A,Matchweek 33,Tue,Home,L,0,1,Atlético Mineiro,0.4,0.7,45,6233.0,Márcio Azevedo,3-5-2,Savio Pereira,Match Report,,8,1,29.0,1.0,0,0,2021,Athletico Paranaense
+46,2021-11-24,21:30,Série A,Matchweek 34,Wed,Away,D,0,0,São Paulo,0.1,1.2,29,43391.0,Thiago Heleno,3-4-3,Leandro Pedro Vuaden,Match Report,,3,0,30.5,1.0,0,0,2021,Athletico Paranaense
+47,2021-11-28,16:00,Série A,Matchweek 36,Sun,Away,L,0,1,Corinthians,0.7,1.5,34,37309.0,Thiago Heleno,3-4-3,Paulo Cesar Zanovelli da Silva,Match Report,,11,2,20.2,2.0,0,0,2021,Athletico Paranaense
+48,2021-12-03,19:00,Série A,Matchweek 35,Fri,Home,W,1,0,Cuiabá,1.3,0.6,64,17523.0,Thiago Heleno,3-4-3,Braulio da Silva Machado,Match Report,,19,3,17.6,0.0,0,0,2021,Athletico Paranaense
+49,2021-12-06,19:00,Série A,Matchweek 37,Mon,Home,D,0,0,Palmeiras,1.8,0.2,71,18232.0,Thiago Heleno,3-4-3,Wagner do Nascimento Magalhaes,Match Report,,23,3,18.3,0.0,0,0,2021,Athletico Paranaense
+50,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,D,1,1,Sport Recife,0.8,2.1,38,4215.0,Márcio Azevedo,3-4-3,Ramon Abatti Abel,Match Report,,7,4,21.0,1.0,0,0,2021,Athletico Paranaense
+0,2021-05-29,18:00,Série A,Matchweek 1,Sat,Home,D,2,2,Juventude,1.4,1.3,59,,Anderson Conceição,4-3-3,Denis Ribeiro Serafim,Match Report,,14,2,17.5,0.0,0,0,2021,Cuiaba
+1,2021-06-06,11:00,Série A,Matchweek 2,Sun,Away,L,0,1,Fluminense,0.8,0.8,55,,Walter,4-2-3-1,Edina Alves Batista,Match Report,,10,4,21.1,1.0,0,0,2021,Cuiaba
+2,2021-06-17,16:00,Série A,Matchweek 4,Thu,Away,D,0,0,América (MG),0.5,1.7,43,,Walter,4-3-3,Antonio Dib Moraes de Sousa,Match Report,,8,3,22.7,0.0,0,0,2021,Cuiaba
+3,2021-06-23,19:00,Série A,Matchweek 6,Wed,Away,D,2,2,São Paulo,0.2,1.7,35,,Walter,4-5-1,Ricardo Marques Ribeiro,Match Report,,5,3,20.8,0.0,0,0,2021,Cuiaba
+4,2021-06-27,20:30,Série A,Matchweek 7,Sun,Away,D,0,0,Sport Recife,1.4,0.3,55,,Walter,4-1-4-1,Marielson Alves Silva,Match Report,,12,3,20.2,1.0,0,0,2021,Cuiaba
+5,2021-07-01,19:00,Série A,Matchweek 8,Thu,Home,L,0,2,Flamengo,0.3,1.5,44,,Walter,4-5-1,Rodolpho Toski Marques,Match Report,,9,2,28.1,0.0,0,0,2021,Cuiaba
+6,2021-07-04,17:15,Série A,Matchweek 9,Sun,Home,L,0,1,Atlético Mineiro,0.7,1.0,59,,Walter,4-4-2,Savio Pereira,Match Report,,11,4,22.6,0.0,0,0,2021,Cuiaba
+7,2021-07-07,18:00,Série A,Matchweek 10,Wed,Away,D,1,1,Bragantino,0.9,0.6,47,,Uillian Correia,4-2-3-1,Douglas Schwengber da Silva,Match Report,,9,2,16.7,0.0,0,0,2021,Cuiaba
+8,2021-07-11,17:15,Série A,Matchweek 11,Sun,Home,D,2,2,Ceará,1.0,1.6,41,,Uillian Correia,4-4-2,Edina Alves Batista,Match Report,,11,3,18.9,1.0,0,0,2021,Cuiaba
+9,2021-07-18,11:00,Série A,Matchweek 12,Sun,Away,W,3,2,Chapecoense,1.5,1.3,58,,Uillian Correia,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,11,6,17.3,0.0,0,0,2021,Cuiaba
+10,2021-07-21,18:00,Série A,Matchweek 3,Wed,Home,W,2,1,Atl Goianiense,2.9,0.4,56,,Uillian Correia,4-4-2,Dyorgines José Padovani Andrade,Match Report,,20,7,16.5,0.0,0,0,2021,Cuiaba
+11,2021-07-26,19:00,Série A,Matchweek 13,Mon,Home,L,1,2,Corinthians,0.9,0.4,52,,Uillian Correia,4-4-2,Ramon Abatti Abel,Match Report,,16,7,21.1,0.0,0,0,2021,Cuiaba
+12,2021-07-31,20:00,Série A,Matchweek 14,Sat,Away,D,0,0,Internacional,1.1,0.7,42,,Walter,4-4-1-1,Paulo Cesar Zanovelli da Silva,Match Report,,13,4,20.0,0.0,0,0,2021,Cuiaba
+13,2021-08-07,20:00,Série A,Matchweek 15,Sat,Home,D,1,1,Bahia,0.5,1.1,41,,Walter,4-2-3-1,Heber Roberto Lopes,Match Report,,11,2,22.8,0.0,0,0,2021,Cuiaba
+14,2021-08-15,17:15,Série A,Matchweek 16,Sun,Home,W,1,0,Ath Paranaense,0.6,0.7,39,,Walter,4-4-2,Alisson Sidnei Furtado,Match Report,,12,2,21.8,0.0,0,0,2021,Cuiaba
+15,2021-08-18,18:00,Série A,Matchweek 5,Wed,Home,L,0,1,Grêmio,0.6,1.2,52,,Walter,4-4-2,Leo Simão Holanda,Match Report,,10,2,23.7,1.0,0,0,2021,Cuiaba
+16,2021-08-22,11:00,Série A,Matchweek 17,Sun,Away,W,2,0,Palmeiras,0.9,3.7,35,,Walter,4-4-2,Anderson Daronco,Match Report,,9,4,18.8,0.0,0,0,2021,Cuiaba
+17,2021-08-30,21:30,Série A,Matchweek 18,Mon,Away,D,0,0,Fortaleza,0.9,1.3,36,,Walter,4-4-2,Paulo Cesar Zanovelli da Silva,Match Report,,11,5,18.5,0.0,0,0,2021,Cuiaba
+18,2021-09-04,20:00,Série A,Matchweek 19,Sat,Home,W,2,1,Santos,0.9,1.2,36,,Walter,4-2-3-1,Bruno Arleu de Araujo,Match Report,,14,5,17.1,0.0,0,0,2021,Cuiaba
+19,2021-09-11,17:00,Série A,Matchweek 20,Sat,Away,W,2,1,Juventude,0.5,1.4,38,,Walter,4-2-3-1,Caio Max Augusto Vieira,Match Report,,3,1,16.0,0.0,0,0,2021,Cuiaba
+20,2021-09-20,19:00,Série A,Matchweek 21,Mon,Home,D,2,2,Fluminense,1.4,0.8,58,,Walter,4-2-3-1,Ramon Abatti Abel,Match Report,,6,2,25.7,1.0,1,1,2021,Cuiaba
+21,2021-09-26,20:30,Série A,Matchweek 22,Sun,Away,D,0,0,Atl Goianiense,0.5,1.5,44,,Walter,4-4-2,Marielson Alves Silva,Match Report,,6,2,22.0,0.0,0,0,2021,Cuiaba
+22,2021-10-02,16:00,Série A,Matchweek 23,Sat,Home,L,0,2,América (MG),1.0,1.6,53,,Walter,4-2-3-1,Rafael Traci,Match Report,,14,3,18.9,1.0,0,0,2021,Cuiaba
+23,2021-10-06,21:30,Série A,Matchweek 24,Wed,Away,D,2,2,Grêmio,0.5,1.5,38,4488.0,Walter,4-4-2,Wilton Sampaio,Match Report,,5,2,12.4,0.0,0,0,2021,Cuiaba
+24,2021-10-11,19:00,Série A,Matchweek 25,Mon,Home,D,0,0,São Paulo,0.9,0.5,35,13007.0,Walter,4-4-2,Anderson Daronco,Match Report,,15,6,22.8,0.0,0,0,2021,Cuiaba
+25,2021-10-14,18:00,Série A,Matchweek 26,Thu,Home,W,1,0,Sport Recife,1.8,0.5,55,3054.0,Walter,4-4-2,Leandro Pedro Vuaden,Match Report,,15,6,26.7,0.0,1,1,2021,Cuiaba
+26,2021-10-17,20:30,Série A,Matchweek 27,Sun,Away,D,0,0,Flamengo,0.2,1.0,31,9437.0,Walter,4-4-2,Flavio Rodrigues De Souza,Match Report,,2,0,13.6,0.0,0,0,2021,Cuiaba
+27,2021-10-24,16:00,Série A,Matchweek 28,Sun,Away,L,1,2,Atlético Mineiro,0.4,2.5,46,30501.0,Walter,4-4-2,Savio Pereira,Match Report,,7,2,23.5,0.0,0,0,2021,Cuiaba
+28,2021-11-01,19:00,Série A,Matchweek 29,Mon,Home,W,1,0,Bragantino,2.1,2.1,57,6428.0,Walter,4-1-2-1-2◆,Jefferson Ferreira de Moraes,Match Report,,20,6,19.8,1.0,0,0,2021,Cuiaba
+29,2021-11-04,20:00,Série A,Matchweek 31,Thu,Home,D,0,0,Chapecoense,1.0,0.4,56,6336.0,Walter,4-3-3,Ricardo Marques Ribeiro,Match Report,,16,3,17.2,0.0,0,0,2021,Cuiaba
+30,2021-11-07,20:30,Série A,Matchweek 30,Sun,Away,L,0,1,Ceará,0.3,2.1,51,21735.0,Walter,4-4-2,Heber Roberto Lopes,Match Report,,7,1,19.7,0.0,0,0,2021,Cuiaba
+31,2021-11-13,21:00,Série A,Matchweek 32,Sat,Away,L,2,3,Corinthians,0.7,1.0,47,38474.0,Walter,4-2-3-1,Rodolpho Toski Marques,Match Report,,9,6,21.4,0.0,0,0,2021,Cuiaba
+32,2021-11-17,18:00,Série A,Matchweek 33,Wed,Home,W,1,0,Internacional,2.5,0.6,49,7750.0,Walter,4-3-3,Paulo Roberto Alves Júnior,Match Report,,20,4,19.5,0.0,1,1,2021,Cuiaba
+33,2021-11-21,19:00,Série A,Matchweek 34,Sun,Away,D,0,0,Bahia,0.4,0.8,46,19790.0,Walter,4-4-2,Raphael Claus,Match Report,,8,0,22.5,0.0,0,0,2021,Cuiaba
+34,2021-11-30,21:00,Série A,Matchweek 36,Tue,Home,L,1,3,Palmeiras,1.9,1.8,59,26612.0,Walter,4-4-2,Paulo Roberto Alves Júnior,Match Report,,21,6,18.3,0.0,0,0,2021,Cuiaba
+35,2021-12-03,19:00,Série A,Matchweek 35,Fri,Away,L,0,1,Ath Paranaense,0.6,1.3,36,17523.0,Walter,4-1-4-1,Braulio da Silva Machado,Match Report,,8,1,18.0,1.0,0,0,2021,Cuiaba
+36,2021-12-06,19:00,Série A,Matchweek 37,Mon,Home,W,1,0,Fortaleza,1.2,0.8,36,15923.0,Walter,4-4-1-1,Heber Roberto Lopes,Match Report,,7,0,29.0,1.0,1,1,2021,Cuiaba
+37,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,D,1,1,Santos,0.4,0.8,39,12444.0,Walter,4-4-2,Wagner do Nascimento Magalhaes,Match Report,,8,3,22.0,0.0,0,0,2021,Cuiaba
+0,2021-05-29,18:00,Série A,Matchweek 1,Sat,Away,D,2,2,Cuiabá,1.3,1.4,41,,João Paulo,4-2-3-1,Denis Ribeiro Serafim,Match Report,,7,3,18.6,1.0,0,0,2021,Juventude
+1,2021-06-06,18:15,Série A,Matchweek 2,Sun,Home,L,0,3,Ath Paranaense,0.9,0.8,58,,Rafael Forster,4-2-3-1,Paulo Cesar Zanovelli da Silva,Match Report,,13,1,16.5,0.0,0,0,2021,Juventude
+2,2021-06-12,19:00,Série A,Matchweek 3,Sat,Away,D,0,0,Santos,0.1,0.9,26,,Marcelo Carné,4-4-2,Alexandre Vargas Tavares de Jesus,Match Report,,2,0,13.8,0.0,0,0,2021,Juventude
+3,2021-06-16,21:30,Série A,Matchweek 4,Wed,Home,L,0,3,Palmeiras,0.7,1.0,43,,Wescley,4-1-2-1-2◆,Marielson Alves Silva,Match Report,,11,2,22.6,1.0,0,0,2021,Juventude
+4,2021-06-20,20:30,Série A,Matchweek 5,Sun,Home,W,1,0,Sport Recife,0.5,1.0,50,,Elton,4-4-2,Edina Alves Batista,Match Report,,8,4,21.6,0.0,0,0,2021,Juventude
+5,2021-06-24,16:00,Série A,Matchweek 6,Thu,Away,D,1,1,América (MG),1.1,1.6,46,,Michel,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,7,2,26.8,2.0,1,1,2021,Juventude
+6,2021-06-27,11:00,Série A,Matchweek 7,Sun,Home,W,1,0,Flamengo,0.4,0.8,36,,Elton,4-3-3,Thiago Luis Scarascati,Match Report,,8,4,24.8,1.0,0,0,2021,Juventude
+7,2021-06-30,21:30,Série A,Matchweek 8,Wed,Home,W,2,0,Grêmio,0.9,0.6,30,,Elton,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,11,5,21.1,0.0,0,0,2021,Juventude
+8,2021-07-04,18:15,Série A,Matchweek 9,Sun,Away,L,0,2,Ceará,0.2,1.0,38,,Rafael Forster,4-2-3-1,Alisson Sidnei Furtado,Match Report,,4,3,25.3,0.0,0,0,2021,Juventude
+9,2021-07-07,18:00,Série A,Matchweek 10,Wed,Away,L,0,1,Bahia,0.7,0.8,47,,Elton,4-1-4-1,Douglas Marques das Flores,Match Report,,9,3,21.0,0.0,0,0,2021,Juventude
+10,2021-07-11,11:00,Série A,Matchweek 11,Sun,Home,D,1,1,Atl Goianiense,1.6,0.7,51,,Elton,4-1-2-1-2◆,Wagner do Nascimento Magalhaes,Match Report,,14,2,20.4,1.0,1,1,2021,Juventude
+11,2021-07-18,20:30,Série A,Matchweek 12,Sun,Away,L,0,1,Internacional,0.6,1.2,50,,Elton,4-2-3-1,Rodolpho Toski Marques,Match Report,,11,4,21.6,1.0,0,0,2021,Juventude
+12,2021-07-26,18:00,Série A,Matchweek 13,Mon,Home,W,1,0,Chapecoense,0.6,0.2,34,,Matheus Peixoto,4-3-3,Leo Simão Holanda,Match Report,,13,2,26.4,0.0,0,0,2021,Juventude
+13,2021-08-08,16:00,Série A,Matchweek 15,Sun,Home,L,1,2,Atlético Mineiro,0.4,2.0,36,,Rafael Forster,4-2-3-1,André Luiz de Freitas Castro,Match Report,,6,1,23.1,2.0,0,0,2021,Juventude
+14,2021-08-14,17:00,Série A,Matchweek 16,Sat,Away,W,2,1,Bragantino,1.3,0.4,46,,Rafael Forster,4-2-3-1,Denis Ribeiro Serafim,Match Report,,13,6,21.2,0.0,0,0,2021,Juventude
+15,2021-08-21,21:00,Série A,Matchweek 17,Sat,Home,D,1,1,Fortaleza,1.3,1.5,56,,William Matheus,4-2-3-1,Raphael Claus,Match Report,,19,4,23.1,0.0,0,0,2021,Juventude
+16,2021-08-29,16:00,Série A,Matchweek 18,Sun,Home,D,1,1,São Paulo,0.5,1.2,39,,William Matheus,5-3-2,Antonio Dib Moraes de Sousa,Match Report,,9,2,23.6,2.0,0,0,2021,Juventude
+17,2021-09-02,19:00,Série A,Matchweek 14,Thu,Away,D,1,1,Fluminense,0.7,1.0,36,,William Matheus,4-3-3,Heber Roberto Lopes,Match Report,,7,2,21.5,1.0,0,0,2021,Juventude
+18,2021-09-07,21:30,Série A,Matchweek 19,Tue,Away,D,1,1,Corinthians,0.6,0.6,42,,William Matheus,4-1-2-1-2◆,Ramon Abatti Abel,Match Report,,12,7,20.2,0.0,0,0,2021,Juventude
+19,2021-09-11,17:00,Série A,Matchweek 20,Sat,Home,L,1,2,Cuiabá,1.4,0.5,62,,William Matheus,4-3-3,Caio Max Augusto Vieira,Match Report,,17,6,17.7,1.0,0,0,2021,Juventude
+20,2021-09-18,18:45,Série A,Matchweek 21,Sat,Away,L,1,2,Ath Paranaense,1.7,2.3,41,,Rafael Forster,4-2-3-1,Leo Simão Holanda,Match Report,,14,2,29.1,1.0,1,1,2021,Juventude
+21,2021-09-26,16:00,Série A,Matchweek 22,Sun,Home,W,3,0,Santos,0.7,1.2,38,,William Matheus,3-4-3,Jefferson Ferreira de Moraes,Match Report,,6,4,15.4,0.0,0,0,2021,Juventude
+22,2021-10-03,18:15,Série A,Matchweek 23,Sun,Away,D,1,1,Palmeiras,0.8,1.6,28,,William Matheus,4-1-4-1,Marcelo de Lima Henrique,Match Report,,10,4,20.1,1.0,0,0,2021,Juventude
+23,2021-10-06,19:00,Série A,Matchweek 24,Wed,Away,L,1,3,Sport Recife,1.4,1.2,55,1219.0,William Matheus,4-1-4-1,Braulio da Silva Machado,Match Report,,8,0,21.4,1.0,1,1,2021,Juventude
+24,2021-10-09,21:00,Série A,Matchweek 25,Sat,Home,D,1,1,América (MG),1.1,0.7,59,1457.0,William Matheus,4-3-3,Alexandre Vargas Tavares de Jesus,Match Report,,14,5,19.4,1.0,0,0,2021,Juventude
+25,2021-10-13,19:00,Série A,Matchweek 26,Wed,Away,L,1,3,Flamengo,0.6,1.7,37,8197.0,William Matheus,3-4-1-2,André Luiz de Freitas Castro,Match Report,,10,2,17.5,0.0,0,0,2021,Juventude
+26,2021-10-17,18:15,Série A,Matchweek 27,Sun,Away,L,2,3,Grêmio,0.6,2.1,46,14776.0,Rafael Forster,4-3-3,Marcelo de Lima Henrique,Match Report,,6,3,19.3,1.0,0,0,2021,Juventude
+27,2021-10-23,17:00,Série A,Matchweek 28,Sat,Home,D,0,0,Ceará,2.0,0.4,63,2108.0,William Matheus,4-3-3,Rodolpho Toski Marques,Match Report,,26,8,18.0,1.0,0,0,2021,Juventude
+28,2021-10-30,19:15,Série A,Matchweek 29,Sat,Home,D,0,0,Bahia,1.1,1.3,60,3738.0,William Matheus,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,18,3,21.0,2.0,0,0,2021,Juventude
+29,2021-11-10,21:30,Série A,Matchweek 31,Wed,Home,W,2,1,Internacional,1.2,1.5,47,3816.0,William Matheus,4-4-2,Bruno Arleu de Araujo,Match Report,,14,3,19.3,1.0,0,0,2021,Juventude
+30,2021-11-14,19:00,Série A,Matchweek 32,Sun,Away,W,2,0,Chapecoense,1.8,1.0,45,1616.0,William Matheus,4-2-3-1,Alisson Sidnei Furtado,Match Report,,10,3,16.7,1.0,0,0,2021,Juventude
+31,2021-11-17,20:30,Série A,Matchweek 33,Wed,Home,W,1,0,Fluminense,1.8,0.6,34,6000.0,William Matheus,4-4-2,Ricardo Marques Ribeiro,Match Report,,15,6,15.2,0.0,0,0,2021,Juventude
+32,2021-11-20,19:00,Série A,Matchweek 34,Sat,Away,L,0,2,Atlético Mineiro,0.1,2.4,39,61476.0,William Matheus,5-4-1,Luiz Flávio de Oliveira,Match Report,,2,0,25.9,0.0,0,0,2021,Juventude
+33,2021-11-23,19:00,Série A,Matchweek 30,Tue,Away,D,1,1,Atl Goianiense,1.1,1.5,49,9051.0,William Matheus,4-4-2,Flavio Rodrigues De Souza,Match Report,,12,5,17.2,1.0,0,0,2021,Juventude
+34,2021-11-30,19:00,Série A,Matchweek 35,Tue,Home,W,1,0,Bragantino,1.7,0.8,47,18413.0,William Matheus,4-4-2,Felipe Fernandes de Lima,Match Report,,8,2,20.1,0.0,0,1,2021,Juventude
+35,2021-12-03,21:00,Série A,Matchweek 36,Fri,Away,L,0,1,Fortaleza,1.1,1.7,47,45398.0,William Matheus,3-4-3,Bruno Arleu de Araujo,Match Report,,11,3,15.8,0.0,0,0,2021,Juventude
+36,2021-12-06,19:00,Série A,Matchweek 37,Mon,Away,L,1,3,São Paulo,0.9,1.0,46,40442.0,William Matheus,4-4-2,Braulio da Silva Machado,Match Report,,9,3,20.0,1.0,0,0,2021,Juventude
+37,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,1,0,Corinthians,2.2,0.0,45,17056.0,Juan Quintero,3-4-3,Rodolpho Toski Marques,Match Report,,16,5,22.3,1.0,1,1,2021,Juventude
+10,2021-05-30,16:00,Série A,Matchweek 1,Sun,Away,L,2,3,Ceará,1.1,1.3,64,,Pedro Geromel,4-3-3,Savio Pereira,Match Report,,12,3,18.0,0.0,0,0,2021,Gremio
+11,2021-06-13,16:00,Série A,Matchweek 3,Sun,Home,L,0,1,Ath Paranaense,0.6,1.1,64,,Pedro Geromel,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,10,1,21.4,1.0,0,0,2021,Gremio
+12,2021-06-17,19:00,Série A,Matchweek 4,Thu,Away,L,0,1,Sport Recife,0.6,1.1,66,,Pedro Geromel,4-2-3-1,Denis Ribeiro Serafim,Match Report,,14,7,23.2,2.0,0,0,2021,Gremio
+13,2021-06-24,21:30,Série A,Matchweek 6,Thu,Home,D,2,2,Santos,2.2,0.9,47,,Pedro Geromel,4-2-3-1,Caio Max Augusto Vieira,Match Report,,19,6,17.8,0.0,0,0,2021,Gremio
+14,2021-06-27,20:00,Série A,Matchweek 7,Sun,Home,D,0,0,Fortaleza,1.5,2.4,57,,Pedro Geromel,4-3-3,Marcelo de Lima Henrique,Match Report,,17,4,19.6,0.0,0,1,2021,Gremio
+15,2021-06-30,21:30,Série A,Matchweek 8,Wed,Away,L,0,2,Juventude,0.6,0.9,70,,Pedro Geromel,4-3-3,Vinicius Gonçalves Dias Araujo,Match Report,,13,3,26.1,1.0,0,0,2021,Gremio
+16,2021-07-04,20:30,Série A,Matchweek 9,Sun,Home,L,0,1,Atl Goianiense,1.6,1.0,62,,Pedro Geromel,4-2-3-1,Marielson Alves Silva,Match Report,,21,4,19.5,0.0,0,0,2021,Gremio
+17,2021-07-07,19:00,Série A,Matchweek 10,Wed,Away,L,0,2,Palmeiras,0.8,2.1,53,,Pedro Geromel,4-2-3-1,Felipe Fernandes de Lima,Match Report,,12,4,22.2,1.0,0,0,2021,Gremio
+18,2021-07-10,16:30,Série A,Matchweek 11,Sat,Home,D,0,0,Internacional,0.7,1.2,50,,Pedro Geromel,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,11,2,23.1,1.0,0,0,2021,Gremio
+20,2021-07-17,21:00,Série A,Matchweek 12,Sat,Away,W,1,0,Fluminense,1.2,0.8,44,,Pedro Geromel,4-4-2,Paulo Roberto Alves Júnior,Match Report,,7,0,18.3,0.0,1,1,2021,Gremio
+22,2021-07-24,17:00,Série A,Matchweek 13,Sat,Home,D,1,1,América (MG),1.3,1.2,52,,Diego Souza,3-5-2,Alisson Sidnei Furtado,Match Report,,12,4,18.6,0.0,0,0,2021,Gremio
+23,2021-07-31,21:00,Série A,Matchweek 14,Sat,Away,L,0,1,Bragantino,0.2,0.6,48,,Pedro Geromel,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,7,1,26.4,0.0,0,0,2021,Gremio
+24,2021-08-09,20:00,Série A,Matchweek 15,Mon,Home,W,2,1,Chapecoense,2.1,1.1,54,,Pedro Geromel,4-2-3-1,Marcelo de Lima Henrique,Match Report,,19,2,21.5,1.0,1,1,2021,Gremio
+25,2021-08-14,21:00,Série A,Matchweek 16,Sat,Away,L,1,2,São Paulo,0.4,1.9,36,,Pedro Geromel,4-2-3-1,Braulio da Silva Machado,Match Report,,9,3,22.8,3.0,0,0,2021,Gremio
+26,2021-08-18,18:00,Série A,Matchweek 5,Wed,Away,W,1,0,Cuiabá,1.2,0.6,48,,Maicon Souza,4-2-3-1,Leo Simão Holanda,Match Report,,6,2,21.4,0.0,1,1,2021,Gremio
+27,2021-08-21,19:00,Série A,Matchweek 17,Sat,Home,W,2,0,Bahia,1.2,0.5,53,,Rafinha,4-2-3-1,Caio Max Augusto Vieira,Match Report,,15,6,20.4,0.0,0,0,2021,Gremio
+28,2021-08-28,21:00,Série A,Matchweek 18,Sat,Home,L,0,1,Corinthians,0.9,0.8,45,,Rafinha,4-2-3-1,Ricardo Marques Ribeiro,Match Report,,11,2,21.5,1.0,0,0,2021,Gremio
+29,2021-09-12,11:00,Série A,Matchweek 20,Sun,Home,W,2,0,Ceará,1.0,0.3,42,,Rafinha,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,13,3,20.8,0.0,0,0,2021,Gremio
+30,2021-09-19,20:30,Série A,Matchweek 21,Sun,Away,W,1,0,Flamengo,1.4,0.7,38,,Rafinha,4-2-3-1,Marielson Alves Silva,Match Report,,10,4,22.9,1.0,0,1,2021,Gremio
+31,2021-09-26,18:15,Série A,Matchweek 22,Sun,Away,L,2,4,Ath Paranaense,0.8,1.6,46,,Rafinha,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,15,7,21.6,2.0,0,0,2021,Gremio
+32,2021-10-03,20:30,Série A,Matchweek 23,Sun,Home,L,1,2,Sport Recife,1.5,0.9,65,,Rafinha,4-2-3-1,Felipe Fernandes de Lima,Match Report,,22,6,21.5,0.0,0,0,2021,Gremio
+33,2021-10-06,21:30,Série A,Matchweek 24,Wed,Home,D,2,2,Cuiabá,1.5,0.5,62,4488.0,Walter Kannemann,4-2-3-1,Wilton Sampaio,Match Report,,20,7,20.0,0.0,0,0,2021,Gremio
+34,2021-10-10,16:00,Série A,Matchweek 25,Sun,Away,L,0,1,Santos,0.7,1.3,41,4165.0,Walter Kannemann,3-4-3,Bruno Arleu de Araujo,Match Report,,8,3,22.6,0.0,0,0,2021,Gremio
+35,2021-10-13,20:30,Série A,Matchweek 26,Wed,Away,L,0,1,Fortaleza,0.7,2.5,52,3499.0,Walter Kannemann,3-4-1-2,Vinicius Gonçalves Dias Araujo,Match Report,,13,5,22.2,0.0,0,0,2021,Gremio
+36,2021-10-17,18:15,Série A,Matchweek 27,Sun,Home,W,3,2,Juventude,2.1,0.6,54,14776.0,Walter Kannemann,4-2-3-1,Marcelo de Lima Henrique,Match Report,,14,7,15.3,0.0,0,0,2021,Gremio
+37,2021-10-25,20:00,Série A,Matchweek 28,Mon,Away,L,0,2,Atl Goianiense,1.5,1.3,53,3852.0,Walter Kannemann,4-2-3-1,Caio Max Augusto Vieira,Match Report,,19,5,20.7,0.0,0,0,2021,Gremio
+38,2021-10-31,16:00,Série A,Matchweek 29,Sun,Home,L,1,3,Palmeiras,0.8,1.5,50,13799.0,Pedro Geromel,4-2-3-1,Savio Pereira,Match Report,,15,5,25.0,1.0,0,0,2021,Gremio
+39,2021-11-03,21:00,Série A,Matchweek 19,Wed,Away,L,1,2,Atlético Mineiro,1.7,1.6,47,55624.0,Pedro Geromel,4-3-3,Luiz Flávio de Oliveira,Match Report,,14,5,21.6,0.0,0,0,2021,Gremio
+40,2021-11-06,19:00,Série A,Matchweek 30,Sat,Away,L,0,1,Internacional,0.8,1.2,60,23015.0,Pedro Geromel,4-3-3,Marcelo de Lima Henrique,Match Report,,8,5,19.1,0.0,0,0,2021,Gremio
+41,2021-11-09,21:30,Série A,Matchweek 31,Tue,Home,W,1,0,Fluminense,2.4,0.7,47,,Pedro Geromel,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,25,7,20.9,1.0,0,0,2021,Gremio
+42,2021-11-13,18:30,Série A,Matchweek 32,Sat,Away,L,1,3,América (MG),2.2,2.0,59,3157.0,Pedro Geromel,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,26,7,19.6,1.0,0,0,2021,Gremio
+43,2021-11-16,18:00,Série A,Matchweek 33,Tue,Home,W,3,0,Bragantino,2.7,0.6,52,,Pedro Geromel,4-2-3-1,Caio Max Augusto Vieira,Match Report,,24,9,18.5,2.0,0,1,2021,Gremio
+44,2021-11-20,19:00,Série A,Matchweek 34,Sat,Away,W,3,1,Chapecoense,1.5,1.1,61,2830.0,Pedro Geromel,4-2-3-1,Rodolpho Toski Marques,Match Report,,24,6,22.5,5.0,0,0,2021,Gremio
+45,2021-11-23,21:00,Série A,Matchweek 2,Tue,Home,D,2,2,Flamengo,2.0,1.5,51,,Pedro Geromel,4-2-3-1,Braulio da Silva Machado,Match Report,,18,7,17.5,1.0,0,0,2021,Gremio
+46,2021-11-26,19:00,Série A,Matchweek 36,Fri,Away,L,1,3,Bahia,1.4,1.8,65,29576.0,Pedro Geromel,4-2-3-1,Bruno Arleu de Araujo,Match Report,,11,3,19.2,0.0,0,0,2021,Gremio
+47,2021-12-02,20:00,Série A,Matchweek 35,Thu,Home,W,3,0,São Paulo,2.8,0.1,45,8517.0,Pedro Geromel,4-2-3-1,Savio Pereira,Match Report,,17,7,18.1,0.0,0,0,2021,Gremio
+48,2021-12-05,16:00,Série A,Matchweek 37,Sun,Away,D,1,1,Corinthians,0.7,0.9,30,44187.0,Pedro Geromel,4-2-3-1,Bruno Arleu de Araujo,Match Report,,12,3,19.5,0.0,0,0,2021,Gremio
+49,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,W,4,3,Atlético Mineiro,2.1,1.0,38,33577.0,Rafinha,4-2-3-1,Raphael Claus,Match Report,,6,4,19.5,1.0,0,1,2021,Gremio
+6,2021-05-29,20:00,Série A,Matchweek 1,Sat,Home,W,3,0,Santos,1.1,0.5,35,,Rodriguinho Marinho,4-3-3,Bruno Arleu de Araujo,Match Report,,5,3,13.1,0.0,0,0,2021,Bahia
+7,2021-06-05,21:00,Série A,Matchweek 2,Sat,Away,D,3,3,Bragantino,0.5,1.8,40,,Rodriguinho Marinho,4-3-3,Vinicius Gomes do Amaral,Match Report,,9,3,21.0,1.0,0,0,2021,Bahia
+8,2021-06-13,20:30,Série A,Matchweek 3,Sun,Home,L,0,1,Internacional,1.2,1.7,66,,Rodriguinho Marinho,4-3-3,Wagner do Nascimento Magalhaes,Match Report,,14,3,18.1,0.0,0,0,2021,Bahia
+9,2021-06-17,16:00,Série A,Matchweek 4,Thu,Away,W,2,1,Ceará,1.4,1.4,39,,Danielzinho,4-3-3,Marcelo de Lima Henrique,Match Report,,8,2,25.9,2.0,1,1,2021,Bahia
+10,2021-06-20,16:00,Série A,Matchweek 5,Sun,Home,D,0,0,Corinthians,0.8,0.5,51,,Rodriguinho Marinho,4-3-3,Bruno Arleu de Araujo,Match Report,,12,2,18.5,0.0,0,0,2021,Bahia
+11,2021-06-24,21:30,Série A,Matchweek 6,Thu,Home,W,2,1,Ath Paranaense,1.5,0.5,69,,Rodriguinho Marinho,4-3-3,Antonio Dib Moraes de Sousa,Match Report,,20,7,18.6,3.0,0,0,2021,Bahia
+12,2021-06-27,20:00,Série A,Matchweek 7,Sun,Away,L,2,3,Palmeiras,2.0,1.4,43,,Rodriguinho Marinho,4-2-3-1,Denis Ribeiro Serafim,Match Report,,18,4,17.2,0.0,0,0,2021,Bahia
+13,2021-06-30,19:00,Série A,Matchweek 8,Wed,Home,L,3,4,América (MG),2.7,2.9,71,,Rodriguinho Marinho,4-1-4-1,Leo Simão Holanda,Match Report,,20,6,17.1,0.0,0,0,2021,Bahia
+14,2021-07-04,11:00,Série A,Matchweek 9,Sun,Away,W,2,0,Chapecoense,1.0,0.5,52,,Rodriguinho Marinho,4-2-3-1,Edina Alves Batista,Match Report,,13,6,23.6,1.0,0,0,2021,Bahia
+15,2021-07-07,18:00,Série A,Matchweek 10,Wed,Home,W,1,0,Juventude,0.8,0.7,53,,Rodriguinho Marinho,4-3-3,Douglas Marques das Flores,Match Report,,8,2,17.3,0.0,0,0,2021,Bahia
+16,2021-07-10,19:00,Série A,Matchweek 11,Sat,Away,L,0,1,São Paulo,0.3,1.8,38,,Rodriguinho Marinho,4-3-3,Marcelo de Lima Henrique,Match Report,,6,1,20.8,0.0,0,0,2021,Bahia
+17,2021-07-18,18:15,Série A,Matchweek 12,Sun,Home,L,0,5,Flamengo,1.0,2.9,36,,Rodriguinho Marinho,4-2-3-1,Wilton Sampaio,Match Report,,11,3,16.3,0.0,0,0,2021,Bahia
+18,2021-07-25,11:00,Série A,Matchweek 13,Sun,Away,L,0,3,Atlético Mineiro,0.9,2.2,40,,Rodriguinho Marinho,4-3-3,Antonio Dib Moraes de Sousa,Match Report,,11,5,20.6,1.0,0,0,2021,Bahia
+19,2021-08-01,18:15,Série A,Matchweek 14,Sun,Home,L,0,1,Sport Recife,2.2,0.8,60,,Rodriguinho Marinho,4-3-3,Jefferson Ferreira de Moraes,Match Report,,21,4,16.2,0.0,0,0,2021,Bahia
+20,2021-08-07,20:00,Série A,Matchweek 15,Sat,Away,D,1,1,Cuiabá,1.1,0.5,59,,Rodriguinho Marinho,4-1-3-2,Heber Roberto Lopes,Match Report,,9,4,18.2,1.0,0,0,2021,Bahia
+21,2021-08-15,18:15,Série A,Matchweek 16,Sun,Home,L,1,2,Atl Goianiense,1.2,1.1,54,,Rodriguinho Marinho,4-4-2,Ricardo Marques Ribeiro,Match Report,,16,8,19.0,0.0,0,0,2021,Bahia
+22,2021-08-21,19:00,Série A,Matchweek 17,Sat,Away,L,0,2,Grêmio,0.5,1.2,47,,Rodriguinho Marinho,4-1-4-1,Caio Max Augusto Vieira,Match Report,,9,3,24.8,0.0,0,0,2021,Bahia
+23,2021-08-30,19:00,Série A,Matchweek 18,Mon,Away,L,0,2,Fluminense,0.8,0.6,53,,Rodriguinho Marinho,4-2-3-1,Edina Alves Batista,Match Report,,10,2,17.9,0.0,0,0,2021,Bahia
+24,2021-09-04,21:00,Série A,Matchweek 19,Sat,Home,W,4,2,Fortaleza,2.9,1.5,41,,Rodriguinho Marinho,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,12,8,20.2,0.0,0,1,2021,Bahia
+25,2021-09-11,21:00,Série A,Matchweek 20,Sat,Away,D,0,0,Santos,1.1,0.7,36,,Nino Paraíba,4-4-2,Paulo Cesar Zanovelli da Silva,Match Report,,13,3,19.2,0.0,0,0,2021,Bahia
+26,2021-09-18,21:00,Série A,Matchweek 21,Sat,Home,D,1,1,Bragantino,0.7,1.3,43,,Nino Paraíba,4-3-3,Wilton Sampaio,Match Report,,13,3,22.3,1.0,0,0,2021,Bahia
+27,2021-09-26,16:00,Série A,Matchweek 22,Sun,Away,L,0,2,Internacional,1.1,0.8,43,,Rodriguinho Marinho,4-4-2,Bruno Arleu de Araujo,Match Report,,15,2,18.2,2.0,0,0,2021,Bahia
+28,2021-10-05,21:30,Série A,Matchweek 24,Tue,Away,L,1,3,Corinthians,0.9,2.6,29,10470.0,Nino Paraíba,4-4-2,Denis Ribeiro Serafim,Match Report,,2,1,25.8,0.0,1,1,2021,Bahia
+29,2021-10-09,19:00,Série A,Matchweek 25,Sat,Away,W,2,0,Ath Paranaense,1.1,1.3,41,3270.0,Nino Paraíba,4-2-3-1,Marcelo de Lima Henrique,Match Report,,8,4,20.1,1.0,0,0,2021,Bahia
+30,2021-10-12,21:30,Série A,Matchweek 26,Tue,Home,D,0,0,Palmeiras,1.2,0.4,52,4509.0,Nino Paraíba,4-2-3-1,Ramon Abatti Abel,Match Report,,17,5,20.8,2.0,0,0,2021,Bahia
+31,2021-10-16,21:00,Série A,Matchweek 27,Sat,Away,D,0,0,América (MG),1.3,1.3,46,746.0,Nino Paraíba,4-1-4-1,Alisson Sidnei Furtado,Match Report,,13,3,16.2,0.0,0,0,2021,Bahia
+32,2021-10-24,20:30,Série A,Matchweek 28,Sun,Home,W,3,0,Chapecoense,2.2,0.5,53,8058.0,Nino Paraíba,4-4-2,Wilton Sampaio,Match Report,,15,6,16.1,1.0,0,0,2021,Bahia
+33,2021-10-27,19:00,Série A,Matchweek 23,Wed,Home,D,1,1,Ceará,1.0,0.5,54,11446.0,Nino Paraíba,4-1-4-1,Antonio Dib Moraes de Sousa,Match Report,,13,7,22.5,1.0,0,0,2021,Bahia
+34,2021-10-30,19:15,Série A,Matchweek 29,Sat,Away,D,0,0,Juventude,1.3,1.1,40,3738.0,Danilo Fernandes,4-3-3,Paulo Roberto Alves Júnior,Match Report,,9,0,17.6,2.0,0,0,2021,Bahia
+35,2021-11-07,18:15,Série A,Matchweek 30,Sun,Home,W,1,0,São Paulo,1.1,0.5,43,18178.0,Nino Paraíba,4-1-4-1,Savio Pereira,Match Report,,15,4,16.7,0.0,0,0,2021,Bahia
+36,2021-11-11,19:00,Série A,Matchweek 31,Thu,Away,L,0,3,Flamengo,0.2,2.4,32,3488.0,Nino Paraíba,4-2-3-1,André Luiz de Freitas Castro,Match Report,,7,2,26.5,0.0,0,0,2021,Bahia
+37,2021-11-18,21:00,Série A,Matchweek 33,Thu,Away,L,0,1,Sport Recife,0.7,0.7,57,8096.0,Nino Paraíba,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,14,4,21.6,0.0,0,0,2021,Bahia
+38,2021-11-21,19:00,Série A,Matchweek 34,Sun,Home,D,0,0,Cuiabá,0.8,0.4,54,19790.0,Nino Paraíba,4-2-3-1,Raphael Claus,Match Report,,19,3,19.4,0.0,0,0,2021,Bahia
+39,2021-11-26,19:00,Série A,Matchweek 36,Fri,Home,W,3,1,Grêmio,1.8,1.4,35,29576.0,Nino Paraíba,4-2-3-1,Bruno Arleu de Araujo,Match Report,,13,6,16.7,1.0,0,0,2021,Bahia
+40,2021-11-29,19:00,Série A,Matchweek 35,Mon,Away,L,1,2,Atl Goianiense,1.0,1.5,51,10704.0,Nino Paraíba,4-2-3-1,Ramon Abatti Abel,Match Report,,14,2,17.2,0.0,0,0,2021,Bahia
+41,2021-12-02,18:00,Série A,Matchweek 32,Thu,Home,L,2,3,Atlético Mineiro,1.0,1.7,48,29415.0,Nino Paraíba,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,13,3,20.9,0.0,0,0,2021,Bahia
+42,2021-12-05,16:00,Série A,Matchweek 37,Sun,Home,W,2,0,Fluminense,2.2,0.6,37,26048.0,Nino Paraíba,4-2-3-1,Luiz Flávio de Oliveira,Match Report,,13,5,17.9,0.0,1,1,2021,Bahia
+43,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,1,2,Fortaleza,1.3,2.1,49,51125.0,Nino Paraíba,4-2-3-1,Flavio Rodrigues De Souza,Match Report,,8,5,24.9,1.0,1,1,2021,Bahia
+0,2021-05-30,20:30,Série A,Matchweek 1,Sun,Away,D,2,2,Internacional,1.6,1.5,43,,Thiago Neves,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,7,4,20.2,1.0,1,1,2021,Sport Recife
+1,2021-06-06,20:30,Série A,Matchweek 2,Sun,Home,L,0,1,Atlético Mineiro,0.5,0.8,48,,Thiago Neves,4-2-3-1,Raphael Claus,Match Report,,8,1,18.1,1.0,0,0,2021,Sport Recife
+2,2021-06-13,20:30,Série A,Matchweek 3,Sun,Away,L,0,1,Fortaleza,0.3,1.7,42,,André,4-2-3-1,Braulio da Silva Machado,Match Report,,5,0,24.9,0.0,0,0,2021,Sport Recife
+3,2021-06-17,19:00,Série A,Matchweek 4,Thu,Home,W,1,0,Grêmio,1.1,0.6,34,,André,5-4-1,Denis Ribeiro Serafim,Match Report,,10,4,20.5,1.0,0,0,2021,Sport Recife
+4,2021-06-20,20:30,Série A,Matchweek 5,Sun,Away,L,0,1,Juventude,1.0,0.5,50,,André,5-4-1,Edina Alves Batista,Match Report,,13,2,20.4,1.0,0,0,2021,Sport Recife
+5,2021-06-24,19:00,Série A,Matchweek 6,Thu,Away,L,1,2,Corinthians,1.0,2.7,49,,André,5-4-1,Paulo Roberto Alves Júnior,Match Report,,9,3,22.3,0.0,0,0,2021,Sport Recife
+6,2021-06-27,20:30,Série A,Matchweek 7,Sun,Home,D,0,0,Cuiabá,0.3,1.4,45,,André,4-4-2,Marielson Alves Silva,Match Report,,8,1,23.5,1.0,0,0,2021,Sport Recife
+7,2021-06-30,20:30,Série A,Matchweek 8,Wed,Away,D,0,0,Santos,0.7,0.8,33,,Thiago Neves,4-2-3-1,Douglas Schwengber da Silva,Match Report,,8,2,20.1,1.0,0,0,2021,Sport Recife
+8,2021-07-04,16:00,Série A,Matchweek 9,Sun,Home,L,0,1,Palmeiras,1.0,1.6,49,,Marcão Silva,4-2-3-1,Caio Max Augusto Vieira,Match Report,,13,1,20.0,0.0,0,0,2021,Sport Recife
+9,2021-07-07,19:15,Série A,Matchweek 10,Wed,Away,D,1,1,Atl Goianiense,1.3,0.5,44,,Thiago Neves,4-2-3-1,Leo Simão Holanda,Match Report,,11,3,15.1,0.0,0,0,2021,Sport Recife
+10,2021-07-10,19:00,Série A,Matchweek 11,Sat,Home,L,1,2,Fluminense,1.6,1.4,50,,Rafael Thyere,4-1-4-1,Antonio Dib Moraes de Sousa,Match Report,,10,2,18.8,0.0,1,1,2021,Sport Recife
+11,2021-07-19,20:00,Série A,Matchweek 12,Mon,Away,W,1,0,América (MG),0.5,1.1,37,,Marcão Silva,4-2-3-1,Vinicius Gomes do Amaral,Match Report,,11,5,23.1,0.0,0,0,2021,Sport Recife
+12,2021-07-25,20:30,Série A,Matchweek 13,Sun,Home,D,0,0,Ceará,0.6,1.2,53,,Rafael Thyere,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,12,0,23.1,1.0,0,0,2021,Sport Recife
+13,2021-08-01,18:15,Série A,Matchweek 14,Sun,Away,W,1,0,Bahia,0.8,2.2,40,,José Sabino,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,8,2,21.5,0.0,0,0,2021,Sport Recife
+14,2021-08-06,19:00,Série A,Matchweek 15,Fri,Home,D,0,0,Bragantino,1.4,0.8,39,,Marcão Silva,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,17,7,21.2,0.0,0,0,2021,Sport Recife
+15,2021-08-15,16:00,Série A,Matchweek 16,Sun,Away,L,0,2,Flamengo,0.1,2.0,36,,José Sabino,4-2-3-1,Raphael Claus,Match Report,,4,2,29.2,1.0,0,0,2021,Sport Recife
+16,2021-08-22,20:30,Série A,Matchweek 17,Sun,Home,L,0,1,São Paulo,1.4,1.2,49,,Hernanes,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,,15,4,18.3,1.0,0,0,2021,Sport Recife
+17,2021-08-28,17:00,Série A,Matchweek 18,Sat,Home,D,0,0,Chapecoense,2.2,1.4,55,,Thiago Neves,4-2-3-1,Jefferson Ferreira de Moraes,Match Report,,20,7,14.6,0.0,0,0,2021,Sport Recife
+18,2021-09-05,18:15,Série A,Matchweek 19,Sun,Away,D,0,0,Ath Paranaense,0.6,0.9,42,,Marcão Silva,4-2-3-1,Denis Ribeiro Serafim,Match Report,,9,2,27.7,0.0,0,0,2021,Sport Recife
+19,2021-09-13,20:00,Série A,Matchweek 20,Mon,Home,L,0,1,Internacional,0.8,1.7,50,,Marcão Silva,5-3-2,André Luiz de Freitas Castro,Match Report,,14,3,20.8,1.0,0,0,2021,Sport Recife
+20,2021-09-18,19:00,Série A,Matchweek 21,Sat,Away,L,0,3,Atlético Mineiro,0.3,2.4,41,,Marcão Silva,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,7,1,22.9,2.0,0,0,2021,Sport Recife
+21,2021-09-26,18:15,Série A,Matchweek 22,Sun,Home,L,0,1,Fortaleza,1.1,1.3,57,,Marcão Silva,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,18,5,23.7,1.0,0,0,2021,Sport Recife
+22,2021-10-03,20:30,Série A,Matchweek 23,Sun,Away,W,2,1,Grêmio,0.9,1.5,35,,Marcão Silva,4-1-4-1,Felipe Fernandes de Lima,Match Report,,9,6,24.0,2.0,0,0,2021,Sport Recife
+23,2021-10-06,19:00,Série A,Matchweek 24,Wed,Home,W,3,1,Juventude,1.2,1.4,45,1219.0,Marcão Silva,4-2-3-1,Braulio da Silva Machado,Match Report,,14,8,20.1,0.0,0,0,2021,Sport Recife
+24,2021-10-09,16:30,Série A,Matchweek 25,Sat,Home,W,1,0,Corinthians,0.7,0.4,34,2697.0,Marcão Silva,4-1-4-1,Savio Pereira,Match Report,,11,3,20.8,1.0,0,0,2021,Sport Recife
+25,2021-10-14,18:00,Série A,Matchweek 26,Thu,Away,L,0,1,Cuiabá,0.5,1.8,45,3054.0,Marcão Silva,4-2-3-1,Leandro Pedro Vuaden,Match Report,,13,3,22.0,1.0,0,0,2021,Sport Recife
+26,2021-10-17,20:30,Série A,Matchweek 27,Sun,Home,D,0,0,Santos,1.0,0.7,47,5272.0,Marcão Silva,4-2-3-1,Anderson Daronco,Match Report,,14,3,20.9,0.0,0,0,2021,Sport Recife
+27,2021-10-25,21:30,Série A,Matchweek 28,Mon,Away,L,1,2,Palmeiras,0.6,3.3,35,13367.0,Marcão Silva,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,,6,1,28.3,2.0,0,0,2021,Sport Recife
+28,2021-10-28,19:00,Série A,Matchweek 34,Thu,Away,L,0,3,Bragantino,2.2,1.3,55,931.0,Sander,4-2-3-1,Bruno Arleu de Araujo,Match Report,,17,4,18.5,0.0,0,0,2021,Sport Recife
+29,2021-10-31,20:30,Série A,Matchweek 29,Sun,Home,W,2,0,Atl Goianiense,2.8,0.8,49,3685.0,Marcão Silva,4-1-4-1,Luiz Flávio de Oliveira,Match Report,,21,5,20.4,1.0,1,1,2021,Sport Recife
+30,2021-11-06,21:00,Série A,Matchweek 30,Sat,Away,L,0,1,Fluminense,0.5,1.6,39,3870.0,Marcão Silva,4-1-4-1,Jefferson Ferreira de Moraes,Match Report,,8,2,25.1,0.0,0,0,2021,Sport Recife
+31,2021-11-10,21:30,Série A,Matchweek 31,Wed,Home,L,2,3,América (MG),1.4,1.2,42,5441.0,Marcão Silva,4-1-4-1,Raphael Claus,Match Report,,11,3,19.3,1.0,0,0,2021,Sport Recife
+32,2021-11-14,19:00,Série A,Matchweek 32,Sun,Away,L,1,2,Ceará,1.7,0.7,62,20362.0,Marcão Silva,4-1-4-1,Marcelo de Lima Henrique,Match Report,,21,8,18.2,0.0,0,0,2021,Sport Recife
+33,2021-11-18,21:00,Série A,Matchweek 33,Thu,Home,W,1,0,Bahia,0.7,0.7,43,8096.0,Marcão Silva,4-3-3,Flavio Rodrigues De Souza,Match Report,,16,4,25.6,0.0,0,0,2021,Sport Recife
+34,2021-11-27,21:30,Série A,Matchweek 36,Sat,Away,L,0,2,São Paulo,0.4,1.7,51,35679.0,Marcão Silva,4-3-3,Heber Roberto Lopes,Match Report,,7,4,21.4,0.0,0,0,2021,Sport Recife
+35,2021-12-03,20:00,Série A,Matchweek 35,Fri,Home,D,1,1,Flamengo,1.5,2.5,48,10733.0,Marcão Silva,4-2-3-1,Leandro Pedro Vuaden,Match Report,,15,8,23.2,1.0,0,0,2021,Sport Recife
+36,2021-12-06,21:00,Série A,Matchweek 37,Mon,Away,W,1,0,Chapecoense,1.5,0.7,69,1658.0,Marcão Silva,4-2-3-1,Paulo Cesar Zanovelli da Silva,Match Report,,25,4,23.9,2.0,0,0,2021,Sport Recife
+37,2021-12-09,21:30,Série A,Matchweek 38,Thu,Home,D,1,1,Ath Paranaense,2.1,0.8,62,4215.0,Ronaldo Henrique,4-2-3-1,Ramon Abatti Abel,Match Report,,17,5,20.8,1.0,0,1,2021,Sport Recife
+0,2021-05-30,18:15,Série A,Matchweek 1,Sun,Home,L,0,3,Bragantino,0.7,2.1,44,,Anderson Leite,4-3-2-1,Marielson Alves Silva,Match Report,,10,2,19.9,0.0,0,0,2021,Chapecoense
+1,2021-06-06,18:15,Série A,Matchweek 2,Sun,Away,L,1,3,Palmeiras,0.6,2.7,35,,Anselmo Ramon,4-3-3,Leo Simão Holanda,Match Report,,6,4,15.5,1.0,0,0,2021,Chapecoense
+2,2021-06-13,20:30,Série A,Matchweek 3,Sun,Home,D,0,0,Ceará,0.8,1.1,38,,Anselmo Ramon,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,,8,3,18.8,0.0,0,0,2021,Chapecoense
+3,2021-06-16,19:00,Série A,Matchweek 4,Wed,Away,D,1,1,São Paulo,1.8,1.7,49,,Anselmo Ramon,4-2-3-1,Dyorgines José Padovani Andrade,Match Report,,7,2,17.1,1.0,0,0,2021,Chapecoense
+4,2021-06-21,20:00,Série A,Matchweek 5,Mon,Away,D,1,1,Atlético Mineiro,1.6,1.1,33,,Anselmo Ramon,4-4-2,Rodolpho Toski Marques,Match Report,,12,0,19.0,0.0,1,1,2021,Chapecoense
+5,2021-06-24,19:00,Série A,Matchweek 6,Thu,Home,L,1,2,Internacional,1.6,2.8,53,,Anselmo Ramon,4-3-1-2,Alexandre Vargas Tavares de Jesus,Match Report,,11,5,10.8,1.0,0,0,2021,Chapecoense
+6,2021-06-27,20:00,Série A,Matchweek 7,Sun,Away,D,2,2,Ath Paranaense,1.2,1.4,40,,Anselmo Ramon,3-4-3,Vinicius Gomes do Amaral,Match Report,,12,5,20.2,0.0,0,0,2021,Chapecoense
+7,2021-06-30,16:00,Série A,Matchweek 8,Wed,Away,L,2,3,Fortaleza,1.7,1.4,37,,Anselmo Ramon,5-4-1,Antonio Dib Moraes de Sousa,Match Report,,8,4,22.6,1.0,1,1,2021,Chapecoense
+8,2021-07-04,11:00,Série A,Matchweek 9,Sun,Home,L,0,2,Bahia,0.5,1.0,48,,Anselmo Ramon,4-1-4-1,Edina Alves Batista,Match Report,,7,1,19.3,0.0,0,0,2021,Chapecoense
+9,2021-07-08,21:00,Série A,Matchweek 10,Thu,Home,L,0,1,Corinthians,1.0,1.4,42,,Anderson Leite,4-3-3,Ricardo Marques Ribeiro,Match Report,,14,4,20.0,1.0,0,0,2021,Chapecoense
+10,2021-07-11,18:15,Série A,Matchweek 11,Sun,Away,L,1,2,Flamengo,2.0,2.1,30,,Anselmo Ramon,3-4-3,Paulo Cesar Zanovelli da Silva,Match Report,,13,4,17.6,2.0,0,0,2021,Chapecoense
+11,2021-07-18,11:00,Série A,Matchweek 12,Sun,Home,L,2,3,Cuiabá,1.3,1.5,42,,Anselmo Ramon,3-4-3,Jefferson Ferreira de Moraes,Match Report,,11,6,15.7,0.0,0,0,2021,Chapecoense
+12,2021-07-26,18:00,Série A,Matchweek 13,Mon,Away,L,0,1,Juventude,0.2,0.6,66,,Anderson Leite,4-3-3,Leo Simão Holanda,Match Report,,7,2,23.1,0.0,0,0,2021,Chapecoense
+13,2021-08-01,18:15,Série A,Matchweek 14,Sun,Home,L,0,1,Santos,1.1,1.4,45,,Anderson Leite,4-2-3-1,Rodolpho Toski Marques,Match Report,,20,6,21.9,0.0,0,0,2021,Chapecoense
+14,2021-08-09,20:00,Série A,Matchweek 15,Mon,Away,L,1,2,Grêmio,1.1,2.1,46,,Anderson Leite,4-4-2,Marcelo de Lima Henrique,Match Report,,6,2,14.4,0.0,0,0,2021,Chapecoense
+15,2021-08-16,20:00,Série A,Matchweek 16,Mon,Home,D,1,1,América (MG),1.5,2.1,41,,Anderson Leite,4-3-3,Douglas Schwengber da Silva,Match Report,,10,5,16.7,0.0,0,0,2021,Chapecoense
+16,2021-08-21,17:00,Série A,Matchweek 17,Sat,Away,D,1,1,Atl Goianiense,1.2,1.9,31,,Anderson Leite,4-2-3-1,Adriano Barros Carneiro,Match Report,,7,1,16.4,0.0,1,1,2021,Chapecoense
+17,2021-08-28,17:00,Série A,Matchweek 18,Sat,Away,D,0,0,Sport Recife,1.4,2.2,45,,Joílson,4-1-4-1,Jefferson Ferreira de Moraes,Match Report,,15,2,15.3,0.0,0,0,2021,Chapecoense
+18,2021-09-07,21:30,Série A,Matchweek 19,Tue,Home,L,1,2,Fluminense,1.9,0.9,55,,Anselmo Ramon,4-4-2,Savio Pereira,Match Report,,11,3,16.5,0.0,0,0,2021,Chapecoense
+19,2021-09-11,19:00,Série A,Matchweek 20,Sat,Away,W,2,1,Bragantino,2.1,1.5,45,,Anderson Leite,4-1-4-1,Marcelo de Lima Henrique,Match Report,,22,6,15.7,0.0,0,0,2021,Chapecoense
+20,2021-09-18,17:00,Série A,Matchweek 21,Sat,Home,L,0,2,Palmeiras,0.5,1.7,53,,Anderson Leite,4-4-2,Paulo Roberto Alves Júnior,Match Report,,15,3,25.1,1.0,0,0,2021,Chapecoense
+21,2021-09-25,17:00,Série A,Matchweek 22,Sat,Away,L,0,1,Ceará,0.8,3.5,41,,Anselmo Ramon,4-1-4-1,Caio Max Augusto Vieira,Match Report,,9,0,17.5,0.0,0,0,2021,Chapecoense
+22,2021-10-03,16:00,Série A,Matchweek 23,Sun,Home,D,1,1,São Paulo,1.0,2.3,38,,Anselmo Ramon,4-1-4-1,Marielson Alves Silva,Match Report,,6,2,17.6,0.0,0,0,2021,Chapecoense
+23,2021-10-06,19:00,Série A,Matchweek 24,Wed,Home,D,2,2,Atlético Mineiro,1.4,0.8,35,733.0,Matheus Ribeiro,4-4-2,André Luiz de Freitas Castro,Match Report,,9,3,24.0,0.0,1,1,2021,Chapecoense
+24,2021-10-10,11:00,Série A,Matchweek 25,Sun,Away,L,2,5,Internacional,0.7,2.8,50,11976.0,Matheus Ribeiro,4-4-2,Alisson Sidnei Furtado,Match Report,,10,4,21.0,1.0,0,0,2021,Chapecoense
+25,2021-10-13,19:00,Série A,Matchweek 26,Wed,Home,D,1,1,Ath Paranaense,1.7,1.2,38,935.0,Joílson,5-3-2,Luiz Flávio de Oliveira,Match Report,,20,6,19.5,1.0,0,0,2021,Chapecoense
+26,2021-10-16,19:00,Série A,Matchweek 27,Sat,Home,L,1,2,Fortaleza,0.7,1.6,38,1027.0,Joílson,5-3-2,Zandick Gondim Alves Junior,Match Report,,8,1,22.1,0.0,0,0,2021,Chapecoense
+27,2021-10-24,20:30,Série A,Matchweek 28,Sun,Away,L,0,3,Bahia,0.5,2.2,47,8058.0,Joílson,5-3-2,Wilton Sampaio,Match Report,,11,1,25.5,0.0,0,0,2021,Chapecoense
+28,2021-11-01,21:30,Série A,Matchweek 29,Mon,Away,L,0,1,Corinthians,0.2,1.1,21,39897.0,Joílson,4-5-1,Paulo Cesar Zanovelli da Silva,Match Report,,2,2,14.7,0.0,0,0,2021,Chapecoense
+29,2021-11-04,20:00,Série A,Matchweek 31,Thu,Away,D,0,0,Cuiabá,0.4,1.0,44,6336.0,Joílson,4-5-1,Ricardo Marques Ribeiro,Match Report,,7,2,23.3,0.0,0,0,2021,Chapecoense
+30,2021-11-08,20:00,Série A,Matchweek 30,Mon,Home,D,2,2,Flamengo,1.3,2.5,41,3834.0,Joílson,4-2-3-1,Denis Ribeiro Serafim,Match Report,,14,3,17.3,0.0,0,0,2021,Chapecoense
+31,2021-11-14,19:00,Série A,Matchweek 32,Sun,Home,L,0,2,Juventude,1.0,1.8,55,1616.0,Joílson,4-3-3,Alisson Sidnei Furtado,Match Report,,12,4,15.0,0.0,0,0,2021,Chapecoense
+32,2021-11-17,19:00,Série A,Matchweek 33,Wed,Away,L,0,2,Santos,0.6,1.9,57,11574.0,Anderson Leite,4-5-1,Paulo Cesar Zanovelli da Silva,Match Report,,15,5,23.4,1.0,0,0,2021,Chapecoense
+33,2021-11-20,19:00,Série A,Matchweek 34,Sat,Home,L,1,3,Grêmio,1.1,1.5,39,2830.0,Anderson Leite,4-5-1,Rodolpho Toski Marques,Match Report,,10,4,20.7,1.0,0,0,2021,Chapecoense
+34,2021-11-30,21:00,Série A,Matchweek 35,Tue,Away,L,0,3,América (MG),1.2,2.7,48,5000.0,Joílson,4-3-3,Luiz Flávio de Oliveira,Match Report,,9,2,21.8,1.0,0,1,2021,Chapecoense
+35,2021-12-03,20:00,Série A,Matchweek 36,Fri,Home,L,0,1,Atl Goianiense,0.4,0.4,44,1134.0,Joílson,4-3-3,Caio Max Augusto Vieira,Match Report,,8,0,22.7,1.0,0,0,2021,Chapecoense
+36,2021-12-06,21:00,Série A,Matchweek 37,Mon,Home,L,0,1,Sport Recife,0.7,1.5,31,1658.0,Joílson,4-4-2,Paulo Cesar Zanovelli da Silva,Match Report,,14,6,23.1,1.0,0,0,2021,Chapecoense
+37,2021-12-09,21:30,Série A,Matchweek 38,Thu,Away,L,0,3,Fluminense,0.1,1.9,33,48198.0,Pedro Perotti,5-3-2,Leandro Pedro Vuaden,Match Report,,3,0,17.5,0.0,0,0,2021,Chapecoense
