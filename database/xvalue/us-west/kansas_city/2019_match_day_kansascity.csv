@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Sporting Kansas City,,Portland Timbers,Home,US Major League Soccer,2019,4231,4231,2,0,0,0,0,16,5,31.2500,0.0000,2,0,0,0,0,14,0,0,49,56.4102564,0,491,10,0,0,17,0,0,0,0,6,7,3,2,1,0,0,0,0,0
+Sporting Kansas City,,Orlando City SC,Away,US Major League Soccer,2019,433,4231,0,0,0,0,0,14,3,21.4286,0.0000,1,0,0,0,0,8,0,0,56,63.9175257,0,504,6,0,2,26,0,0,0,0,8,9,2,0,0,0,0,0,0,0
+Sporting Kansas City,,San Jose Earthquakes,Home,US Major League Soccer,2019,4141,4231,2,0,0,0,0,19,6,31.5789,0.0000,1,0,0,0,0,25,0,0,42,48.6725663,0,320,1,0,1,15,0,0,0,0,20,19,2,0,3,0,0,0,0,0
+Sporting Kansas City,,Minnesota United FC,Home,US Major League Soccer,2019,4141,4231,1,0,0,0,0,22,5,22.7273,0.0000,0,0,0,0,0,12,0,0,61,65.5430711,0,497,8,0,1,21,0,0,0,0,8,9,1,0,3,0,0,0,0,0
+Sporting Kansas City,,Houston Dynamo FC,Home,US Major League Soccer,2019,4141,4231,1,0,0,0,0,12,5,41.6667,0.0000,0,0,0,0,0,12,0,0,63,65.8536585,0,532,8,0,0,20,0,0,0,0,17,9,1,0,3,0,0,0,0,0
+Sporting Kansas City,,Portland Timbers,Away,US Major League Soccer,2019,4141,433,1,0,0,0,0,10,5,50.0000,0.0000,2,0,0,0,0,17,0,0,40,40,0,345,9,0,0,15,0,0,0,0,12,14,2,0,0,0,0,0,0,0
+Sporting Kansas City,,LA Galaxy,Away,US Major League Soccer,2019,4231,433,2,0,0,0,0,20,6,30.0000,0.0000,7,0,0,0,0,21,0,0,43,51.6981132,0,335,5,0,2,31,0,0,0,0,5,16,3,0,0,0,0,0,0,0
+Sporting Kansas City,,Colorado Rapids,Home,US Major League Soccer,2019,4231,4231,2,0,0,0,0,10,2,20.0000,0.0000,3,0,0,0,0,19,0,0,42,37.5912408,0,345,10,0,2,14,0,0,0,0,14,11,1,1,0,0,0,0,0,0
+Sporting Kansas City,,Minnesota United FC,Away,US Major League Soccer,2019,4231,4231,1,0,0,0,0,23,8,34.7826,0.0000,2,0,0,0,0,16,0,0,50,52.7972027,0,450,8,0,1,15,0,0,0,0,11,11,2,0,0,0,0,0,0,0
+Sporting Kansas City,,Real Salt Lake,Home,US Major League Soccer,2019,433,4231,1,0,0,0,0,12,3,25.0000,0.0000,2,0,0,0,0,11,0,0,59,75.6880733,0,465,6,0,6,22,0,0,0,0,10,10,3,1,0,0,0,0,0,0
+Sporting Kansas City,,Colorado Rapids,Away,US Major League Soccer,2019,433,41212,1,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,13,0,0,61,56.7099567,0,515,6,0,1,16,0,0,0,0,13,11,3,0,1,0,0,0,0,0
+Sporting Kansas City,,FC Dallas,Away,US Major League Soccer,2019,4231,4231,0,0,0,0,0,9,3,33.3333,0.0000,6,0,0,0,0,20,0,0,38,44.4852941,0,331,5,0,0,13,0,0,0,0,14,10,3,0,0,0,0,0,0,0
+Sporting Kansas City,,CF Montréal,Home,US Major League Soccer,2019,433,433,7,0,0,0,0,17,9,52.9412,0.0000,1,0,0,0,0,13,0,0,55,55.399061,0,571,13,0,2,17,0,0,0,0,10,11,0,0,3,0,0,0,0,0
+Sporting Kansas City,,FC Cincinnati,Away,US Major League Soccer,2019,433,442,1,0,0,0,0,18,4,22.2222,0.0000,1,0,0,0,0,10,0,0,56,48.9436619,0,525,4,0,0,12,0,0,0,0,12,11,4,0,1,0,0,0,0,0
+Sporting Kansas City,,New York Red Bulls,Home,US Major League Soccer,2019,433,4231,2,0,0,0,0,20,6,30.0000,0.0000,2,0,0,0,0,10,0,0,61,53.8461538,0,560,13,0,2,19,0,0,0,0,13,10,2,0,1,0,0,0,0,0
+Sporting Kansas City,,San Jose Earthquakes,Away,US Major League Soccer,2019,4141,4141,1,0,0,0,0,17,7,41.1765,0.0000,4,0,0,0,0,14,0,0,48,64.0186915,0,408,6,0,4,14,0,0,0,0,9,12,2,0,0,0,0,0,0,0
+Sporting Kansas City,,New England Revolution,Home,US Major League Soccer,2019,433,442,4,0,0,0,0,19,6,31.5789,0.0000,4,0,0,0,0,10,0,0,75,72.3809523,0,537,13,0,0,32,0,0,0,0,16,14,3,0,1,0,0,0,0,0
+Sporting Kansas City,,Real Salt Lake,Away,US Major League Soccer,2019,433,4231,0,0,0,0,0,11,3,27.2727,0.0000,2,0,0,0,0,10,0,0,54,61.5384615,0,397,2,0,1,10,0,0,0,0,16,14,2,0,0,0,0,0,0,0
+Sporting Kansas City,,Atlanta United,Home,US Major League Soccer,2019,433,4231,0,0,0,0,0,10,3,30.0000,0.0000,3,0,0,0,0,19,0,0,45,50.4347826,0,480,13,0,4,11,0,0,0,0,5,12,0,0,0,0,0,0,0,0
+Sporting Kansas City,,D.C. United,Away,US Major League Soccer,2019,433,4231,0,0,0,0,0,11,4,36.3636,0.0000,1,0,0,0,0,15,0,0,50,48.2608695,0,478,5,0,1,16,0,0,0,0,14,10,1,0,0,0,0,0,0,0
+Sporting Kansas City,,Vancouver Whitecaps FC,Home,US Major League Soccer,2019,433,433,1,0,0,0,0,15,7,46.6667,0.0000,1,0,0,0,0,11,0,0,46,50.7407407,0,468,7,0,2,8,0,0,0,0,8,12,2,1,1,0,0,0,0,0
+Sporting Kansas City,,Seattle Sounders FC,Home,US Major League Soccer,2019,433,4231,3,0,0,0,0,12,7,58.3333,0.0000,2,0,0,0,0,12,0,0,53,49.7630331,0,479,6,0,0,6,0,0,0,0,6,17,2,0,3,0,0,0,0,0
+Sporting Kansas City,,LA Galaxy,Home,US Major League Soccer,2019,433,433,0,0,0,0,0,18,5,27.7778,0.0000,2,0,0,0,0,9,0,0,65,65.3846153,0,580,11,0,1,26,0,0,0,0,11,6,1,0,0,0,0,0,0,0
+Sporting Kansas City,,Houston Dynamo FC,Away,US Major League Soccer,2019,433,4231,1,0,0,0,0,5,1,20.0000,0.0000,1,0,0,0,0,15,0,0,53,38.0733944,0,527,10,0,0,2,0,0,0,0,13,13,0,0,1,0,0,0,0,0
+Sporting Kansas City,,Toronto FC,Away,US Major League Soccer,2019,433,532,2,0,0,0,0,9,4,44.4444,0.0000,2,0,0,0,0,15,0,0,49,28.9962825,0,478,7,0,1,7,0,0,0,0,13,14,1,0,1,0,0,0,0,0
+Sporting Kansas City,,Columbus Crew,Away,US Major League Soccer,2019,433,4231,1,0,0,0,0,13,2,15.3846,0.0000,0,0,0,0,0,9,0,0,54,41.9913419,0,442,11,0,2,9,0,0,0,0,15,13,2,0,3,0,0,0,0,0
+Sporting Kansas City,,Los Angeles Football Club,Away,US Major League Soccer,2019,433,433,1,0,0,0,0,11,5,45.4545,0.0000,2,0,0,0,0,14,0,0,49,41.5584415,0,467,7,0,0,11,0,0,0,0,10,17,5,1,0,0,0,0,0,0
+Sporting Kansas City,,Los Angeles Football Club,Home,US Major League Soccer,2019,433,433,1,0,0,0,0,21,7,33.3333,0.0000,5,0,0,0,0,11,0,0,62,67.0781893,0,567,11,0,4,15,0,0,0,0,12,13,5,0,0,0,0,0,0,0
+Sporting Kansas City,,Chicago Fire FC,Home,US Major League Soccer,2019,433,4141,1,0,0,0,0,17,10,58.8235,0.0000,0,0,0,0,0,6,0,0,59,59.8425196,0,542,14,0,2,13,0,0,0,0,16,12,2,0,3,0,0,0,0,0
+Sporting Kansas City,,Vancouver Whitecaps FC,Away,US Major League Soccer,2019,433,352,3,0,0,0,0,20,10,50.0000,0.0000,0,0,0,0,0,13,0,0,56,64.7321428,0,536,7,0,2,13,0,0,0,0,15,13,2,0,3,0,0,0,0,0
+Sporting Kansas City,,Philadelphia Union,Home,US Major League Soccer,2019,433,4312,2,0,0,0,0,16,4,25.0000,0.0000,0,0,0,0,0,15,0,0,65,59.3607305,0,609,4,0,1,17,0,0,0,0,9,14,2,0,3,0,0,0,0,0
+Sporting Kansas City,,FC Dallas,Home,US Major League Soccer,2019,433,4231,0,0,0,0,0,18,2,11.1111,0.0000,2,0,0,0,0,13,0,0,55,60.775862,0,468,9,0,0,18,0,0,0,0,14,11,2,0,0,0,0,0,0,0
+Sporting Kansas City,,New York City FC,Away,US Major League Soccer,2019,433,343,1,0,0,0,0,15,4,26.6667,0.0000,3,0,0,0,0,17,0,0,40,49.0566037,0,319,12,0,2,18,0,0,0,0,9,11,3,1,0,0,0,0,0,0
+Sporting Kansas City,,Seattle Sounders FC,Away,US Major League Soccer,2019,433,4231,3,0,0,0,0,10,7,70.0000,0.0000,2,0,0,0,0,14,0,0,35,32.9861111,0,339,4,0,0,9,0,0,0,0,10,23,3,0,3,0,0,0,0,0

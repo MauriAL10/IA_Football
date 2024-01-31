@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+CF Montréal,,Chicago Fire FC,Away,US Major League Soccer,2017,433,433,2,0,0,0,0,10,4,40.0000,0.0000,2,0,0,0,0,12,0,0,40,42.3280423,0,349,10,0,0,10,0,0,0,0,14,20,4,1,1,0,0,0,0,0
+CF Montréal,,New England Revolution,Away,US Major League Soccer,2017,532,4231,0,0,0,0,0,10,2,20.0000,0.0000,1,0,0,0,0,11,0,0,54,47.8599221,0,495,6,0,1,18,0,0,0,0,12,12,1,0,0,0,0,0,0,0
+CF Montréal,,Minnesota United FC,Home,US Major League Soccer,2017,433,4231,2,0,0,0,0,17,5,29.4118,0.0000,3,0,0,0,0,10,0,0,54,59.7345132,0,416,8,0,1,20,0,0,0,0,6,20,3,0,0,0,0,0,0,0
+CF Montréal,,Toronto FC,Away,US Major League Soccer,2017,3412,532,5,0,0,0,0,15,5,33.3333,493.3333,3,0,0,0,0,17,0,0,35,27.244582,0,350,5,0,1,6,0,0,0,0,7,5,0,0,3,0,0,0,0,0
+CF Montréal,,Atlanta United,Away,US Major League Soccer,2017,3412,4231,0,0,0,0,0,3,2,66.6667,0.0000,2,0,0,0,0,15,0,0,46,43.438914,0,404,4,0,0,8,0,0,0,0,15,15,0,0,0,0,0,0,0,0
+CF Montréal,,New York City FC,Away,US Major League Soccer,2017,4231,433,1,0,0,0,0,13,5,38.4615,0.0000,1,0,0,0,0,18,0,0,43,36.7567567,0,393,7,0,1,12,0,0,0,0,11,19,1,0,1,0,0,0,0,0
+CF Montréal,,New York City FC,Home,US Major League Soccer,2017,3412,4231,0,0,0,0,0,10,3,30.0000,0.0000,1,0,0,0,0,22,0,0,42,34.1549295,0,356,4,0,0,16,0,0,0,0,14,15,1,0,0,0,0,0,0,0
+CF Montréal,,Colorado Rapids,Away,US Major League Soccer,2017,4231,4231,1,0,0,0,0,18,4,22.2222,0.0000,2,0,0,0,0,10,0,0,68,66.6666666,0,534,8,0,0,15,0,0,0,0,9,6,0,1,0,0,0,0,0,0
+CF Montréal,,New England Revolution,Home,US Major League Soccer,2017,433,4231,2,0,0,0,0,19,9,47.3684,0.0000,3,0,0,0,0,14,0,0,54,49.6183206,0,474,11,0,2,14,0,0,0,0,6,9,3,0,0,0,0,0,0,0
+CF Montréal,,Toronto FC,Home,US Major League Soccer,2017,433,532,1,0,0,0,0,14,6,42.8571,0.0000,3,0,0,0,0,15,0,0,42,47.107438,0,330,12,0,0,19,0,0,0,0,15,8,3,0,0,0,0,0,0,0
+CF Montréal,,LA Galaxy,Away,US Major League Soccer,2017,4231,442,0,0,0,0,0,9,2,22.2222,0.0000,2,0,0,0,0,15,0,0,46,37.4449339,0,372,9,0,1,10,0,0,0,0,16,10,1,1,0,0,0,0,0,0
+CF Montréal,,Atlanta United,Home,US Major League Soccer,2017,4231,4231,2,0,0,0,0,22,5,22.7273,0.0000,1,0,0,0,0,6,0,0,55,58.2995951,0,403,7,0,1,21,0,0,0,0,8,14,2,0,3,0,0,0,0,0
+CF Montréal,,Philadelphia Union,Away,US Major League Soccer,2017,4231,4231,3,0,0,0,0,11,6,54.5455,0.0000,3,0,0,0,0,12,0,0,64,55.3719008,0,510,8,0,0,22,0,0,0,0,11,13,1,0,1,0,0,0,0,0
+CF Montréal,,Vancouver Whitecaps FC,Home,US Major League Soccer,2017,4231,4141,1,0,0,0,0,18,4,22.2222,0.0000,2,0,0,0,0,10,0,0,52,45.7831325,0,373,8,0,0,18,0,0,0,0,15,18,4,0,0,0,0,0,0,0
+CF Montréal,,Philadelphia Union,Away,US Major League Soccer,2017,433,4231,3,0,0,0,0,9,7,77.7778,0.0000,0,0,0,0,0,10,0,0,51,48.4848484,0,428,8,0,0,13,0,0,0,0,10,11,2,0,3,0,0,0,0,0
+CF Montréal,,Chicago Fire FC,Home,US Major League Soccer,2017,433,433,0,0,0,0,0,11,2,18.1818,0.0000,1,0,0,0,0,8,0,0,51,50.2347417,0,449,7,0,0,11,0,0,0,0,13,15,2,1,0,0,0,0,0,0
+CF Montréal,,Toronto FC,Away,US Major League Soccer,2017,4231,352,0,0,0,0,0,19,5,26.3158,0.0000,1,0,0,0,0,14,0,0,44,46.2406015,0,408,10,0,1,14,0,0,0,0,9,12,4,0,0,0,0,0,0,0
+CF Montréal,,Houston Dynamo FC,Away,US Major League Soccer,2017,4231,433,1,0,0,0,0,12,2,16.6667,0.0000,3,0,0,0,0,19,0,0,57,54.2372881,0,487,6,0,0,20,0,0,0,0,13,15,3,0,0,0,0,0,0,0
+CF Montréal,,D.C. United,Away,US Major League Soccer,2017,4231,4141,1,0,0,0,0,10,4,40.0000,0.0000,0,0,0,0,0,17,0,0,49,42.6008968,0,373,7,0,1,15,0,0,0,0,12,14,3,0,3,0,0,0,0,0
+CF Montréal,,Columbus Crew,Home,US Major League Soccer,2017,4231,4231,2,0,0,0,0,24,6,25.0000,0.0000,3,0,0,0,0,10,0,0,60,61.660079,0,475,14,0,1,26,0,0,0,0,18,11,2,0,0,0,0,0,0,0
+CF Montréal,,Portland Timbers,Home,US Major League Soccer,2017,433,4231,4,0,0,0,0,12,7,58.3333,0.0000,1,0,0,0,0,12,0,0,58,66.920152,0,498,13,0,0,14,0,0,0,0,9,14,3,0,3,0,0,0,0,0
+CF Montréal,,New York Red Bulls,Home,US Major League Soccer,2017,433,4231,1,0,0,0,0,14,5,35.7143,0.0000,0,0,0,0,0,11,0,0,41,42.4,0,297,10,0,1,13,0,0,0,0,18,16,3,0,3,0,0,0,0,0
+CF Montréal,,Sporting Kansas City,Away,US Major League Soccer,2017,541,433,1,0,0,0,0,11,7,63.6364,0.0000,1,0,0,0,0,14,0,0,34,29.0178571,0,320,5,0,1,8,0,0,0,0,3,11,2,1,1,0,0,0,0,0
+CF Montréal,,Orlando City SC,Away,US Major League Soccer,2017,532,442,3,0,0,0,0,11,7,63.6364,0.0000,3,0,0,0,0,17,0,0,42,31.6279069,0,303,9,0,1,8,0,0,0,0,11,13,3,0,1,0,0,0,0,0
+CF Montréal,,Columbus Crew,Away,US Major League Soccer,2017,3412,4231,1,0,0,0,0,11,4,36.3636,0.0000,4,0,0,0,0,16,0,0,40,40.1869158,0,335,1,0,0,7,0,0,0,0,6,12,2,0,0,0,0,0,0,0
+CF Montréal,,D.C. United,Home,US Major League Soccer,2017,4231,4231,2,0,0,0,0,9,2,22.2222,0.0000,0,0,0,0,0,17,0,0,49,38.3673469,0,408,9,0,1,10,0,0,0,0,9,18,4,0,3,0,0,0,0,0
+CF Montréal,,San Jose Earthquakes,Away,US Major League Soccer,2017,451,442,0,0,0,0,0,5,0,0.0000,0.0000,1,0,0,0,0,18,0,0,48,40,0,381,7,0,0,12,0,0,0,0,12,17,2,1,0,0,0,0,0,0
+CF Montréal,,Seattle Sounders FC,Home,US Major League Soccer,2017,451,4231,2,0,0,0,0,8,5,62.5000,0.0000,2,0,0,0,0,15,0,0,44,39.3305439,0,444,11,0,1,7,0,0,0,0,4,14,2,0,1,0,0,0,0,0
+CF Montréal,,Philadelphia Union,Home,US Major League Soccer,2017,4231,4231,2,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,10,0,0,56,47.6683937,0,394,8,0,0,10,0,0,0,0,12,19,2,0,3,0,0,0,0,0
+CF Montréal,,FC Dallas,Home,US Major League Soccer,2017,4231,442,1,0,0,0,0,12,3,25.0000,0.0000,2,0,0,0,0,14,0,0,56,44.6902654,0,440,6,0,0,19,0,0,0,0,8,11,1,0,0,0,0,0,0,0
+CF Montréal,,New York Red Bulls,Away,US Major League Soccer,2017,4231,343d,0,0,0,0,0,5,2,40.0000,0.0000,4,0,0,0,0,25,0,0,31,26.618705,0,255,10,0,0,7,0,0,0,0,10,19,1,0,0,0,0,0,0,0
+CF Montréal,,Orlando City SC,Home,US Major League Soccer,2017,433,4312,2,0,0,0,0,16,7,43.7500,0.0000,1,0,0,0,0,10,0,0,53,60.7142857,0,436,6,0,2,16,0,0,0,0,9,13,0,0,3,0,0,0,0,0
+CF Montréal,,Chicago Fire FC,Home,US Major League Soccer,2017,433,4231,3,0,0,0,0,8,5,62.5000,0.0000,0,0,0,0,0,10,0,0,34,31.6513761,0,298,5,0,2,8,0,0,0,0,11,11,3,0,3,0,0,0,0,0
+CF Montréal,,Real Salt Lake,Home,US Major League Soccer,2017,433,4231,3,0,0,0,0,14,4,28.5714,0.0000,1,0,0,0,0,19,0,0,44,43.2203389,0,358,14,0,5,7,0,0,0,0,15,12,1,0,3,0,0,0,0,0

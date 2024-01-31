@@ -1,0 +1,26 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Colón Santa Fe,,Banfield,Home,Liga Profesional Argentina,2018,442,4141,0,0,0,0,0,10,1,10.0000,0.0000,1,0,0,0,0,13,0,0,48,56.1576354,0,308,6,0,4,22,0,0,0,0,19,9,2,0,0,0,0,0,0,0
+Colón Santa Fe,,River Plate,Home,Liga Profesional Argentina,2018,4411,4141,1,0,0,0,0,11,3,27.2727,0.0000,0,0,0,0,0,13,0,0,35,38.1889763,0,268,3,0,0,21,0,0,0,0,11,16,1,0,3,0,0,0,0,0
+Colón Santa Fe,,Newell's Old Boys,Home,Liga Profesional Argentina,2018,4141,4231,1,0,0,0,0,13,4,30.7692,0.0000,0,0,0,0,0,10,0,0,40,44.2060085,0,293,9,0,1,24,0,0,0,0,7,13,5,1,3,0,0,0,0,0
+Colón Santa Fe,,Boca Juniors,Away,Liga Profesional Argentina,2018,541,433,1,0,0,0,0,15,3,20.0000,0.0000,3,0,0,0,0,11,0,0,50,56.4315352,0,386,11,0,1,22,0,0,0,0,12,11,1,0,0,0,0,0,0,0
+Colón Santa Fe,,Godoy Cruz,Home,Liga Profesional Argentina,2018,4141,442,3,0,0,0,0,16,7,43.7500,293.7500,1,0,0,0,0,13,0,0,39,47.4747474,0,282,3,0,1,24,0,0,0,0,13,11,3,0,3,0,0,0,0,0
+Colón Santa Fe,,Independiente,Away,Liga Profesional Argentina,2018,4231,4231,0,0,0,0,0,10,4,40.0000,0.0000,3,0,0,0,0,22,0,0,38,37.113402,0,266,12,0,0,18,0,0,0,0,10,18,2,1,0,0,0,0,0,0
+Colón Santa Fe,,Unión Santa Fe,Home,Liga Profesional Argentina,2018,41212,442,0,0,0,0,0,7,4,57.1429,0.0000,0,0,0,0,0,12,0,0,53,40.7725321,0,379,9,0,1,12,0,0,0,0,19,17,3,0,1,0,0,0,0,0
+Colón Santa Fe,,Atlético Tucumán,Away,Liga Profesional Argentina,2018,41212,4141,1,0,0,0,0,14,3,21.4286,0.0000,2,0,0,0,0,20,0,0,51,42.745098,0,417,10,0,3,23,0,0,0,0,9,12,1,0,0,0,0,0,0,0
+Colón Santa Fe,,Gimnasia La Plata,Away,Liga Profesional Argentina,2018,442,4141,2,0,0,0,0,14,4,28.5714,192.8571,3,0,0,0,0,9,0,0,65,69.1629955,0,470,15,0,1,20,0,0,0,0,22,17,1,0,0,0,0,0,0,0
+Colón Santa Fe,,San Martín de San Juan,Home,Liga Profesional Argentina,2018,4231,4141,0,0,0,0,0,15,4,26.6667,0.0000,0,0,0,0,0,13,0,0,61,65.1452282,0,461,12,0,2,33,0,0,0,0,12,13,4,0,1,0,0,0,0,0
+Colón Santa Fe,,Aldosivi,Away,Liga Profesional Argentina,2018,442,433,0,0,0,0,0,11,4,36.3636,0.0000,3,0,0,0,0,11,0,0,54,55.3097345,0,481,20,0,2,12,0,0,0,0,14,8,1,0,0,0,0,0,0,0
+Colón Santa Fe,,Racing Club,Home,Liga Profesional Argentina,2018,442,4132,1,0,0,0,0,8,3,37.5000,0.0000,1,0,0,0,0,6,0,0,27,32.5242718,0,217,15,0,0,11,0,0,0,0,11,26,3,0,1,0,0,0,0,0
+Colón Santa Fe,,Talleres de Córdoba,Away,Liga Profesional Argentina,2018,532,41212,0,0,0,0,0,10,5,50.0000,0.0000,2,0,0,0,0,19,0,0,41,50.7853403,0,342,9,0,0,5,0,0,0,0,9,12,3,0,0,0,0,0,0,0
+Colón Santa Fe,,Patronato,Away,Liga Profesional Argentina,2018,4231,442,0,0,0,0,0,16,5,31.2500,0.0000,0,0,0,0,0,14,0,0,54,54.7945205,0,411,14,0,1,17,0,0,0,0,14,13,2,0,1,0,0,0,0,0
+Colón Santa Fe,,Tigre,Home,Liga Profesional Argentina,2018,4231,4312,2,0,0,0,0,11,5,45.4545,0.0000,2,0,0,0,0,15,0,0,50,55.6962025,0,417,4,0,0,24,0,0,0,0,17,17,2,0,1,0,0,0,0,0
+Colón Santa Fe,,Vélez Sarsfield,Away,Liga Profesional Argentina,2018,433,433,1,0,0,0,0,8,3,37.5000,0.0000,1,0,0,0,0,6,0,0,58,55.5555555,0,504,14,0,0,20,0,0,0,0,8,12,2,0,1,0,0,0,0,0
+Colón Santa Fe,,San Lorenzo,Home,Liga Profesional Argentina,2018,442,433,1,0,0,0,0,9,2,22.2222,0.0000,1,0,0,0,0,5,0,0,39,44.7368421,0,368,2,0,0,14,0,0,0,0,21,17,4,0,1,0,0,0,0,0
+Colón Santa Fe,,Lanús,Away,Liga Profesional Argentina,2018,433,532,0,0,0,0,0,9,5,55.5556,0.0000,1,0,0,0,0,9,0,0,39,36.2244897,0,356,6,0,0,13,0,0,0,0,13,9,2,0,0,0,0,0,0,0
+Colón Santa Fe,,Argentinos Juniors,Home,Liga Profesional Argentina,2018,442,433,2,0,0,0,0,12,5,41.6667,0.0000,0,0,0,0,0,5,0,0,54,50.6726457,0,422,9,0,4,6,0,0,0,0,10,17,1,0,3,0,0,0,0,0
+Colón Santa Fe,,Defensa y Justicia,Away,Liga Profesional Argentina,2018,4231,352,0,0,0,0,0,4,1,25.0000,0.0000,3,0,0,0,0,16,0,0,39,49.4023904,0,380,13,0,0,12,0,0,0,0,11,13,2,0,0,0,0,0,0,0
+Colón Santa Fe,,Belgrano,Home,Liga Profesional Argentina,2018,4321,4141,1,0,0,0,0,11,3,27.2727,0.0000,1,0,0,0,0,10,0,0,53,63.1818181,0,432,7,0,2,22,0,0,0,0,21,15,1,0,1,0,0,0,0,0
+Colón Santa Fe,,San Martín de Tucumán,Away,Liga Profesional Argentina,2018,4411,532,0,0,0,0,0,9,1,11.1111,0.0000,0,0,0,0,0,14,0,0,38,36.2445414,0,319,11,0,0,11,0,0,0,0,7,16,2,0,1,0,0,0,0,0
+Colón Santa Fe,,Estudiantes de La Plata,Home,Liga Profesional Argentina,2018,442,4411,1,0,0,0,0,15,5,33.3333,0.0000,1,0,0,0,0,10,0,0,58,65.0537634,0,406,6,0,1,33,0,0,0,0,11,15,1,0,1,0,0,0,0,0
+Colón Santa Fe,,Rosario Central,Away,Liga Profesional Argentina,2018,433,4231,1,0,0,0,0,11,5,45.4545,0.0000,1,0,0,0,0,13,0,0,42,48.4162895,0,366,6,0,1,19,0,0,0,0,10,21,2,0,1,0,0,0,0,0
+Colón Santa Fe,,Huracán,Away,Liga Profesional Argentina,2018,433,4222,2,0,0,0,0,13,4,30.7692,0.0000,3,0,0,0,0,13,0,0,47,49.5614035,0,332,9,0,4,15,0,0,0,0,12,18,2,0,0,0,0,0,0,0

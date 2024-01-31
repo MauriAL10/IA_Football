@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+New York Red Bulls,,Minnesota United FC,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,21,9,42.8571,0.0000,0,0,0,0,0,10,0,0,54,70.1639344,0,461,7,0,2,19,0,0,0,0,13,12,1,0,3,0,0,0,0,0
+New York Red Bulls,,D.C. United,Home,US Major League Soccer,2018,4231,4231,1,0,0,0,0,11,4,36.3636,0.0000,0,0,0,0,0,14,0,0,47,59.9303135,0,373,4,0,0,21,0,0,0,0,15,11,2,0,3,0,0,0,0,0
+New York Red Bulls,,CF Montréal,Away,US Major League Soccer,2018,4231,433,0,0,0,0,0,8,2,25.0000,0.0000,3,0,0,0,0,15,0,0,52,59.6551724,0,451,3,0,1,17,0,0,0,0,8,7,0,0,0,0,0,0,0,0
+New York Red Bulls,,Real Salt Lake,Away,US Major League Soccer,2018,541,4231,0,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,6,0,0,60,63.8888888,0,458,5,0,0,16,0,0,0,0,13,12,0,0,0,0,0,0,0,0
+New York Red Bulls,,Toronto FC,Home,US Major League Soccer,2018,4231,352,2,0,0,0,0,11,7,63.6364,0.0000,0,0,0,0,0,12,0,0,45,50.3184713,0,436,6,0,0,14,0,0,0,0,6,13,2,0,3,0,0,0,0,0
+New York Red Bulls,,Atlanta United,Home,US Major League Soccer,2018,4231,343,2,0,0,0,0,11,4,36.3636,0.0000,0,0,0,0,0,9,0,0,45,61.574074,0,290,8,0,2,21,0,0,0,0,11,17,3,0,3,0,0,0,0,0
+New York Red Bulls,,San Jose Earthquakes,Away,US Major League Soccer,2018,4231,4141,3,0,0,0,0,19,7,36.8421,0.0000,1,0,0,0,0,10,0,0,46,67.8571428,0,354,5,0,2,17,0,0,0,0,8,17,1,0,3,0,0,0,0,0
+New York Red Bulls,,Philadelphia Union,Away,US Major League Soccer,2018,4231,433,1,0,0,0,0,8,4,50.0000,0.0000,0,0,0,0,0,14,0,0,34,40.9395973,0,311,10,0,3,2,0,0,0,0,12,13,2,0,3,0,0,0,0,0
+New York Red Bulls,,Orlando City SC,Home,US Major League Soccer,2018,4231,541,1,0,0,0,0,13,4,30.7692,0.0000,0,0,0,0,0,8,0,0,46,52.8846153,0,357,8,0,0,23,0,0,0,0,11,14,1,0,3,0,0,0,0,0
+New York Red Bulls,,Vancouver Whitecaps FC,Away,US Major League Soccer,2018,4231,442,2,0,0,0,0,13,7,53.8462,0.0000,2,0,0,0,0,10,0,0,51,63.1372549,0,381,9,0,3,23,0,0,0,0,16,18,2,1,1,0,0,0,0,0
+New York Red Bulls,,Orlando City SC,Away,US Major League Soccer,2018,4231,4312,3,0,0,0,0,10,4,40.0000,0.0000,4,0,0,0,0,15,0,0,46,42.5702811,0,308,12,0,1,22,0,0,0,0,8,14,2,0,0,0,0,0,0,0
+New York Red Bulls,,Houston Dynamo FC,Home,US Major League Soccer,2018,4231,433,1,0,0,0,0,9,3,33.3333,0.0000,0,0,0,0,0,10,0,0,49,50.2008032,0,385,8,0,0,22,0,0,0,0,11,7,0,0,3,0,0,0,0,0
+New York Red Bulls,,CF Montréal,Home,US Major League Soccer,2018,4231,532,3,0,0,0,0,18,11,61.1111,0.0000,1,0,0,0,0,9,0,0,56,68.5258964,0,452,9,0,3,22,0,0,0,0,9,9,0,0,3,0,0,0,0,0
+New York Red Bulls,,Chicago Fire FC,Home,US Major League Soccer,2018,4231,343,1,0,0,0,0,22,11,50.0000,0.0000,2,0,0,0,0,4,0,0,63,80.5555555,0,574,8,0,0,28,0,0,0,0,11,5,1,0,0,0,0,0,0,0
+New York Red Bulls,,LA Galaxy,Away,US Major League Soccer,2018,3511,4231,3,0,0,0,0,10,6,60.0000,0.0000,2,0,0,0,0,11,0,0,47,55.0387596,0,427,5,0,3,6,0,0,0,0,7,7,1,0,3,0,0,0,0,0
+New York Red Bulls,,New York City FC,Away,US Major League Soccer,2018,4231,3412,1,0,0,0,0,17,6,35.2941,0.0000,1,0,0,0,0,11,0,0,48,60.2620087,0,369,5,0,0,19,0,0,0,0,16,14,4,0,1,0,0,0,0,0
+New York Red Bulls,,D.C. United,Away,US Major League Soccer,2018,4231,3421,3,0,0,0,0,15,5,33.3333,0.0000,3,0,0,0,0,13,0,0,54,66.3492063,0,473,3,0,0,18,0,0,0,0,8,14,3,0,1,0,0,0,0,0
+New York Red Bulls,,New York City FC,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,14,4,28.5714,0.0000,1,0,0,0,0,14,0,0,46,53.8461538,0,322,10,0,0,17,0,0,0,0,14,11,1,0,0,0,0,0,0,0
+New York Red Bulls,,Colorado Rapids,Away,US Major League Soccer,2018,4231,352,2,0,0,0,0,13,3,23.0769,0.0000,1,0,0,0,0,15,0,0,41,43.7735849,0,351,6,0,4,11,0,0,0,0,18,12,2,0,3,0,0,0,0,0
+New York Red Bulls,,Atlanta United,Away,US Major League Soccer,2018,4231,3412,3,0,0,0,0,14,6,42.8571,0.0000,1,0,0,0,0,12,0,0,52,54.8523206,0,385,9,0,3,17,0,0,0,0,13,15,3,0,3,0,0,0,0,0
+New York Red Bulls,,Philadelphia Union,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,12,4,33.3333,0.0000,0,0,0,0,0,10,0,0,52,54.5787545,0,462,14,0,2,15,0,0,0,0,13,7,1,0,1,0,0,0,0,0
+New York Red Bulls,,New England Revolution,Away,US Major League Soccer,2018,4132,4231,1,0,0,0,0,9,4,44.4444,0.0000,2,0,0,0,0,10,0,0,46,47.5336322,0,294,6,0,1,13,0,0,0,0,17,16,2,0,0,0,0,0,0,0
+New York Red Bulls,,Columbus Crew,Away,US Major League Soccer,2018,4231,4231,1,0,0,0,0,11,4,36.3636,0.0000,1,0,0,0,0,18,0,0,47,54.3209876,0,376,4,0,1,20,0,0,0,0,8,8,0,0,1,0,0,0,0,0
+New York Red Bulls,,Seattle Sounders FC,Home,US Major League Soccer,2018,4231,541,2,0,0,0,0,22,13,59.0909,0.0000,1,0,0,0,0,11,0,0,57,64.9350649,0,527,19,0,5,15,0,0,0,0,12,16,0,0,3,0,0,0,0,0
+New York Red Bulls,,FC Dallas,Home,US Major League Soccer,2018,4231,532,3,0,0,0,0,13,8,61.5385,0.0000,0,0,0,0,0,17,0,0,46,42.2492401,0,434,3,0,1,11,0,0,0,0,8,4,0,1,3,0,0,0,0,0
+New York Red Bulls,,Toronto FC,Away,US Major League Soccer,2018,4231,532,1,0,0,0,0,15,2,13.3333,0.0000,0,0,0,0,0,13,0,0,47,42.4892703,0,379,7,0,3,13,0,0,0,0,10,16,3,0,3,0,0,0,0,0
+New York Red Bulls,,New York City FC,Home,US Major League Soccer,2018,4231,433,4,0,0,0,0,12,6,50.0000,0.0000,0,0,0,0,0,8,0,0,39,53.7593984,0,375,15,0,3,4,0,0,0,0,11,12,1,0,3,0,0,0,0,0
+New York Red Bulls,,Portland Timbers,Home,US Major League Soccer,2018,4231,4231,4,0,0,0,0,20,9,45.0000,0.0000,0,0,0,0,0,12,0,0,43,44.4915254,0,324,14,0,5,25,0,0,0,0,8,9,3,0,3,0,0,0,0,0
+New York Red Bulls,,Sporting Kansas City,Home,US Major League Soccer,2018,4231,433,3,0,0,0,0,17,5,29.4118,0.0000,2,0,0,0,0,12,0,0,50,54.7112462,0,414,4,0,6,23,0,0,0,0,14,7,1,0,3,0,0,0,0,0
+New York Red Bulls,,New England Revolution,Home,US Major League Soccer,2018,4231,4231,2,0,0,0,0,9,3,33.3333,0.0000,0,0,0,0,0,10,0,0,56,66.5517241,0,374,7,0,0,21,0,0,0,0,14,16,2,0,3,0,0,0,0,0
+New York Red Bulls,,D.C. United,Away,US Major League Soccer,2018,4231,4141,1,0,0,0,0,16,3,18.7500,0.0000,0,0,0,0,0,9,0,0,53,70.684039,0,465,3,0,2,18,0,0,0,0,10,12,2,0,3,0,0,0,0,0
+New York Red Bulls,,Columbus Crew,Home,US Major League Soccer,2018,3331,4231,2,0,0,0,0,13,6,46.1538,192.3077,3,0,0,0,0,11,0,0,53,68.4210526,0,423,3,0,1,24,0,0,0,0,11,16,1,0,0,0,0,0,0,0
+New York Red Bulls,,Los Angeles Football Club,Home,US Major League Soccer,2018,4231,4231,2,0,0,0,0,14,5,35.7143,0.0000,1,0,0,0,0,9,0,0,46,61.1510791,0,384,10,0,1,10,0,0,0,0,5,8,1,0,3,0,0,0,0,0
+New York Red Bulls,,Chicago Fire FC,Away,US Major League Soccer,2018,4231,3421,1,0,0,0,0,7,3,42.8571,0.0000,0,0,0,0,0,6,0,0,47,47.1910112,0,403,8,0,1,13,0,0,0,0,18,9,4,0,3,0,0,0,0,0

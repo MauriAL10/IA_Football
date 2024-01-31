@@ -1,0 +1,39 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Atlético Mineiro,,Internacional,Away,Brazilian Serie A,2018,4231,4231,2,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,15,0,0,46,38.1294964,0,422,6,0,0,15,0,0,0,0,9,17,2,0,3,0,0,0,0,0
+Atlético Mineiro,,Chapecoense,Away,Brazilian Serie A,2018,433,4231,0,0,0,0,0,17,2,11.7647,0.0000,1,0,0,0,0,9,0,0,63,60.5150214,0,497,10,0,0,29,0,0,0,0,19,15,3,0,0,0,0,0,0,0
+Atlético Mineiro,,América Mineiro,Home,Brazilian Serie A,2018,4141,4240,0,0,0,0,0,10,2,20.0000,0.0000,0,0,0,0,0,15,0,0,59,59.0425531,0,510,6,0,0,32,0,0,0,0,14,16,1,0,1,0,0,0,0,0
+Atlético Mineiro,,Corinthians,Home,Brazilian Serie A,2018,4141,4240,1,0,0,0,0,18,5,27.7778,0.0000,0,0,0,0,0,5,0,0,58,60.1990049,0,556,10,0,2,32,0,0,0,0,14,25,4,0,3,0,0,0,0,0
+Atlético Mineiro,,Fluminense,Away,Brazilian Serie A,2018,4231,3421,0,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,13,0,0,46,47.4178403,0,417,4,0,1,18,0,0,0,0,13,19,2,0,0,0,0,0,0,0
+Atlético Mineiro,,Ceará,Away,Brazilian Serie A,2018,4231,4231,1,0,0,0,0,14,3,21.4286,0.0000,2,0,0,0,0,11,0,0,63,63.1818181,0,494,8,0,0,21,0,0,0,0,13,21,4,0,0,0,0,0,0,0
+Atlético Mineiro,,Grêmio,Home,Brazilian Serie A,2018,433,4231,0,0,0,0,0,17,2,11.7647,0.0000,1,0,0,0,0,13,0,0,56,55.6737588,0,484,14,0,1,30,0,0,0,0,11,12,4,0,0,0,0,0,0,0
+Atlético Mineiro,,Palmeiras,Home,Brazilian Serie A,2018,4231,433,1,0,0,0,0,18,8,44.4444,0.0000,1,0,0,0,0,7,0,0,55,58.0246913,0,430,9,0,0,15,0,0,0,0,13,22,3,0,1,0,0,0,0,0
+Atlético Mineiro,,Paraná,Away,Brazilian Serie A,2018,4231,4231,1,0,0,0,0,11,4,36.3636,0.0000,0,0,0,0,0,5,0,0,76,81.4035087,0,672,7,0,3,15,0,0,0,0,18,14,3,0,3,0,0,0,0,0
+Atlético Mineiro,,Bahia,Home,Brazilian Serie A,2018,4231,4231,1,0,0,0,0,12,4,33.3333,0.0000,0,0,0,0,0,8,0,0,50,43.3179723,0,376,11,0,2,18,0,0,0,0,24,16,2,1,3,0,0,0,0,0
+Atlético Mineiro,,Sport,Home,Brazilian Serie A,2018,433,4231,5,0,0,0,0,22,8,36.3636,495.4545,2,0,0,0,0,7,0,0,63,69.1666666,0,563,1,0,1,22,0,0,0,0,15,18,1,0,3,0,0,0,0,0
+Atlético Mineiro,,Santos,Away,Brazilian Serie A,2018,4231,442,2,0,0,0,0,16,4,25.0000,0.0000,3,0,0,0,0,21,0,0,59,52.2522522,0,508,15,0,1,19,0,0,0,0,19,15,1,0,0,0,0,0,0,0
+Atlético Mineiro,,Botafogo,Home,Brazilian Serie A,2018,4231,4231,1,0,0,0,0,13,4,30.7692,0.0000,0,0,0,0,0,10,0,0,49,51.7241379,0,379,2,0,1,19,0,0,0,0,15,15,4,0,3,0,0,0,0,0
+Atlético Mineiro,,São Paulo,Away,Brazilian Serie A,2018,4231,343,2,0,0,0,0,9,5,55.5556,0.0000,2,0,0,0,0,7,0,0,62,51.0869565,0,535,11,0,1,21,0,0,0,0,16,14,4,0,1,0,0,0,0,0
+Atlético Mineiro,,Athletico Paranaense,Away,Brazilian Serie A,2018,4231,3421,2,0,0,0,0,23,11,47.8261,0.0000,1,0,0,0,0,18,0,0,38,36.7588932,0,358,11,0,0,18,0,0,0,0,13,16,2,0,3,0,0,0,0,0
+Atlético Mineiro,,Cruzeiro,Home,Brazilian Serie A,2018,4231,442,1,0,0,0,0,18,5,27.7778,0.0000,0,0,0,0,0,11,0,0,68,61.0328638,0,588,16,0,0,15,0,0,0,0,12,13,3,0,3,0,0,0,0,0
+Atlético Mineiro,,Flamengo,Home,Brazilian Serie A,2018,4231,4141,0,0,0,0,0,18,3,16.6667,0.0000,1,0,0,0,0,7,0,0,67,77.173913,0,599,16,0,3,41,0,0,0,0,13,15,1,0,0,0,0,0,0,0
+Atlético Mineiro,,Sport,Away,Brazilian Serie A,2018,4141,4231,2,0,0,0,0,13,7,53.8462,0.0000,3,0,0,0,0,15,0,0,60,46.6666666,0,540,11,0,1,17,0,0,0,0,14,10,2,0,0,0,0,0,0,0
+Atlético Mineiro,,Chapecoense,Home,Brazilian Serie A,2018,4141,4231,3,0,0,0,0,22,5,22.7273,0.0000,3,0,0,0,0,7,0,0,72,78.1512605,0,568,13,0,0,29,0,0,0,0,17,15,2,0,1,0,0,0,0,0
+Atlético Mineiro,,Botafogo,Away,Brazilian Serie A,2018,4231,4231,3,0,0,0,0,20,8,40.0000,0.0000,0,0,0,0,0,13,0,0,54,45.7627118,0,494,7,0,5,17,0,0,0,0,12,12,4,0,3,0,0,0,0,0
+Atlético Mineiro,,América Mineiro,Away,Brazilian Serie A,2018,4231,4231,3,0,0,0,0,12,4,33.3333,0.0000,1,0,0,0,0,17,0,0,53,41.2698412,0,504,10,0,1,13,0,0,0,0,13,7,2,0,3,0,0,0,0,0
+Atlético Mineiro,,Fluminense,Home,Brazilian Serie A,2018,4231,3421,5,0,0,0,0,16,9,56.2500,0.0000,2,0,0,0,0,15,0,0,50,61.0894941,0,493,14,0,0,20,0,0,0,0,9,15,2,0,3,0,0,0,0,0
+Atlético Mineiro,,Ceará,Home,Brazilian Serie A,2018,4141,541,2,0,0,0,0,22,6,27.2727,0.0000,1,0,0,0,0,7,0,0,68,75.3472222,0,672,15,0,0,36,0,0,0,0,10,10,1,0,3,0,0,0,0,0
+Atlético Mineiro,,Grêmio,Away,Brazilian Serie A,2018,4231,4231,0,0,0,0,0,4,1,25.0000,0.0000,2,0,0,0,0,23,0,0,40,29.2537313,0,424,13,0,0,6,0,0,0,0,10,19,2,0,0,0,0,0,0,0
+Atlético Mineiro,,Palmeiras,Away,Brazilian Serie A,2018,4231,4231,2,0,0,0,0,14,7,50.0000,0.0000,3,0,0,0,0,10,0,0,56,48.6486486,0,506,10,0,0,21,0,0,0,0,18,18,2,1,0,0,0,0,0,0
+Atlético Mineiro,,Paraná,Home,Brazilian Serie A,2018,433,4141,2,0,0,0,0,6,4,66.6667,0.0000,0,0,0,0,0,21,0,0,58,50,0,557,13,0,0,9,0,0,0,0,15,16,1,1,3,0,0,0,0,0
+Atlético Mineiro,,Bahia,Away,Brazilian Serie A,2018,4141,4231,2,0,0,0,0,5,2,40.0000,0.0000,2,0,0,0,0,21,0,0,43,28.75,0,405,10,0,3,7,0,0,0,0,13,18,2,0,1,0,0,0,0,0
+Atlético Mineiro,,Internacional,Home,Brazilian Serie A,2018,433,433,0,0,0,0,0,12,3,25.0000,0.0000,1,0,0,0,0,8,0,0,64,64.2201834,0,562,9,0,0,38,0,0,0,0,12,13,1,0,0,0,0,0,0,0
+Atlético Mineiro,,Santos,Home,Brazilian Serie A,2018,4231,433,3,0,0,0,0,14,6,42.8571,0.0000,1,0,0,0,0,9,0,0,48,51.6304347,0,375,9,0,1,11,0,0,0,0,8,17,2,0,3,0,0,0,0,0
+Atlético Mineiro,,Vasco da Gama,Away,Brazilian Serie A,2018,4141,4141,1,0,0,0,0,11,6,54.5455,0.0000,2,0,0,0,0,19,0,0,34,30.3571428,0,321,7,0,1,7,0,0,0,0,10,18,3,0,0,0,0,0,0,0
+Atlético Mineiro,,Vitória,Home,Brazilian Serie A,2018,4231,4231,2,0,0,0,0,12,5,41.6667,191.6667,1,0,0,0,0,12,0,0,60,52.1276595,0,497,9,0,2,18,0,0,0,0,18,22,2,0,3,0,0,0,0,0
+Atlético Mineiro,,Vasco da Gama,Home,Brazilian Serie A,2018,4231,4231,0,0,0,0,0,20,4,20.0000,0.0000,0,0,0,0,0,11,0,0,74,75,0,718,9,0,3,35,0,0,0,0,15,16,2,0,1,0,0,0,0,0
+Atlético Mineiro,,Vitória,Away,Brazilian Serie A,2018,4231,4231,0,0,0,0,0,17,4,23.5294,0.0000,1,0,0,0,0,19,0,0,63,54.4117647,0,582,7,0,1,20,0,0,0,0,16,12,3,0,0,0,0,0,0,0
+Atlético Mineiro,,Corinthians,Away,Brazilian Serie A,2018,4231,4231,1,0,0,0,0,10,2,20.0000,90.0000,1,0,0,0,0,8,0,0,44,44.117647,0,416,3,0,0,11,0,0,0,0,13,21,3,0,1,0,0,0,0,0
+Atlético Mineiro,,São Paulo,Home,Brazilian Serie A,2018,4141,4231,1,0,0,0,0,10,3,30.0000,0.0000,0,0,0,0,0,16,0,0,46,40.9090909,0,346,1,0,0,12,0,0,0,0,17,17,3,0,3,0,0,0,0,0
+Atlético Mineiro,,Athletico Paranaense,Home,Brazilian Serie A,2018,4231,4231,3,0,0,0,0,12,5,41.6667,291.6667,1,0,0,0,0,17,0,0,53,43.1578947,0,434,2,0,1,18,0,0,0,0,14,13,4,0,3,0,0,0,0,0
+Atlético Mineiro,,Cruzeiro,Away,Brazilian Serie A,2018,433,4231,0,0,0,0,0,8,2,25.0000,0.0000,0,0,0,0,0,12,0,0,60,57.421875,0,551,4,0,1,14,0,0,0,0,17,16,1,0,1,0,0,0,0,0
+Atlético Mineiro,,Flamengo,Away,Brazilian Serie A,2018,4231,4231,1,0,0,0,0,15,4,26.6667,0.0000,2,0,0,0,0,7,0,0,49,56.3876651,0,421,10,0,1,20,0,0,0,0,26,15,2,0,0,0,0,0,0,0

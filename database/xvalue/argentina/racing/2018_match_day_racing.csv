@@ -1,0 +1,26 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Racing Club,,Independiente,Away,Liga Profesional Argentina,2018,4132,433,3,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,18,0,0,45,40.2173913,0,329,5,0,0,8,0,0,0,0,17,18,6,0,3,0,0,0,0,0
+Racing Club,,San Martín de Tucumán,Away,Liga Profesional Argentina,2018,4132,442,1,0,0,0,0,18,9,50.0000,0.0000,2,0,0,0,0,8,0,0,68,62.5,0,534,8,0,0,28,0,0,0,0,10,14,4,0,0,0,0,0,0,0
+Racing Club,,Boca Juniors,Home,Liga Profesional Argentina,2018,4132,4312,2,0,0,0,0,14,6,42.8571,0.0000,2,0,0,0,0,12,0,0,42,46,0,349,4,0,1,9,0,0,0,0,12,12,3,1,1,0,0,0,0,0
+Racing Club,,Argentinos Juniors,Away,Liga Profesional Argentina,2018,4132,4231,2,0,0,0,0,14,5,35.7143,0.0000,0,0,0,0,0,0,0,0,54,60,0,477,4,0,0,13,0,0,0,0,15,12,2,0,3,0,0,0,0,0
+Racing Club,,Unión Santa Fe,Home,Liga Profesional Argentina,2018,4132,4411,1,0,0,0,0,10,4,40.0000,0.0000,0,0,0,0,0,15,0,0,64,57.6354679,0,525,12,0,3,22,0,0,0,0,13,12,1,0,3,0,0,0,0,0
+Racing Club,,Lanús,Away,Liga Profesional Argentina,2018,4132,442,1,0,0,0,0,10,4,40.0000,0.0000,0,0,0,0,0,9,0,0,58,42.3076923,0,454,9,0,0,15,0,0,0,0,16,9,3,0,3,0,0,0,0,0
+Racing Club,,Rosario Central,Home,Liga Profesional Argentina,2018,4132,442,2,0,0,0,0,12,6,50.0000,0.0000,0,0,0,0,0,6,0,0,61,56.9948186,0,461,6,0,0,23,0,0,0,0,19,16,2,0,3,0,0,0,0,0
+Racing Club,,Patronato,Away,Liga Profesional Argentina,2018,4132,442,3,0,0,0,0,13,4,30.7692,0.0000,0,0,0,0,0,11,0,0,63,54.5,0,558,15,0,0,22,0,0,0,0,12,15,4,0,3,0,0,0,0,0
+Racing Club,,Defensa y Justicia,Home,Liga Profesional Argentina,2018,4132,433,1,0,0,0,0,11,8,72.7273,0.0000,1,0,0,0,0,9,0,0,48,56.0386473,0,426,7,0,1,5,0,0,0,0,9,7,2,0,1,0,0,0,0,0
+Racing Club,,Tigre,Away,Liga Profesional Argentina,2018,4132,4312,1,0,0,0,0,17,4,23.5294,0.0000,1,0,0,0,0,12,0,0,58,52.0930232,0,495,9,0,0,22,0,0,0,0,14,13,2,0,1,0,0,0,0,0
+Racing Club,,Belgrano,Home,Liga Profesional Argentina,2018,4132,4141,1,0,0,0,0,14,4,28.5714,0.0000,0,0,0,0,0,6,0,0,58,50.5376344,0,427,8,0,1,18,0,0,0,0,17,14,3,0,3,0,0,0,0,0
+Racing Club,,Colón Santa Fe,Away,Liga Profesional Argentina,2018,4132,442,1,0,0,0,0,6,3,50.0000,0.0000,1,0,0,0,0,8,0,0,73,67.4757281,0,577,5,0,0,29,0,0,0,0,24,11,2,0,1,0,0,0,0,0
+Racing Club,,Estudiantes de La Plata,Home,Liga Profesional Argentina,2018,4132,442,1,0,0,0,0,10,4,40.0000,0.0000,0,0,0,0,0,6,0,0,67,62.672811,0,568,11,0,2,29,0,0,0,0,10,9,0,0,3,0,0,0,0,0
+Racing Club,,Atlético Tucumán,Away,Liga Profesional Argentina,2018,4132,4132,2,0,0,0,0,15,7,46.6667,0.0000,2,0,0,0,0,16,0,0,56,58.3617747,0,476,9,0,1,14,0,0,0,0,12,13,5,0,1,0,0,0,0,0
+Racing Club,,Vélez Sarsfield,Home,Liga Profesional Argentina,2018,4132,4231,2,0,0,0,0,10,4,40.0000,0.0000,0,0,0,0,0,9,0,0,41,50,0,330,8,0,1,15,0,0,0,0,17,8,2,0,3,0,0,0,0,0
+Racing Club,,Godoy Cruz,Home,Liga Profesional Argentina,2018,4132,442,3,0,0,0,0,14,8,57.1429,0.0000,0,0,0,0,0,0,0,0,73,65.116279,0,716,9,0,2,17,0,0,0,0,9,15,2,0,3,0,0,0,0,0
+Racing Club,,River Plate,Away,Liga Profesional Argentina,2018,442,4312,0,0,0,0,0,6,0,0.0000,0.0000,2,0,0,0,0,16,0,0,48,39.520958,0,373,13,0,0,11,0,0,0,0,8,17,1,1,0,0,0,0,0,0
+Racing Club,,Huracán,Home,Liga Profesional Argentina,2018,4132,442,3,0,0,0,0,19,8,42.1053,0.0000,1,0,0,0,0,12,0,0,62,59.8958333,0,421,7,0,2,17,0,0,0,0,15,12,3,0,3,0,0,0,0,0
+Racing Club,,Aldosivi,Away,Liga Profesional Argentina,2018,4132,433,3,0,0,0,0,10,5,50.0000,0.0000,1,0,0,0,0,9,0,0,52,42.4242424,0,369,10,0,0,19,0,0,0,0,10,8,2,0,3,0,0,0,0,0
+Racing Club,,San Martín de San Juan,Home,Liga Profesional Argentina,2018,4132,541,1,0,0,0,0,17,8,47.0588,0.0000,0,0,0,0,0,15,0,0,64,57.2072072,0,538,16,0,0,26,0,0,0,0,16,13,2,0,3,0,0,0,0,0
+Racing Club,,Talleres de Córdoba,Away,Liga Profesional Argentina,2018,4132,4231,3,0,0,0,0,11,6,54.5455,0.0000,1,0,0,0,0,14,0,0,60,68.3673469,0,542,8,0,0,12,0,0,0,0,16,14,1,0,3,0,0,0,0,0
+Racing Club,,Banfield,Home,Liga Profesional Argentina,2018,4132,4411,0,0,0,0,0,17,5,29.4118,0.0000,0,0,0,0,0,0,0,0,71,71.3656387,0,546,9,0,0,25,0,0,0,0,15,9,3,0,1,0,0,0,0,0
+Racing Club,,Gimnasia La Plata,Away,Liga Profesional Argentina,2018,4132,4222,3,0,0,0,0,12,8,66.6667,0.0000,0,0,0,0,0,19,0,0,53,40,0,373,7,0,0,15,0,0,0,0,15,12,2,0,3,0,0,0,0,0
+Racing Club,,Newell's Old Boys,Home,Liga Profesional Argentina,2018,41212,4231,1,0,0,0,0,10,5,50.0000,0.0000,0,0,0,0,0,11,0,0,47,51.1111111,0,341,10,0,1,11,0,0,0,0,18,13,1,0,3,0,0,0,0,0
+Racing Club,,San Lorenzo,Home,Liga Profesional Argentina,2018,4132,442,2,0,0,0,0,21,7,33.3333,0.0000,1,0,0,0,0,9,0,0,71,69.3069306,0,556,15,0,0,33,0,0,0,0,18,11,3,0,3,0,0,0,0,0

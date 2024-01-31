@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+D.C. United,,Chicago Fire FC,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,9,1,11.1111,0.0000,0,0,0,0,0,11,0,0,44,52.9880478,0,342,9,0,0,14,0,0,0,0,18,13,0,0,1,0,0,0,0,0
+D.C. United,,New York City FC,Away,US Major League Soccer,2018,4231,41212,1,0,0,0,0,2,1,50.0000,0.0000,1,0,0,0,0,31,0,0,31,23.0240549,0,288,6,0,1,3,0,0,0,0,9,8,1,0,1,0,0,0,0,0
+D.C. United,,Minnesota United FC,Home,US Major League Soccer,2018,4231,4231,2,0,0,0,0,16,7,43.7500,0.0000,1,0,0,0,0,16,0,0,61,62.5,0,617,6,0,3,16,0,0,0,0,12,13,2,0,3,0,0,0,0,0
+D.C. United,,Houston Dynamo FC,Home,US Major League Soccer,2018,4411,4231,2,0,0,0,0,12,6,50.0000,0.0000,2,0,0,0,0,12,0,0,60,62.0938628,0,534,10,0,3,21,0,0,0,0,15,12,2,0,1,0,0,0,0,0
+D.C. United,,CF Montréal,Home,US Major League Soccer,2018,4231,433,5,0,0,0,0,10,6,60.0000,0.0000,0,0,0,0,0,25,0,0,40,33.3333333,0,357,2,0,2,9,0,0,0,0,10,12,0,0,3,0,0,0,0,0
+D.C. United,,Chicago Fire FC,Home,US Major League Soccer,2018,4231,4231,2,0,0,0,0,16,5,31.2500,0.0000,1,0,0,0,0,10,0,0,56,63.1355932,0,562,6,0,1,15,0,0,0,0,12,6,0,0,3,0,0,0,0,0
+D.C. United,,FC Dallas,Home,US Major League Soccer,2018,4231,4231,1,0,0,0,0,14,3,21.4286,0.0000,0,0,0,0,0,19,0,0,52,41.7266187,0,458,7,0,1,14,0,0,0,0,15,8,0,0,3,0,0,0,0,0
+D.C. United,,Toronto FC,Home,US Major League Soccer,2018,4231,343,1,0,0,0,0,11,4,36.3636,0.0000,0,0,0,0,0,11,0,0,43,45.0617283,0,485,5,0,4,9,0,0,0,0,12,10,0,0,3,0,0,0,0,0
+D.C. United,,New York City FC,Home,US Major League Soccer,2018,4231,4132,3,0,0,0,0,12,7,58.3333,0.0000,1,0,0,0,0,16,0,0,45,55.3435114,0,420,16,0,0,14,0,0,0,0,16,16,0,0,3,0,0,0,0,0
+D.C. United,,Atlanta United,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,9,5,55.5556,0.0000,1,0,0,0,0,22,0,0,38,30.927835,0,358,2,0,3,10,0,0,0,0,13,7,1,0,3,0,0,0,0,0
+D.C. United,,Columbus Crew,Away,US Major League Soccer,2018,4231,4231,1,0,0,0,0,6,2,33.3333,0.0000,3,0,0,0,0,13,0,0,45,34.6774193,0,407,5,0,2,14,0,0,0,0,12,11,0,0,0,0,0,0,0,0
+D.C. United,,Sporting Kansas City,Away,US Major League Soccer,2018,4141,433,0,0,0,0,0,12,3,25.0000,0.0000,1,0,0,0,0,22,0,0,38,30.7971014,0,348,7,0,2,15,0,0,0,0,9,6,0,0,0,0,0,0,0,0
+D.C. United,,Toronto FC,Away,US Major League Soccer,2018,4141,4141,4,0,0,0,0,14,9,64.2857,0.0000,4,0,0,0,0,24,0,0,34,22.3404255,0,338,8,0,1,10,0,0,0,0,3,11,1,0,1,0,0,0,0,0
+D.C. United,,Columbus Crew,Home,US Major League Soccer,2018,4141,4231,1,0,0,0,0,5,1,20.0000,0.0000,0,0,0,0,0,24,0,0,31,25.7692307,0,281,9,0,1,7,0,0,0,0,12,16,1,1,3,0,0,0,0,0
+D.C. United,,Philadelphia Union,Away,US Major League Soccer,2018,4141,4231,2,0,0,0,0,4,3,75.0000,0.0000,3,0,0,0,0,23,0,0,39,25.236593,0,397,3,0,3,6,0,0,0,0,14,5,1,0,0,0,0,0,0,0
+D.C. United,,Atlanta United,Away,US Major League Soccer,2018,4141,4231,1,0,0,0,0,5,2,40.0000,0.0000,3,0,0,0,0,17,0,0,44,46.4135021,0,433,6,0,1,14,0,0,0,0,10,14,3,0,0,0,0,0,0,0
+D.C. United,,New York Red Bulls,Home,US Major League Soccer,2018,3421,4231,3,0,0,0,0,13,8,61.5385,0.0000,3,0,0,0,0,15,0,0,46,33.6507936,0,401,9,0,4,15,0,0,0,0,13,8,0,0,1,0,0,0,0,0
+D.C. United,,New York Red Bulls,Home,US Major League Soccer,2018,4141,4231,0,0,0,0,0,9,2,22.2222,0.0000,1,0,0,0,0,16,0,0,47,29.3159609,0,405,2,0,0,12,0,0,0,0,11,10,1,0,0,0,0,0,0,0
+D.C. United,,Real Salt Lake,Away,US Major League Soccer,2018,4141,433,2,0,0,0,0,14,7,50.0000,0.0000,3,0,0,0,0,17,0,0,41,39.2523364,0,401,9,0,0,17,0,0,0,0,5,8,1,1,0,0,0,0,0,0
+D.C. United,,San Jose Earthquakes,Away,US Major League Soccer,2018,4141,343,3,0,0,0,0,14,6,42.8571,0.0000,1,0,0,0,0,18,0,0,47,51.6393442,0,441,17,0,5,9,0,0,0,0,11,14,1,0,3,0,0,0,0,0
+D.C. United,,Los Angeles Football Club,Away,US Major League Soccer,2018,4141,433,1,0,0,0,0,13,2,15.3846,0.0000,1,0,0,0,0,18,0,0,58,61.4754098,0,476,8,0,2,28,0,0,0,0,8,20,4,0,1,0,0,0,0,0
+D.C. United,,Seattle Sounders FC,Away,US Major League Soccer,2018,4141,4231,1,0,0,0,0,13,6,46.1538,0.0000,2,0,0,0,0,15,0,0,43,37.1747211,0,398,6,0,0,17,0,0,0,0,9,13,0,0,0,0,0,0,0,0
+D.C. United,,New England Revolution,Away,US Major League Soccer,2018,4141,4231,2,0,0,0,0,13,7,53.8462,0.0000,3,0,0,0,0,14,0,0,54,31.6455696,0,458,11,0,1,15,0,0,0,0,11,10,2,0,0,0,0,0,0,0
+D.C. United,,LA Galaxy,Away,US Major League Soccer,2018,4141,4231,2,0,0,0,0,13,3,23.0769,0.0000,2,0,0,0,0,13,0,0,59,56.8075117,0,582,12,0,4,16,0,0,0,0,19,9,2,0,1,0,0,0,0,0
+D.C. United,,Atlanta United,Away,US Major League Soccer,2018,4141,352,1,0,0,0,0,8,1,12.5000,0.0000,3,0,0,0,0,16,0,0,47,40.3846153,0,452,13,0,1,13,0,0,0,0,7,11,1,0,0,0,0,0,0,0
+D.C. United,,Vancouver Whitecaps FC,Home,US Major League Soccer,2018,4141,442,3,0,0,0,0,14,6,42.8571,0.0000,1,0,0,0,0,15,0,0,59,59.6296296,0,556,6,0,2,16,0,0,0,0,13,9,2,0,3,0,0,0,0,0
+D.C. United,,Orlando City SC,Away,US Major League Soccer,2018,4141,41212,1,0,0,0,0,14,5,35.7143,0.0000,1,0,0,0,0,12,0,0,41,33.090909,0,329,9,0,0,12,0,0,0,0,13,15,3,0,1,0,0,0,0,0
+D.C. United,,Colorado Rapids,Home,US Major League Soccer,2018,4141,41212,2,0,0,0,0,13,5,38.4615,0.0000,1,0,0,0,0,9,0,0,50,60.15625,0,491,6,0,3,11,0,0,0,0,17,21,0,0,3,0,0,0,0,0
+D.C. United,,CF Montréal,Away,US Major League Soccer,2018,4141,433,1,0,0,0,0,19,5,26.3158,0.0000,1,0,0,0,0,17,0,0,51,53.6170212,0,443,6,0,0,14,0,0,0,0,15,10,2,0,1,0,0,0,0,0
+D.C. United,,Orlando City SC,Home,US Major League Soccer,2018,4141,541,3,0,0,0,0,18,6,33.3333,294.4444,2,0,0,0,0,12,0,0,60,72.0626631,0,605,5,0,3,21,0,0,0,0,3,9,2,0,3,0,0,0,0,0
+D.C. United,,Portland Timbers,Home,US Major League Soccer,2018,4231,352,4,0,0,0,0,16,5,31.2500,0.0000,1,0,0,0,0,10,0,0,54,56.9444444,0,524,10,0,3,11,0,0,0,0,5,10,4,0,3,0,0,0,0,0
+D.C. United,,New England Revolution,Home,US Major League Soccer,2018,4231,442,2,0,0,0,0,12,5,41.6667,0.0000,0,0,0,0,0,9,0,0,56,61.9565217,0,485,11,0,4,12,0,0,0,0,17,7,1,0,3,0,0,0,0,0
+D.C. United,,New York Red Bulls,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,14,2,14.2857,0.0000,1,0,0,0,0,11,0,0,53,40.0696864,0,419,3,0,0,17,0,0,0,0,9,15,3,0,0,0,0,0,0,0
+D.C. United,,Philadelphia Union,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,9,3,33.3333,0.0000,2,0,0,0,0,13,0,0,47,44.6366782,0,487,6,0,0,13,0,0,0,0,15,10,1,0,0,0,0,0,0,0

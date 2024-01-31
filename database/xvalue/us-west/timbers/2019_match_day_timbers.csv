@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Portland Timbers,,FC Cincinnati,Away,US Major League Soccer,2019,4231,4222,0,0,0,0,0,10,3,30.0000,0.0000,3,0,0,0,0,18,0,0,51,53.7234042,0,413,3,0,0,20,0,0,0,0,11,13,1,1,0,0,0,0,0,0
+Portland Timbers,,Seattle Sounders FC,Home,US Major League Soccer,2019,4231,4231,1,0,0,0,0,20,6,30.0000,0.0000,2,0,0,0,0,11,0,0,56,61.8243243,0,484,9,0,1,45,0,0,0,0,6,13,0,0,0,0,0,0,0,0
+Portland Timbers,,Real Salt Lake,Home,US Major League Soccer,2019,4231,4231,1,0,0,0,0,15,6,40.0000,0.0000,0,0,0,0,0,17,0,0,40,39.9317406,0,365,3,0,0,10,0,0,0,0,9,17,1,1,3,0,0,0,0,0
+Portland Timbers,,Sporting Kansas City,Home,US Major League Soccer,2019,433,4141,2,0,0,0,0,17,4,23.5294,0.0000,1,0,0,0,0,10,0,0,60,60,0,519,9,0,0,27,0,0,0,0,13,12,2,0,3,0,0,0,0,0
+Portland Timbers,,D.C. United,Home,US Major League Soccer,2019,433,4231,0,0,0,0,0,23,4,17.3913,0.0000,1,0,0,0,0,8,0,0,68,76.9863013,0,612,7,0,0,39,0,0,0,0,8,12,1,0,0,0,0,0,0,0
+Portland Timbers,,New York Red Bulls,Home,US Major League Soccer,2019,4231,4231,0,0,0,0,0,15,3,20.0000,0.0000,2,0,0,0,0,19,0,0,60,51.4285714,0,475,6,0,0,30,0,0,0,0,10,14,2,0,0,0,0,0,0,0
+Portland Timbers,,Minnesota United FC,Home,US Major League Soccer,2019,4231,4231,0,0,0,0,0,28,11,39.2857,0.0000,0,0,0,0,0,20,0,0,56,63.3152173,0,554,2,0,0,37,0,0,0,0,1,13,1,0,1,0,0,0,0,0
+Portland Timbers,,New England Revolution,Home,US Major League Soccer,2019,4321,442,2,0,0,0,0,21,6,28.5714,0.0000,2,0,0,0,0,24,0,0,50,49.2211838,0,446,7,0,0,28,0,0,0,0,7,11,2,0,1,0,0,0,0,0
+Portland Timbers,,Sporting Kansas City,Away,US Major League Soccer,2019,4231,4231,2,0,0,0,0,14,6,42.8571,0.0000,2,0,0,0,0,16,0,0,51,43.5897435,0,511,10,0,2,16,0,0,0,0,7,6,4,1,1,0,0,0,0,0
+Portland Timbers,,Atlanta United,Home,US Major League Soccer,2019,4231,3421,0,0,0,0,0,16,5,31.2500,0.0000,2,0,0,0,0,19,0,0,50,54.6153846,0,409,6,0,0,21,0,0,0,0,7,18,1,0,0,0,0,0,0,0
+Portland Timbers,,San Jose Earthquakes,Home,US Major League Soccer,2019,4321,4231,3,0,0,0,0,17,7,41.1765,0.0000,1,0,0,0,0,12,0,0,39,46.7924528,0,293,17,0,0,24,0,0,0,0,13,19,3,0,3,0,0,0,0,0
+Portland Timbers,,Los Angeles Football Club,Home,US Major League Soccer,2019,4231,433,2,0,0,0,0,19,7,36.8421,0.0000,3,0,0,0,0,16,0,0,53,49.4163424,0,412,9,0,1,27,0,0,0,0,9,15,4,0,0,0,0,0,0,0
+Portland Timbers,,LA Galaxy,Away,US Major League Soccer,2019,532,4231,1,0,0,0,0,9,4,44.4444,0.0000,2,0,0,0,0,11,0,0,43,41.1255411,0,382,9,0,1,9,0,0,0,0,12,14,2,0,0,0,0,0,0,0
+Portland Timbers,,San Jose Earthquakes,Away,US Major League Soccer,2019,4231,4141,0,0,0,0,0,13,4,30.7692,0.0000,3,0,0,0,0,19,0,0,44,49.1039426,0,401,9,0,0,15,0,0,0,0,14,14,1,0,0,0,0,0,0,0
+Portland Timbers,,FC Dallas,Away,US Major League Soccer,2019,532,4231,1,0,0,0,0,13,6,46.1538,0.0000,2,0,0,0,0,13,0,0,48,61.8473895,0,427,11,0,1,24,0,0,0,0,18,20,1,0,0,0,0,0,0,0
+Portland Timbers,,Columbus Crew,Away,US Major League Soccer,2019,442,4231,3,0,0,0,0,16,5,31.2500,0.0000,1,0,0,0,0,17,0,0,42,40.3225806,0,419,10,0,0,13,0,0,0,0,8,11,3,0,3,0,0,0,0,0
+Portland Timbers,,Toronto FC,Away,US Major League Soccer,2019,442,4411,2,0,0,0,0,11,3,27.2727,0.0000,1,0,0,0,0,6,0,0,44,46.9648562,0,459,10,0,2,24,0,0,0,0,8,13,2,0,3,0,0,0,0,0
+Portland Timbers,,Colorado Rapids,Home,US Major League Soccer,2019,4231,4231,2,0,0,0,0,15,5,33.3333,0.0000,2,0,0,0,0,14,0,0,60,49.8069498,0,474,3,0,1,19,0,0,0,0,7,16,3,1,1,0,0,0,0,0
+Portland Timbers,,Real Salt Lake,Away,US Major League Soccer,2019,442,4231,2,0,0,0,0,7,3,42.8571,0.0000,1,0,0,0,0,16,0,0,46,41.3793103,0,409,5,0,0,11,0,0,0,0,10,10,1,0,3,0,0,0,0,0
+Portland Timbers,,Vancouver Whitecaps FC,Away,US Major League Soccer,2019,442,433,0,0,0,0,0,27,5,18.5185,0.0000,1,0,0,0,0,12,0,0,52,58.5858585,0,467,7,0,0,37,0,0,0,0,3,13,3,0,0,0,0,0,0,0
+Portland Timbers,,Houston Dynamo FC,Away,US Major League Soccer,2019,442,4231,1,0,0,0,0,16,5,31.2500,0.0000,1,0,0,0,0,19,0,0,48,35.6,0,403,8,0,3,18,0,0,0,0,7,15,2,0,1,0,0,0,0,0
+Portland Timbers,,Philadelphia Union,Away,US Major League Soccer,2019,4231,41212,3,0,0,0,0,9,7,77.7778,0.0000,1,0,0,0,0,18,0,0,37,27.1084337,0,385,8,0,0,8,0,0,0,0,5,10,2,0,3,0,0,0,0,0
+Portland Timbers,,Houston Dynamo FC,Home,US Major League Soccer,2019,4231,4231,4,0,0,0,0,24,10,41.6667,0.0000,0,0,0,0,0,9,0,0,55,56.4444444,0,500,9,0,2,20,0,0,0,0,10,20,3,0,3,0,0,0,0,0
+Portland Timbers,,CF Montréal,Away,US Major League Soccer,2019,4231,343,1,0,0,0,0,7,3,42.8571,0.0000,2,0,0,0,0,13,0,0,40,39.3700787,0,399,14,0,0,7,0,0,0,0,8,13,2,0,0,0,0,0,0,0
+Portland Timbers,,FC Dallas,Home,US Major League Soccer,2019,4231,4231,1,0,0,0,0,17,3,17.6471,0.0000,0,0,0,0,0,12,0,0,46,58.6206896,0,457,14,0,0,16,0,0,0,0,7,15,1,0,3,0,0,0,0,0
+Portland Timbers,,New York City FC,Away,US Major League Soccer,2019,4231,433,1,0,0,0,0,11,2,18.1818,0.0000,0,0,0,0,0,15,0,0,32,29.9180327,0,292,10,0,0,12,0,0,0,0,11,14,5,0,3,0,0,0,0,0
+Portland Timbers,,Colorado Rapids,Away,US Major League Soccer,2019,4231,41212,3,0,0,0,0,24,7,29.1667,0.0000,3,0,0,0,0,14,0,0,58,62.9482071,0,452,9,0,2,41,0,0,0,0,10,13,2,0,1,0,0,0,0,0
+Portland Timbers,,Los Angeles Football Club,Away,US Major League Soccer,2019,4231,433,1,0,0,0,0,12,2,16.6667,0.0000,4,0,0,0,0,18,0,0,40,34.939759,0,422,9,0,1,12,0,0,0,0,11,13,1,1,0,0,0,0,0,0
+Portland Timbers,,Orlando City SC,Home,US Major League Soccer,2019,4231,433,1,0,0,0,0,26,4,15.3846,0.0000,1,0,0,0,0,2,0,0,63,75.4437869,0,569,7,0,0,41,0,0,0,0,10,14,3,0,1,0,0,0,0,0
+Portland Timbers,,Seattle Sounders FC,Away,US Major League Soccer,2019,4231,4231,2,0,0,0,0,14,5,35.7143,0.0000,1,0,0,0,0,15,0,0,41,36.4,0,390,7,0,1,14,0,0,0,0,13,12,4,0,3,0,0,0,0,0
+Portland Timbers,,LA Galaxy,Home,US Major League Soccer,2019,4231,4231,4,0,0,0,0,22,10,45.4545,0.0000,0,0,0,0,0,14,0,0,52,48.6238532,0,519,8,0,1,23,0,0,0,0,12,5,3,1,3,0,0,0,0,0
+Portland Timbers,,Minnesota United FC,Away,US Major League Soccer,2019,4231,4231,0,0,0,0,0,15,5,33.3333,0.0000,1,0,0,0,0,15,0,0,57,54.7244094,0,440,3,0,3,18,0,0,0,0,7,15,4,0,0,0,0,0,0,0
+Portland Timbers,,Vancouver Whitecaps FC,Home,US Major League Soccer,2019,4231,4321,3,0,0,0,0,23,8,34.7826,0.0000,1,0,0,0,0,16,0,0,59,65.0145772,0,556,4,0,0,28,0,0,0,0,10,12,2,0,3,0,0,0,0,0
+Portland Timbers,,Chicago Fire FC,Home,US Major League Soccer,2019,4231,433,3,0,0,0,0,15,7,46.6667,0.0000,2,0,0,0,0,5,0,0,63,70.684039,0,616,9,0,2,22,0,0,0,0,5,14,2,0,3,0,0,0,0,0

@@ -1,0 +1,28 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+San Lorenzo,,Lanús,Away,Liga Profesional Argentina,2017,4312,433,2,0,0,0,0,9,2,22.2222,0.0000,0,0,0,0,0,16,0,0,33,43.8297872,0,286,8,0,0,10,0,0,0,0,7,16,3,0,3,0,0,0,0,0
+San Lorenzo,,San Martín de San Juan,Away,Liga Profesional Argentina,2017,4321,4231,3,0,0,0,0,17,7,41.1765,0.0000,1,0,0,0,0,7,0,0,43,47.5409836,0,315,11,0,1,19,0,0,0,0,14,15,4,0,3,0,0,0,0,0
+San Lorenzo,,Banfield,Home,Liga Profesional Argentina,2017,4321,4222,0,0,0,0,0,12,3,25.0000,0.0000,1,0,0,0,0,5,0,0,64,62.085308,0,426,4,0,0,45,0,0,0,0,11,15,1,0,0,0,0,0,0,0
+San Lorenzo,,Temperley,Away,Liga Profesional Argentina,2017,4321,433,2,0,0,0,0,11,5,45.4545,0.0000,0,0,0,0,0,14,0,0,49,45,0,359,6,0,0,17,0,0,0,0,19,9,1,0,3,0,0,0,0,0
+San Lorenzo,,Defensa y Justicia,Home,Liga Profesional Argentina,2017,4321,4231,3,0,0,0,0,12,6,50.0000,0.0000,1,0,0,0,0,19,0,0,37,31.1965811,0,312,13,0,2,8,0,0,0,0,10,13,0,0,3,0,0,0,0,0
+San Lorenzo,,Colón Santa Fe,Home,Liga Profesional Argentina,2017,4231,442,0,0,0,0,0,12,2,16.6667,0.0000,0,0,0,0,0,6,0,0,56,53.6082474,0,396,4,0,1,32,0,0,0,0,17,18,1,0,1,0,0,0,0,0
+San Lorenzo,,Estudiantes de La Plata,Away,Liga Profesional Argentina,2017,4132,442,3,0,0,0,0,12,5,41.6667,0.0000,1,0,0,0,0,14,0,0,50,45.1882845,0,401,6,0,0,17,0,0,0,0,12,18,2,0,3,0,0,0,0,0
+San Lorenzo,,Arsenal de Sarandí,Home,Liga Profesional Argentina,2017,4141,4132,1,0,0,0,0,12,3,25.0000,0.0000,0,0,0,0,0,6,0,0,52,56.4102564,0,418,12,0,0,14,0,0,0,0,10,15,3,0,3,0,0,0,0,0
+San Lorenzo,,River Plate,Away,Liga Profesional Argentina,2017,4231,4222,0,0,0,0,0,12,2,16.6667,0.0000,2,0,0,0,0,15,0,0,37,40.0881057,0,301,25,0,0,23,0,0,0,0,12,15,3,0,0,0,0,0,0,0
+San Lorenzo,,Belgrano,Home,Liga Profesional Argentina,2017,4411,4411,2,0,0,0,0,12,6,50.0000,0.0000,0,0,0,0,0,14,0,0,48,50.6976744,0,369,7,0,1,19,0,0,0,0,9,14,3,0,3,0,0,0,0,0
+San Lorenzo,,Patronato,Away,Liga Profesional Argentina,2017,4411,442,0,0,0,0,0,18,8,44.4444,0.0000,0,0,0,0,0,9,0,0,55,56.8548387,0,369,17,0,0,26,0,0,0,0,17,13,2,1,1,0,0,0,0,0
+San Lorenzo,,Chacarita Juniors,Home,Liga Profesional Argentina,2017,4411,4231,1,0,0,0,0,14,1,7.1429,0.0000,0,0,0,0,0,12,0,0,47,49.134948,0,400,12,0,0,28,0,0,0,0,17,11,1,0,3,0,0,0,0,0
+San Lorenzo,,Vélez Sarsfield,Away,Liga Profesional Argentina,2017,4411,4231,2,0,0,0,0,17,4,23.5294,0.0000,2,0,0,0,0,16,0,0,41,46.226415,0,251,13,0,0,16,0,0,0,0,17,16,3,0,1,0,0,0,0,0
+San Lorenzo,,Godoy Cruz,Home,Liga Profesional Argentina,2017,41212,4231,0,0,0,0,0,9,1,11.1111,0.0000,5,0,0,0,0,16,0,0,62,56.25,0,527,13,0,0,18,0,0,0,0,14,6,2,0,0,0,0,0,0,0
+San Lorenzo,,Racing Club,Home,Liga Profesional Argentina,2017,4231,442,1,0,0,0,0,10,2,20.0000,0.0000,1,0,0,0,0,11,0,0,56,63.0331753,0,406,3,0,0,36,0,0,0,0,11,13,2,0,1,0,0,0,0,0
+San Lorenzo,,Olimpo,Home,Liga Profesional Argentina,2017,4312,4312,2,0,0,0,0,16,7,43.7500,0.0000,0,0,0,0,0,9,0,0,56,49.6062992,0,478,10,0,1,25,0,0,0,0,16,14,1,0,3,0,0,0,0,0
+San Lorenzo,,Rosario Central,Away,Liga Profesional Argentina,2017,4141,41212,0,0,0,0,0,4,0,0.0000,0.0000,0,0,0,0,0,11,0,0,30,33.7899543,0,246,5,0,0,12,0,0,0,0,18,13,0,1,1,0,0,0,0,0
+San Lorenzo,,Huracán,Away,Liga Profesional Argentina,2017,4132,4312,1,0,0,0,0,10,5,50.0000,0.0000,1,0,0,0,0,8,0,0,58,53.2407407,0,376,10,0,0,27,0,0,0,0,13,17,0,1,1,0,0,0,0,0
+San Lorenzo,,Unión Santa Fe,Home,Liga Profesional Argentina,2017,41212,442,0,0,0,0,0,11,3,27.2727,0.0000,0,0,0,0,0,11,0,0,57,51.2295081,0,507,11,0,2,24,0,0,0,0,17,8,1,0,1,0,0,0,0,0
+San Lorenzo,,Gimnasia La Plata,Away,Liga Profesional Argentina,2017,4132,3421,0,0,0,0,0,6,1,16.6667,0.0000,1,0,0,0,0,13,0,0,52,51.6587677,0,371,13,0,1,18,0,0,0,0,12,13,2,1,0,0,0,0,0,0
+San Lorenzo,,Newell's Old Boys,Home,Liga Profesional Argentina,2017,4411,4231,1,0,0,0,0,9,1,11.1111,0.0000,0,0,0,0,0,13,0,0,38,38.9140271,0,318,10,0,0,12,0,0,0,0,9,11,0,0,3,0,0,0,0,0
+San Lorenzo,,Independiente,Away,Liga Profesional Argentina,2017,4132,4231,1,0,0,0,0,14,5,35.7143,0.0000,0,0,0,0,0,19,0,0,34,32.9113924,0,261,2,0,0,13,0,0,0,0,9,21,7,0,3,0,0,0,0,0
+San Lorenzo,,Boca Juniors,Home,Liga Profesional Argentina,2017,4231,433,1,0,0,0,0,14,2,14.2857,0.0000,1,0,0,0,0,19,0,0,36,39.6984924,0,253,5,0,0,12,0,0,0,0,17,12,0,2,1,0,0,0,0,0
+San Lorenzo,,Talleres de Córdoba,Away,Liga Profesional Argentina,2017,4312,433,0,0,0,0,0,7,1,14.2857,0.0000,2,0,0,0,0,11,0,0,46,39.869281,0,373,9,0,0,16,0,0,0,0,12,18,1,2,0,0,0,0,0,0
+San Lorenzo,,Atlético Tucumán,Home,Liga Profesional Argentina,2017,4231,442,2,0,0,0,0,11,3,27.2727,0.0000,0,0,0,0,0,11,0,0,51,48.372093,0,410,15,0,2,16,0,0,0,0,9,11,2,0,3,0,0,0,0,0
+San Lorenzo,,Tigre,Away,Liga Profesional Argentina,2017,4132,3412,2,0,0,0,0,5,3,60.0000,0.0000,1,0,0,0,0,19,0,0,49,46.3414634,0,356,5,0,0,7,0,0,0,0,20,15,2,0,3,0,0,0,0,0
+San Lorenzo,,Argentinos Juniors,Home,Liga Profesional Argentina,2017,4312,4231,1,0,0,0,0,6,3,50.0000,0.0000,0,0,0,0,0,16,0,0,38,33.4821428,0,287,11,0,0,7,0,0,0,0,20,23,4,0,3,0,0,0,0,0

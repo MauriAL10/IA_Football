@@ -1,0 +1,28 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Vélez Sarsfield,,Estudiantes de La Plata,Home,Liga Profesional Argentina,2017,4231,442,3,0,0,0,0,12,6,50.0000,0.0000,3,0,0,0,0,12,0,0,60,55.6149732,0,410,13,0,0,20,0,0,0,0,16,12,2,1,1,0,0,0,0,0
+Vélez Sarsfield,,Colón Santa Fe,Away,Liga Profesional Argentina,2017,4231,4231,1,0,0,0,0,15,5,33.3333,0.0000,0,0,0,0,0,6,0,0,52,52.6086956,0,402,18,0,0,20,0,0,0,0,13,13,0,0,3,1.6002,1.002,0,0,0
+Vélez Sarsfield,,Huracán,Away,Liga Profesional Argentina,2017,4231,4231,0,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,10,0,0,66,54.4247787,0,477,12,0,2,23,0,0,0,0,18,20,3,0,0,0,0,0,0,0
+Vélez Sarsfield,,Unión Santa Fe,Home,Liga Profesional Argentina,2017,4231,442,0,0,0,0,0,10,2,20.0000,0.0000,2,0,0,0,0,17,0,0,54,55.9386973,0,496,11,0,1,26,0,0,0,0,6,11,2,0,0,0,0,0,0,0
+Vélez Sarsfield,,Gimnasia La Plata,Away,Liga Profesional Argentina,2017,442,442,0,0,0,0,0,10,4,40.0000,0.0000,4,0,0,0,0,13,0,0,62,59.8290598,0,493,6,0,1,22,0,0,0,0,13,13,2,0,0,0,0,0,0,0
+Vélez Sarsfield,,Newell's Old Boys,Home,Liga Profesional Argentina,2017,442,4231,1,0,0,0,0,11,3,27.2727,0.0000,0,0,0,0,0,10,0,0,62,54.5064377,0,490,15,0,1,16,0,0,0,0,9,15,2,0,3,0,0,0,0,0
+Vélez Sarsfield,,Independiente,Away,Liga Profesional Argentina,2017,442,4231,0,0,0,0,0,5,1,20.0000,0.0000,1,0,0,0,0,10,0,0,48,47.6415094,0,347,9,0,3,15,0,0,0,0,7,22,4,1,0,0,0,0,0,0
+Vélez Sarsfield,,Boca Juniors,Home,Liga Profesional Argentina,2017,442,433,0,0,0,0,0,11,2,18.1818,0.0000,4,0,0,0,0,8,0,0,56,61.0169491,0,492,11,0,0,21,0,0,0,0,10,9,3,0,0,0,0,0,0,0
+Vélez Sarsfield,,Talleres de Córdoba,Away,Liga Profesional Argentina,2017,442,433,0,0,0,0,0,6,2,33.3333,0.0000,0,0,0,0,0,9,0,0,39,43.2038834,0,292,5,0,2,5,0,0,0,0,17,23,2,1,1,0,0,0,0,0
+Vélez Sarsfield,,Argentinos Juniors,Home,Liga Profesional Argentina,2017,4231,4231,1,0,0,0,0,12,3,25.0000,0.0000,1,0,0,0,0,6,0,0,64,56.3380281,0,432,17,0,4,21,0,0,0,0,20,19,2,0,1,0,0,0,0,0
+Vélez Sarsfield,,San Martín de San Juan,Away,Liga Profesional Argentina,2017,4231,4141,2,0,0,0,0,16,7,43.7500,0.0000,0,0,0,0,0,10,0,0,54,56.4102564,0,489,8,0,5,15,0,0,0,0,15,21,2,0,3,0,0,0,0,0
+Vélez Sarsfield,,Banfield,Home,Liga Profesional Argentina,2017,433,4141,1,0,0,0,0,17,7,41.1765,0.0000,0,0,0,0,0,0,0,0,62,58.6021505,0,425,17,0,1,19,0,0,0,0,17,13,2,0,3,0,0,0,0,0
+Vélez Sarsfield,,Temperley,Away,Liga Profesional Argentina,2017,343,4222,4,0,0,0,0,9,4,44.4444,0.0000,2,0,0,0,0,11,0,0,57,54.787234,0,485,16,0,3,12,0,0,0,0,19,13,1,0,3,0,0,0,0,0
+Vélez Sarsfield,,San Lorenzo,Home,Liga Profesional Argentina,2017,4231,4411,2,0,0,0,0,16,3,18.7500,0.0000,2,0,0,0,0,17,0,0,59,53.7735849,0,353,10,0,2,22,0,0,0,0,16,17,4,0,1,0,0,0,0,0
+Vélez Sarsfield,,Tigre,Away,Liga Profesional Argentina,2017,4222,442,3,0,0,0,0,15,6,40.0000,0.0000,0,0,0,0,0,17,0,0,51,52.1008403,0,353,6,0,3,8,0,0,0,0,13,16,4,0,3,0,0,0,0,0
+Vélez Sarsfield,,Arsenal de Sarandí,Away,Liga Profesional Argentina,2017,433,4312,1,0,0,0,0,16,4,25.0000,0.0000,1,0,0,0,0,7,0,0,64,57.5107296,0,490,10,0,4,10,0,0,0,0,12,17,2,0,1,0,0,0,0,0
+Vélez Sarsfield,,Atlético Tucumán,Home,Liga Profesional Argentina,2017,442,4411,2,0,0,0,0,15,4,26.6667,0.0000,0,0,0,0,0,10,0,0,54,50.5415162,0,415,12,0,3,13,0,0,0,0,17,13,1,0,3,0,0,0,0,0
+Vélez Sarsfield,,Rosario Central,Home,Liga Profesional Argentina,2017,433,451,2,0,0,0,0,15,4,26.6667,0.0000,2,0,0,0,0,8,0,0,65,64.8780487,0,424,7,0,0,27,0,0,0,0,23,16,3,0,1,0,0,0,0,0
+Vélez Sarsfield,,Racing Club,Away,Liga Profesional Argentina,2017,433,4132,1,0,0,0,0,11,6,54.5455,0.0000,2,0,0,0,0,8,0,0,52,48.275862,0,337,14,0,3,17,0,0,0,0,16,19,3,2,0,0,0,0,0,0
+Vélez Sarsfield,,River Plate,Home,Liga Profesional Argentina,2017,4231,4312,1,0,0,0,0,16,4,25.0000,0.0000,0,0,0,0,0,11,0,0,52,51.3636363,0,384,20,0,2,14,0,0,0,0,18,12,3,0,3,0,0,0,0,0
+Vélez Sarsfield,,Belgrano,Away,Liga Profesional Argentina,2017,433,4141,2,0,0,0,0,12,5,41.6667,0.0000,2,0,0,0,0,12,0,0,62,61.0169491,0,506,9,0,1,18,0,0,0,0,13,15,4,0,1,0,0,0,0,0
+Vélez Sarsfield,,Patronato,Home,Liga Profesional Argentina,2017,3331,442,0,0,0,0,0,22,7,31.8182,0.0000,2,0,0,0,0,7,0,0,66,64.9805447,0,473,16,0,2,30,0,0,0,0,13,19,3,0,0,0,0,0,0,0
+Vélez Sarsfield,,Chacarita Juniors,Away,Liga Profesional Argentina,2017,4231,4231,0,0,0,0,0,11,1,9.0909,0.0000,2,0,0,0,0,7,0,0,60,42.5925925,0,383,13,0,3,14,0,0,0,0,14,20,2,1,0,0,0,0,0,0
+Vélez Sarsfield,,Defensa y Justicia,Away,Liga Profesional Argentina,2017,4231,4231,1,0,0,0,0,6,4,66.6667,0.0000,0,0,0,0,0,16,0,0,43,45.6521739,0,339,5,0,0,12,0,0,0,0,16,15,2,0,3,0,0,0,0,0
+Vélez Sarsfield,,Godoy Cruz,Home,Liga Profesional Argentina,2017,4231,442,0,0,0,0,0,18,4,22.2222,0.0000,1,0,0,0,0,6,0,0,68,64.8221343,0,495,9,0,4,30,0,0,0,0,10,21,2,0,0,0,0,0,0,0
+Vélez Sarsfield,,Lanús,Away,Liga Profesional Argentina,2017,442,433,0,0,0,0,0,22,5,22.7273,0.0000,0,0,0,0,0,6,0,0,45,57.4879227,0,341,6,0,3,31,0,0,0,0,9,20,2,1,1,0,0,0,0,0
+Vélez Sarsfield,,Olimpo,Home,Liga Profesional Argentina,2017,442,4141,3,0,0,0,0,14,6,42.8571,0.0000,0,0,0,0,0,0,0,0,57,64.4628099,0,508,12,0,0,20,0,0,0,0,11,19,0,0,3,0,0,0,0,0

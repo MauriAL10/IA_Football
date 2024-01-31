@@ -1,0 +1,24 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Atlético Tucumán,,Central Córdoba (Santiago del Estero),Away,Liga Profesional Argentina,2019,4312,4141,0,0,0,0,0,3,1,33.3333,0.0000,1,0,0,0,0,14,0,0,59,53.9748953,0,414,13,0,0,15,0,0,0,0,12,15,2,0,0,0,0,0,0,0
+Atlético Tucumán,,Talleres de Córdoba,Home,Liga Profesional Argentina,2019,442,3421,2,0,0,0,0,19,6,31.5789,0.0000,1,0,0,0,0,7,0,0,36,53.5885167,0,306,11,0,0,16,0,0,0,0,10,12,3,0,3,0,0,0,0,0
+Atlético Tucumán,,Huracán,Away,Liga Profesional Argentina,2019,442,4411,0,0,0,0,0,4,3,75.0000,0.0000,0,0,0,0,0,12,0,0,49,59.90099,0,388,6,0,0,14,0,0,0,0,11,24,3,0,1,0,0,0,0,0
+Atlético Tucumán,,Independiente,Home,Liga Profesional Argentina,2019,442,532,0,0,0,0,0,13,4,30.7692,0.0000,1,0,0,0,0,7,0,0,55,49.6062992,0,411,6,0,0,24,0,0,0,0,9,17,5,0,0,0,0,0,0,0
+Atlético Tucumán,,Vélez Sarsfield,Away,Liga Profesional Argentina,2019,4231,433,0,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,14,0,0,39,51.9047619,0,333,8,0,0,14,0,0,0,0,5,12,3,0,0,0,0,0,0,0
+Atlético Tucumán,,Arsenal de Sarandí,Home,Liga Profesional Argentina,2019,4132,4231,1,0,0,0,0,13,3,23.0769,0.0000,0,0,0,0,0,18,0,0,37,51.7110266,0,301,10,0,0,10,0,0,0,0,11,14,2,1,3,0,0,0,0,0
+Atlético Tucumán,,Aldosivi,Away,Liga Profesional Argentina,2019,4411,433,0,0,0,0,0,18,3,16.6667,0.0000,3,0,0,0,0,7,0,0,52,65.1785714,0,422,13,0,1,18,0,0,0,0,8,18,2,0,0,0,0,0,0,0
+Atlético Tucumán,,Godoy Cruz,Home,Liga Profesional Argentina,2019,4132,433,1,0,0,0,0,18,2,11.1111,0.0000,0,0,0,0,0,8,0,0,65,71.3261648,0,466,13,0,0,25,0,0,0,0,16,18,2,0,3,0,0,0,0,0
+Atlético Tucumán,,River Plate,Home,Liga Profesional Argentina,2019,442,352,1,0,0,0,0,12,5,41.6667,0.0000,1,0,0,0,0,17,0,0,33,36.0544217,0,252,1,0,0,10,0,0,0,0,7,25,4,0,1,0,0,0,0,0
+Atlético Tucumán,,Gimnasia La Plata,Away,Liga Profesional Argentina,2019,442,4411,0,0,0,0,0,11,1,9.0909,0.0000,1,0,0,0,0,13,0,0,58,53.7735849,0,405,7,0,0,17,0,0,0,0,13,18,3,0,0,0,0,0,0,0
+Atlético Tucumán,,Lanús,Home,Liga Profesional Argentina,2019,442,4231,2,0,0,0,0,13,2,15.3846,0.0000,2,0,0,0,0,14,0,0,38,47.0873786,0,284,9,0,1,17,0,0,0,0,13,14,4,0,1,0,0,0,0,0
+Atlético Tucumán,,Argentinos Juniors,Home,Liga Profesional Argentina,2019,442,433,0,0,0,0,0,5,3,60.0000,0.0000,2,0,0,0,0,6,0,0,44,37.5586854,0,322,7,0,1,9,0,0,0,0,10,17,1,2,0,0,0,0,0,0
+Atlético Tucumán,,Rosario Central,Home,Liga Profesional Argentina,2019,442,4411,1,0,0,0,0,18,4,22.2222,0.0000,2,0,0,0,0,9,0,0,54,63.9175257,0,414,3,0,0,21,0,0,0,0,10,10,3,0,0,0,0,0,0,0
+Atlético Tucumán,,Boca Juniors,Away,Liga Profesional Argentina,2019,442,4132,0,0,0,0,0,12,2,16.6667,0.0000,2,0,0,0,0,14,0,0,41,0,0,333,9,0,0,11,0,0,0,0,10,13,4,0,0,0,0,0,0,0
+Atlético Tucumán,,Defensa y Justicia,Home,Liga Profesional Argentina,2019,442,442,1,0,0,0,0,11,1,9.0909,0.0000,1,0,0,0,0,9,0,0,31,50,0,226,4,0,0,14,0,0,0,0,9,9,1,0,1,0,0,0,0,0
+Atlético Tucumán,,Racing Club,Away,Liga Profesional Argentina,2019,442,433,1,0,0,0,0,13,3,23.0769,0.0000,1,0,0,0,0,10,0,0,32,0,0,273,6,0,1,18,0,0,0,0,8,17,2,0,1,0,0,0,0,0
+Atlético Tucumán,,Newell's Old Boys,Home,Liga Profesional Argentina,2019,41212,433,2,0,0,0,0,9,3,33.3333,0.0000,2,0,0,0,0,10,0,0,51,56.8527918,0,404,10,0,0,19,0,0,0,0,10,18,3,1,1,0,0,0,0,0
+Atlético Tucumán,,Estudiantes de La Plata,Away,Liga Profesional Argentina,2019,4132,4231,1,0,0,0,0,16,3,18.7500,0.0000,1,0,0,0,0,10,0,0,39,41.7840375,0,332,9,0,0,12,0,0,0,0,13,14,2,0,1,0,0,0,0,0
+Atlético Tucumán,,San Lorenzo,Home,Liga Profesional Argentina,2019,4312,3142,2,0,0,0,0,16,4,25.0000,0.0000,2,0,0,0,0,8,0,0,46,58.1151832,0,363,9,0,1,21,0,0,0,0,7,21,4,1,1,0,0,0,0,0
+Atlético Tucumán,,Unión Santa Fe,Away,Liga Profesional Argentina,2019,4132,442,1,0,0,0,0,7,2,28.5714,0.0000,0,0,0,0,0,8,0,0,37,35.0364963,0,373,12,0,0,7,0,0,0,0,9,11,3,0,3,0,0,0,0,0
+Atlético Tucumán,,Colón Santa Fe,Away,Liga Profesional Argentina,2019,442,4141,2,0,0,0,0,13,4,30.7692,0.0000,0,0,0,0,0,14,0,0,50,54.028436,0,388,5,0,0,14,0,0,0,0,9,15,3,0,3,0,0,0,0,0
+Atlético Tucumán,,Patronato,Home,Liga Profesional Argentina,2019,442,532,2,0,0,0,0,11,7,63.6364,0.0000,0,0,0,0,0,22,0,0,57,51.5555555,0,363,6,0,0,21,0,0,0,0,9,16,4,0,3,0,0,0,0,0
+Atlético Tucumán,,Banfield,Away,Liga Profesional Argentina,2019,442,442,2,0,0,0,0,13,6,46.1538,192.3077,1,0,0,0,0,13,0,0,49,52.3076923,0,311,4,0,0,22,0,0,0,0,13,21,3,0,3,0,0,0,0,0

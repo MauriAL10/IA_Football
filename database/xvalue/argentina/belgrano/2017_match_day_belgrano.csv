@@ -1,0 +1,28 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Belgrano,,Racing Club,Home,Liga Profesional Argentina,2017,4411,4132,2,0,0,0,0,17,6,35.2941,0.0000,2,0,0,0,0,6,0,0,32,41.1764705,0,217,13,0,2,18,0,0,0,0,14,11,2,0,1,0,0,0,0,0
+Belgrano,,Newell's Old Boys,Away,Liga Profesional Argentina,2017,4231,4231,1,0,0,0,0,10,3,30.0000,0.0000,0,0,0,0,0,11,0,0,44,37.7192982,0,395,7,0,0,13,0,0,0,0,14,15,2,0,3,0,0,0,0,0
+Belgrano,,Independiente,Home,Liga Profesional Argentina,2017,4231,4411,0,0,0,0,0,19,5,26.3158,0.0000,0,0,0,0,0,9,0,0,45,45.2127659,0,316,11,0,0,25,0,0,0,0,10,16,0,1,1,0,0,0,0,0
+Belgrano,,Boca Juniors,Away,Liga Profesional Argentina,2017,4231,433,0,0,0,0,0,16,6,37.5000,0.0000,4,0,0,0,0,16,0,0,45,45.1807228,0,369,8,0,2,13,0,0,0,0,12,12,4,1,0,0,0,0,0,0
+Belgrano,,Talleres de Córdoba,Home,Liga Profesional Argentina,2017,4411,433,0,0,0,0,0,9,1,11.1111,0.0000,0,0,0,0,0,7,0,0,43,51.3513513,0,274,8,0,0,23,0,0,0,0,13,19,2,0,1,0,0,0,0,0
+Belgrano,,Atlético Tucumán,Away,Liga Profesional Argentina,2017,442,4231,0,0,0,0,0,20,4,20.0000,0.0000,0,0,0,0,0,10,0,0,50,50,0,306,12,0,1,30,0,0,0,0,12,18,4,0,1,0,0,0,0,0
+Belgrano,,Tigre,Home,Liga Profesional Argentina,2017,41212,4411,0,0,0,0,0,12,5,41.6667,0.0000,0,0,0,0,0,8,0,0,67,60.1063829,0,418,11,0,0,31,0,0,0,0,15,12,1,0,1,0,0,0,0,0
+Belgrano,,Argentinos Juniors,Away,Liga Profesional Argentina,2017,4231,433,2,0,0,0,0,13,6,46.1538,0.0000,1,0,0,0,0,7,0,0,40,48.9898989,0,287,11,0,0,18,0,0,0,0,15,19,4,0,3,0,0,0,0,0
+Belgrano,,Temperley,Home,Liga Profesional Argentina,2017,4141,442,2,0,0,0,0,27,8,29.6296,0.0000,3,0,0,0,0,8,0,0,58,60.3375527,0,381,15,0,1,23,0,0,0,0,16,14,4,0,0,0,0,0,0,0
+Belgrano,,San Lorenzo,Away,Liga Profesional Argentina,2017,4411,4411,0,0,0,0,0,14,3,21.4286,0.0000,2,0,0,0,0,12,0,0,52,49.3023255,0,402,11,0,1,29,0,0,0,0,13,11,4,0,0,0,0,0,0,0
+Belgrano,,Colón Santa Fe,Home,Liga Profesional Argentina,2017,4141,41212,1,0,0,0,0,22,6,27.2727,0.0000,0,0,0,0,0,13,0,0,43,42.7927927,0,279,16,0,1,23,0,0,0,0,11,11,1,0,3,0,0,0,0,0
+Belgrano,,Estudiantes de La Plata,Away,Liga Profesional Argentina,2017,4141,532,1,0,0,0,0,6,1,16.6667,0.0000,0,0,0,0,0,12,0,0,47,36.1809045,0,450,21,0,1,9,0,0,0,0,9,11,3,0,3,0,0,0,0,0
+Belgrano,,Arsenal de Sarandí,Home,Liga Profesional Argentina,2017,4141,41212,3,0,0,0,0,17,7,41.1765,0.0000,0,0,0,0,0,5,0,0,58,61.3756613,0,427,11,0,1,31,0,0,0,0,7,11,1,0,3,0,0,0,0,0
+Belgrano,,Rosario Central,Away,Liga Profesional Argentina,2017,4231,4231,1,0,0,0,0,24,5,20.8333,0.0000,2,0,0,0,0,14,0,0,48,54.404145,0,373,16,0,1,14,0,0,0,0,19,18,3,0,0,0,0,0,0,0
+Belgrano,,Banfield,Away,Liga Profesional Argentina,2017,4231,41212,1,0,0,0,0,11,3,27.2727,0.0000,2,0,0,0,0,13,0,0,60,52.15311,0,465,7,0,0,18,0,0,0,0,14,18,3,1,0,0,0,0,0,0
+Belgrano,,River Plate,Away,Liga Profesional Argentina,2017,4231,4312,1,0,0,0,0,10,4,40.0000,0.0000,3,0,0,0,0,20,0,0,38,37.7880184,0,367,10,0,0,13,0,0,0,0,14,12,4,0,0,0,0,0,0,0
+Belgrano,,San Martín de San Juan,Home,Liga Profesional Argentina,2017,4231,4231,1,0,0,0,0,7,2,28.5714,0.0000,0,0,0,0,0,10,0,0,54,48.275862,0,387,9,0,2,24,0,0,0,0,12,19,4,0,3,0,0,0,0,0
+Belgrano,,Defensa y Justicia,Away,Liga Profesional Argentina,2017,4141,433,1,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,15,0,0,48,44.7826086,0,412,20,0,0,23,0,0,0,0,9,16,2,1,1,0,0,0,0,0
+Belgrano,,Patronato,Home,Liga Profesional Argentina,2017,532,442,2,0,0,0,0,20,8,40.0000,0.0000,2,0,0,0,0,10,0,0,48,44.4444444,0,333,14,0,1,23,0,0,0,0,12,17,4,0,1,0,0,0,0,0
+Belgrano,,Chacarita Juniors,Away,Liga Profesional Argentina,2017,433,4231,1,0,0,0,0,9,4,44.4444,0.0000,0,0,0,0,0,13,0,0,50,40.7079646,0,441,12,0,2,10,0,0,0,0,11,12,3,0,3,0,0,0,0,0
+Belgrano,,Vélez Sarsfield,Home,Liga Profesional Argentina,2017,4141,433,2,0,0,0,0,12,8,66.6667,0.0000,2,0,0,0,0,12,0,0,38,38.9830508,0,303,10,0,2,12,0,0,0,0,14,13,3,0,1,0,0,0,0,0
+Belgrano,,Godoy Cruz,Away,Liga Profesional Argentina,2017,4231,433,1,0,0,0,0,6,2,33.3333,0.0000,2,0,0,0,0,11,0,0,47,38.53211,0,380,7,0,0,14,0,0,0,0,15,9,1,0,0,0,0,0,0,0
+Belgrano,,Lanús,Home,Liga Profesional Argentina,2017,4231,433,0,0,0,0,0,16,3,18.7500,0.0000,0,0,0,0,0,8,0,0,44,45.7142857,0,367,11,0,0,21,0,0,0,0,14,13,0,0,1,0,0,0,0,0
+Belgrano,,Olimpo,Away,Liga Profesional Argentina,2017,4231,442,2,0,0,0,0,10,4,40.0000,0.0000,1,0,0,0,0,11,0,0,46,38.8888888,0,400,5,0,2,8,0,0,0,0,16,12,3,0,3,0,0,0,0,0
+Belgrano,,Huracán,Home,Liga Profesional Argentina,2017,4231,442,1,0,0,0,0,14,7,50.0000,0.0000,0,0,0,0,0,6,0,0,66,53.2994923,0,508,12,0,2,15,0,0,0,0,18,13,1,0,3,0,0,0,0,0
+Belgrano,,Unión Santa Fe,Away,Liga Profesional Argentina,2017,4231,442,1,0,0,0,0,9,2,22.2222,0.0000,1,0,0,0,0,17,0,0,44,32.4675324,0,394,8,0,2,12,0,0,0,0,12,12,1,0,1,0,0,0,0,0
+Belgrano,,Gimnasia La Plata,Home,Liga Profesional Argentina,2017,4411,4141,2,0,0,0,0,14,5,35.7143,0.0000,0,0,0,0,0,11,0,0,54,56.4516129,0,369,11,0,0,30,0,0,0,0,12,13,1,0,3,0,0,0,0,0

@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+FC Dallas,,Columbus Crew,Away,US Major League Soccer,2019,433,4231,0,0,0,0,0,8,2,25.0000,0.0000,1,0,0,0,0,10,0,0,55,45,0,635,4,0,0,23,0,0,0,0,9,10,1,0,0,0,0,0,0,0
+FC Dallas,,LA Galaxy,Away,US Major League Soccer,2019,433,4231,0,0,0,0,0,15,1,6.6667,0.0000,2,0,0,0,0,11,0,0,55,43.7246963,0,518,13,0,0,13,0,0,0,0,14,14,1,0,0,0,0,0,0,0
+FC Dallas,,CF Montréal,Away,US Major League Soccer,2019,433,442,3,0,0,0,0,14,7,50.0000,0.0000,3,0,0,0,0,9,0,0,50,54.9356223,0,484,6,0,0,19,0,0,0,0,11,12,3,0,1,0,0,0,0,0
+FC Dallas,,Houston Dynamo FC,Home,US Major League Soccer,2019,433,4231,5,0,0,0,0,17,7,41.1765,0.0000,1,0,0,0,0,16,0,0,60,45.8515283,0,532,12,0,1,16,0,0,0,0,12,17,2,0,3,0,0,0,0,0
+FC Dallas,,FC Cincinnati,Home,US Major League Soccer,2019,433,442,3,0,0,0,0,17,8,47.0588,0.0000,1,0,0,0,0,7,0,0,63,54.8387096,0,551,12,0,3,20,0,0,0,0,12,15,4,0,3,0,0,0,0,0
+FC Dallas,,Chicago Fire FC,Away,US Major League Soccer,2019,433,4231,0,0,0,0,0,13,4,30.7692,0.0000,4,0,0,0,0,17,0,0,52,45.1492537,0,467,8,0,1,22,0,0,0,0,9,10,1,0,0,0,0,0,0,0
+FC Dallas,,Seattle Sounders FC,Away,US Major League Soccer,2019,4231,4231,0,0,0,0,0,9,3,33.3333,0.0000,0,0,0,0,0,14,0,0,40,30.4964539,0,385,8,0,2,11,0,0,0,0,11,16,1,0,1,0,0,0,0,0
+FC Dallas,,New York City FC,Home,US Major League Soccer,2019,433,3421,1,0,0,0,0,20,5,25.0000,0.0000,1,0,0,0,0,13,0,0,47,61.4718614,0,393,10,0,2,25,0,0,0,0,14,15,2,0,1,0,0,0,0,0
+FC Dallas,,Colorado Rapids,Away,US Major League Soccer,2019,4231,3421,0,0,0,0,0,17,3,17.6471,0.0000,3,0,0,0,0,14,0,0,55,55.5045871,0,456,10,0,0,21,0,0,0,0,9,9,0,0,0,0,0,0,0,0
+FC Dallas,,Minnesota United FC,Home,US Major League Soccer,2019,433,4231,5,0,0,0,0,20,11,55.0000,0.0000,3,0,0,0,0,15,0,0,60,68.1614349,0,530,10,0,1,23,0,0,0,0,12,9,2,0,3,0,0,0,0,0
+FC Dallas,,Sporting Kansas City,Home,US Major League Soccer,2019,4231,4231,6,0,0,0,0,20,9,45.0000,0.0000,0,0,0,0,0,9,0,0,62,55.5147058,0,558,8,0,0,7,0,0,0,0,10,14,0,0,3,0,0,0,0,0
+FC Dallas,,Colorado Rapids,Home,US Major League Soccer,2019,4231,442,2,0,0,0,0,15,6,40.0000,0.0000,1,0,0,0,0,12,0,0,52,59.030837,0,487,9,0,5,11,0,0,0,0,16,10,2,0,3,0,0,0,0,0
+FC Dallas,,Real Salt Lake,Away,US Major League Soccer,2019,4231,4231,4,0,0,0,0,12,6,50.0000,0.0000,2,0,0,0,0,7,0,0,68,66.8292682,0,694,5,0,3,8,0,0,0,0,10,12,2,0,3,0,0,0,0,0
+FC Dallas,,Philadelphia Union,Away,US Major League Soccer,2019,4231,41212,1,0,0,0,0,3,1,33.3333,0.0000,2,0,0,0,0,18,0,0,44,24.5136186,0,385,8,0,0,8,0,0,0,0,13,9,1,0,0,0,0,0,0,0
+FC Dallas,,Portland Timbers,Home,US Major League Soccer,2019,4231,532,2,0,0,0,0,13,5,38.4615,0.0000,1,0,0,0,0,13,0,0,52,38.1526104,0,478,7,0,1,14,0,0,0,0,19,18,1,0,3,0,0,0,0,0
+FC Dallas,,Atlanta United,Away,US Major League Soccer,2019,3412,4231,2,0,0,0,0,8,6,75.0000,0.0000,1,0,0,0,0,22,0,0,29,21.4285714,0,242,4,0,1,8,0,0,0,0,11,18,5,0,3,0,0,0,0,0
+FC Dallas,,San Jose Earthquakes,Home,US Major League Soccer,2019,433,4141,0,0,0,0,0,11,4,36.3636,0.0000,0,0,0,0,0,13,0,0,41,40.1960784,0,334,6,0,1,4,0,0,0,0,8,9,1,0,1,0,0,0,0,0
+FC Dallas,,Vancouver Whitecaps FC,Home,US Major League Soccer,2019,4231,532,2,0,0,0,0,26,9,34.6154,0.0000,2,0,0,0,0,12,0,0,50,58.8628762,0,432,8,0,0,18,0,0,0,0,5,9,3,0,1,0,0,0,0,0
+FC Dallas,,Houston Dynamo FC,Away,US Major League Soccer,2019,433,4231,1,0,0,0,0,9,6,66.6667,0.0000,2,0,0,0,0,15,0,0,64,51.3392857,0,622,14,0,0,12,0,0,0,0,14,14,4,0,0,0,0,0,0,0
+FC Dallas,,New York Red Bulls,Home,US Major League Soccer,2019,4231,4231,1,0,0,0,0,15,5,33.3333,0.0000,3,0,0,0,0,9,0,0,65,51.6339869,0,582,11,0,1,19,0,0,0,0,11,14,0,0,0,0,0,0,0,0
+FC Dallas,,Los Angeles Football Club,Away,US Major League Soccer,2019,541,433,0,0,0,0,0,6,0,0.0000,0.0000,2,0,0,0,0,27,0,0,50,30.0653594,0,567,13,0,0,4,0,0,0,0,11,10,1,0,0,0,0,0,0,0
+FC Dallas,,Los Angeles Football Club,Home,US Major League Soccer,2019,4231,433,1,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,17,0,0,42,32.5301204,0,315,7,0,0,5,0,0,0,0,15,16,4,1,1,0,0,0,0,0
+FC Dallas,,Vancouver Whitecaps FC,Away,US Major League Soccer,2019,4231,352,1,0,0,0,0,20,4,20.0000,0.0000,2,0,0,0,0,7,0,0,60,77.5362318,0,623,8,0,0,35,0,0,0,0,7,13,1,0,0,0,0,0,0,0
+FC Dallas,,Seattle Sounders FC,Home,US Major League Soccer,2019,4231,4231,2,0,0,0,0,14,1,7.1429,0.0000,1,0,0,0,0,5,0,0,48,48.046875,0,459,9,0,0,18,0,0,0,0,8,11,4,0,3,0,0,0,0,0
+FC Dallas,,San Jose Earthquakes,Away,US Major League Soccer,2019,4231,4231,2,0,0,0,0,11,2,18.1818,0.0000,2,0,0,0,0,15,0,0,42,36.3265306,0,372,6,0,1,7,0,0,0,0,11,9,2,0,1,0,0,0,0,0
+FC Dallas,,Toronto FC,Home,US Major League Soccer,2019,4231,541,3,0,0,0,0,22,12,54.5455,0.0000,0,0,0,0,0,6,0,0,56,51.4285714,0,574,6,0,1,15,0,0,0,0,6,11,0,0,3,0,0,0,0,0
+FC Dallas,,New England Revolution,Home,US Major League Soccer,2019,433,4411,1,0,0,0,0,9,3,33.3333,0.0000,1,0,0,0,0,9,0,0,68,46.25,0,680,9,0,0,6,0,0,0,0,22,16,2,0,1,0,0,0,0,0
+FC Dallas,,Portland Timbers,Away,US Major League Soccer,2019,4231,4231,0,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,17,0,0,54,41.3793103,0,536,11,0,1,12,0,0,0,0,14,7,2,0,0,0,0,0,0,0
+FC Dallas,,D.C. United,Home,US Major League Soccer,2019,4231,4231,2,0,0,0,0,23,9,39.1304,0.0000,0,0,0,0,0,7,0,0,58,62.1495327,0,479,14,0,0,22,0,0,0,0,17,16,2,0,3,0,0,0,0,0
+FC Dallas,,Minnesota United FC,Away,US Major League Soccer,2019,4231,4231,0,0,0,0,0,16,6,37.5000,0.0000,1,0,0,0,0,12,0,0,56,53.6885245,0,463,12,0,1,14,0,0,0,0,11,11,3,0,0,0,0,0,0,0
+FC Dallas,,LA Galaxy,Home,US Major League Soccer,2019,433,4141,2,0,0,0,0,12,4,33.3333,0.0000,0,0,0,0,0,11,0,0,64,60.0806451,0,641,8,0,0,9,0,0,0,0,13,7,2,0,3,0,0,0,0,0
+FC Dallas,,Sporting Kansas City,Away,US Major League Soccer,2019,4231,433,2,0,0,0,0,13,6,46.1538,0.0000,0,0,0,0,0,18,0,0,45,39.2241379,0,384,13,0,0,5,0,0,0,0,11,15,2,0,3,0,0,0,0,0
+FC Dallas,,Real Salt Lake,Home,US Major League Soccer,2019,4231,4231,0,0,0,0,0,10,2,20.0000,0.0000,0,0,0,0,0,17,0,0,50,47.9838709,0,487,13,0,0,17,0,0,0,0,10,15,2,0,1,0,0,0,0,0
+FC Dallas,,Orlando City SC,Away,US Major League Soccer,2019,4231,433,0,0,0,0,0,11,3,27.2727,0.0000,2,0,0,0,0,9,0,0,64,59.9156118,0,516,14,0,1,16,0,0,0,0,13,16,4,0,0,0,0,0,0,0

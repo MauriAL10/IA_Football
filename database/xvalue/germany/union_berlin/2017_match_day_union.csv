@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+1. FC Union Berlin,,SSV Jahn Regensburg,Home,2.Bundesliga,2017,3412,-1,2,0,0,0,0,18,4,22.2222,0.0000,2,0,0,0,0,10,0,0,52,52.7777777,0,399,7,0,0,16,0,0,0,0,14,13,0,0,1,0,0,0,0,0
+1. FC Union Berlin,,Holstein Kiel,Away,2.Bundesliga,2017,4231,-1,2,0,0,0,0,13,8,61.5385,0.0000,2,0,0,0,0,9,0,0,59,52.2123893,0,501,11,0,1,19,0,0,0,0,12,19,2,0,1,0,0,0,0,0
+1. FC Union Berlin,,1. FC Nürnberg,Home,2.Bundesliga,2017,4231,-1,0,0,0,0,0,11,3,27.2727,0.0000,1,0,0,0,0,11,0,0,61,59.2436974,0,616,10,0,0,12,0,0,0,0,13,11,0,2,0,0,0,0,0,0
+1. FC Union Berlin,,Arminia Bielefeld,Away,2.Bundesliga,2017,3142,-1,1,0,0,0,0,11,5,45.4545,0.0000,1,0,0,0,0,17,0,0,57,41.7391304,0,534,8,0,0,20,0,0,0,0,13,12,0,0,1,0,0,0,0,0
+1. FC Union Berlin,,Fortuna Düsseldorf,Home,2.Bundesliga,2017,3142,-1,3,0,0,0,0,24,7,29.1667,0.0000,1,0,0,0,0,5,0,0,59,66.2650602,0,387,11,0,1,32,0,0,0,0,20,13,3,0,3,0,0,0,0,0
+1. FC Union Berlin,,Eintracht Braunschweig,Away,2.Bundesliga,2017,3142,-1,0,0,0,0,0,14,5,35.7143,0.0000,1,0,0,0,0,13,0,0,66,55.2511415,0,541,10,0,0,17,0,0,0,0,8,14,2,0,0,0,0,0,0,0
+1. FC Union Berlin,,SV Sandhausen,Home,2.Bundesliga,2017,4231,-1,2,0,0,0,0,9,2,22.2222,0.0000,1,0,0,0,0,0,0,0,56,47.4654377,0,415,11,0,0,15,0,0,0,0,19,14,1,0,3,0,0,0,0,0
+1. FC Union Berlin,,1. FC Kaiserslautern,Away,2.Bundesliga,2017,3142,-1,3,0,0,0,0,11,6,54.5455,0.0000,4,0,0,0,0,12,0,0,68,65.8362989,0,593,3,0,0,25,0,0,0,0,16,11,0,0,0,0,0,0,0,0
+1. FC Union Berlin,,FC Erzgebirge Aue,Home,2.Bundesliga,2017,433,-1,0,0,0,0,0,17,4,23.5294,0.0000,0,0,0,0,0,13,0,0,56,67.2489082,0,527,9,0,0,14,0,0,0,0,20,8,1,0,1,0,0,0,0,0
+1. FC Union Berlin,,FC Ingolstadt 04,Home,2.Bundesliga,2017,4231,-1,1,0,0,0,0,16,4,25.0000,0.0000,2,0,0,0,0,11,0,0,55,52.0912547,0,416,9,0,0,24,0,0,0,0,12,15,2,0,0,0,0,0,0,0
+1. FC Union Berlin,,SpVgg Greuther Fürth,Away,2.Bundesliga,2017,3412,-1,1,0,0,0,0,15,2,13.3333,93.3333,2,0,0,0,0,13,0,0,58,57.0895522,0,510,4,0,0,18,0,0,0,0,12,12,1,0,0,0,0,0,0,0
+1. FC Union Berlin,,MSV Duisburg,Home,2.Bundesliga,2017,3412,-1,0,0,0,0,0,12,3,25.0000,0.0000,0,0,0,0,0,4,0,0,59,61.7977528,0,459,5,0,0,21,0,0,0,0,20,19,1,0,1,0,0,0,0,0
+1. FC Union Berlin,,FC St. Pauli,Away,2.Bundesliga,2017,3412,-1,1,0,0,0,0,11,2,18.1818,0.0000,0,0,0,0,0,9,0,0,45,43.0188679,0,392,12,0,1,15,0,0,0,0,11,15,2,1,3,0,0,0,0,0
+1. FC Union Berlin,,1. FC Heidenheim 1846,Home,2.Bundesliga,2017,4312,-1,1,0,0,0,0,11,5,45.4545,0.0000,1,0,0,0,0,9,0,0,64,57.4358974,0,491,5,0,0,13,0,0,0,0,20,10,1,0,1,0,0,0,0,0
+1. FC Union Berlin,,SV Darmstadt 98,Away,2.Bundesliga,2017,4231,-1,1,0,0,0,0,15,5,33.3333,0.0000,3,0,0,0,0,10,0,0,61,58.9211618,0,495,1,0,0,20,0,0,0,0,12,13,3,0,0,0,0,0,0,0
+1. FC Union Berlin,,VfL Bochum 1848,Home,2.Bundesliga,2017,4231,-1,3,0,0,0,0,26,7,26.9231,0.0000,1,0,0,0,0,8,0,0,45,58.8014981,0,328,6,0,3,23,0,0,0,0,7,15,3,0,3,0,0,0,0,0
+1. FC Union Berlin,,SG Dynamo Dresden,Away,2.Bundesliga,2017,4231,-1,1,0,0,0,0,12,4,33.3333,0.0000,0,0,0,0,0,14,0,0,52,45.8715596,0,452,8,0,0,12,0,0,0,0,7,8,1,0,3,0,0,0,0,0
+1. FC Union Berlin,,SSV Jahn Regensburg,Away,2.Bundesliga,2017,4231,-1,2,0,0,0,0,15,6,40.0000,0.0000,0,0,0,0,0,20,0,0,47,42.0074349,0,354,9,0,0,12,0,0,0,0,15,13,2,0,3,0,0,0,0,0
+1. FC Union Berlin,,Holstein Kiel,Home,2.Bundesliga,2017,4231,-1,4,0,0,0,0,15,8,53.3333,393.3333,3,0,0,0,0,13,0,0,54,51.7374517,0,448,10,0,1,10,0,0,0,0,15,17,2,0,3,0,0,0,0,0
+1. FC Union Berlin,,1. FC Nürnberg,Away,2.Bundesliga,2017,4231,-1,2,0,0,0,0,11,4,36.3636,0.0000,2,0,0,0,0,18,0,0,42,41.8367346,0,331,4,0,1,18,0,0,0,0,17,20,1,1,1,0,0,0,0,0
+1. FC Union Berlin,,Arminia Bielefeld,Home,2.Bundesliga,2017,4231,-1,1,0,0,0,0,22,7,31.8182,0.0000,1,0,0,0,0,13,0,0,59,65.8730158,0,477,2,0,2,33,0,0,0,0,18,12,1,0,1,0,0,0,0,0
+1. FC Union Berlin,,Fortuna Düsseldorf,Away,2.Bundesliga,2017,4231,-1,2,0,0,0,0,7,4,57.1429,0.0000,3,0,0,0,0,18,0,0,57,43.2098765,0,412,11,0,0,13,0,0,0,0,17,23,3,0,0,0,0,0,0,0
+1. FC Union Berlin,,Eintracht Braunschweig,Home,2.Bundesliga,2017,4231,-1,1,0,0,0,0,23,6,26.0870,0.0000,1,0,0,0,0,14,0,0,58,62.9343629,0,510,2,0,6,17,0,0,0,0,9,11,2,0,1,0,0,0,0,0
+1. FC Union Berlin,,SV Sandhausen,Away,2.Bundesliga,2017,4231,-1,0,0,0,0,0,9,2,22.2222,0.0000,1,0,0,0,0,8,0,0,59,55,0,547,2,0,0,13,0,0,0,0,11,17,2,0,0,0,0,0,0,0
+1. FC Union Berlin,,1. FC Kaiserslautern,Home,2.Bundesliga,2017,4231,-1,5,0,0,0,0,21,11,52.3810,0.0000,0,0,0,0,0,10,0,0,54,46.0829493,0,444,5,0,1,11,0,0,0,0,22,16,2,0,3,0,0,0,0,0
+1. FC Union Berlin,,FC Erzgebirge Aue,Away,2.Bundesliga,2017,4231,-1,2,0,0,0,0,8,2,25.0000,0.0000,1,0,0,0,0,14,0,0,46,51.8181818,0,406,3,0,0,19,0,0,0,0,6,17,1,0,3,0,0,0,0,0
+1. FC Union Berlin,,FC Ingolstadt 04,Away,2.Bundesliga,2017,4231,-1,1,0,0,0,0,13,3,23.0769,0.0000,0,0,0,0,0,12,0,0,55,42.804428,0,414,7,0,0,8,0,0,0,0,14,21,3,0,3,0,0,0,0,0
+1. FC Union Berlin,,SpVgg Greuther Fürth,Home,2.Bundesliga,2017,4231,-1,3,0,0,0,0,16,11,68.7500,0.0000,1,0,0,0,0,11,0,0,45,46.4150943,0,416,11,0,3,10,0,0,0,0,15,13,0,0,3,0,0,0,0,0
+1. FC Union Berlin,,MSV Duisburg,Away,2.Bundesliga,2017,4231,-1,1,0,0,0,0,10,3,30.0000,0.0000,1,0,0,0,0,10,0,0,50,47.7777777,0,420,6,0,0,10,0,0,0,0,10,20,2,0,1,0,0,0,0,0
+1. FC Union Berlin,,FC St. Pauli,Home,2.Bundesliga,2017,4231,-1,1,0,0,0,0,13,3,23.0769,0.0000,0,0,0,0,0,10,0,0,55,60.4255319,0,467,7,0,0,14,0,0,0,0,13,15,1,0,3,0,0,0,0,0
+1. FC Union Berlin,,1. FC Heidenheim 1846,Away,2.Bundesliga,2017,433,-1,3,0,0,0,0,16,9,56.2500,0.0000,4,0,0,0,0,20,0,0,56,48.1060606,0,428,15,0,2,23,0,0,0,0,15,12,2,0,0,0,0,0,0,0
+1. FC Union Berlin,,SV Darmstadt 98,Home,2.Bundesliga,2017,4231,-1,3,0,0,0,0,10,6,60.0000,0.0000,3,0,0,0,0,9,0,0,58,58.4745762,0,473,7,0,2,19,0,0,0,0,18,17,2,0,1,0,0,0,0,0
+1. FC Union Berlin,,VfL Bochum 1848,Away,2.Bundesliga,2017,4231,-1,1,0,0,0,0,9,2,22.2222,0.0000,2,0,0,0,0,23,0,0,46,41.6666666,0,387,6,0,2,9,0,0,0,0,16,16,2,0,0,0,0,0,0,0
+1. FC Union Berlin,,SG Dynamo Dresden,Home,2.Bundesliga,2017,4141,-1,0,0,0,0,0,14,2,14.2857,0.0000,1,0,0,0,0,15,0,0,45,47.6394849,0,387,9,0,0,15,0,0,0,0,13,13,1,0,0,0,0,0,0,0

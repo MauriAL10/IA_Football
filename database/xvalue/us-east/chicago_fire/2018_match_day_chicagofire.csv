@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Chicago Fire FC,,D.C. United,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,11,2,18.1818,0.0000,0,0,0,0,0,9,0,0,56,47.0119521,0,414,5,0,0,29,0,0,0,0,11,19,2,0,1,0,0,0,0,0
+Chicago Fire FC,,CF Montréal,Away,US Major League Soccer,2018,3421,433,1,0,0,0,0,6,2,33.3333,0.0000,2,0,0,0,0,12,0,0,42,41.826923,0,366,2,0,0,11,0,0,0,0,7,17,2,0,0,0,0,0,0,0
+Chicago Fire FC,,Orlando City SC,Home,US Major League Soccer,2018,4231,4231,4,0,0,0,0,16,6,37.5000,0.0000,0,0,0,0,0,11,0,0,54,46.4406779,0,510,4,0,0,19,0,0,0,0,10,12,1,0,3,0,0,0,0,0
+Chicago Fire FC,,Minnesota United FC,Away,US Major League Soccer,2018,4231,4231,1,0,0,0,0,11,5,45.4545,0.0000,2,0,0,0,0,11,0,0,43,39.0977443,0,419,13,0,1,14,0,0,0,0,8,17,2,0,0,0,0,0,0,0
+Chicago Fire FC,,New England Revolution,Away,US Major League Soccer,2018,4231,4231,2,0,0,0,0,8,5,62.5000,0.0000,2,0,0,0,0,19,0,0,34,36.3636363,0,273,6,0,0,8,0,0,0,0,16,16,2,0,1,0,0,0,0,0
+Chicago Fire FC,,New York City FC,Away,US Major League Soccer,2018,4231,4312,0,0,0,0,0,8,2,25.0000,0.0000,2,0,0,0,0,19,0,0,43,41.8181818,0,449,3,0,1,21,0,0,0,0,5,9,0,0,0,0,0,0,0,0
+Chicago Fire FC,,Los Angeles Football Club,Home,US Major League Soccer,2018,4231,433,3,0,0,0,0,9,4,44.4444,0.0000,1,0,0,0,0,16,0,0,34,24.8979591,0,299,2,0,0,7,0,0,0,0,9,23,5,0,3,0,0,0,0,0
+Chicago Fire FC,,D.C. United,Away,US Major League Soccer,2018,4231,4231,1,0,0,0,0,10,3,30.0000,0.0000,2,0,0,0,0,16,0,0,44,36.8644067,0,438,2,0,0,19,0,0,0,0,6,13,1,0,0,0,0,0,0,0
+Chicago Fire FC,,Atlanta United,Away,US Major League Soccer,2018,4231,4141,1,0,0,0,0,7,1,14.2857,85.7143,2,0,0,0,0,14,0,0,50,50.2392344,0,449,8,0,3,18,0,0,0,0,11,11,1,0,0,0,0,0,0,0
+Chicago Fire FC,,New York Red Bulls,Home,US Major League Soccer,2018,3421,4231,0,0,0,0,0,6,1,16.6667,0.0000,1,0,0,0,0,7,0,0,53,52.8089887,0,454,5,0,1,17,0,0,0,0,9,18,2,0,0,0,0,0,0,0
+Chicago Fire FC,,Portland Timbers,Home,US Major League Soccer,2018,4231,4321,2,0,0,0,0,12,3,25.0000,0.0000,2,0,0,0,0,8,0,0,54,54.5454545,0,475,16,0,1,30,0,0,0,0,9,9,1,0,1,0,0,0,0,0
+Chicago Fire FC,,Columbus Crew,Home,US Major League Soccer,2018,3412,4231,1,0,0,0,0,5,1,20.0000,0.0000,0,0,0,0,0,21,0,0,36,39.047619,0,327,9,0,0,8,0,0,0,0,6,11,3,0,3,0,0,0,0,0
+Chicago Fire FC,,LA Galaxy,Home,US Major League Soccer,2018,532,442,0,0,0,0,0,7,4,57.1429,0.0000,1,0,0,0,0,8,0,0,59,55.8232931,0,518,10,0,1,25,0,0,0,0,11,10,2,0,0,0,0,0,0,0
+Chicago Fire FC,,New York Red Bulls,Away,US Major League Soccer,2018,343,4231,2,0,0,0,0,4,3,75.0000,0.0000,1,0,0,0,0,22,0,0,37,19.4444444,0,345,11,0,1,5,0,0,0,0,5,11,2,0,3,0,0,0,0,0
+Chicago Fire FC,,Toronto FC,Away,US Major League Soccer,2018,532,4141,2,0,0,0,0,17,8,47.0588,0.0000,2,0,0,0,0,15,0,0,50,40.8,0,444,7,0,5,18,0,0,0,0,7,12,1,0,1,0,0,0,0,0
+Chicago Fire FC,,Toronto FC,Away,US Major League Soccer,2018,433,3142,0,0,0,0,0,7,3,42.8571,0.0000,3,0,0,0,0,20,0,0,40,28.9795918,0,394,0,0,0,11,0,0,0,0,10,16,1,0,0,0,0,0,0,0
+Chicago Fire FC,,Columbus Crew,Home,US Major League Soccer,2018,3421,4231,1,0,0,0,0,11,3,27.2727,0.0000,1,0,0,0,0,12,0,0,46,40.4878048,0,495,4,0,1,8,0,0,0,0,7,10,3,0,1,0,0,0,0,0
+Chicago Fire FC,,Seattle Sounders FC,Away,US Major League Soccer,2018,433,4231,1,0,0,0,0,15,7,46.6667,0.0000,1,0,0,0,0,18,0,0,46,47.2340425,0,421,14,0,3,20,0,0,0,0,7,11,3,0,1,0,0,0,0,0
+Chicago Fire FC,,CF Montréal,Home,US Major League Soccer,2018,4312,433,1,0,0,0,0,12,5,41.6667,0.0000,0,0,0,0,0,14,0,0,62,46.3541666,0,581,11,0,1,21,0,0,0,0,11,16,2,0,3,0,0,0,0,0
+Chicago Fire FC,,Columbus Crew,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,11,4,36.3636,0.0000,3,0,0,0,0,19,0,0,45,36.7924528,0,480,6,0,1,14,0,0,0,0,6,3,1,0,0,0,0,0,0,0
+Chicago Fire FC,,Houston Dynamo FC,Home,US Major League Soccer,2018,433,4231,2,0,0,0,0,4,3,75.0000,0.0000,3,0,0,0,0,13,0,0,53,52.0930232,0,477,10,0,1,13,0,0,0,0,11,10,3,0,0,0,0,0,0,0
+Chicago Fire FC,,Orlando City SC,Away,US Major League Soccer,2018,343,4231,2,0,0,0,0,10,4,40.0000,0.0000,1,0,0,0,0,21,0,0,40,25.5319148,0,338,10,0,1,13,0,0,0,0,13,14,2,0,3,0,0,0,0,0
+Chicago Fire FC,,Philadelphia Union,Away,US Major League Soccer,2018,532,4231,1,0,0,0,0,10,8,80.0000,0.0000,3,0,0,0,0,17,0,0,56,56.6964285,0,531,18,0,2,14,0,0,0,0,11,11,1,0,0,0,0,0,0,0
+Chicago Fire FC,,San Jose Earthquakes,Home,US Major League Soccer,2018,433,442,2,0,0,0,0,13,5,38.4615,0.0000,1,0,0,0,0,14,0,0,47,50.4237288,0,438,11,0,1,10,0,0,0,0,8,17,1,0,3,0,0,0,0,0
+Chicago Fire FC,,New England Revolution,Home,US Major League Soccer,2018,433,4231,1,0,0,0,0,11,2,18.1818,0.0000,1,0,0,0,0,18,0,0,50,40.2985074,0,383,13,0,0,7,0,0,0,0,13,10,0,0,1,0,0,0,0,0
+Chicago Fire FC,,Colorado Rapids,Away,US Major League Soccer,2018,433,352,2,0,0,0,0,13,4,30.7692,0.0000,2,0,0,0,0,13,0,0,65,64.159292,0,547,7,0,3,10,0,0,0,0,19,11,3,1,1,0,0,0,0,0
+Chicago Fire FC,,Atlanta United,Home,US Major League Soccer,2018,41212,3412,1,0,0,0,0,14,3,21.4286,0.0000,2,0,0,0,0,10,0,0,50,54.8387096,0,425,8,0,0,24,0,0,0,0,8,10,2,0,0,0,0,0,0,0
+Chicago Fire FC,,New York City FC,Home,US Major League Soccer,2018,433,4231,3,0,0,0,0,5,5,100.0000,0.0000,2,0,0,0,0,20,0,0,32,22.1428571,0,336,5,0,1,4,0,0,0,0,5,12,3,0,3,0,0,0,0,0
+Chicago Fire FC,,Vancouver Whitecaps FC,Away,US Major League Soccer,2018,433,442,2,0,0,0,0,17,4,23.5294,0.0000,3,0,0,0,0,14,0,0,65,70.5069124,0,613,8,0,0,27,0,0,0,0,8,7,2,0,0,0,0,0,0,0
+Chicago Fire FC,,Sporting Kansas City,Home,US Major League Soccer,2018,4231,433,3,0,0,0,0,13,6,46.1538,0.0000,4,0,0,0,0,16,0,0,54,49.3087557,0,461,13,0,0,15,0,0,0,0,18,9,2,0,0,0,0,0,0,0
+Chicago Fire FC,,Philadelphia Union,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,11,6,54.5455,0.0000,4,0,0,0,0,13,0,0,60,48.4375,0,536,14,0,0,10,0,0,0,0,12,9,2,0,0,0,0,0,0,0
+Chicago Fire FC,,FC Dallas,Away,US Major League Soccer,2018,4231,4231,1,0,0,0,0,5,1,20.0000,0.0000,3,0,0,0,0,23,0,0,40,33.3333333,0,363,11,0,0,12,0,0,0,0,3,10,0,1,0,0,0,0,0,0
+Chicago Fire FC,,Toronto FC,Home,US Major League Soccer,2018,4231,3142,1,0,0,0,0,11,2,18.1818,0.0000,2,0,0,0,0,10,0,0,47,38.3399209,0,491,1,0,0,16,0,0,0,0,7,5,1,0,0,0,0,0,0,0
+Chicago Fire FC,,Real Salt Lake,Away,US Major League Soccer,2018,541,4231,1,0,0,0,0,11,4,36.3636,0.0000,2,0,0,0,0,15,0,0,34,41.1111111,0,254,13,0,0,16,0,0,0,0,3,14,2,0,0,0,0,0,0,0

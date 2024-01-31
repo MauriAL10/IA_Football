@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Seattle Sounders FC,,Orlando City SC,Away,US Major League Soccer,2018,4231,4231,2,0,0,0,0,9,3,33.3333,0.0000,1,0,0,0,0,15,0,0,46,40.4320987,0,472,2,0,1,9,0,0,0,0,9,8,2,0,3,0,0,0,0,0
+Seattle Sounders FC,,LA Galaxy,Home,US Major League Soccer,2018,4231,3412,5,0,0,0,0,19,6,31.5789,0.0000,0,0,0,0,0,14,0,0,51,57.3275862,0,503,7,0,1,13,0,0,0,0,13,9,0,0,3,0,0,0,0,0
+Seattle Sounders FC,,Sporting Kansas City,Home,US Major League Soccer,2018,4231,433,3,0,0,0,0,9,3,33.3333,0.0000,1,0,0,0,0,19,0,0,39,36.1445783,0,317,4,0,2,12,0,0,0,0,16,14,2,0,3,0,0,0,0,0
+Seattle Sounders FC,,Vancouver Whitecaps FC,Away,US Major League Soccer,2018,4231,442,2,0,0,0,0,7,5,71.4286,0.0000,1,0,0,0,0,22,0,0,48,47.7815699,0,434,6,0,0,18,0,0,0,0,11,5,2,0,3,0,0,0,0,0
+Seattle Sounders FC,,FC Dallas,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,12,3,25.0000,0.0000,3,0,0,0,0,19,0,0,47,45.2554744,0,466,8,0,0,9,0,0,0,0,9,11,4,1,0,0,0,0,0,0
+Seattle Sounders FC,,Philadelphia Union,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,16,4,25.0000,0.0000,1,0,0,0,0,8,0,0,66,67.0886075,0,585,3,0,3,25,0,0,0,0,18,9,0,0,0,0,0,0,0,0
+Seattle Sounders FC,,LA Galaxy,Away,US Major League Soccer,2018,442,442,0,0,0,0,0,14,1,7.1429,0.0000,3,0,0,0,0,11,0,0,55,63.2508833,0,528,2,0,0,23,0,0,0,0,8,11,0,0,0,0,0,0,0,0
+Seattle Sounders FC,,Colorado Rapids,Home,US Major League Soccer,2018,4231,4312,4,0,0,0,0,18,7,38.8889,0.0000,0,0,0,0,0,8,0,0,64,76.2376237,0,591,2,0,1,16,0,0,0,0,15,15,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,Houston Dynamo FC,Home,US Major League Soccer,2018,4231,4312,4,0,0,0,0,13,5,38.4615,0.0000,1,0,0,0,0,11,0,0,48,47.8688524,0,420,8,0,0,17,0,0,0,0,10,8,0,0,3,0,0,0,0,0
+Seattle Sounders FC,,FC Dallas,Home,US Major League Soccer,2018,4231,4231,2,0,0,0,0,13,4,30.7692,0.0000,1,0,0,0,0,7,0,0,55,53.9419087,0,457,6,0,0,32,0,0,0,0,11,10,2,0,3,0,0,0,0,0
+Seattle Sounders FC,,Houston Dynamo FC,Away,US Major League Soccer,2018,4231,4231,3,0,0,0,0,15,6,40.0000,0.0000,2,0,0,0,0,22,0,0,46,53.2520325,0,352,12,0,1,14,0,0,0,0,12,12,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,San Jose Earthquakes,Home,US Major League Soccer,2018,4231,442,2,0,0,0,0,17,6,35.2941,194.1176,1,0,0,0,0,8,0,0,58,68.3168316,0,554,8,0,1,35,0,0,0,0,15,9,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,CF Montréal,Home,US Major League Soccer,2018,4231,3142,0,0,0,0,0,13,4,30.7692,0.0000,1,0,0,0,0,7,0,0,47,50,0,452,14,0,1,29,0,0,0,0,17,12,1,1,0,0,0,0,0,0
+Seattle Sounders FC,,Sporting Kansas City,Away,US Major League Soccer,2018,4231,433,2,0,0,0,0,10,3,30.0000,0.0000,2,0,0,0,0,12,0,0,41,37.8486055,0,444,8,0,0,12,0,0,0,0,13,7,3,0,1,0,0,0,0,0
+Seattle Sounders FC,,Minnesota United FC,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,16,7,43.7500,0.0000,1,0,0,0,0,12,0,0,51,57.7319587,0,509,6,0,2,18,0,0,0,0,9,12,2,0,3,0,0,0,0,0
+Seattle Sounders FC,,Los Angeles Football Club,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,13,6,46.1538,0.0000,1,0,0,0,0,15,0,0,50,43.6619718,0,473,3,0,3,17,0,0,0,0,10,16,2,0,0,0,0,0,0,0
+Seattle Sounders FC,,Portland Timbers,Away,US Major League Soccer,2018,4231,4321,1,0,0,0,0,6,2,33.3333,0.0000,0,0,0,0,0,22,0,0,45,44.4816053,0,412,5,0,1,13,0,0,0,0,9,11,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,Portland Timbers,Home,US Major League Soccer,2018,4231,4321,2,0,0,0,0,11,5,45.4545,0.0000,3,0,0,0,0,16,0,0,57,61.7543859,0,493,10,0,2,30,0,0,0,0,14,13,3,0,0,0,0,0,0,0
+Seattle Sounders FC,,Columbus Crew,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,17,1,5.8824,0.0000,0,0,0,0,0,5,0,0,65,80.9677419,0,633,9,0,0,43,0,0,0,0,10,10,1,0,1,0,0,0,0,0
+Seattle Sounders FC,,Toronto FC,Away,US Major League Soccer,2018,541,4141,2,0,0,0,0,9,3,33.3333,0.0000,1,0,0,0,0,24,0,0,33,34.1389728,0,325,10,0,1,6,0,0,0,0,3,12,3,0,3,0,0,0,0,0
+Seattle Sounders FC,,Portland Timbers,Away,US Major League Soccer,2018,541,4321,0,0,0,0,0,5,1,20.0000,0.0000,1,0,0,0,0,10,0,0,49,43.9688715,0,456,8,0,2,12,0,0,0,0,6,6,3,0,0,0,0,0,0,0
+Seattle Sounders FC,,Real Salt Lake,Home,US Major League Soccer,2018,4141,433,0,0,0,0,0,10,3,30.0000,0.0000,1,0,0,0,0,6,0,0,46,55.2036199,0,410,3,0,0,18,0,0,0,0,16,11,2,0,0,0,0,0,0,0
+Seattle Sounders FC,,Real Salt Lake,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,5,0,0.0000,0.0000,2,0,0,0,0,18,0,0,47,33.7899543,0,376,5,0,4,14,0,0,0,0,11,8,2,0,0,0,0,0,0,0
+Seattle Sounders FC,,D.C. United,Home,US Major League Soccer,2018,4231,4141,2,0,0,0,0,15,6,40.0000,0.0000,1,0,0,0,0,13,0,0,57,62.8252788,0,540,9,0,1,20,0,0,0,0,13,10,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,New York Red Bulls,Away,US Major League Soccer,2018,541,4231,1,0,0,0,0,11,5,45.4545,0.0000,2,0,0,0,0,22,0,0,43,35.064935,0,386,8,0,1,8,0,0,0,0,16,12,3,0,0,0,0,0,0,0
+Seattle Sounders FC,,Chicago Fire FC,Home,US Major League Soccer,2018,4231,433,1,0,0,0,0,18,8,44.4444,0.0000,1,0,0,0,0,15,0,0,54,52.7659574,0,501,12,0,0,20,0,0,0,0,10,8,2,0,1,0,0,0,0,0
+Seattle Sounders FC,,Los Angeles Football Club,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,22,7,31.8182,0.0000,1,0,0,0,0,5,0,0,60,62.3333333,0,567,9,0,0,31,0,0,0,0,11,12,1,1,0,0,0,0,0,0
+Seattle Sounders FC,,Colorado Rapids,Away,US Major League Soccer,2018,4231,3421,2,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,11,0,0,56,51.4056224,0,471,7,0,1,19,0,0,0,0,23,10,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,New England Revolution,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,6,1,16.6667,0.0000,0,0,0,0,0,9,0,0,45,37.5494071,0,380,12,0,0,11,0,0,0,0,14,11,3,0,1,0,0,0,0,0
+Seattle Sounders FC,,Atlanta United,Away,US Major League Soccer,2018,4231,4231,1,0,0,0,0,8,3,37.5000,0.0000,1,0,0,0,0,19,0,0,31,23.183391,0,271,9,0,1,9,0,0,0,0,11,13,1,1,1,0,0,0,0,0
+Seattle Sounders FC,,Vancouver Whitecaps FC,Home,US Major League Soccer,2018,4231,433,2,0,0,0,0,14,3,21.4286,0.0000,0,0,0,0,0,9,0,0,54,64.3410852,0,527,7,0,1,14,0,0,0,0,17,17,1,0,3,0,0,0,0,0
+Seattle Sounders FC,,San Jose Earthquakes,Away,US Major League Soccer,2018,4231,442,1,0,0,0,0,10,2,20.0000,0.0000,0,0,0,0,0,13,0,0,52,40.9090909,0,549,2,0,0,11,0,0,0,0,9,6,0,0,3,0,0,0,0,0
+Seattle Sounders FC,,New York City FC,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,14,5,35.7143,0.0000,1,0,0,0,0,17,0,0,42,42.3357664,0,444,3,0,0,13,0,0,0,0,9,9,0,0,3,0,0,0,0,0
+Seattle Sounders FC,,Minnesota United FC,Away,US Major League Soccer,2018,4231,3142,2,0,0,0,0,23,5,21.7391,0.0000,1,0,0,0,0,12,0,0,64,74.5318352,0,584,4,0,2,28,0,0,0,0,13,10,2,0,3,0,0,0,0,0

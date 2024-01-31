@@ -1,0 +1,34 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+D.C. United,,New York Red Bulls,Home,US Major League Soccer,2017,4231,4231,1,0,0,0,0,16,3,18.7500,0.0000,2,0,0,0,0,9,0,0,49,41.0041841,0,354,19,0,0,21,0,0,0,0,13,10,0,1,0,0,0,0,0,0
+D.C. United,,Colorado Rapids,Away,US Major League Soccer,2017,4231,433,1,0,0,0,0,14,6,42.8571,0.0000,0,0,0,0,0,18,0,0,39,43.75,0,346,7,0,0,12,0,0,0,0,11,11,2,0,3,0,0,0,0,0
+D.C. United,,New England Revolution,Home,US Major League Soccer,2017,4231,4231,1,0,0,0,0,14,6,42.8571,0.0000,0,0,0,0,0,15,0,0,50,46.8227424,0,423,7,0,2,21,0,0,0,0,13,7,2,0,3,0,0,0,0,0
+D.C. United,,Orlando City SC,Home,US Major League Soccer,2017,4231,4312,1,0,0,0,0,18,5,27.7778,0.0000,2,0,0,0,0,11,0,0,59,57.0850202,0,377,8,0,0,29,0,0,0,0,18,16,4,0,0,0,0,0,0,0
+D.C. United,,Chicago Fire FC,Away,US Major League Soccer,2017,4231,4231,0,0,0,0,0,9,5,55.5556,0.0000,3,0,0,0,0,22,0,0,58,60.5042016,0,502,9,0,1,17,0,0,0,0,12,4,0,0,0,0,0,0,0,0
+D.C. United,,San Jose Earthquakes,Home,US Major League Soccer,2017,4231,442,4,0,0,0,0,14,8,57.1429,0.0000,0,0,0,0,0,10,0,0,49,61.1607142,0,454,12,0,1,12,0,0,0,0,7,17,0,0,3,0,0,0,0,0
+D.C. United,,Columbus Crew,Home,US Major League Soccer,2017,433,3421,0,0,0,0,0,13,3,23.0769,0.0000,2,0,0,0,0,7,0,0,53,47.440273,0,470,11,0,0,28,0,0,0,0,11,13,3,0,0,0,0,0,0,0
+D.C. United,,Columbus Crew,Away,US Major League Soccer,2017,4231,4231,0,0,0,0,0,8,2,25.0000,0.0000,2,0,0,0,0,14,0,0,43,38.7218045,0,395,9,0,1,17,0,0,0,0,7,3,1,0,0,0,0,0,0,0
+D.C. United,,Portland Timbers,Away,US Major League Soccer,2017,4231,4231,0,0,0,0,0,7,5,71.4286,0.0000,4,0,0,0,0,17,0,0,45,40.466926,0,420,5,0,1,14,0,0,0,0,5,9,1,0,0,0,0,0,0,0
+D.C. United,,Real Salt Lake,Home,US Major League Soccer,2017,4231,4231,0,0,0,0,0,12,2,16.6667,0.0000,1,0,0,0,0,11,0,0,49,51.8939393,0,373,12,0,0,17,0,0,0,0,14,9,1,0,0,0,0,0,0,0
+D.C. United,,Philadelphia Union,Home,US Major League Soccer,2017,433,4231,2,0,0,0,0,7,3,42.8571,0.0000,1,0,0,0,0,17,0,0,43,41.6988416,0,370,6,0,0,12,0,0,0,0,12,5,1,0,3,0,0,0,0,0
+D.C. United,,New York City FC,Home,US Major League Soccer,2017,4141,433,2,0,0,0,0,12,6,50.0000,0.0000,1,0,0,0,0,15,0,0,34,42.7947598,0,298,12,0,0,10,0,0,0,0,4,14,0,0,3,0,0,0,0,0
+D.C. United,,New York Red Bulls,Away,US Major League Soccer,2017,4141,4222,0,0,0,0,0,12,4,33.3333,0.0000,2,0,0,0,0,15,0,0,44,39.7003745,0,323,7,0,0,17,0,0,0,0,9,16,2,0,0,0,0,0,0,0
+D.C. United,,New England Revolution,Away,US Major League Soccer,2017,4141,41212,2,0,0,0,0,11,6,54.5455,0.0000,2,0,0,0,0,19,0,0,48,46.8253968,0,361,3,0,2,21,0,0,0,0,10,14,1,0,1,0,0,0,0,0
+D.C. United,,Atlanta United,Away,US Major League Soccer,2017,433,4231,3,0,0,0,0,9,7,77.7778,0.0000,1,0,0,0,0,26,0,0,26,26.4492753,0,226,14,0,0,5,0,0,0,0,9,12,2,0,3,0,0,0,0,0
+D.C. United,,Atlanta United,Home,US Major League Soccer,2017,4231,4231,1,0,0,0,0,14,5,35.7143,0.0000,0,0,0,0,0,14,0,0,35,38.9830508,0,275,7,0,0,10,0,0,0,0,14,13,4,0,3,0,0,0,0,0
+D.C. United,,New York Red Bulls,Away,US Major League Soccer,2017,4231,541,3,0,0,0,0,6,2,33.3333,0.0000,3,0,0,0,0,16,0,0,38,31.7829457,0,296,3,0,1,11,0,0,0,0,12,16,3,0,1,0,0,0,0,0
+D.C. United,,Sporting Kansas City,Home,US Major League Soccer,2017,4141,433,0,0,0,0,0,9,6,66.6667,0.0000,0,0,0,0,0,15,0,0,39,45.3333333,0,307,9,0,0,14,0,0,0,0,10,22,2,0,1,0,0,0,0,0
+D.C. United,,Toronto FC,Home,US Major League Soccer,2017,4231,352,1,0,0,0,0,4,1,25.0000,75.0000,1,0,0,0,0,15,0,0,31,25.9938837,0,285,6,0,1,9,0,0,0,0,13,10,1,1,1,0,0,0,0,0
+D.C. United,,Minnesota United FC,Away,US Major League Soccer,2017,4231,4411,0,0,0,0,0,18,5,27.7778,0.0000,4,0,0,0,0,9,0,0,45,53.7162162,0,447,7,0,0,17,0,0,0,0,10,13,1,0,0,0,0,0,0,0
+D.C. United,,Houston Dynamo FC,Home,US Major League Soccer,2017,4231,433,1,0,0,0,0,15,5,33.3333,0.0000,3,0,0,0,0,8,0,0,66,60.7407407,0,516,7,0,0,32,0,0,0,0,14,10,2,0,0,0,0,0,0,0
+D.C. United,,Seattle Sounders FC,Away,US Major League Soccer,2017,4231,4231,3,0,0,0,0,12,8,66.6667,0.0000,4,0,0,0,0,15,0,0,39,44.2804428,0,348,11,0,0,10,0,0,0,0,11,14,1,0,0,0,0,0,0,0
+D.C. United,,New York City FC,Away,US Major League Soccer,2017,4141,433,0,0,0,0,0,13,4,30.7692,0.0000,4,0,0,0,0,9,0,0,39,52.173913,0,381,10,0,0,11,0,0,0,0,15,19,5,0,0,0,0,0,0,0
+D.C. United,,FC Dallas,Away,US Major League Soccer,2017,4231,4231,2,0,0,0,0,10,6,60.0000,0.0000,4,0,0,0,0,21,0,0,39,42.5855513,0,351,8,0,0,16,0,0,0,0,8,8,1,0,0,0,0,0,0,0
+D.C. United,,CF Montréal,Away,US Major League Soccer,2017,4231,4231,0,0,0,0,0,17,2,11.7647,0.0000,2,0,0,0,0,9,0,0,51,61.632653,0,416,17,0,0,30,0,0,0,0,16,10,2,0,0,0,0,0,0,0
+D.C. United,,Philadelphia Union,Away,US Major League Soccer,2017,4231,4231,0,0,0,0,0,11,4,36.3636,0.0000,1,0,0,0,0,8,0,0,51,50,0,371,8,0,1,25,0,0,0,0,13,14,1,0,0,0,0,0,0,0
+D.C. United,,Atlanta United,Home,US Major League Soccer,2017,4231,4231,2,0,0,0,0,17,4,23.5294,0.0000,1,0,0,0,0,15,0,0,45,53.9748953,0,322,8,0,0,12,0,0,0,0,8,14,1,0,3,0,0,0,0,0
+D.C. United,,Toronto FC,Away,US Major League Soccer,2017,4231,352,0,0,0,0,0,10,2,20.0000,0.0000,2,0,0,0,0,21,0,0,44,45.5737704,0,364,4,0,0,17,0,0,0,0,11,10,2,0,0,0,0,0,0,0
+D.C. United,,LA Galaxy,Home,US Major League Soccer,2017,4141,442,0,0,0,0,0,19,6,31.5789,0.0000,0,0,0,0,0,16,0,0,53,52.6104417,0,418,9,0,0,20,0,0,0,0,10,10,1,0,1,0,0,0,0,0
+D.C. United,,Orlando City SC,Away,US Major League Soccer,2017,4231,442,0,0,0,0,0,10,4,40.0000,0.0000,2,0,0,0,0,20,0,0,43,46.031746,0,325,4,0,0,16,0,0,0,0,6,13,2,0,0,0,0,0,0,0
+D.C. United,,Vancouver Whitecaps FC,Away,US Major League Soccer,2017,4141,4141,1,0,0,0,0,7,4,57.1429,0.0000,0,0,0,0,0,22,0,0,47,37.2641509,0,352,4,0,0,6,0,0,0,0,13,13,1,0,3,0,0,0,0,0
+D.C. United,,Chicago Fire FC,Home,US Major League Soccer,2017,442,4231,0,0,0,0,0,10,2,20.0000,0.0000,1,0,0,0,0,16,0,0,42,49.7652582,0,327,2,0,0,24,0,0,0,0,15,21,2,0,0,0,0,0,0,0
+D.C. United,,CF Montréal,Home,US Major League Soccer,2017,4141,4231,0,0,0,0,0,17,2,11.7647,0.0000,1,0,0,0,0,10,0,0,51,57.3991031,0,379,12,0,1,19,0,0,0,0,13,12,0,0,0,0,0,0,0,0

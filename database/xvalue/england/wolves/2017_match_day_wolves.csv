@@ -1,0 +1,47 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Wolverhampton Wanderers,,Leeds United,Away,Championship,2017,343,-1,3,0,0,0,0,18,7,38.8889,0.0000,0,0,0,0,0,6,0,0,54,55.4166666,0,451,21,0,4,18,0,0,0,0,11,9,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Bristol City,Away,Championship,2017,343,-1,2,0,0,0,0,10,3,30.0000,0.0000,1,0,0,0,0,13,0,0,39,41.3461538,0,355,6,0,4,7,0,0,0,0,11,10,1,1,3,0,0,0,0,0
+Wolverhampton Wanderers,,Brentford,Home,Championship,2017,343,-1,3,0,0,0,0,17,10,58.8235,0.0000,0,0,0,0,0,12,0,0,47,42.4369747,0,459,11,0,3,13,0,0,0,0,15,13,2,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Barnsley,Away,Championship,2017,343,-1,0,0,0,0,0,13,0,0.0000,0.0000,0,0,0,0,0,7,0,0,59,60,0,499,13,0,0,25,0,0,0,0,12,9,2,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Nottingham Forest,Home,Championship,2017,343,-1,0,0,0,0,0,6,1,16.6667,0.0000,2,0,0,0,0,5,0,0,63,52.8089887,0,545,19,0,1,36,0,0,0,0,7,16,3,0,0,0,0,0,0,0
+Wolverhampton Wanderers,,Ipswich Town,Away,Championship,2017,343,-1,1,0,0,0,0,16,10,62.5000,0.0000,0,0,0,0,0,12,0,0,41,49.3506493,0,403,12,0,2,10,0,0,0,0,7,15,1,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Sheffield United,Home,Championship,2017,343,-1,3,0,0,0,0,13,4,30.7692,0.0000,0,0,0,0,0,0,0,0,53,49.2063492,0,536,9,0,1,19,0,0,0,0,7,12,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Queens Park Rangers,Home,Championship,2017,343,-1,2,0,0,0,0,13,3,23.0769,0.0000,1,0,0,0,0,14,0,0,52,46.3414634,0,497,6,0,5,16,0,0,0,0,13,8,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Preston North End,Away,Championship,2017,343,-1,1,0,0,0,0,13,4,30.7692,0.0000,1,0,0,0,0,7,0,0,61,63.1386861,0,507,16,0,1,23,0,0,0,0,8,11,0,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Norwich City,Home,Championship,2017,343,-1,2,0,0,0,0,10,3,30.0000,0.0000,2,0,0,0,0,9,0,0,44,40.2214022,0,476,16,0,1,9,0,0,0,0,9,17,3,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Fulham,Away,Championship,2017,343,-1,0,0,0,0,0,12,2,16.6667,0.0000,2,0,0,0,0,14,0,0,47,37.7622377,0,452,12,0,2,11,0,0,0,0,10,11,2,0,0,0,0,0,0,0
+Wolverhampton Wanderers,,Reading,Home,Championship,2017,343,-1,3,0,0,0,0,14,8,57.1429,0.0000,0,0,0,0,0,0,0,0,56,68.2291666,0,583,9,0,4,25,0,0,0,0,11,11,1,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Millwall,Away,Championship,2017,343,-1,2,0,0,0,0,20,8,40.0000,0.0000,2,0,0,0,0,11,0,0,63,56.4393939,0,483,11,0,5,20,0,0,0,0,10,13,3,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Aston Villa,Away,Championship,2017,343,-1,1,0,0,0,0,9,4,44.4444,0.0000,4,0,0,0,0,11,0,0,60,53.4782608,0,546,12,0,1,17,0,0,0,0,13,13,5,0,0,0,0,0,0,0
+Wolverhampton Wanderers,,Burton Albion,Home,Championship,2017,343,-1,3,0,0,0,0,15,5,33.3333,0.0000,1,0,0,0,0,3,0,0,71,68.7179487,0,750,10,0,8,10,0,0,0,0,13,10,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Middlesbrough,Away,Championship,2017,343,-1,2,0,0,0,0,7,6,85.7143,0.0000,1,0,0,0,0,17,0,0,45,37.9746835,0,339,2,0,0,9,0,0,0,0,10,13,3,2,3,0,0,0,0,0
+Wolverhampton Wanderers,,Hull City,Home,Championship,2017,3421,-1,2,0,0,0,0,12,5,41.6667,191.6667,2,0,0,0,0,11,0,0,59,59.4142259,0,516,13,0,1,20,0,0,0,0,12,13,0,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Cardiff City,Away,Championship,2017,3412,-1,1,0,0,0,0,13,6,46.1538,0.0000,0,0,0,0,0,16,0,0,61,43.3333333,0,471,12,0,0,4,0,0,0,0,6,11,3,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Derby County,Home,Championship,2017,3421,-1,2,0,0,0,0,12,5,41.6667,0.0000,0,0,0,0,0,0,0,0,57,57.6354679,0,544,11,0,1,24,0,0,0,0,10,11,1,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Birmingham City,Home,Championship,2017,343,-1,2,0,0,0,0,13,6,46.1538,0.0000,0,0,0,0,0,9,0,0,77,65.5319148,0,849,15,0,4,9,0,0,0,0,10,11,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Bolton Wanderers,Away,Championship,2017,343,-1,4,0,0,0,0,21,9,42.8571,0.0000,0,0,0,0,0,9,0,0,62,48.9898989,0,566,17,0,6,7,0,0,0,0,12,17,1,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Sheffield Wednesday,Home,Championship,2017,343,-1,0,0,0,0,0,17,4,23.5294,0.0000,0,0,0,0,0,2,0,0,48,56.8376068,0,521,11,0,8,20,0,0,0,0,5,6,1,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Sunderland,Away,Championship,2017,343,-1,0,0,0,0,0,7,1,14.2857,0.0000,3,0,0,0,0,19,0,0,58,49.7816593,0,481,7,0,4,15,0,0,0,0,6,16,0,0,0,0,0,0,0,0
+Wolverhampton Wanderers,,Preston North End,Home,Championship,2017,343,-1,3,0,0,0,0,12,6,50.0000,291.6667,2,0,0,0,0,11,0,0,44,43.1111111,0,362,11,0,1,9,0,0,0,0,17,11,3,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Derby County,Away,Championship,2017,343,-1,2,0,0,0,0,12,3,25.0000,0.0000,0,0,0,0,0,13,0,0,48,37.4100719,0,467,6,0,1,17,0,0,0,0,6,10,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Hull City,Away,Championship,2017,343,-1,3,0,0,0,0,8,4,50.0000,0.0000,2,0,0,0,0,11,0,0,58,57.7777777,0,610,7,0,2,10,0,0,0,0,10,8,4,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Cardiff City,Home,Championship,2017,343,-1,1,0,0,0,0,12,3,25.0000,0.0000,2,0,0,0,0,17,0,0,64,49.8181818,0,490,6,0,1,15,0,0,0,0,11,13,2,0,0,0,0,0,0,0
+Wolverhampton Wanderers,,Brentford,Away,Championship,2017,343,-1,0,0,0,0,0,16,4,25.0000,0.0000,0,0,0,0,0,14,0,0,47,32.2981366,0,403,15,0,3,15,0,0,0,0,11,10,1,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Millwall,Home,Championship,2017,343,-1,1,0,0,0,0,19,8,42.1053,0.0000,0,0,0,0,0,8,0,0,67,64.3533123,0,660,8,0,0,20,0,0,0,0,9,11,1,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Bristol City,Home,Championship,2017,343,-1,3,0,0,0,0,21,5,23.8095,0.0000,3,0,0,0,0,12,0,0,54,55.2742616,0,442,10,0,1,28,0,0,0,0,8,15,1,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Nottingham Forest,Away,Championship,2017,343,-1,2,0,0,0,0,11,6,54.5455,0.0000,1,0,0,0,0,7,0,0,44,47.368421,0,481,13,0,2,13,0,0,0,0,4,15,2,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Barnsley,Home,Championship,2017,343,-1,2,0,0,0,0,14,4,28.5714,0.0000,1,0,0,0,0,13,0,0,50,43.0232558,0,444,10,0,1,20,0,0,0,0,3,15,3,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Sheffield United,Away,Championship,2017,343,-1,0,0,0,0,0,7,2,28.5714,0.0000,2,0,0,0,0,11,0,0,45,34.4709897,0,429,9,0,0,9,0,0,0,0,17,8,1,1,0,0,0,0,0,0
+Wolverhampton Wanderers,,Burton Albion,Away,Championship,2017,343,-1,4,0,0,0,0,14,6,42.8571,0.0000,0,0,0,0,0,11,0,0,53,36.0784313,0,511,8,0,1,14,0,0,0,0,8,12,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Aston Villa,Home,Championship,2017,343,-1,2,0,0,0,0,20,6,30.0000,0.0000,0,0,0,0,0,7,0,0,55,55.6,0,489,10,0,0,25,0,0,0,0,8,11,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Middlesbrough,Home,Championship,2017,3421,-1,1,0,0,0,0,10,2,20.0000,0.0000,0,0,0,0,0,5,0,0,48,57.3913043,0,413,9,0,1,16,0,0,0,0,13,14,1,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Queens Park Rangers,Away,Championship,2017,343,-1,1,0,0,0,0,7,2,28.5714,0.0000,2,0,0,0,0,17,0,0,52,41.8181818,0,454,10,0,2,17,0,0,0,0,16,16,1,0,0,0,0,0,0,0
+Wolverhampton Wanderers,,Norwich City,Away,Championship,2017,343,-1,2,0,0,0,0,15,4,26.6667,0.0000,0,0,0,0,0,14,0,0,47,42.8571428,0,448,11,0,2,13,0,0,0,0,11,24,4,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Fulham,Home,Championship,2017,343,-1,2,0,0,0,0,15,5,33.3333,0.0000,0,0,0,0,0,10,0,0,46,44.6640316,0,513,4,0,1,14,0,0,0,0,7,16,2,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Reading,Away,Championship,2017,343,-1,2,0,0,0,0,10,4,40.0000,0.0000,0,0,0,0,0,16,0,0,39,37.2197309,0,344,16,0,5,21,0,0,0,0,7,14,2,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Leeds United,Home,Championship,2017,343,-1,4,0,0,0,0,12,7,58.3333,0.0000,1,0,0,0,0,9,0,0,54,52.3364485,0,515,9,0,1,7,0,0,0,0,12,12,0,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Bolton Wanderers,Home,Championship,2017,343,-1,5,0,0,0,0,15,8,53.3333,0.0000,1,0,0,0,0,11,0,0,62,45.5696202,0,511,13,0,5,14,0,0,0,0,12,17,2,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Birmingham City,Away,Championship,2017,343,-1,1,0,0,0,0,9,5,55.5556,0.0000,0,0,0,0,0,6,0,0,56,46.09375,0,545,14,0,1,10,0,0,0,0,13,8,2,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Sunderland,Home,Championship,2017,343,-1,0,0,0,0,0,23,4,17.3913,0.0000,0,0,0,0,0,0,0,0,72,72.8744939,0,648,8,0,0,43,0,0,0,0,13,11,1,0,1,0,0,0,0,0
+Wolverhampton Wanderers,,Sheffield Wednesday,Away,Championship,2017,343,-1,1,0,0,0,0,9,1,11.1111,0.0000,0,0,0,0,0,5,0,0,49,41.8326693,0,480,13,0,3,12,0,0,0,0,10,12,3,0,3,0,0,0,0,0
+Wolverhampton Wanderers,,Ipswich Town,Home,Championship,2017,343,-1,1,0,0,0,0,17,5,29.4118,0.0000,0,0,0,0,0,5,0,0,64,50.9090909,0,611,10,0,7,10,0,0,0,0,13,13,1,0,3,0,0,0,0,0

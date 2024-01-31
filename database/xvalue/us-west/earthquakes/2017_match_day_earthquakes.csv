@@ -1,0 +1,34 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+San Jose Earthquakes,,New York City FC,Away,US Major League Soccer,2017,442,433,1,0,0,0,0,9,5,55.5556,0.0000,2,0,0,0,0,10,0,0,37,40.7894736,0,333,7,0,2,15,0,0,0,0,12,12,0,1,0,0,0,0,0,0
+San Jose Earthquakes,,LA Galaxy,Away,US Major League Soccer,2017,3421,4231,3,0,0,0,0,19,11,57.8947,0.0000,0,0,0,0,0,14,0,0,49,42.4778761,0,419,3,0,5,14,0,0,0,0,13,13,2,0,3,0,0,0,0,0
+San Jose Earthquakes,,Toronto FC,Away,US Major League Soccer,2017,442,532,0,0,0,0,0,6,3,50.0000,0.0000,4,0,0,0,0,21,0,0,27,29.9382716,0,312,2,0,0,7,0,0,0,0,9,8,2,1,0,0,0,0,0,0
+San Jose Earthquakes,,Houston Dynamo FC,Home,US Major League Soccer,2017,442,4231,1,0,0,0,0,15,5,33.3333,0.0000,0,0,0,0,0,15,0,0,52,48.3516483,0,451,13,0,1,17,0,0,0,0,13,12,2,0,3,0,0,0,0,0
+San Jose Earthquakes,,D.C. United,Away,US Major League Soccer,2017,442,4231,0,0,0,0,0,10,1,10.0000,0.0000,4,0,0,0,0,14,0,0,51,38.8392857,0,465,9,0,0,16,0,0,0,0,17,8,2,0,0,0,0,0,0,0
+San Jose Earthquakes,,Sporting Kansas City,Away,US Major League Soccer,2017,442,433,1,0,0,0,0,5,3,60.0000,80.0000,2,0,0,0,0,16,0,0,53,51.9230769,0,509,7,0,0,9,0,0,0,0,8,11,1,0,0,0,0,0,0,0
+San Jose Earthquakes,,Chicago Fire FC,Home,US Major League Soccer,2017,442,4231,1,0,0,0,0,20,9,45.0000,0.0000,4,0,0,0,0,14,0,0,49,55.0200803,0,460,7,0,1,18,0,0,0,0,15,10,3,0,0,0,0,0,0,0
+San Jose Earthquakes,,Vancouver Whitecaps FC,Away,US Major League Soccer,2017,4231,4231,1,0,0,0,0,19,5,26.3158,0.0000,1,0,0,0,0,15,0,0,59,64.453125,0,553,7,0,3,20,0,0,0,0,15,12,1,0,1,0,0,0,0,0
+San Jose Earthquakes,,Minnesota United FC,Home,US Major League Soccer,2017,4231,4411,3,0,0,0,0,22,7,31.8182,0.0000,2,0,0,0,0,5,0,0,51,52.9629629,0,430,13,0,0,19,0,0,0,0,16,13,2,0,3,0,0,0,0,0
+San Jose Earthquakes,,Real Salt Lake,Away,US Major League Soccer,2017,3421,4231,0,0,0,0,0,9,1,11.1111,0.0000,4,0,0,0,0,23,0,0,37,22.9452054,0,327,7,0,0,7,0,0,0,0,19,7,1,1,0,0,0,0,0,0
+San Jose Earthquakes,,Seattle Sounders FC,Home,US Major League Soccer,2017,442,4231,1,0,0,0,0,18,3,16.6667,0.0000,1,0,0,0,0,14,0,0,49,55.3030303,0,422,7,0,0,16,0,0,0,0,4,18,2,0,1,0,0,0,0,0
+San Jose Earthquakes,,FC Dallas,Home,US Major League Soccer,2017,442,442,1,0,0,0,0,14,5,35.7143,0.0000,1,0,0,0,0,13,0,0,68,60.1593625,0,552,15,0,2,26,0,0,0,0,11,11,1,0,1,0,0,0,0,0
+San Jose Earthquakes,,New England Revolution,Away,US Major League Soccer,2017,442,41212,0,0,0,0,0,8,3,37.5000,0.0000,0,0,0,0,0,15,0,0,44,46.3414634,0,348,8,0,0,16,0,0,0,0,13,12,2,0,1,0,0,0,0,0
+San Jose Earthquakes,,Houston Dynamo FC,Away,US Major League Soccer,2017,442,4312,0,0,0,0,0,10,3,30.0000,0.0000,2,0,0,0,0,13,0,0,58,48.736462,0,504,12,0,1,16,0,0,0,0,7,9,2,0,0,0,0,0,0,0
+San Jose Earthquakes,,Minnesota United FC,Away,US Major League Soccer,2017,433,4231,1,0,0,0,0,16,6,37.5000,0.0000,0,0,0,0,0,8,0,0,52,54.6428571,0,532,4,0,0,17,0,0,0,0,5,9,1,0,3,0,0,0,0,0
+San Jose Earthquakes,,Houston Dynamo FC,Away,US Major League Soccer,2017,442,433,0,0,0,0,0,12,3,25.0000,0.0000,3,0,0,0,0,17,0,0,55,52.6785714,0,480,9,0,1,11,0,0,0,0,11,15,2,0,0,0,0,0,0,0
+San Jose Earthquakes,,Portland Timbers,Home,US Major League Soccer,2017,442,4231,2,0,0,0,0,19,6,31.5789,0.0000,1,0,0,0,0,15,0,0,48,42.8070175,0,458,18,0,1,11,0,0,0,0,9,12,1,0,3,0,0,0,0,0
+San Jose Earthquakes,,CF Montréal,Home,US Major League Soccer,2017,442,451,1,0,0,0,0,18,4,22.2222,0.0000,0,0,0,0,0,0,0,0,52,60,0,407,16,0,1,19,0,0,0,0,17,12,2,0,3,0,0,0,0,0
+San Jose Earthquakes,,Philadelphia Union,Home,US Major League Soccer,2017,352,4231,2,0,0,0,0,19,6,31.5789,0.0000,2,0,0,0,0,9,0,0,55,58.8679245,0,407,10,0,0,23,0,0,0,0,14,14,4,0,1,0,0,0,0,0
+San Jose Earthquakes,,Columbus Crew,Home,US Major League Soccer,2017,352,3421,2,0,0,0,0,20,7,35.0000,0.0000,1,0,0,0,0,10,0,0,48,45.3744493,0,385,9,0,0,21,0,0,0,0,10,13,1,0,3,0,0,0,0,0
+San Jose Earthquakes,,Colorado Rapids,Home,US Major League Soccer,2017,352,442,1,0,0,0,0,15,2,13.3333,0.0000,0,0,0,0,0,8,0,0,56,57.4074074,0,496,9,0,2,14,0,0,0,0,10,6,1,0,3,0,0,0,0,0
+San Jose Earthquakes,,Seattle Sounders FC,Away,US Major League Soccer,2017,41212,4231,0,0,0,0,0,12,3,25.0000,0.0000,3,0,0,0,0,19,0,0,56,56.8075117,0,491,2,0,0,8,0,0,0,0,3,15,3,0,0,0,0,0,0,0
+San Jose Earthquakes,,New York Red Bulls,Away,US Major League Soccer,2017,41212,541,1,0,0,0,0,12,3,25.0000,0.0000,5,0,0,0,0,19,0,0,43,29.9295774,0,362,11,0,0,11,0,0,0,0,15,9,1,0,0,0,0,0,0,0
+San Jose Earthquakes,,Vancouver Whitecaps FC,Home,US Major League Soccer,2017,442,442,3,0,0,0,0,21,7,33.3333,0.0000,2,0,0,0,0,4,0,0,78,78.7313432,0,646,15,0,0,34,0,0,0,0,14,11,1,0,3,0,0,0,0,0
+San Jose Earthquakes,,Atlanta United,Away,US Major League Soccer,2017,442,343,2,0,0,0,0,13,4,30.7692,0.0000,4,0,0,0,0,19,0,0,33,32.0284697,0,264,12,0,0,8,0,0,0,0,15,10,1,2,0,0,0,0,0,0
+San Jose Earthquakes,,Real Salt Lake,Home,US Major League Soccer,2017,442,4231,2,0,0,0,0,17,6,35.2941,0.0000,1,0,0,0,0,11,0,0,56,46.2882096,0,503,9,0,1,10,0,0,0,0,9,10,1,1,3,0,0,0,0,0
+San Jose Earthquakes,,Sporting Kansas City,Home,US Major League Soccer,2017,442,433,0,0,0,0,0,5,3,60.0000,0.0000,0,0,0,0,0,14,0,0,40,37.9844961,0,386,8,0,0,13,0,0,0,0,14,7,2,0,1,0,0,0,0,0
+San Jose Earthquakes,,Portland Timbers,Away,US Major League Soccer,2017,433,4231,0,0,0,0,0,5,1,20.0000,0.0000,2,0,0,0,0,23,0,0,33,36.8029739,0,275,9,0,0,10,0,0,0,0,18,10,0,1,0,0,0,0,0,0
+San Jose Earthquakes,,LA Galaxy,Home,US Major League Soccer,2017,433,442,2,0,0,0,0,19,4,21.0526,194.7368,4,0,0,0,0,7,0,0,49,63.076923,0,404,8,0,1,29,0,0,0,0,9,6,1,0,0,0,0,0,0,0
+San Jose Earthquakes,,FC Dallas,Away,US Major League Soccer,2017,433,4231,1,0,0,0,0,9,2,22.2222,0.0000,0,0,0,0,0,16,0,0,38,42.8125,0,327,7,0,0,12,0,0,0,0,9,8,0,0,3,0,0,0,0,0
+San Jose Earthquakes,,Orlando City SC,Home,US Major League Soccer,2017,442,4231,1,0,0,0,0,10,3,30.0000,0.0000,1,0,0,0,0,18,0,0,47,54.2600896,0,371,14,0,0,16,0,0,0,0,9,18,4,0,1,0,0,0,0,0
+San Jose Earthquakes,,Colorado Rapids,Away,US Major League Soccer,2017,433,442,0,0,0,0,0,11,2,18.1818,0.0000,3,0,0,0,0,7,0,0,57,66.2835249,0,548,10,0,1,12,0,0,0,0,15,6,0,0,0,0,0,0,0,0
+San Jose Earthquakes,,Portland Timbers,Home,US Major League Soccer,2017,433,4231,3,0,0,0,0,17,8,47.0588,0.0000,0,0,0,0,0,14,0,0,54,51.1029411,0,450,7,0,1,10,0,0,0,0,18,14,0,0,3,0,0,0,0,0

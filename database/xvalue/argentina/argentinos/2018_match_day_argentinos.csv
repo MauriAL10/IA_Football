@@ -1,0 +1,26 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Argentinos Juniors,,Atlético Tucumán,Away,Liga Profesional Argentina,2018,4231,4132,0,0,0,0,0,11,1,9.0909,0.0000,0,0,0,0,0,13,0,0,52,54.2763157,0,340,12,0,0,25,0,0,0,0,12,10,3,0,1,0,0,0,0,0
+Argentinos Juniors,,Unión Santa Fe,Home,Liga Profesional Argentina,2018,433,541,0,0,0,0,0,12,4,33.3333,0.0000,1,0,0,0,0,10,0,0,64,60.2739726,0,644,6,0,0,22,0,0,0,0,6,12,2,0,0,0,0,0,0,0
+Argentinos Juniors,,Huracán,Away,Liga Profesional Argentina,2018,343,442,0,0,0,0,0,11,4,36.3636,0.0000,0,0,0,0,0,11,0,0,49,46.3519313,0,311,9,0,1,25,0,0,0,0,12,19,3,0,1,0,0,0,0,0
+Argentinos Juniors,,Racing Club,Home,Liga Profesional Argentina,2018,4231,4132,0,0,0,0,0,3,1,33.3333,0.0000,2,0,0,0,0,14,0,0,46,40,0,394,6,0,1,18,0,0,0,0,12,15,2,0,0,0,0,0,0,0
+Argentinos Juniors,,San Martín de Tucumán,Away,Liga Profesional Argentina,2018,433,3412,0,0,0,0,0,6,2,33.3333,0.0000,0,0,0,0,0,13,0,0,51,39.6135265,0,382,7,0,2,12,0,0,0,0,14,13,1,0,1,0,0,0,0,0
+Argentinos Juniors,,Boca Juniors,Home,Liga Profesional Argentina,2018,4231,4231,0,0,0,0,0,18,4,22.2222,0.0000,1,0,0,0,0,11,0,0,58,67.3469387,0,435,4,0,0,26,0,0,0,0,15,12,0,0,0,0,0,0,0,0
+Argentinos Juniors,,Lanús,Home,Liga Profesional Argentina,2018,4231,4141,2,0,0,0,0,10,5,50.0000,0.0000,0,0,0,0,0,9,0,0,39,53.8461538,0,325,6,0,1,14,0,0,0,0,13,14,3,0,3,0,0,0,0,0
+Argentinos Juniors,,River Plate,Away,Liga Profesional Argentina,2018,4231,4321,0,0,0,0,0,8,4,50.0000,0.0000,0,0,0,0,0,11,0,0,32,36.6037735,0,276,10,0,0,13,0,0,0,0,7,24,3,0,1,0,0,0,0,0
+Argentinos Juniors,,Patronato,Away,Liga Profesional Argentina,2018,4231,442,1,0,0,0,0,10,4,40.0000,0.0000,2,0,0,0,0,6,0,0,67,53.7735849,0,435,10,0,1,14,0,0,0,0,17,17,3,0,0,0,0,0,0,0
+Argentinos Juniors,,Rosario Central,Home,Liga Profesional Argentina,2018,4231,4411,0,0,0,0,0,26,7,26.9231,0.0000,2,0,0,0,0,9,0,0,60,66.9456066,0,431,4,0,1,28,0,0,0,0,16,11,4,0,0,0,0,0,0,0
+Argentinos Juniors,,San Martín de San Juan,Away,Liga Profesional Argentina,2018,4231,442,3,0,0,0,0,10,5,50.0000,0.0000,2,0,0,0,0,8,0,0,56,63.59447,0,346,9,0,3,18,0,0,0,0,18,17,2,0,3,0,0,0,0,0
+Argentinos Juniors,,Vélez Sarsfield,Home,Liga Profesional Argentina,2018,4231,541,0,0,0,0,0,11,1,9.0909,0.0000,0,0,0,0,0,12,0,0,41,53.1914893,0,242,5,0,1,20,0,0,0,0,21,17,3,0,1,0,0,0,0,0
+Argentinos Juniors,,San Lorenzo,Away,Liga Profesional Argentina,2018,4231,343,3,0,0,0,0,11,4,36.3636,0.0000,2,0,0,0,0,13,0,0,35,41.6666666,0,308,14,0,0,10,0,0,0,0,12,17,3,0,3,0,0,0,0,0
+Argentinos Juniors,,Gimnasia La Plata,Away,Liga Profesional Argentina,2018,4231,451,0,0,0,0,0,12,3,25.0000,0.0000,1,0,0,0,0,0,0,0,67,55.2631578,0,458,16,0,0,17,0,0,0,0,19,16,2,0,0,0,0,0,0,0
+Argentinos Juniors,,Godoy Cruz,Home,Liga Profesional Argentina,2018,4231,4231,0,0,0,0,0,18,3,16.6667,0.0000,0,0,0,0,0,0,0,0,64,71.7391304,0,397,10,0,2,24,0,0,0,0,12,20,3,0,1,0,0,0,0,0
+Argentinos Juniors,,Estudiantes de La Plata,Home,Liga Profesional Argentina,2018,4231,442,2,0,0,0,0,18,5,27.7778,0.0000,1,0,0,0,0,10,0,0,53,64.4144144,0,339,8,0,0,31,0,0,0,0,9,10,0,0,3,0,0,0,0,0
+Argentinos Juniors,,Defensa y Justicia,Away,Liga Profesional Argentina,2018,41212,433,1,0,0,0,0,9,3,33.3333,0.0000,2,0,0,0,0,12,0,0,35,39.6039603,0,254,6,0,1,17,0,0,0,0,10,20,3,0,0,0,0,0,0,0
+Argentinos Juniors,,Belgrano,Home,Liga Profesional Argentina,2018,532,4411,0,0,0,0,0,18,5,27.7778,0.0000,0,0,0,0,0,6,0,0,71,69.4444444,0,439,6,0,0,35,0,0,0,0,17,12,3,0,1,0,0,0,0,0
+Argentinos Juniors,,Colón Santa Fe,Away,Liga Profesional Argentina,2018,433,442,0,0,0,0,0,5,1,20.0000,0.0000,2,0,0,0,0,12,0,0,46,49.3273542,0,354,4,0,0,14,0,0,0,0,16,13,0,2,0,0,0,0,0,0
+Argentinos Juniors,,Aldosivi,Home,Liga Profesional Argentina,2018,433,433,1,0,0,0,0,22,3,13.6364,0.0000,2,0,0,0,0,9,0,0,61,62.9310344,0,422,10,0,0,37,0,0,0,0,7,9,3,0,0,0,0,0,0,0
+Argentinos Juniors,,Banfield,Away,Liga Profesional Argentina,2018,433,442,1,0,0,0,0,7,1,14.2857,0.0000,0,0,0,0,0,18,0,0,41,32.4561403,0,292,11,0,0,16,0,0,0,0,13,12,3,0,3,0,0,0,0,0
+Argentinos Juniors,,Talleres de Córdoba,Home,Liga Profesional Argentina,2018,433,4411,0,0,0,0,0,14,2,14.2857,0.0000,2,0,0,0,0,7,0,0,52,60.0877192,0,437,9,0,2,29,0,0,0,0,17,16,5,0,0,0,0,0,0,0
+Argentinos Juniors,,Tigre,Away,Liga Profesional Argentina,2018,532,4222,1,0,0,0,0,16,3,18.7500,0.0000,2,0,0,0,0,21,0,0,53,41.2765957,0,426,12,0,2,18,0,0,0,0,7,11,2,0,0,0,0,0,0,0
+Argentinos Juniors,,Independiente,Home,Liga Profesional Argentina,2018,4411,4231,0,0,0,0,0,15,7,46.6667,0.0000,2,0,0,0,0,8,0,0,50,58.6466165,0,432,10,0,0,28,0,0,0,0,10,10,1,0,0,0,0,0,0,0
+Argentinos Juniors,,Newell's Old Boys,Away,Liga Profesional Argentina,2018,4141,4411,0,0,0,0,0,9,0,0.0000,0.0000,2,0,0,0,0,11,0,0,58,52.7777777,0,560,6,0,0,19,0,0,0,0,10,10,1,1,0,0,0,0,0,0

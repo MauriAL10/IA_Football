@@ -1,0 +1,35 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Columbus Crew,,D.C. United,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,13,7,53.8462,0.0000,1,0,0,0,0,6,0,0,55,65.3225806,0,502,7,0,0,20,0,0,0,0,11,12,2,0,3,0,0,0,0,0
+Columbus Crew,,New York City FC,Home,US Major League Soccer,2018,4231,433,2,0,0,0,0,23,6,26.0870,0.0000,1,0,0,0,0,7,0,0,48,59.030837,0,424,4,0,1,28,0,0,0,0,15,11,0,0,3,0,0,0,0,0
+Columbus Crew,,FC Dallas,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,17,1,5.8824,0.0000,0,0,0,0,0,9,0,0,46,54.7008547,0,408,8,0,0,21,0,0,0,0,4,12,2,0,1,0,0,0,0,0
+Columbus Crew,,Philadelphia Union,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,11,3,27.2727,0.0000,0,0,0,0,0,9,0,0,51,46.25,0,543,7,0,3,17,0,0,0,0,14,15,2,0,1,0,0,0,0,0
+Columbus Crew,,Portland Timbers,Away,US Major League Soccer,2018,4231,4321,2,0,0,0,0,16,8,50.0000,193.7500,3,0,0,0,0,13,0,0,54,50.8264462,0,473,10,0,1,25,0,0,0,0,12,8,3,0,0,0,0,0,0,0
+Columbus Crew,,Colorado Rapids,Home,US Major League Soccer,2018,4231,4312,2,0,0,0,0,22,10,45.4545,0.0000,1,0,0,0,0,3,0,0,55,85.7677902,0,572,3,0,2,25,0,0,0,0,8,11,1,0,3,0,0,0,0,0
+Columbus Crew,,CF Montréal,Away,US Major League Soccer,2018,4231,433,0,0,0,0,0,14,9,64.2857,0.0000,3,0,0,0,0,13,0,0,55,66.6666666,0,580,4,0,1,24,0,0,0,0,14,10,2,0,0,0,0,0,0,0
+Columbus Crew,,Orlando City SC,Away,US Major League Soccer,2018,4231,343,1,0,0,0,0,8,4,50.0000,0.0000,2,0,0,0,0,17,0,0,50,52.0295202,0,474,2,0,0,24,0,0,0,0,7,11,2,0,0,0,0,0,0,0
+Columbus Crew,,Minnesota United FC,Home,US Major League Soccer,2018,4231,4141,3,0,0,0,0,18,6,33.3333,0.0000,2,0,0,0,0,9,0,0,53,59.5330739,0,519,3,0,0,17,0,0,0,0,11,9,0,0,3,0,0,0,0,0
+Columbus Crew,,Atlanta United,Away,US Major League Soccer,2018,4231,4141,1,0,0,0,0,13,3,23.0769,0.0000,3,0,0,0,0,18,0,0,49,44.3396226,0,433,10,0,0,16,0,0,0,0,7,10,1,0,0,0,0,0,0,0
+Columbus Crew,,Vancouver Whitecaps FC,Home,US Major League Soccer,2018,4231,433,1,0,0,0,0,10,2,20.0000,0.0000,2,0,0,0,0,5,0,0,66,70.8133971,0,607,10,0,0,16,0,0,0,0,9,10,1,0,0,0,0,0,0,0
+Columbus Crew,,Chicago Fire FC,Away,US Major League Soccer,2018,4231,3412,0,0,0,0,0,21,2,9.5238,0.0000,1,0,0,0,0,5,0,0,64,60.9523809,0,571,12,0,2,28,0,0,0,0,11,7,1,0,0,0,0,0,0,0
+Columbus Crew,,D.C. United,Away,US Major League Soccer,2018,4231,4141,0,0,0,0,0,24,5,20.8333,0.0000,1,0,0,0,0,5,0,0,69,74.2307692,0,597,8,0,1,46,0,0,0,0,15,13,2,0,0,0,0,0,0,0
+Columbus Crew,,New England Revolution,Home,US Major League Soccer,2018,4231,4141,2,0,0,0,0,16,5,31.2500,0.0000,2,0,0,0,0,9,0,0,60,59.2198581,0,576,10,0,2,29,0,0,0,0,12,14,1,0,1,0,0,0,0,0
+Columbus Crew,,San Jose Earthquakes,Home,US Major League Soccer,2018,4231,442,2,0,0,0,0,14,2,14.2857,0.0000,1,0,0,0,0,9,0,0,55,65.9836065,0,542,9,0,0,23,0,0,0,0,10,18,2,0,3,0,0,0,0,0
+Columbus Crew,,Chicago Fire FC,Away,US Major League Soccer,2018,4231,3421,1,0,0,0,0,12,6,50.0000,0.0000,1,0,0,0,0,11,0,0,54,59.5121951,0,575,4,0,0,20,0,0,0,0,10,7,1,0,1,0,0,0,0,0
+Columbus Crew,,Philadelphia Union,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,11,2,18.1818,0.0000,0,0,0,0,0,13,0,0,55,50.6024096,0,516,9,0,0,16,0,0,0,0,13,11,0,0,1,0,0,0,0,0
+Columbus Crew,,Los Angeles Football Club,Away,US Major League Soccer,2018,4231,433,0,0,0,0,0,10,1,10.0000,0.0000,2,0,0,0,0,16,0,0,48,46.5517241,0,420,8,0,2,19,0,0,0,0,9,17,4,0,0,0,0,0,0,0
+Columbus Crew,,Seattle Sounders FC,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,5,2,40.0000,0.0000,0,0,0,0,0,17,0,0,35,19.032258,0,363,2,0,1,3,0,0,0,0,8,10,1,1,1,0,0,0,0,0
+Columbus Crew,,Philadelphia Union,Home,US Major League Soccer,2018,4231,4231,1,0,0,0,0,16,4,25.0000,0.0000,0,0,0,0,0,5,0,0,55,60.3305785,0,502,9,0,0,25,0,0,0,0,9,8,1,0,3,0,0,0,0,0
+Columbus Crew,,Chicago Fire FC,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,19,5,26.3158,0.0000,0,0,0,0,0,11,0,0,55,63.2075471,0,591,5,0,2,15,0,0,0,0,3,7,1,0,3,0,0,0,0,0
+Columbus Crew,,New England Revolution,Away,US Major League Soccer,2018,4231,352,1,0,0,0,0,16,4,25.0000,0.0000,0,0,0,0,0,13,0,0,58,44.9494949,0,434,14,0,0,12,0,0,0,0,14,14,1,0,3,0,0,0,0,0
+Columbus Crew,,Sporting Kansas City,Away,US Major League Soccer,2018,4231,433,0,0,0,0,0,12,3,25.0000,0.0000,0,0,0,0,0,15,0,0,39,32.9749103,0,360,9,0,1,10,0,0,0,0,6,10,1,0,1,0,0,0,0,0
+Columbus Crew,,Toronto FC,Home,US Major League Soccer,2018,4231,442,3,0,0,0,0,14,8,57.1429,0.0000,3,0,0,0,0,8,0,0,57,65.7480314,0,537,6,0,1,23,0,0,0,0,7,8,2,0,1,0,0,0,0,0
+Columbus Crew,,New York Red Bulls,Home,US Major League Soccer,2018,4231,4231,1,0,0,0,0,18,6,33.3333,0.0000,1,0,0,0,0,11,0,0,53,45.6790123,0,430,7,0,0,15,0,0,0,0,7,9,0,0,1,0,0,0,0,0
+Columbus Crew,,Atlanta United,Home,US Major League Soccer,2018,4231,4231,0,0,0,0,0,12,3,25.0000,0.0000,2,0,0,0,0,6,0,0,47,56.7901234,0,451,6,0,0,19,0,0,0,0,9,12,1,0,0,0,0,0,0,0
+Columbus Crew,,Toronto FC,Away,US Major League Soccer,2018,4231,4312,2,0,0,0,0,12,4,33.3333,0.0000,0,0,0,0,0,12,0,0,42,34.6570397,0,450,4,0,3,15,0,0,0,0,10,7,1,0,3,0,0,0,0,0
+Columbus Crew,,Real Salt Lake,Home,US Major League Soccer,2018,4231,4231,2,0,0,0,0,13,4,30.7692,0.0000,1,0,0,0,0,10,0,0,41,41.7021276,0,331,11,0,1,13,0,0,0,0,12,12,1,0,3,0,0,0,0,0
+Columbus Crew,,LA Galaxy,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,19,5,26.3158,0.0000,4,0,0,0,0,14,0,0,60,61.3970588,0,453,11,0,1,22,0,0,0,0,11,8,1,0,0,0,0,0,0,0
+Columbus Crew,,CF Montréal,Home,US Major League Soccer,2018,4231,4141,3,0,0,0,0,13,6,46.1538,0.0000,2,0,0,0,0,16,0,0,52,49.1452991,0,458,8,0,0,14,0,0,0,0,11,9,1,0,3,0,0,0,0,0
+Columbus Crew,,New York City FC,Away,US Major League Soccer,2018,4231,4231,0,0,0,0,0,17,5,29.4118,0.0000,2,0,0,0,0,18,0,0,46,55.8035714,0,417,2,0,1,25,0,0,0,0,9,14,3,1,0,0,0,0,0,0
+Columbus Crew,,Orlando City SC,Home,US Major League Soccer,2018,4231,4231,3,0,0,0,0,15,6,40.0000,0.0000,2,0,0,0,0,8,0,0,58,64.7342995,0,441,8,0,2,48,0,0,0,0,13,10,3,0,3,0,0,0,0,0
+Columbus Crew,,New York Red Bulls,Away,US Major League Soccer,2018,4231,3331,3,0,0,0,0,10,3,30.0000,290.0000,2,0,0,0,0,14,0,0,47,31.5789473,0,379,4,0,1,12,0,0,0,0,15,11,3,0,3,0,0,0,0,0
+Columbus Crew,,Houston Dynamo FC,Home,US Major League Soccer,2018,4231,4231,1,0,0,0,0,13,5,38.4615,0.0000,0,0,0,0,0,12,0,0,57,66.023166,0,541,11,0,5,14,0,0,0,0,11,10,2,0,3,0,0,0,0,0

@@ -1,0 +1,26 @@
+Team,Match Day,Opponent,Side,Competition,Year,Formation,Opponent Formation,Goals,xG,xG in open-play,xG from counters,xG from set pieces,Shots For,Shots On Target,Shot accuracy,Goal Conversion,Goals Conceded,xG Conceded,xG conceded in open-play,xG conceded from counters,xG conceded from set pieces,Total Shots Conceded,Shots On Target Conceded,Defensive event height,% Possession,Field Tilt,xT from passes,Total passes,Dribbles,Touches opp. box,Through balls,Crosses,One-Twos,PPDA,GPI,GPE,Total Fouls Won,Total Fouls Conceded,Yellow cards,Red Cards,Points,Expected Points,Opponent Expected Points,xThreat,xThreat from carries,xThreat from passes
+Unión Santa Fe,,Huracán,Away,Liga Profesional Argentina,2018,442,442,3,0,0,0,0,13,6,46.1538,0.0000,1,0,0,0,0,21,0,0,39,34.8547717,0,316,4,0,2,10,0,0,0,0,8,15,3,0,3,0,0,0,0,0
+Unión Santa Fe,,Argentinos Juniors,Away,Liga Profesional Argentina,2018,541,433,1,0,0,0,0,10,3,30.0000,0.0000,0,0,0,0,0,12,0,0,36,39.7260273,0,361,6,0,0,17,0,0,0,0,12,9,1,0,3,0,0,0,0,0
+Unión Santa Fe,,Rosario Central,Away,Liga Profesional Argentina,2018,541,4222,4,0,0,0,0,9,7,77.7778,0.0000,0,0,0,0,0,7,0,0,44,48.4042553,0,373,3,0,1,9,0,0,0,0,10,9,1,0,3,0,0,0,0,0
+Unión Santa Fe,,Gimnasia La Plata,Home,Liga Profesional Argentina,2018,442,442,1,0,0,0,0,10,3,30.0000,0.0000,0,0,0,0,0,7,0,0,49,56.9832402,0,323,6,0,2,13,0,0,0,0,17,17,1,0,3,0,0,0,0,0
+Unión Santa Fe,,Racing Club,Away,Liga Profesional Argentina,2018,4411,4132,0,0,0,0,0,15,3,20.0000,0.0000,1,0,0,0,0,10,0,0,36,42.364532,0,293,6,0,0,18,0,0,0,0,12,15,2,0,0,0,0,0,0,0
+Unión Santa Fe,,Talleres de Córdoba,Home,Liga Profesional Argentina,2018,442,433,2,0,0,0,0,11,5,45.4545,0.0000,1,0,0,0,0,9,0,0,48,55.721393,0,365,6,0,1,26,0,0,0,0,9,9,2,0,3,0,0,0,0,0
+Unión Santa Fe,,Colón Santa Fe,Away,Liga Profesional Argentina,2018,442,41212,0,0,0,0,0,12,1,8.3333,0.0000,0,0,0,0,0,7,0,0,47,59.2274678,0,324,7,0,0,23,0,0,0,0,17,19,4,0,1,0,0,0,0,0
+Unión Santa Fe,,San Lorenzo,Home,Liga Profesional Argentina,2018,442,4411,1,0,0,0,0,26,9,34.6154,0.0000,1,0,0,0,0,6,0,0,62,64.0569395,0,468,5,0,0,32,0,0,0,0,11,10,2,0,1,0,0,0,0,0
+Unión Santa Fe,,Estudiantes de La Plata,Home,Liga Profesional Argentina,2018,442,3511,0,0,0,0,0,20,4,20.0000,0.0000,0,0,0,0,0,6,0,0,53,64.8148148,0,467,5,0,0,35,0,0,0,0,17,11,0,0,1,0,0,0,0,0
+Unión Santa Fe,,Defensa y Justicia,Away,Liga Profesional Argentina,2018,442,433,1,0,0,0,0,9,2,22.2222,0.0000,1,0,0,0,0,22,0,0,34,31.2217194,0,298,8,0,3,10,0,0,0,0,11,8,2,0,1,0,0,0,0,0
+Unión Santa Fe,,Lanús,Home,Liga Profesional Argentina,2018,442,532,3,0,0,0,0,10,5,50.0000,0.0000,0,0,0,0,0,10,0,0,45,46.9827586,0,414,10,0,3,15,0,0,0,0,10,12,2,0,3,0,0,0,0,0
+Unión Santa Fe,,Tigre,Away,Liga Profesional Argentina,2018,442,4312,2,0,0,0,0,14,8,57.1429,0.0000,2,0,0,0,0,18,0,0,35,28.6259541,0,323,13,0,0,9,0,0,0,0,9,17,3,0,1,0,0,0,0,0
+Unión Santa Fe,,Boca Juniors,Home,Liga Profesional Argentina,2018,4411,442,1,0,0,0,0,8,4,50.0000,0.0000,3,0,0,0,0,16,0,0,33,37.2384937,0,286,5,0,0,12,0,0,0,0,14,12,3,1,0,0,0,0,0,0
+Unión Santa Fe,,Aldosivi,Home,Liga Profesional Argentina,2018,442,433,1,0,0,0,0,12,3,25.0000,0.0000,0,0,0,0,0,4,0,0,50,62.6666666,0,415,13,0,2,28,0,0,0,0,17,14,1,0,3,0,0,0,0,0
+Unión Santa Fe,,San Martín de Tucumán,Away,Liga Profesional Argentina,2018,442,433,1,0,0,0,0,15,4,26.6667,0.0000,1,0,0,0,0,12,0,0,54,57.1428571,0,445,14,0,0,24,0,0,0,0,7,12,2,0,1,0,0,0,0,0
+Unión Santa Fe,,Atlético Tucumán,Home,Liga Profesional Argentina,2018,4411,4141,3,0,0,0,0,18,7,38.8889,0.0000,0,0,0,0,0,15,0,0,48,52.9661016,0,382,6,0,1,24,0,0,0,0,15,8,0,0,3,0,0,0,0,0
+Unión Santa Fe,,Independiente,Away,Liga Profesional Argentina,2018,4411,4231,1,0,0,0,0,7,2,28.5714,85.7143,2,0,0,0,0,12,0,0,36,41.8181818,0,262,5,0,0,14,0,0,0,0,12,17,4,0,0,0,0,0,0,0
+Unión Santa Fe,,Newell's Old Boys,Home,Liga Profesional Argentina,2018,442,4231,0,0,0,0,0,8,4,50.0000,0.0000,0,0,0,0,0,11,0,0,43,50.4716981,0,361,7,0,2,21,0,0,0,0,10,15,2,0,1,0,0,0,0,0
+Unión Santa Fe,,Belgrano,Away,Liga Profesional Argentina,2018,442,442,0,0,0,0,0,13,2,15.3846,0.0000,0,0,0,0,0,11,0,0,54,52.606635,0,358,14,0,0,21,0,0,0,0,16,14,2,0,1,0,0,0,0,0
+Unión Santa Fe,,Banfield,Home,Liga Profesional Argentina,2018,541,4141,0,0,0,0,0,5,2,40.0000,0.0000,1,0,0,0,0,13,0,0,52,58.1896551,0,389,5,0,0,32,0,0,0,0,14,10,2,0,0,0,0,0,0,0
+Unión Santa Fe,,San Martín de San Juan,Away,Liga Profesional Argentina,2018,442,4141,0,0,0,0,0,11,2,18.1818,0.0000,2,0,0,0,0,5,0,0,58,61.9047619,0,470,7,0,0,27,0,0,0,0,15,12,1,1,0,0,0,0,0,0
+Unión Santa Fe,,Vélez Sarsfield,Home,Liga Profesional Argentina,2018,442,433,0,0,0,0,0,9,3,33.3333,0.0000,2,0,0,0,0,7,0,0,46,58.2959641,0,368,10,0,0,24,0,0,0,0,11,13,5,0,0,0,0,0,0,0
+Unión Santa Fe,,River Plate,Away,Liga Profesional Argentina,2018,442,4312,2,0,0,0,0,5,3,60.0000,0.0000,1,0,0,0,0,15,0,0,27,25.7839721,0,238,11,0,0,3,0,0,0,0,12,18,2,0,3,0,0,0,0,0
+Unión Santa Fe,,Patronato,Home,Liga Profesional Argentina,2018,442,433,2,0,0,0,0,11,3,27.2727,0.0000,2,0,0,0,0,10,0,0,64,58.59375,0,429,12,0,0,31,0,0,0,0,18,17,3,0,1,0,0,0,0,0
+Unión Santa Fe,,Godoy Cruz,Home,Liga Profesional Argentina,2018,541,433,0,0,0,0,0,14,2,14.2857,0.0000,3,0,0,0,0,7,0,0,63,60,0,445,5,0,0,28,0,0,0,0,18,11,3,0,0,0,0,0,0,0
